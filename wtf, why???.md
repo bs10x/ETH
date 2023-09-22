@@ -33,13 +33,13 @@ in the kanti i met nico and jan and flurin. we bonded especially well during the
 
 it is my own responsibility to be better, to be at terms with myself and accept who and what i am and was.
 
+i won't stop being nice to you. i will only love you harder and stronger. i will take accountability for my wrongdoings and mistakes. 
 
-i won't stop being nice t
+when we started to get to know each other better, i didn't think how much i'd treasure you. 
 
+i get sick when i think about how you must feel. it's so hard to express how i feel about this situation, but you must understand, it didn't happen intentionally?
 
-
-
-
+i 
 
 
 
