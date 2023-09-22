@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LA/Vector and matrix multiplications.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LA/Vector and matrix multiplications.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LA/Vector and matrix multiplications.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LA/Vector and matrix multiplications.md"
+                "file": "README.md"
               }
             }
           },
@@ -181,9 +181,10 @@
   },
   "active": "2455c0b841eae521",
   "lastOpenFiles": [
+    "LA/Vector and matrix multiplications.md",
+    "README.md",
     "DM/V1.md",
     "DM",
-    "LA/Vector and matrix multiplications.md",
     "LA",
     "2023-09-20.md",
     "Untitled.canvas"
