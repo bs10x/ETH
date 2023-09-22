@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM.md",
+                "file": "DM/V1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM.md",
+                "file": "DM/V1.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,8 @@
   },
   "active": "2455c0b841eae521",
   "lastOpenFiles": [
-    "DM.md",
+    "DM/V1.md",
+    "DM",
     "LA/Vector and matrix multiplications.md",
     "LA",
     "2023-09-20.md",
