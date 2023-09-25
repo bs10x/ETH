@@ -11,6 +11,18 @@
             "id": "ee623638486108fe",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/V/V2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55d43271fa7ed40d",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
@@ -81,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "sem1/DMath/V/V2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "sem1/DMath/V/V2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "sem1/DMath/V/V2.md"
+          }
         }
       }
     ],
@@ -125,8 +141,11 @@
   },
   "active": "ee623638486108fe",
   "lastOpenFiles": [
-    "sem1/DMath/V/V2.md",
     "sem1/DMath/V/V1.md",
+    "sem1/DMath/V/V3.md",
+    "sem1/DMath/V/V2.md",
+    "Untitled.canvas",
+    "etc/wtf, why???.md",
     "sem1/DMath/V/script.md",
     "sem1/A&D/U/ex.1.md",
     "sem1/EProg/U/EProg_u.1.md",
@@ -145,7 +164,6 @@
     "sem1/EProg/U",
     "sem1/LinAlg/U",
     "sem1/LinAlg/V",
-    "etc/wtf, why???.md",
     "sem1/A&D.md",
     "README.md",
     "etc/ersti tag.md",
@@ -154,7 +172,6 @@
     "test/2023-09-17.md",
     "var/attachments/ok.md",
     "2023-09-17.md",
-    "Untitled.canvas",
     "Hello, World!.canvas"
   ]
 }

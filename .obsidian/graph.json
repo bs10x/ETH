@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"sem1/LinAlg\"",
+      "query": "path:\"sem1/Linalg\"",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -18,21 +18,28 @@
       "query": "path:\"sem1/DMath\"",
       "color": {
         "a": 1,
-        "rgb": 3835902
-      }
-    },
-    {
-      "query": "path:\"sem1/A&D\"",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
+        "rgb": 14725458
       }
     },
     {
       "query": "path:\"sem1/EProg\"",
       "color": {
         "a": 1,
-        "rgb": 11868672
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"sem1/A&D\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7483627857407014,
+  "scale": 1.5458608061873924,
   "close": false
 }
