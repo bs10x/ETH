@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8145f39c5c3ef822",
+            "id": "e1f324de20c0c7c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/wtf, why???.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ef97e3ab9fb7be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/EProg/VK.md",
+                "file": "sem1/DM/V_DM/script.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,28 +137,29 @@
   },
   "active": "e5b731c791a402bd",
   "lastOpenFiles": [
-    "sem1/A&D",
+    "sem1/EProg/V_EProg",
+    "sem1/EProg/U_EProg",
+    "sem1/LinAlg/U_LinAlg",
+    "sem1/LinAlg/V_LinAlg",
+    "sem1/A&D/V_A&D",
+    "sem1/DM/V_DM/script.md",
+    "sem1/DM/V_DM",
+    "sem1/DM/U_DM",
+    "sem1/A&D/U_A&D/ex.1.md",
+    "sem1/A&D/U_A&D",
     "etc/wtf, why???.md",
     "sem1/A&D.md",
+    "sem1/A&D",
     "README.md",
-    "sem1/DiskMath/script.md",
-    "sem1/DiskMath/V1.md",
+    "sem1/DM/V_DM/V1.md",
     "sem1/EProg/VK.md",
     "etc/ersti tag.md",
     "var/attachments/PP_ersti-tag_D-INFK.pdf",
     "2023-09-18.md",
     "etc",
-    "sem1/etc",
     "test/canvas-test.canvas",
-    "var/attachments/DiskMath_script.pdf",
     "test/2023-09-17.md",
-    "var/attachments/eprog_vk_ex.1.x-5.x.pdf",
-    "var/attachments/eprog_vk_ex.5.x-8.x.pdf",
     "var/attachments/ok.md",
-    "var/attachments",
-    "var",
-    "sem1",
-    "sem1/Algo&Data",
     "2023-09-17.md",
     "Untitled.canvas",
     "Hello, World!.canvas"
