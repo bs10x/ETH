@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/V/script.md",
+                "file": "sem1/DMath/V/V2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/V/script.md",
+            "file": "sem1/DMath/V/V2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/V/script.md",
+            "file": "sem1/DMath/V/V2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/DMath/V/script.md"
+            "file": "sem1/DMath/V/V2.md"
           }
         }
       }
@@ -133,12 +133,12 @@
   },
   "active": "e5b731c791a402bd",
   "lastOpenFiles": [
-    "sem1/DMath/V/V2.md",
     "sem1/DMath/V/V1.md",
+    "sem1/DMath/V/script.md",
+    "sem1/DMath/V/V2.md",
     "sem1/A&D/U/ex.1.md",
     "sem1/EProg/U/EProg_u.1.md",
     "sem1/LinAlg/U/LinAlg_ex. 0.md",
-    "sem1/DMath/V/script.md",
     "sem1/EProg/V/EProg_V1.md",
     "sem1/A&D/V/V1.md",
     "sem1/EProg/V",
