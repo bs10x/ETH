@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM/V1.md",
+                "file": "LA/Vector and matrix multiplications.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM/V1.md",
+                "file": "LA/Vector and matrix multiplications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM/V1.md",
+                "file": "LA/Vector and matrix multiplications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM/V1.md"
+                "file": "LA/Vector and matrix multiplications.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "3483b186edc20c01",
   "lastOpenFiles": [
+    "DM/V1.md",
     "wtf, why???.md",
     "README.md",
     "LA/Vector and matrix multiplications.md",
-    "DM/V1.md",
     "DM",
     "LA",
     "2023-09-20.md",
