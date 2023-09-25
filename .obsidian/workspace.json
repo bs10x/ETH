@@ -11,8 +11,12 @@
             "id": "76efc074086e223b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sem1/A&D/U/ex.1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/A&D/U/ex.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/A&D/U/ex.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/A&D/U/ex.1.md"
+              }
             }
           },
           {
@@ -146,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c398bd3b91f8068c",
+  "active": "76efc074086e223b",
   "lastOpenFiles": [
+    "sem1/DMath/V/V1.md",
     "DM/V1.md",
     "sem1/LinAlg/V/Vector and matrix multiplications.md",
     "sem1/LinAlg/U/LinAlg_ex. 0.md",
@@ -159,7 +168,6 @@
     "sem1/EProg/U/EProg_u.1.md",
     "sem1/EProg/U",
     "sem1/DMath/V/script.md",
-    "sem1/DMath/V/V1.md",
     "sem1/DMath/U/DMath ex. 1.md",
     "sem1/DMath/V",
     "sem1/DMath/U",
