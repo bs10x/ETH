@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM/V1.md",
+                "file": "etc/wtf, why???.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DM/V1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +113,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DM/V1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +123,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "DM/V1.md"
-          }
+          "state": {}
         }
       },
       {
@@ -153,11 +149,15 @@
   },
   "active": "e5b731c791a402bd",
   "lastOpenFiles": [
-    "sem1/EProg/VK.md",
+    "sem1/A&D",
+    "etc/wtf, why???.md",
+    "sem1/A&D.md",
+    "README.md",
     "sem1/DiskMath/script.md",
+    "sem1/DiskMath/V1.md",
+    "sem1/EProg/VK.md",
     "etc/ersti tag.md",
     "var/attachments/PP_ersti-tag_D-INFK.pdf",
-    "Untitled.md",
     "2023-09-18.md",
     "etc",
     "sem1/etc",
