@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/A&D/U/ex.1.md",
+                "file": "sem1/DMath/U/DMath ex. 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/A&D/U/ex.1.md",
+                "file": "sem1/DMath/U/DMath ex. 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/A&D/U/ex.1.md",
+                "file": "sem1/DMath/U/DMath ex. 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/A&D/U/ex.1.md"
+                "file": "sem1/DMath/U/DMath ex. 1.md"
               }
             }
           },
@@ -156,7 +156,14 @@
   },
   "active": "76efc074086e223b",
   "lastOpenFiles": [
+    "sem1/DMath/V/script.md",
+    "sem1/DMath/V/V3.md",
+    "sem1/DMath/V/V2.md",
     "sem1/DMath/V/V1.md",
+    "var/attachments/DMath_ex.1.pdf",
+    "sem1/DMath/U/DMath ex. 1.md",
+    "sem1/A&D/V/V1.md",
+    "sem1/A&D/U/ex.1.md",
     "DM/V1.md",
     "sem1/LinAlg/V/Vector and matrix multiplications.md",
     "sem1/LinAlg/U/LinAlg_ex. 0.md",
@@ -167,15 +174,10 @@
     "sem1/EProg/V",
     "sem1/EProg/U/EProg_u.1.md",
     "sem1/EProg/U",
-    "sem1/DMath/V/script.md",
-    "sem1/DMath/U/DMath ex. 1.md",
     "sem1/DMath/V",
     "sem1/DMath/U",
     "sem1/DMath",
-    "sem1/A&D/V/V1.md",
-    "sem1/A&D/U/ex.1.md",
     "sem1/A&D/V",
-    "sem1/A&D/U",
     "etc/wtf, why???.md",
     "sem1/EProg/VK.md",
     "sem1/DiskMath/script.md",

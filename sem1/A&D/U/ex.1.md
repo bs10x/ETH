@@ -1,3 +1,7 @@
+---
+year:
+---
+
 ## Proof by Mathematical Induction
 
 We want to prove that for all positive integers $n$,
@@ -67,3 +71,9 @@ $$
 $$
 
 for all positive integers $n$.
+
+
+
+
+
+
