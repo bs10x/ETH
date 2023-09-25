@@ -11,12 +11,8 @@
             "id": "76efc074086e223b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM/V1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -138,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,26 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "311cfd744d9b39ae",
+  "active": "c398bd3b91f8068c",
   "lastOpenFiles": [
-    "var/attachments/eprog_vk_ex.5.x-8.x.pdf",
-    "var/attachments/eprog_vk_ex.1.x-5.x.pdf",
-    "var/attachments/PP_ersti-tag_D-INFK.pdf",
-    "var/attachments/DiskMath_script.pdf",
-    "var/attachments",
-    "var",
+    "DM/V1.md",
+    "sem1/LinAlg/V/Vector and matrix multiplications.md",
+    "sem1/LinAlg/U/LinAlg_ex. 0.md",
+    "sem1/LinAlg/V",
+    "sem1/LinAlg/U",
+    "sem1/LinAlg",
+    "sem1/EProg/V/EProg_V1.md",
+    "sem1/EProg/V",
+    "sem1/EProg/U/EProg_u.1.md",
+    "sem1/EProg/U",
+    "sem1/DMath/V/script.md",
+    "sem1/DMath/V/V1.md",
+    "sem1/DMath/U/DMath ex. 1.md",
+    "sem1/DMath/V",
+    "sem1/DMath/U",
+    "sem1/DMath",
+    "sem1/A&D/V/V1.md",
+    "sem1/A&D/U/ex.1.md",
+    "sem1/A&D/V",
+    "sem1/A&D/U",
+    "etc/wtf, why???.md",
     "sem1/EProg/VK.md",
     "sem1/DiskMath/script.md",
-    "sem1/EProg",
-    "sem1/DiskMath",
-    "sem1",
     "etc/ersti tag.md",
-    "etc",
     "LA/Vector and matrix multiplications.md",
-    "DM/V1.md",
     "wtf, why???.md",
     "README.md",
-    "DM",
     "2023-09-20.md",
     "Untitled.canvas"
   ]
