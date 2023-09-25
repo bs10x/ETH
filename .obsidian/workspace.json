@@ -18,20 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3483b186edc20c01",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,14 +151,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3483b186edc20c01",
+  "active": "311cfd744d9b39ae",
   "lastOpenFiles": [
+    "var/attachments/eprog_vk_ex.5.x-8.x.pdf",
+    "var/attachments/eprog_vk_ex.1.x-5.x.pdf",
+    "var/attachments/PP_ersti-tag_D-INFK.pdf",
+    "var/attachments/DiskMath_script.pdf",
+    "var/attachments",
+    "var",
+    "sem1/EProg/VK.md",
+    "sem1/DiskMath/script.md",
+    "sem1/EProg",
+    "sem1/DiskMath",
+    "sem1",
+    "etc/ersti tag.md",
+    "etc",
     "LA/Vector and matrix multiplications.md",
     "DM/V1.md",
     "wtf, why???.md",
     "README.md",
     "DM",
-    "LA",
     "2023-09-20.md",
     "Untitled.canvas"
   ]
