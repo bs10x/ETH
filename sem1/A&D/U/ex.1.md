@@ -1,5 +1,5 @@
 ---
-cssclasses:
+year:
 ---
 
 ## Proof by Mathematical Induction
