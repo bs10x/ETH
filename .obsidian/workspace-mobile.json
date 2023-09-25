@@ -8,18 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1f324de20c0c7c9",
+            "id": "9a620572863384d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DM/V_DM/script.md",
+                "file": "sem1/LinAlg/U/LinAlg_ex. 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca0e2819610582df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/EProg/U/EProg_u.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a15917bc4e21e8f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/U/DMath ex. 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e619642402e7c8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/A&D/V/V1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2c0aad357f43580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/EProg/V/EProg_V1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "sem1/EProg/U/EProg_u.1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,6 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "sem1/EProg/U/EProg_u.1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,7 +162,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "sem1/EProg/U/EProg_u.1.md"
+          }
         }
       },
       {
@@ -137,26 +190,30 @@
   },
   "active": "e5b731c791a402bd",
   "lastOpenFiles": [
-    "sem1/EProg/V_EProg",
-    "sem1/EProg/U_EProg",
-    "sem1/LinAlg/U_LinAlg",
-    "sem1/LinAlg/V_LinAlg",
-    "sem1/A&D/V_A&D",
-    "sem1/DM/V_DM/script.md",
-    "sem1/DM/V_DM",
-    "sem1/DM/U_DM",
-    "sem1/A&D/U_A&D/ex.1.md",
-    "sem1/A&D/U_A&D",
+    "sem1/LinAlg/U/LinAlg_ex. 0.md",
+    "sem1/EProg/U/EProg_u.1.md",
+    "sem1/DMath/V/script.md",
+    "sem1/EProg/V/EProg_V1.md",
+    "sem1/A&D/V/V1.md",
+    "sem1/EProg/V",
+    "sem1/EProg/U",
+    "sem1/EProg",
+    "sem1/DMath/U/DMath ex. 1.md",
+    "sem1/A&D/V",
+    "sem1/DMath/U",
+    "sem1/EProg/VK.md",
+    "sem1/LinAlg/U",
+    "sem1/EProg/V",
+    "sem1/EProg/U",
+    "sem1/LinAlg/U",
+    "sem1/LinAlg/V",
+    "sem1/A&D/U/ex.1.md",
     "etc/wtf, why???.md",
     "sem1/A&D.md",
-    "sem1/A&D",
     "README.md",
-    "sem1/DM/V_DM/V1.md",
-    "sem1/EProg/VK.md",
+    "sem1/DMath/V/V1.md",
     "etc/ersti tag.md",
-    "var/attachments/PP_ersti-tag_D-INFK.pdf",
     "2023-09-18.md",
-    "etc",
     "test/canvas-test.canvas",
     "test/2023-09-17.md",
     "var/attachments/ok.md",
