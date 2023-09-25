@@ -1,1 +1,5 @@
-{}
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "var/attachments",
+  "alwaysUpdateLinks": true
+}

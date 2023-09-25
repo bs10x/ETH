@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "b40f184a4ce48b3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f44003de205332cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8145f39c5c3ef822",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/V1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ef97e3ab9fb7be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/EProg/VK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f811bdcf4f11acbf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e5b731c791a402bd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b056b689638c5c97",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7bc5ddf1e1d9611f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "37ebc412876588af",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d92386646691a569",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "395860d6474267aa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "DM/V1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fd6d3e5ecb6677c5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "DM/V1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b5e2e0ea633e3e6a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "DM/V1.md"
+          }
+        }
+      },
+      {
+        "id": "efc59c7a0fe1e64d",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e5b731c791a402bd",
+  "lastOpenFiles": [
+    "sem1/EProg/VK.md",
+    "sem1/DiskMath/script.md",
+    "etc/ersti tag.md",
+    "var/attachments/PP_ersti-tag_D-INFK.pdf",
+    "Untitled.md",
+    "2023-09-18.md",
+    "etc",
+    "sem1/etc",
+    "test/canvas-test.canvas",
+    "var/attachments/DiskMath_script.pdf",
+    "test/2023-09-17.md",
+    "var/attachments/eprog_vk_ex.1.x-5.x.pdf",
+    "var/attachments/eprog_vk_ex.5.x-8.x.pdf",
+    "var/attachments/ok.md",
+    "var/attachments",
+    "var",
+    "sem1",
+    "sem1/Algo&Data",
+    "2023-09-17.md",
+    "Untitled.canvas",
+    "Hello, World!.canvas"
+  ]
+}
