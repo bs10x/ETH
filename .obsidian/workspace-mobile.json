@@ -8,67 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a620572863384d2",
+            "id": "ee623638486108fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/LinAlg/U/LinAlg_ex. 0.md",
+                "file": "sem1/DMath/V/V2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca0e2819610582df",
+            "id": "55d43271fa7ed40d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/EProg/U/EProg_u.1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a15917bc4e21e8f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/U/DMath ex. 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e619642402e7c8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/A&D/V/V1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2c0aad357f43580",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/EProg/V/EProg_V1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/EProg/U/EProg_u.1.md",
+            "file": "sem1/DMath/V/V2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/EProg/U/EProg_u.1.md",
+            "file": "sem1/DMath/V/V2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,16 +122,8 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/EProg/U/EProg_u.1.md"
+            "file": "sem1/DMath/V/V2.md"
           }
-        }
-      },
-      {
-        "id": "efc59c7a0fe1e64d",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {}
         }
       }
     ],
@@ -188,11 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5b731c791a402bd",
+  "active": "ee623638486108fe",
   "lastOpenFiles": [
-    "sem1/LinAlg/U/LinAlg_ex. 0.md",
-    "sem1/EProg/U/EProg_u.1.md",
+    "sem1/DMath/V/V1.md",
+    "sem1/DMath/V/V3.md",
+    "sem1/DMath/V/V2.md",
+    "Untitled.canvas",
+    "etc/wtf, why???.md",
     "sem1/DMath/V/script.md",
+    "sem1/A&D/U/ex.1.md",
+    "sem1/EProg/U/EProg_u.1.md",
+    "sem1/LinAlg/U/LinAlg_ex. 0.md",
     "sem1/EProg/V/EProg_V1.md",
     "sem1/A&D/V/V1.md",
     "sem1/EProg/V",
@@ -207,18 +164,14 @@
     "sem1/EProg/U",
     "sem1/LinAlg/U",
     "sem1/LinAlg/V",
-    "sem1/A&D/U/ex.1.md",
-    "etc/wtf, why???.md",
     "sem1/A&D.md",
     "README.md",
-    "sem1/DMath/V/V1.md",
     "etc/ersti tag.md",
     "2023-09-18.md",
     "test/canvas-test.canvas",
     "test/2023-09-17.md",
     "var/attachments/ok.md",
     "2023-09-17.md",
-    "Untitled.canvas",
     "Hello, World!.canvas"
   ]
 }
