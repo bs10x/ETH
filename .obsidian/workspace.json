@@ -23,11 +23,10 @@
             "id": "3483b186edc20c01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "LA/Vector and matrix multiplications.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": false
               }
             }
           }
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LA/Vector and matrix multiplications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LA/Vector and matrix multiplications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LA/Vector and matrix multiplications.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +164,10 @@
   },
   "active": "3483b186edc20c01",
   "lastOpenFiles": [
+    "LA/Vector and matrix multiplications.md",
     "DM/V1.md",
     "wtf, why???.md",
     "README.md",
-    "LA/Vector and matrix multiplications.md",
     "DM",
     "LA",
     "2023-09-20.md",
