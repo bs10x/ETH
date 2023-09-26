@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "tag:",
+      "query": "tag:\"#notyet\"",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.5458608061873924,
+  "scale": 1.5156754829236239,
   "close": false
 }
