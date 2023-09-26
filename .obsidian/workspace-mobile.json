@@ -22,9 +22,11 @@
           {
             "id": "55d43271fa7ed40d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -141,12 +143,12 @@
   },
   "active": "ee623638486108fe",
   "lastOpenFiles": [
+    "sem1/DMath/V/script.md",
+    "sem1/DMath/V/V2.md",
     "sem1/DMath/V/V1.md",
     "sem1/DMath/V/V3.md",
-    "sem1/DMath/V/V2.md",
     "Untitled.canvas",
     "etc/wtf, why???.md",
-    "sem1/DMath/V/script.md",
     "sem1/A&D/U/ex.1.md",
     "sem1/EProg/U/EProg_u.1.md",
     "sem1/LinAlg/U/LinAlg_ex. 0.md",
