@@ -33,9 +33,11 @@
             "id": "8903ceb5922b56d8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_e.pdf"
+                "file": "sem1/DMath/V3_.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_e.pdf",
+                "file": "sem1/DMath/V3_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_e.pdf",
+                "file": "sem1/DMath/V3_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_e.pdf"
+                "file": "sem1/DMath/V3_.md"
               }
             }
           },
@@ -177,6 +179,8 @@
   },
   "active": "8903ceb5922b56d8",
   "lastOpenFiles": [
+    "sem1/DMath/ass/U1/DMath_U1_bf.md",
+    "sem1/DMath/ass/U1/DMath_U1_e.pdf",
     "sem1/AuD/ass/U1/AuD_U1_bf_tex-test.tex",
     "sem1/DMath/ass/U1/DMath_U1_bf.pdf",
     "sem1/AuD/V2_.md",
@@ -184,7 +188,6 @@
     "sem1/AuD/ass/U1/AuD_U1_e.pdf",
     "sem1/AuD/ass/U0/AuD_U0_bf.md",
     "sem1/Untitled",
-    "sem1/DMath/ass/U1/DMath_U1_bf.md",
     "sem1/DMath/ass/U1/Untitled",
     "sem1/LinAlg/ass/U1/LinAlg_ex. 0.md",
     "sem1/AuD/V4_.md",
@@ -205,8 +208,6 @@
     "sem1/DMath/V3_.md",
     "sem1/EProg/EProg.md",
     "sem1/EProg/rsrc/ass/U0/EProg_u.1.md",
-    "sem1/EProg/ass/U0",
-    "sem1/EProg/ass/U1",
     "sem1/AuD/V1_introduction to algorithms.md",
     "sem1/AuD/AuD.md",
     "AuD_graphtheory-script.pdf]], [[AuD_ottmann&widmayer.md",
