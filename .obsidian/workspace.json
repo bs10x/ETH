@@ -57,11 +57,9 @@
             "id": "55e894f1df7f0531",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem1/AUD/ass/ex.1.md",
-                "mode": "source",
-                "source": false
+                "file": "sem1/AUD/rsrc/AuD_graphtheory-script.pdf"
               }
             }
           }
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AUD/ass/ex.1.md",
+                "file": "sem1/AUD/rsrc/AuD_graphtheory-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AUD/ass/ex.1.md",
+                "file": "sem1/AUD/rsrc/AuD_graphtheory-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AUD/ass/ex.1.md"
+                "file": "sem1/AUD/rsrc/AuD_graphtheory-script.pdf"
               }
             }
           },
@@ -203,19 +201,19 @@
   },
   "active": "c398bd3b91f8068c",
   "lastOpenFiles": [
-    "sem1/AUD/rsrc/AD_ottmann&widmayer.pdf",
+    "sem1/AUD/rsrc/ass/AuD_ex.0.pdf",
+    "sem1/AUD/rsrc/ass/AuD_ex.0.md",
+    "sem1/AUD/rsrc/exercises",
+    "sem1/AUD/rsrc/literature",
+    "sem1/AUD/rsrc/AuD_graphtheory-script.pdf",
+    "sem1/AUD/rsrc/AuD_script.pdf",
+    "sem1/AUD/rsrc/AuD_ottmann&widmayer.pdf",
     "var/attachments/eprog_vk_ex.1.x-5.x.pdf",
     "var/attachments/eprog_vk_ex.5.x-8.x.pdf",
     "var/attachments/PP_ersti-tag_D-INFK.pdf",
     "sem1/V/DMath/ass/DMath ex. 1.md",
     "sem1/DMath/DMath.md",
     "sem1/LinAlg/rsrc",
-    "sem1/LinAlg/ass",
-    "sem1/EProg/rsrc",
-    "sem1/EProg/ass",
-    "sem1/AUD/rsrc",
-    "sem1/AUD/ass",
-    "sem1/DMath/ass",
     "sem1/V/DMath/DMath_script.md",
     "sem1/AUD/V1_introduction to algorithms.md",
     "sem1/DMath/V1_mathematical propositions.md",
@@ -227,7 +225,6 @@
     "sem1/EProg/EProg.md",
     "sem1/EProg/V2_EBNF+.md",
     "sem1/AUD/AUD.md",
-    "sem1/AUD/ass/ex.1.md",
     "README.md",
     "etc/closure.md",
     "DM/V1.md",
