@@ -21,28 +21,15 @@
             "id": "1f5b5ff7e47d6ba4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "sem1/LinAlg/V1_introduction to vectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ace29cdd6f034ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/V2_propositions and logical operators.md",
-                "mode": "source",
-                "source": false
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/V2_propositions and logical operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/V2_propositions and logical operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/DMath/V2_propositions and logical operators.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ace29cdd6f034ce8",
+  "active": "1f5b5ff7e47d6ba4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "sem1/DMath/V2_propositions and logical operators.md",
+    "conflict-files-obsidian-git.md",
     "sem1/DMath/V1_mathematical propositions.md",
     "sem1/EProg/V3_.md",
     "sem1/EProg/V2_EBNF+.md",
