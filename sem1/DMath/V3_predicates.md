@@ -34,6 +34,8 @@ bis Skript 2.3
 
 
 ## U (Universum)
+
+$\forall$x (x+3 < x+5)
 #### f(x, y) Funktionen
 add(x, y)
 mult(x, y)
@@ -42,4 +44,4 @@ mult(x, y)
 less(x, y) is true when x\<y
 equal(x, y) is true when x=y
 prime(x) is true when x is prime
-divides(x, y) DEF. 
+divides(x, y) def.: $\exists$ u, equal(mult(x, u), y)

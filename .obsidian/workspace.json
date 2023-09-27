@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/V3_predicates.md",
+                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/V3_predicates.md",
+                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/V3_predicates.md",
+                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/V3_predicates.md"
+                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md"
               }
             }
           },
@@ -228,6 +228,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -269,7 +270,11 @@
 =======
   "active": "028da7f43b42414f",
 >>>>>>> ba68643 (vault backup: 2023-09-27 15:26:36)
+=======
+  "active": "311cfd744d9b39ae",
+>>>>>>> 6bd9dde (vault backup: 2023-09-27 16:11:24)
   "lastOpenFiles": [
+    "sem1/DMath/V3_predicates.md",
     "sem1/EProg/ass/U1/EProg_U1_bf.md",
     "sem1/AuD/V2_.md",
     "sem1/AuD/V1_introduction to algorithms.md",
@@ -278,7 +283,6 @@
     "sem1/LinAlg/V3_.md",
     "sem1/EProg/ass/U1/EProg_U1_e.pdf",
     "sem1/DMath/rsrc/DMath_script.pdf",
-    "sem1/DMath/V3_predicates.md",
     "sem1/DMath/V2_propositions and logical operators.md",
     "sem1/DMath/DMath.md",
     "sem1/DMath/ass/U1/DMath_U1_bf.md",
