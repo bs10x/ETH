@@ -33,11 +33,9 @@
             "id": "8903ceb5922b56d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem1/DMath/V3_.md",
-                "mode": "source",
-                "source": false
+                "file": "sem1/DMath/rsrc/DMath_script.pdf"
               }
             }
           }
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/V3_.md",
+                "file": "sem1/DMath/rsrc/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/V3_.md",
+                "file": "sem1/DMath/rsrc/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/V3_.md"
+                "file": "sem1/DMath/rsrc/DMath_script.pdf"
               }
             }
           },
@@ -180,8 +178,8 @@
   },
   "active": "8903ceb5922b56d8",
   "lastOpenFiles": [
-    "sem1/DMath/V2_propositions and logical operators.md",
     "sem1/DMath/V3_.md",
+    "sem1/DMath/V2_propositions and logical operators.md",
     "sem1/DMath/rsrc/DMath_script.pdf",
     "sem1/DMath/DMath.md",
     "sem1/DMath/ass/U1/DMath_U1_bf.md",
