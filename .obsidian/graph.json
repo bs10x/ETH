@@ -1,20 +1,31 @@
+<<<<<<< HEAD
 {
   "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
+<<<<<<< HEAD
+<<<<<<< HEAD
   "showOrphans": true,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"sem1/Linalg\"",
+=======
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "",
+>>>>>>> a2e2609 (vault backup: 2023-09-27 09:51:27)
       "color": {
         "a": 1,
         "rgb": 14701138
       }
+<<<<<<< HEAD
     },
     {
       "query": "path:\"sem1/DMath\"",
@@ -53,6 +64,80 @@
   "collapse-color-groups": true,
   "colorGroups": [],
 >>>>>>> c74bd39 (vault backup: 2023-09-27 08:51:27)
+=======
+    }
+  ],
+>>>>>>> a2e2609 (vault backup: 2023-09-27 09:51:27)
+=======
+  "showOrphans": false,
+  "collapse-color-groups": false,
+<<<<<<< HEAD
+  "colorGroups": [],
+>>>>>>> a2d45d0 (vault backup: 2023-09-27 10:01:27)
+=======
+  "colorGroups": [
+    {
+      "query": "",
+=======
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"sem1/Linalg\"",
+>>>>>>> 38c2547 (vault backup: 2023-09-2710:09:38 from iPad)
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+<<<<<<< HEAD
+      "query": "",
+=======
+      "query": "path:\"sem1/DMath\"",
+>>>>>>> 38c2547 (vault backup: 2023-09-2710:09:38 from iPad)
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+<<<<<<< HEAD
+      "query": "",
+=======
+      "query": "path:\"sem1/EProg\"",
+>>>>>>> 38c2547 (vault backup: 2023-09-2710:09:38 from iPad)
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+<<<<<<< HEAD
+      "query": "path:",
+      "color": {
+        "a": 1,
+        "rgb": 45824
+      }
+    }
+  ],
+>>>>>>> e04791e (vault backup: 2023-09-27 10:11:27)
+=======
+      "query": "path:\"sem1/A&D\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:\"#notyet\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+>>>>>>> 38c2547 (vault backup: 2023-09-2710:09:38 from iPad)
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -62,10 +147,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
   "collapse-forces": false,
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 38c2547 (vault backup: 2023-09-2710:09:38 from iPad)
   "centerStrength": 0.5,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 1.5156754829236239,
 =======
 =======
@@ -75,8 +165,9 @@
   "collapse-forces": false,
 >>>>>>> da431b1 (vault backup: 2023-09-27 09:21:27)
   "centerStrength": 0.518713248970312,
-  "repelStrength": 11.1515299479167,
+  "repelStrength": 10,
   "linkStrength": 1,
+<<<<<<< HEAD
   "linkDistance": 78,
   "scale": 1,
 <<<<<<< HEAD
@@ -84,8 +175,25 @@
 >>>>>>> 84b8cec (vault backup: 2023-09-25 16:44:36 bullshit)
 =======
 >>>>>>> c74bd39 (vault backup: 2023-09-27 08:51:27)
+=======
+  "scale": 0.978293674696407,
+>>>>>>> 38c2547 (vault backup: 2023-09-2710:09:38 from iPad)
   "close": false
 =======
   "close": true
 >>>>>>> 5bfc1e2 (vault backup: 2023-09-27 09:11:27)
+=======
+  "linkDistance": 250,
+  "scale": 1.0502370050297012,
+=======
+  "centerStrength": 0.719278971354167,
+  "repelStrength": 16.3362630208333,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.9882654843817708,
+>>>>>>> e04791e (vault backup: 2023-09-27 10:11:27)
+  "close": false
+>>>>>>> a2e2609 (vault backup: 2023-09-27 09:51:27)
 }
+=======
+>>>>>>> 14698c8 (vault backup: 2023-09-27 10:27:11 bullshit)

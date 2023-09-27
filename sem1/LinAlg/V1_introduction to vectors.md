@@ -1,5 +1,5 @@
 ---
-"lecture:": "[[LinAlg]]"
+"course:": "[[LinAlg]]"
 "tags:":
 ---
 

@@ -1,4 +1,4 @@
 ---
-"lecture:": "[[EProg]]"
+"course:": "[[EProg]]"
 "tags:":
 ---
