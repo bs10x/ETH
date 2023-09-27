@@ -35,9 +35,11 @@
             "id": "8903ceb5922b56d8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/EProg/ass/U1/EProg_U1_e.pdf"
+                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -70,6 +72,7 @@
             }
           }
         ],
+<<<<<<< HEAD
         "currentTab": 1
 >>>>>>> 14698c8 (vault backup: 2023-09-27 10:27:11 bullshit)
 =======
@@ -93,6 +96,9 @@
 =======
         "currentTab": 3
 >>>>>>> ba68643 (vault backup: 2023-09-27 15:26:36)
+=======
+        "currentTab": 2
+>>>>>>> 988f294 (vault backup: 2023-09-27 16:31:24)
       }
     ],
     "direction": "vertical"
@@ -239,6 +245,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "active": "311cfd744d9b39ae",
   "lastOpenFiles": [
 =======
@@ -275,13 +282,21 @@
 >>>>>>> 6bd9dde (vault backup: 2023-09-27 16:11:24)
   "lastOpenFiles": [
     "sem1/DMath/V3_predicates.md",
+=======
+  "active": "8903ceb5922b56d8",
+  "lastOpenFiles": [
+<<<<<<< HEAD
+>>>>>>> 988f294 (vault backup: 2023-09-27 16:31:24)
+=======
+    "sem1/EProg/ass/U1/EProg_U1_e.pdf",
+>>>>>>> 6232b7c (vault backup: 2023-09-27 17:01:24)
     "sem1/EProg/ass/U1/EProg_U1_bf.md",
+    "sem1/DMath/V3_predicates.md",
     "sem1/AuD/V2_.md",
     "sem1/AuD/V1_introduction to algorithms.md",
     "sem1/AuD/ass/U0/AuD_U0_bf.md",
     "sem1/EProg/V1_EBNF.md",
     "sem1/LinAlg/V3_.md",
-    "sem1/EProg/ass/U1/EProg_U1_e.pdf",
     "sem1/DMath/rsrc/DMath_script.pdf",
     "sem1/DMath/V2_propositions and logical operators.md",
     "sem1/DMath/DMath.md",
