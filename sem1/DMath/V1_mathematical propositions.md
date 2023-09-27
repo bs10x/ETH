@@ -1,5 +1,5 @@
 ---
-"lecture:": "[[DMath]]"
+"course:": "[[DMath]]"
 "tags:":
 ---
 
