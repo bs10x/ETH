@@ -29,3 +29,17 @@
 
 ^^^^^^^^^^^^^^^^^^^^^^^^
 bis Skript 2.3
+
+
+
+
+## U (Universum)
+#### f(x, y) Funktionen
+add(x, y)
+mult(x, y)
+
+#### P(x,y) (Prädikate)
+less(x, y) is true when x\<y
+equal(x, y) is true when x=y
+prime(x) is true when x is prime
+divides(x, y) DEF. 
