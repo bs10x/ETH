@@ -19,18 +19,21 @@ Zeigen Sie in einer Tabelle, dass Ihre Beschreibung das Symbol “28” als gera
 >even_digit: 8
 >option: zero
 
+
+
 ## 2.
 Erstellen Sie eine Beschreibung \<x2ygemischt\> , die als legale Symbole genau jene Wörter zulässt, in denen für jedes “X” zwei “Y” als Paar auftreten. Beispiele sind XYY, YYX, XYYYYX, XXYYYY.
 
 >[!example] solution
 >*x* <= X | ( X { x } )
 >*2y* <= Y | ( Y { 2y } )
->*x2ygemischt* <= ( x 2y )
+>*x2ygemischt* <= ( x 2y ) 
 
 ^^^^^^^^^nochmal anschauen
 
+
 ## 3. 
-Die folgenden EBNF-Beschreibungen sind nicht äquivalent. Finden Sie ein kürzestmögliches Symbol, das von der einen Beschreibung als legal erkannt wird, aber nicht von der anderen. (Fangen Sie mit einfachen Kombinationen von A und B an.)
+Die folgenden EBNF-Beschreibungen sind nicht äquivalent. Finden Sie ein kürzestmögliches Symbol, das von der einen Beschreibung als legal erkannt wird, aber nicht von der anderen. 
 >[!example] solution
 >*beispiel1* <= [ A ] [ B ]
 >*beispiel2* <= [ A [ B ] ]
@@ -42,27 +45,14 @@ Die folgenden EBNF-Beschreibungen sind nicht äquivalent. Finden Sie ein kürzes
 >
 >*beispiel2*
 >option(A(option(B)):
->option(B) zu nehmen nicht möglich *ohne* option: A
-
-
-
-
+>option(B) nicht möglich *ohne* option: A
 
 
 
 ## 4.
 Erstellen Sie eine EBNF Beschreibung \<doppelt\> , die als legale Symbole genau jene Wörter zulässt, in denen die doppelte Anzahl “Y” nach einer Folge von “X” auftritt. Beispiele sind XYY, XXYYYY, usw.
 
-
-
-  
-
-5.
-
-// EBNF beschreibung von <doppelt>
-
-<x> X | ( X { x } )
-
-<2y> YY | ( YY { 2y } )
-
-<x2ygemischt> <= ( x 2y )
+>[!example] solution
+>*x* <= X | ( X { x } )
+>*2y* <= YY | ( YY { 2y } )
+>*x2ygemischt* <= (x 2y)
