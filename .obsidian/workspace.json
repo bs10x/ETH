@@ -35,9 +35,11 @@
             "id": "8903ceb5922b56d8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/DMath/rsrc/DMath_script.pdf"
+                "file": "sem1/DMath/V3_.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/rsrc/DMath_script.pdf",
+                "file": "sem1/DMath/V3_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/rsrc/DMath_script.pdf",
+                "file": "sem1/DMath/V3_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/rsrc/DMath_script.pdf"
+                "file": "sem1/DMath/V3_.md"
               }
             }
           },
@@ -250,9 +252,9 @@
   "active": "8903ceb5922b56d8",
 >>>>>>> 29a53ff (vault backup: 2023-09-27 12:40:28 from bullshit)
   "lastOpenFiles": [
+    "sem1/DMath/rsrc/DMath_script.pdf",
     "sem1/DMath/DMath.md",
     "sem1/DMath/V3_.md",
-    "sem1/DMath/rsrc/DMath_script.pdf",
     "sem1/DMath/ass/U1/DMath_U1_bf.md",
     "sem1/DMath/ass/U1/DMath_U1_e.pdf",
     "sem1/AuD/ass/U1/AuD_U1_bf_tex-test.tex",
