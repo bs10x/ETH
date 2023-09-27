@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/V3_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/V3_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/LinAlg/V3_.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1354077be283de94",
+  "active": "04f80e2e44789c0e",
   "lastOpenFiles": [
-    "sem1/LinAlg/V2_.md",
     "sem1/LinAlg/V3_.md",
+    "sem1/LinAlg/V2_.md",
     "sem1/DMath/V2_propositions and logical operators.md",
     "conflict-files-obsidian-git.md",
     "sem1/DMath/V1_mathematical propositions.md",
