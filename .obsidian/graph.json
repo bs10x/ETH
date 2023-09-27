@@ -6,6 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -48,11 +49,16 @@
   "collapse-color-groups": true,
   "colorGroups": [],
 >>>>>>> 84b8cec (vault backup: 2023-09-25 16:44:36 bullshit)
+=======
+  "collapse-color-groups": true,
+  "colorGroups": [],
+>>>>>>> c74bd39 (vault backup: 2023-09-27 08:51:27)
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
   "collapse-forces": false,
   "centerStrength": 0.5,
@@ -61,12 +67,17 @@
   "linkDistance": 250,
   "scale": 1.5156754829236239,
 =======
+=======
+>>>>>>> c74bd39 (vault backup: 2023-09-27 08:51:27)
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
+<<<<<<< HEAD
 >>>>>>> 84b8cec (vault backup: 2023-09-25 16:44:36 bullshit)
+=======
+>>>>>>> c74bd39 (vault backup: 2023-09-27 08:51:27)
   "close": false
 }

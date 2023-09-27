@@ -13,13 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/U/DMath ex. 1.md",
+                "file": "sem1/DMath/V/V1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b6be6accd46101c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec6492c400bb10c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/V/V2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19ac3a6119c04504",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/U/DMath ex. 1.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/U/DMath ex. 1.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/U/DMath ex. 1.md"
+                "file": "README.md"
               }
             }
           },
@@ -154,14 +187,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76efc074086e223b",
+  "active": "3b6be6accd46101c",
   "lastOpenFiles": [
+    "etc/closure.md",
+    "sem1/DMath/DMath.md",
+    "sem1/DMath/V/V1.md",
+    "sem1/DMath/V/V2.md",
+    "sem1/DMath/U/DMath ex. 1.md",
     "sem1/DMath/V/script.md",
     "sem1/DMath/V/V3.md",
-    "sem1/DMath/V/V2.md",
-    "sem1/DMath/V/V1.md",
     "var/attachments/DMath_ex.1.pdf",
-    "sem1/DMath/U/DMath ex. 1.md",
     "sem1/A&D/V/V1.md",
     "sem1/A&D/U/ex.1.md",
     "DM/V1.md",
@@ -178,7 +213,6 @@
     "sem1/DMath/U",
     "sem1/DMath",
     "sem1/A&D/V",
-    "etc/wtf, why???.md",
     "sem1/EProg/VK.md",
     "sem1/DiskMath/script.md",
     "etc/ersti tag.md",
