@@ -33,9 +33,11 @@
             "id": "8903ceb5922b56d8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/EProg/ass/U1/EProg_U1_e.pdf"
+                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -118,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/EProg/ass/U1/EProg_U1_e.pdf",
+                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/EProg/ass/U1/EProg_U1_e.pdf",
+                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/EProg/ass/U1/EProg_U1_e.pdf"
+                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md"
               }
             }
           },
@@ -190,6 +192,7 @@
   },
   "active": "8903ceb5922b56d8",
   "lastOpenFiles": [
+    "sem1/EProg/ass/U1/EProg_U1_e.pdf",
     "sem1/EProg/ass/U1/EProg_U1_bf.md",
     "sem1/DMath/V3_predicates.md",
     "sem1/AuD/V2_.md",
@@ -197,7 +200,6 @@
     "sem1/AuD/ass/U0/AuD_U0_bf.md",
     "sem1/EProg/V1_EBNF.md",
     "sem1/LinAlg/V3_.md",
-    "sem1/EProg/ass/U1/EProg_U1_e.pdf",
     "sem1/DMath/rsrc/DMath_script.pdf",
     "sem1/DMath/V2_propositions and logical operators.md",
     "sem1/DMath/DMath.md",
