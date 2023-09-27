@@ -1,9 +1,12 @@
 
 ## 1.
-#### a.
-Erstellen Sie eine Beschreibung \<geradezahl\>, die als legale Symbole alle geraden Zahlen (d.h. Zahlen, die ohne Rest durch 2 teilbar sind) zulässt. Beispiele sind +02, 4, 10, -20.
+###### a.
+Erstellen Sie eine Beschreibung *geradezahl*, die als legale Symbole alle geraden Zahlen (d.h. Zahlen, die ohne Rest durch 2 teilbar sind) zulässt. Beispiele sind +02, 4, 10, -20.
 
-#### b.
+*geradezahl* <= \[ + | - ] 
+
+
+###### b.
 Zeigen Sie in einer Tabelle, dass Ihre Beschreibung das Symbol “28” als gerade Zahl erkennt.
 
 
