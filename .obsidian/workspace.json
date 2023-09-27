@@ -37,12 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/AuD/ass/U0/AuD_U0_bf.md",
+                "file": "sem1/AuD/V2_.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
         ]
 <<<<<<< HEAD
@@ -66,6 +68,17 @@
         ],
         "currentTab": 2
 >>>>>>> 7d7445e (vault backup: 2023-09-27 10:41:27)
+=======
+        ]
+>>>>>>> 69522da (vault backup: 2023-09-27 10:51:27)
+=======
+        ],
+<<<<<<< HEAD
+        "currentTab": 4
+>>>>>>> 0e0e43b (vault backup: 2023-09-27 11:01:27)
+=======
+        "currentTab": 2
+>>>>>>> d7f0683 (vault backup: 2023-09-27 12:38:45 from bullshit)
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/ass/U0/AuD_U0_bf.md",
+                "file": "sem1/AuD/V2_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/ass/U0/AuD_U0_bf.md",
+                "file": "sem1/AuD/V2_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/ass/U0/AuD_U0_bf.md"
+                "file": "sem1/AuD/V2_.md"
               }
             }
           },
@@ -188,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +213,11 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -218,22 +235,46 @@
 =======
   "active": "c398bd3b91f8068c",
 >>>>>>> 7d7445e (vault backup: 2023-09-27 10:41:27)
+=======
+  "active": "04f80e2e44789c0e",
+>>>>>>> 69522da (vault backup: 2023-09-27 10:51:27)
+=======
+  "active": "c398bd3b91f8068c",
+>>>>>>> 0e0e43b (vault backup: 2023-09-27 11:01:27)
+=======
+  "active": "8903ceb5922b56d8",
+>>>>>>> d7f0683 (vault backup: 2023-09-27 12:38:45 from bullshit)
+=======
+  "active": "c398bd3b91f8068c",
+>>>>>>> 1378da7 (vault backup: 2023-09-27 12:39:39 from bullshit)
+=======
+  "active": "8903ceb5922b56d8",
+>>>>>>> 29a53ff (vault backup: 2023-09-27 12:40:28 from bullshit)
   "lastOpenFiles": [
+    "sem1/AuD/V3_.md",
+    "sem1/AuD/ass/U1/AuD_U1_e.pdf",
+    "sem1/AuD/ass/U0/AuD_U0_bf.md",
+    "sem1/DMath/ass/U1/DMath_U1_bf.pdf",
+    "sem1/Untitled",
+    "sem1/DMath/ass/U1/DMath_U1_bf.md",
+    "sem1/DMath/ass/U1/Untitled",
+    "sem1/LinAlg/ass/U1/LinAlg_ex. 0.md",
+    "sem1/AuD/V4_.md",
+    "sem1/DMath/V1_mathematical propositions.md",
+    "sem1/DMath/DMath.md",
+    "sem1/AuD/ass/U0/AuD_U0_s.pdf",
+    "sem1/AuD/ass/U0/AuD_U0_e.pdf",
     "sem1/LinAlg/rsrc/LinAlg_blackboard-notes-pt-1.pdf",
-    "sem1/AuD/ass/U1/AuD_U1_E.pdf",
     "sem1/LinAlg/V3_.md",
     "sem1/LinAlg/V2_.md",
     "sem1/DMath/V2_propositions and logical operators.md",
     "conflict-files-obsidian-git.md",
-    "sem1/DMath/V1_mathematical propositions.md",
     "sem1/EProg/V3_.md",
     "sem1/EProg/V2_EBNF+.md",
     "sem1/EProg/V1_EBNF.md",
 >>>>>>> 14698c8 (vault backup: 2023-09-27 10:27:11 bullshit)
     "sem1/LinAlg/V1_introduction to vectors.md",
-    "sem1/LinAlg/ass/U1/LinAlg_ex. 0.md",
     "sem1/LinAlg/ass/U1",
-    "sem1/DMath/DMath.md",
     "sem1/DMath/V3_.md",
     "sem1/DMath/V1_mathematical propositions.md",
     "sem1/DMath/V2_propositions and logical operators.md",
@@ -244,23 +285,13 @@
     "sem1/EProg/rsrc/ass/U0/EProg_u.1.md",
     "sem1/EProg/ass/U0",
     "sem1/EProg/ass/U1",
-    "sem1/DMath/ass/U1/DMath_U1_e.pdf",
-    "sem1/DMath/ass/U4/Untitled",
-    "sem1/DMath/rsrc/ass/Untitled 1/U3",
-    "sem1/DMath/ass/U4",
-    "sem1/DMath/ass/U3",
-    "sem1/DMath/ass/U2",
-    "sem1/AuD/ass/U0/AuD_U0_bf.md",
     "sem1/AuD/V1_introduction to algorithms.md",
-    "sem1/AuD/V4_.md",
-    "sem1/AuD/V3_.md",
     "sem1/AuD/V2_.md",
     "sem1/AuD/AuD.md",
     "AuD_graphtheory-script.pdf]], [[AuD_ottmann&widmayer.md",
     "etc/ersti tag.md",
     "sem1/V/DMath/ass/DMath ex. 1.md",
     "sem1/V/DMath/DMath_script.md",
-    "sem1/LinAlg/LinAlg.md",
     "Untitled.canvas"
   ]
 }

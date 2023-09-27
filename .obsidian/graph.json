@@ -4,8 +4,12 @@
   "collapse-filter": true,
 =======
 {
+<<<<<<< HEAD
   "collapse-filter": false,
 >>>>>>> 81c5f31 (vault backup: 2023-09-27 10:29:11 bullshit)
+=======
+  "collapse-filter": true,
+>>>>>>> cb31619 (vault backup: 2023-09-2712:33:14 from iPad)
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -13,7 +17,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "showOrphans": true,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -146,6 +152,9 @@
 >>>>>>> 38c2547 (vault backup: 2023-09-2710:09:38 from iPad)
 =======
   "showOrphans": false,
+=======
+  "showOrphans": true,
+>>>>>>> 69522da (vault backup: 2023-09-27 10:51:27)
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -178,6 +187,10 @@
     }
   ],
 >>>>>>> 81c5f31 (vault backup: 2023-09-27 10:29:11 bullshit)
+=======
+  "collapse-color-groups": false,
+  "colorGroups": [],
+>>>>>>> cb31619 (vault backup: 2023-09-2712:33:14 from iPad)
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -240,11 +253,11 @@
 >>>>>>> 14698c8 (vault backup: 2023-09-27 10:27:11 bullshit)
 =======
   "collapse-forces": false,
-  "centerStrength": 0.463460286458333,
-  "repelStrength": 9.97395833333333,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 182,
-  "scale": 0.9882654843817708,
+  "linkDistance": 250,
+  "scale": 1.2801488798200207,
   "close": false
 }
 >>>>>>> 81c5f31 (vault backup: 2023-09-27 10:29:11 bullshit)

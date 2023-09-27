@@ -16,8 +16,33 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "53852e48d5235d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/DMath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91fa93add0bcbc84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/EProg/EProg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,6 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "sem1/EProg/EProg.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,6 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "sem1/EProg/EProg.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -109,7 +136,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "sem1/EProg/EProg.md"
+          }
         }
       }
     ],
@@ -125,45 +154,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55d43271fa7ed40d",
+  "active": "91fa93add0bcbc84",
   "lastOpenFiles": [
-    "sem1/DMath/ass",
-    "sem1/LinAlg/ass",
+    "sem1/DMath/DMath.md",
+    "sem1/LinAlg/rsrc/LinAlg_blackboard-notes-pt-1.pdf",
+    "sem1/LinAlg/rsrc",
+    "sem1/LinAlg/ass/U1/LinAlg_ex. 0.md",
+    "sem1/LinAlg/ass/U1",
+    "sem1/DMath/V3_.md",
+    "sem1/LinAlg/V3_.md",
+    "sem1/LinAlg/V2_.md",
+    "sem1/EProg/V3_.md",
+    "sem1/AUD/ass/U0/AuD_U0_S.pdf",
+    "sem1/AUD/ass/U0/AuD_U0_E.pdf",
+    "sem1/AUD/ass/U0",
+    "sem1/AUD/ass",
+    "sem1/AUD/ass/U0/AuD_U0_bf.md",
+    "sem1/DMath/ass/U1/DMath_U1_e.pdf",
+    "sem1/DMath/ass/U1",
+    "sem1/DMath/ass/U1/DMath_U1_bf.pdf",
+    "sem1/DMath/ass/U1/DMath_U1_bf.md",
     "sem1/LinAlg/V1_introduction to vectors.md",
     "sem1/EProg/EProg.md",
     "sem1/AUD/V1_introduction to algorithms.md",
-    "sem1/AUD",
     "sem1/AUD/V2_.md",
-    "sem1/EProg/ass",
     "sem1/EProg/ass/EProg_u.1.md",
     "sem1/AUD/AUD.md",
     "sem1/DMath/V3.md",
     "etc/closure.md",
     "sem1/AUD/V3_.md",
-    "sem1/DMath/ass/DMath_ex.1.pdf",
-    "sem1/DMath/DMath.md",
     "sem1/DMath/V1_mathematical propositions.md",
     "sem1/LinAlg/LinAlg.md",
     "sem1/LinAlg/ass/LinAlg_ex. 0.md",
     "sem1/DMath/V2_propositions and logical operators.md",
     "sem1/AUD/rsrc/ass/AuD_U0_bf.md",
-    "sem1/AUD/rsrc/ass/AuD_U0_S.pdf",
-    "sem1/AUD/rsrc/ass/AuD_U0_E.pdf",
-    "sem1/AUD/rsrc/ass",
-    "sem1/AUD/rsrc/AuD_graphtheory-script.pdf",
-    "sem1/AUD/rsrc/AuD_ottmann&widmayer.pdf",
-    "sem1/AUD/rsrc/AuD_script.pdf",
     "sem1/EProg/V2_EBNF+.md",
     "sem1/AUD/V4_.md",
     "sem1/EProg/V1_EBNF.md",
-    "sem1/DMath/V/V2.md",
-    "sem1/DMath/V/script.md",
-    "sem1/DMath/V/V1.md",
-    "sem1/DMath/V/V3.md",
     "Untitled.canvas",
-    "etc/wtf, why???.md",
-    "sem1/A&D/U/ex.1.md",
-    "sem1/EProg/U/EProg_u.1.md",
     "test/canvas-test.canvas",
     "Hello, World!.canvas"
   ]
