@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md",
+                "file": "sem1/EProg/ass/U1/EProg_U1_e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md",
+                "file": "sem1/EProg/ass/U1/EProg_U1_e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md"
+                "file": "sem1/EProg/ass/U1/EProg_U1_e.pdf"
               }
             }
           },
@@ -188,10 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "311cfd744d9b39ae",
+  "active": "8903ceb5922b56d8",
   "lastOpenFiles": [
-    "sem1/DMath/V3_predicates.md",
     "sem1/EProg/ass/U1/EProg_U1_bf.md",
+    "sem1/DMath/V3_predicates.md",
     "sem1/AuD/V2_.md",
     "sem1/AuD/V1_introduction to algorithms.md",
     "sem1/AuD/ass/U0/AuD_U0_bf.md",
