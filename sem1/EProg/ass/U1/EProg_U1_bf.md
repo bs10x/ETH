@@ -58,4 +58,6 @@ Erstellen Sie eine EBNF Beschreibung \<doppelt\> , die als legale Symbole genau 
 >[!example] solution
 >*x* <= X | ( X { x } )
 >*2y* <= YY | ( YY { 2y } )
->*doppelt* <= (X) (YY) \[{doppelt}]
+>*doppelt* <= X \[{doppelt}] YY
+
+
