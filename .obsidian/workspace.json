@@ -18,13 +18,14 @@
             }
           },
           {
-            "id": "1f5b5ff7e47d6ba4",
+            "id": "1354077be283de94",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "sem1/LinAlg/V3_.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/LinAlg/V3_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/LinAlg/V3_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/LinAlg/V3_.md"
+              }
             }
           },
           {
@@ -160,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f5b5ff7e47d6ba4",
+  "active": "1354077be283de94",
   "lastOpenFiles": [
+    "sem1/LinAlg/V2_.md",
+    "sem1/LinAlg/V3_.md",
     "sem1/DMath/V2_propositions and logical operators.md",
     "conflict-files-obsidian-git.md",
     "sem1/DMath/V1_mathematical propositions.md",
@@ -196,8 +203,6 @@
     "sem1/V/DMath/DMath_script.md",
     "sem1/LinAlg/LinAlg.md",
     "README.md",
-    "etc/closure.md",
-    "DM/V1.md",
     "Untitled.canvas"
   ]
 }
