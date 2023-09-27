@@ -1,5 +1,6 @@
 ---
 "lecture:": "[[LinAlg]]"
+"tags:":
 ---
 
 

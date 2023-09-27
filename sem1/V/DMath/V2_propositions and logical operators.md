@@ -1,5 +1,4 @@
 ---
-"semester:": "[[sem1]]"
 "lecture:": "[[DMath]]"
 "tags:":
 ---
