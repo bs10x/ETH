@@ -3,7 +3,10 @@
 ###### a.
 Erstellen Sie eine Beschreibung *geradezahl*, die als legale Symbole alle geraden Zahlen (d.h. Zahlen, die ohne Rest durch 2 teilbar sind) zulässt. Beispiele sind +02, 4, 10, -20.
 
-*geradezahl* <= \[ + | - ] 
+*digit* <= 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+*sign* <= \[ + | - ]
+*even_digit* <= 2 | 4 | 6 | 8
+*geradezahl* <= *sign* \[*digit*] *even_digit*
 
 
 ###### b.
