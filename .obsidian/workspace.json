@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/AuD/ass/U0/AuD_U0_bf.md",
+                "file": "sem1/LinAlg/ass/U1/LinAlg_ex. 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/ass/U0/AuD_U0_bf.md",
+                "file": "sem1/LinAlg/ass/U1/LinAlg_ex. 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/ass/U0/AuD_U0_bf.md",
+                "file": "sem1/LinAlg/ass/U1/LinAlg_ex. 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/ass/U0/AuD_U0_bf.md"
+                "file": "sem1/LinAlg/ass/U1/LinAlg_ex. 0.md"
               }
             }
           },
@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +179,11 @@
   },
   "active": "c398bd3b91f8068c",
   "lastOpenFiles": [
+    "sem1/AuD/ass/U0/AuD_U0_s.pdf",
+    "sem1/AuD/ass/U0/AuD_U0_e.pdf",
+    "sem1/AuD/ass/U1/AuD_U1_e.pdf",
+    "sem1/AuD/ass/U0/AuD_U0_bf.md",
     "sem1/LinAlg/rsrc/LinAlg_blackboard-notes-pt-1.pdf",
-    "sem1/AuD/ass/U1/AuD_U1_E.pdf",
     "sem1/LinAlg/V3_.md",
     "sem1/LinAlg/V2_.md",
     "sem1/DMath/V2_propositions and logical operators.md",
@@ -203,9 +205,6 @@
     "sem1/DMath/ass/U4/Untitled",
     "sem1/DMath/rsrc/ass/Untitled 1/U3",
     "sem1/DMath/ass/U4",
-    "sem1/DMath/ass/U3",
-    "sem1/DMath/ass/U2",
-    "sem1/AuD/ass/U0/AuD_U0_bf.md",
     "sem1/AuD/V1_introduction to algorithms.md",
     "sem1/AuD/V4_.md",
     "sem1/AuD/V3_.md",
