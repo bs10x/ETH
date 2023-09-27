@@ -59,12 +59,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem1/AUD/rsrc/AuD_graphtheory-script.pdf"
+                "file": "sem1/AUD/rsrc/ass/AuD_U0_S.pdf"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AUD/rsrc/AuD_graphtheory-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AUD/rsrc/AuD_graphtheory-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/AUD/rsrc/AuD_graphtheory-script.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -199,21 +195,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c398bd3b91f8068c",
+  "active": "04f80e2e44789c0e",
   "lastOpenFiles": [
-    "sem1/AUD/rsrc/ass/AuD_ex.0.pdf",
-    "sem1/AUD/rsrc/ass/AuD_ex.0.md",
+    "sem1/AUD/rsrc/ass/AuD_U0_S.pdf",
+    "sem1/AUD/rsrc/ass/AuD_U0_E.pdf",
+    "sem1/AUD/rsrc/ass/AuD_U0_bf.md",
+    "etc/ersti tag.md",
+    "sem1/AUD/rsrc/AuD_graphtheory-script.pdf",
+    "sem1/AUD/rsrc/ass/bfeitknecht",
+    "sem1/AUD/rsrc/ass/solutions",
+    "sem1/AUD/rsrc/ass/exercises",
     "sem1/AUD/rsrc/exercises",
     "sem1/AUD/rsrc/literature",
-    "sem1/AUD/rsrc/AuD_graphtheory-script.pdf",
     "sem1/AUD/rsrc/AuD_script.pdf",
     "sem1/AUD/rsrc/AuD_ottmann&widmayer.pdf",
-    "var/attachments/eprog_vk_ex.1.x-5.x.pdf",
-    "var/attachments/eprog_vk_ex.5.x-8.x.pdf",
-    "var/attachments/PP_ersti-tag_D-INFK.pdf",
     "sem1/V/DMath/ass/DMath ex. 1.md",
     "sem1/DMath/DMath.md",
-    "sem1/LinAlg/rsrc",
     "sem1/V/DMath/DMath_script.md",
     "sem1/AUD/V1_introduction to algorithms.md",
     "sem1/DMath/V1_mathematical propositions.md",
@@ -232,7 +229,6 @@
     "sem1/EProg/ass/EProg_u.1.md",
     "sem1/EProg/VK.md",
     "sem1/DiskMath/script.md",
-    "etc/ersti tag.md",
     "LA/Vector and matrix multiplications.md",
     "wtf, why???.md",
     "2023-09-20.md",
