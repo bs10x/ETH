@@ -25,13 +25,8 @@ Zeigen Sie in einer Tabelle, dass Ihre Beschreibung das Symbol “28” als gera
 Erstellen Sie eine Beschreibung \<x2ygemischt\> , die als legale Symbole genau jene Wörter zulässt, in denen für jedes “X” zwei “Y” als Paar auftreten. Beispiele sind XYY, YYX, XYYYYX, XXYYYY.
 
 >[!example] solution
->*x* <= X | ( X { x } )
->*2y* <= Y | ( Y { 2y } )
->*x2ygemischt* <= ( x 2y ) 
->*x2ygemischt* <= X | YY \[x2ygemischt]
->
+>>*x2ygemischt* <= (X \[*x2ygemischt*] YY) | (YY \[*x2ygemischt*] X)
 
-^^^^^^^^^nochmal anschauen
 
 
 ## 3. 
@@ -55,6 +50,6 @@ Die folgenden EBNF-Beschreibungen sind nicht äquivalent. Finden Sie ein kürzes
 Erstellen Sie eine EBNF Beschreibung \<doppelt\> , die als legale Symbole genau jene Wörter zulässt, in denen die doppelte Anzahl “Y” nach einer Folge von “X” auftritt. Beispiele sind XYY, XXYYYY, usw.
 
 >[!example] solution
->*x* <= X | ( X { x } )
->*2y* <= YY | ( YY { 2y } )
->*x2ygemischt* <= ( X | \[{X}] ) 
+>*doppelt* <= X \[{*doppelt*}] YY
+
+
