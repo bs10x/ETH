@@ -35,11 +35,9 @@
             "id": "8903ceb5922b56d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem1/AuD/V2_.md",
-                "mode": "source",
-                "source": false
+                "file": "sem1/DMath/ass/U1/DMath_U1_e.pdf"
               }
             }
           }
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/V2_.md",
+                "file": "sem1/DMath/ass/U1/DMath_U1_e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/V2_.md",
+                "file": "sem1/DMath/ass/U1/DMath_U1_e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/V2_.md"
+                "file": "sem1/DMath/ass/U1/DMath_U1_e.pdf"
               }
             }
           },
@@ -251,10 +249,11 @@
   "active": "8903ceb5922b56d8",
 >>>>>>> 29a53ff (vault backup: 2023-09-27 12:40:28 from bullshit)
   "lastOpenFiles": [
+    "sem1/DMath/ass/U1/DMath_U1_bf.pdf",
+    "sem1/AuD/V2_.md",
     "sem1/AuD/V3_.md",
     "sem1/AuD/ass/U1/AuD_U1_e.pdf",
     "sem1/AuD/ass/U0/AuD_U0_bf.md",
-    "sem1/DMath/ass/U1/DMath_U1_bf.pdf",
     "sem1/Untitled",
     "sem1/DMath/ass/U1/DMath_U1_bf.md",
     "sem1/DMath/ass/U1/Untitled",
@@ -286,7 +285,6 @@
     "sem1/EProg/ass/U0",
     "sem1/EProg/ass/U1",
     "sem1/AuD/V1_introduction to algorithms.md",
-    "sem1/AuD/V2_.md",
     "sem1/AuD/AuD.md",
     "AuD_graphtheory-script.pdf]], [[AuD_ottmann&widmayer.md",
     "etc/ersti tag.md",
