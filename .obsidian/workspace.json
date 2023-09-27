@@ -52,8 +52,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "528646e50a5d02de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/ass/U1/DMath_U1_bf.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/ass/U1/DMath_U1_bf.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/ass/U1/DMath_U1_bf.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/ass/U1/DMath_U1_bf.pdf"
+              }
             }
           },
           {
@@ -184,8 +199,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04f80e2e44789c0e",
+  "active": "c398bd3b91f8068c",
   "lastOpenFiles": [
+    "sem1/DMath/ass/U1/DMath_U1_bf.md",
+    "sem1/DMath/ass/U1/DMath_U1_bf.pdf",
+    "sem1/DMath/ass/U1/Untitled",
     "sem1/LinAlg/ass/U1/LinAlg_ex. 0.md",
     "sem1/AuD/ass/U0/AuD_U0_bf.md",
     "sem1/AuD/V4_.md",
@@ -210,8 +228,6 @@
     "sem1/EProg/ass/U0",
     "sem1/EProg/ass/U1",
     "sem1/DMath/ass/U1/DMath_U1_e.pdf",
-    "sem1/DMath/ass/U4/Untitled",
-    "sem1/DMath/rsrc/ass/Untitled 1/U3",
     "sem1/AuD/V1_introduction to algorithms.md",
     "sem1/AuD/V3_.md",
     "sem1/AuD/V2_.md",
@@ -220,7 +236,6 @@
     "etc/ersti tag.md",
     "sem1/V/DMath/ass/DMath ex. 1.md",
     "sem1/V/DMath/DMath_script.md",
-    "sem1/LinAlg/LinAlg.md",
     "Untitled.canvas"
   ]
 }
