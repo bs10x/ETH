@@ -2,37 +2,37 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:sem1/DMath  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 1051885
       }
     },
     {
-      "query": "",
+      "query": "path:sem1/AuD  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16716032
       }
     },
     {
-      "query": "",
+      "query": "path:sem1/LinAlg  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16771584
       }
     },
     {
-      "query": "path:",
+      "query": "path:sem1/EProg  ",
       "color": {
         "a": 1,
-        "rgb": 45824
+        "rgb": 65280
       }
     }
   ],

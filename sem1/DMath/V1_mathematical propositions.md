@@ -41,7 +41,29 @@
 - **Beweis:** (nicht von LHS sondern nur Implikation daraus, also LHS)
 	- Rekursion ermöglicht Zerlegung in Viertel, Wählen der markierten Felder um die Mitte, L
 
->[!Example] Eine Standard Schweizer Schoggi hat 6 Reihen und 4 Kolonen, was ist die effizienteste Methode, die Tafel in alle einzelnen Stücke zu brechen? 
 
-Jeder Bruch erhöht die Anzahl Stücke um eins, also auch die nötige Anzahl Brüche.
 
+> **Aufgabenstellung**: Auf einem 8x8 Feld aus Quadraten wird ein Feldabgedeckt. Existiert eine Konfiguration an Anordnungen von L-förmigen Formen, bestehend aus drei Häuschen, bei dem das gesamte Brett ohne Überlappung abgedeckt wird.
+
+$P(k) = 1 \overset{def}{\longleftrightarrow}$ Für jede ($\forall$) Markierung existiert ($\exists$) eine Zerlegung des Restfeldes 
+
+$P(2) = 1$
+$P(3) = 0 \longleftarrow$ $k^2 \not\equiv_3 1 \Rightarrow P(k) = 0$
+$P(4) = 1$
+$P(5) = 0$
+
+Theorem: $P(k) = 1 \Rightarrow P(2k) = 1$ (Rekursiver Algorithmus)
+
+
+
+### Example  1.5
+
+> **Aufgabenstellung**: Eine Schweizer Schokolade besteht aus 6 Reihen und 4 Stücken pro Reihe. Wir möchten es in 24 Stücke brechen mit der minimalen Anzahl an Operationen des Brechens.
+
+> **Abstraktion**: Jeder Bruch produziert ein weiteres Stück, deshalb braucht es sowieso 24 Brüche um 24 Stücke zu erzeugen.
+
+### Example 1.6
+
+> **Aufgabenstellung**: Man kann die Form 1.6 in 8 gleiche Teile einteilen, kann man sie in 9 gleiche Stücke einteilen.
+
+> **Abstraktion**:
