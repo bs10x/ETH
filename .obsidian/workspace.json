@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/V/DMath/V1_mathematical propositions.md",
+                "file": "sem1/DMath/V1_mathematical propositions.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/V/DMath/V2_propositions and logical operators.md",
+                "file": "sem1/DMath/V2_propositions and logical operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/V/AUD/V1_introduction to algorithms.md",
+                "file": "sem1/AUD/V1_introduction to algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,12 +54,12 @@
             }
           },
           {
-            "id": "e06d02d30262eafc",
+            "id": "55e894f1df7f0531",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/V/DMath/DMath.md",
+                "file": "sem1/AUD/ass/ex.1.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/V/DMath/DMath.md",
+                "file": "sem1/AUD/ass/ex.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/V/DMath/DMath.md",
+                "file": "sem1/AUD/ass/ex.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/V/DMath/DMath.md"
+                "file": "sem1/AUD/ass/ex.1.md"
               }
             }
           },
@@ -203,36 +203,36 @@
   },
   "active": "c398bd3b91f8068c",
   "lastOpenFiles": [
-    "resources",
-    "sem1/V/AUD/_RSRC",
-    "sem1/V/DMath/rsrc",
+    "sem1/AUD/rsrc/AD_ottmann&widmayer.pdf",
+    "var/attachments/eprog_vk_ex.1.x-5.x.pdf",
+    "var/attachments/eprog_vk_ex.5.x-8.x.pdf",
+    "var/attachments/PP_ersti-tag_D-INFK.pdf",
+    "sem1/V/DMath/ass/DMath ex. 1.md",
+    "sem1/DMath/DMath.md",
+    "sem1/LinAlg/rsrc",
+    "sem1/LinAlg/ass",
+    "sem1/EProg/rsrc",
+    "sem1/EProg/ass",
+    "sem1/AUD/rsrc",
+    "sem1/AUD/ass",
+    "sem1/DMath/ass",
     "sem1/V/DMath/DMath_script.md",
-    "sem1/V/DMath/DMath.md",
-    "sem1/V/DMath/rsrc/DMath_script.pdf",
-    "var/attachments/DMath_ex.1.pdf",
-    "sem1/V/AUD/V1_introduction to algorithms.md",
-    "sem1/V/DMath/V1_mathematical propositions.md",
-    "sem1/V/DMath/V2_propositions and logical operators.md",
-    "sem1/V/DMath/V3.md",
-    "sem1/V/LinAlg/LinAlg.md",
-    "sem1/V/LinAlg/V1_introduction to vectors.md",
-    "sem1/V/EProg/V1_EBNF.md",
-    "sem1/V/EProg/EProg.md",
-    "sem1/V/EProg/V2_EBNF+.md",
-    "sem1/V/AUD/AUD.md",
-    "sem1/U/U_AUD/ex.1.md",
-    "sem1/U/U_DMath/DMath ex. 1.md",
+    "sem1/AUD/V1_introduction to algorithms.md",
+    "sem1/DMath/V1_mathematical propositions.md",
+    "sem1/DMath/V2_propositions and logical operators.md",
+    "sem1/DMath/V3.md",
+    "sem1/LinAlg/LinAlg.md",
+    "sem1/LinAlg/V1_introduction to vectors.md",
+    "sem1/EProg/V1_EBNF.md",
+    "sem1/EProg/EProg.md",
+    "sem1/EProg/V2_EBNF+.md",
+    "sem1/AUD/AUD.md",
+    "sem1/AUD/ass/ex.1.md",
     "README.md",
-    "sem1/U",
-    "sem1/V",
     "etc/closure.md",
     "DM/V1.md",
-    "sem1/U/U_LinAlg/LinAlg_ex. 0.md",
-    "sem1/V/LinAlg/V",
-    "sem1/U/U_LinAlg",
-    "sem1/V/LinAlg",
-    "sem1/V/EProg/V",
-    "sem1/U/U_EProg/EProg_u.1.md",
+    "sem1/LinAlg/ass/LinAlg_ex. 0.md",
+    "sem1/EProg/ass/EProg_u.1.md",
     "sem1/EProg/VK.md",
     "sem1/DiskMath/script.md",
     "etc/ersti tag.md",

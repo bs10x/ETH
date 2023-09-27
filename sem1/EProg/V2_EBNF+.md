@@ -1,0 +1,4 @@
+---
+"lecture:": "[[EProg]]"
+"tags:":
+---
