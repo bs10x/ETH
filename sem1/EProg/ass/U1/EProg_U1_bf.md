@@ -28,7 +28,8 @@ Erstellen Sie eine Beschreibung \<x2ygemischt\> , die als legale Symbole genau j
 >*x* <= X | ( X { x } )
 >*2y* <= Y | ( Y { 2y } )
 >*x2ygemischt* <= ( x 2y ) 
->*x2ygemischt* <= XYY | YYX \[x2ygemischt]
+>
+>*x2ygemischt* <= (X \[x2ygemischt] YY) | (YY \[x2ygemischt] X)
 >
 
 ^^^^^^^^^nochmal anschauen
