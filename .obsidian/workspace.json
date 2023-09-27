@@ -37,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/AUD/V1_introduction to algorithms.md",
+                "file": "sem1/AuD/V1_introduction to algorithms.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "55e894f1df7f0531",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/AuD/rsrc/ass/AuD_U0_S.pdf"
               }
             }
           },
@@ -54,17 +64,19 @@
             }
           },
           {
-            "id": "55e894f1df7f0531",
+            "id": "81ddc20a40862d1e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/AUD/rsrc/ass/AuD_U0_S.pdf"
+                "file": "sem1/AuD/V3_.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,22 +209,27 @@
   },
   "active": "04f80e2e44789c0e",
   "lastOpenFiles": [
-    "sem1/AUD/rsrc/ass/AuD_U0_S.pdf",
-    "sem1/AUD/rsrc/ass/AuD_U0_E.pdf",
-    "sem1/AUD/rsrc/ass/AuD_U0_bf.md",
+    "sem1/AuD/V1_introduction to algorithms.md",
+    "sem1/AuD/V4_.md",
+    "sem1/AuD/V3_.md",
+    "sem1/AuD/V2_.md",
+    "sem1/AuD/AuD.md",
+    "AuD_graphtheory-script.pdf]], [[AuD_ottmann&widmayer.md",
+    "sem1/AuD/rsrc/ass/AuD_U0_bf.md",
+    "sem1/AuD/rsrc/ass/AuD_U0_S.pdf",
+    "sem1/AuD/rsrc/ass/AuD_U0_E.pdf",
     "etc/ersti tag.md",
-    "sem1/AUD/rsrc/AuD_graphtheory-script.pdf",
+    "sem1/AuD/rsrc/AuD_graphtheory-script.pdf",
     "sem1/AUD/rsrc/ass/bfeitknecht",
     "sem1/AUD/rsrc/ass/solutions",
     "sem1/AUD/rsrc/ass/exercises",
     "sem1/AUD/rsrc/exercises",
     "sem1/AUD/rsrc/literature",
-    "sem1/AUD/rsrc/AuD_script.pdf",
-    "sem1/AUD/rsrc/AuD_ottmann&widmayer.pdf",
+    "sem1/AuD/rsrc/AuD_script.pdf",
+    "sem1/AuD/rsrc/AuD_ottmann&widmayer.pdf",
     "sem1/V/DMath/ass/DMath ex. 1.md",
     "sem1/DMath/DMath.md",
     "sem1/V/DMath/DMath_script.md",
-    "sem1/AUD/V1_introduction to algorithms.md",
     "sem1/DMath/V1_mathematical propositions.md",
     "sem1/DMath/V2_propositions and logical operators.md",
     "sem1/DMath/V3.md",
@@ -221,7 +238,6 @@
     "sem1/EProg/V1_EBNF.md",
     "sem1/EProg/EProg.md",
     "sem1/EProg/V2_EBNF+.md",
-    "sem1/AUD/AUD.md",
     "README.md",
     "etc/closure.md",
     "DM/V1.md",
@@ -229,9 +245,6 @@
     "sem1/EProg/ass/EProg_u.1.md",
     "sem1/EProg/VK.md",
     "sem1/DiskMath/script.md",
-    "LA/Vector and matrix multiplications.md",
-    "wtf, why???.md",
-    "2023-09-20.md",
     "Untitled.canvas"
   ]
 }
