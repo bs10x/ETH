@@ -60,6 +60,7 @@
   "lineSizeMultiplier": 1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "collapse-forces": false,
   "centerStrength": 0.5,
   "repelStrength": 10,
@@ -70,14 +71,21 @@
 =======
 >>>>>>> c74bd39 (vault backup: 2023-09-27 08:51:27)
   "collapse-forces": true,
+=======
+  "collapse-forces": false,
+>>>>>>> da431b1 (vault backup: 2023-09-27 09:21:27)
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 11.1515299479167,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 78,
   "scale": 1,
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 84b8cec (vault backup: 2023-09-25 16:44:36 bullshit)
 =======
 >>>>>>> c74bd39 (vault backup: 2023-09-27 08:51:27)
   "close": false
+=======
+  "close": true
+>>>>>>> 5bfc1e2 (vault backup: 2023-09-27 09:11:27)
 }

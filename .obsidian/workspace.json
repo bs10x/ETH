@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/V/V1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b6be6accd46101c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "sem1/V/DMath/V1_mathematical propositions.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,22 +25,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/V/V2.md",
+                "file": "sem1/V/DMath/V2_propositions and logical operators.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "19ac3a6119c04504",
+            "id": "99e836f84b3a9fb9",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/V/AUD/V1_introduction to algorithms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04f80e2e44789c0e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "e06d02d30262eafc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/V/DMath/DMath.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "sem1/V/DMath/DMath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "sem1/V/DMath/DMath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "sem1/V/DMath/DMath.md"
               }
             }
           },
@@ -187,38 +201,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b6be6accd46101c",
+  "active": "c398bd3b91f8068c",
   "lastOpenFiles": [
-    "etc/closure.md",
-    "sem1/DMath/DMath.md",
-    "sem1/DMath/V/V1.md",
-    "sem1/DMath/V/V2.md",
-    "sem1/DMath/U/DMath ex. 1.md",
-    "sem1/DMath/V/script.md",
-    "sem1/DMath/V/V3.md",
+    "resources",
+    "sem1/V/AUD/_RSRC",
+    "sem1/V/DMath/rsrc",
+    "sem1/V/DMath/DMath_script.md",
+    "sem1/V/DMath/DMath.md",
+    "sem1/V/DMath/rsrc/DMath_script.pdf",
     "var/attachments/DMath_ex.1.pdf",
-    "sem1/A&D/V/V1.md",
-    "sem1/A&D/U/ex.1.md",
+    "sem1/V/AUD/V1_introduction to algorithms.md",
+    "sem1/V/DMath/V1_mathematical propositions.md",
+    "sem1/V/DMath/V2_propositions and logical operators.md",
+    "sem1/V/DMath/V3.md",
+    "sem1/V/LinAlg/LinAlg.md",
+    "sem1/V/LinAlg/V1_introduction to vectors.md",
+    "sem1/V/EProg/V1_EBNF.md",
+    "sem1/V/EProg/EProg.md",
+    "sem1/V/EProg/V2_EBNF+.md",
+    "sem1/V/AUD/AUD.md",
+    "sem1/U/U_AUD/ex.1.md",
+    "sem1/U/U_DMath/DMath ex. 1.md",
+    "README.md",
+    "sem1/U",
+    "sem1/V",
+    "etc/closure.md",
     "DM/V1.md",
-    "sem1/LinAlg/V/Vector and matrix multiplications.md",
-    "sem1/LinAlg/U/LinAlg_ex. 0.md",
-    "sem1/LinAlg/V",
-    "sem1/LinAlg/U",
-    "sem1/LinAlg",
-    "sem1/EProg/V/EProg_V1.md",
-    "sem1/EProg/V",
-    "sem1/EProg/U/EProg_u.1.md",
-    "sem1/EProg/U",
-    "sem1/DMath/V",
-    "sem1/DMath/U",
-    "sem1/DMath",
-    "sem1/A&D/V",
+    "sem1/U/U_LinAlg/LinAlg_ex. 0.md",
+    "sem1/V/LinAlg/V",
+    "sem1/U/U_LinAlg",
+    "sem1/V/LinAlg",
+    "sem1/V/EProg/V",
+    "sem1/U/U_EProg/EProg_u.1.md",
     "sem1/EProg/VK.md",
     "sem1/DiskMath/script.md",
     "etc/ersti tag.md",
     "LA/Vector and matrix multiplications.md",
     "wtf, why???.md",
-    "README.md",
     "2023-09-20.md",
     "Untitled.canvas"
   ]

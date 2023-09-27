@@ -1,1 +1,0 @@
-![[DMath_script.pdf]]
