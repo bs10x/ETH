@@ -28,6 +28,8 @@ Erstellen Sie eine Beschreibung \<x2ygemischt\> , die als legale Symbole genau j
 >*x* <= X | ( X { x } )
 >*2y* <= Y | ( Y { 2y } )
 >*x2ygemischt* <= ( x 2y ) 
+>*x2ygemischt* <= X | YY \[x2ygemischt]
+>
 
 ^^^^^^^^^nochmal anschauen
 
@@ -55,4 +57,4 @@ Erstellen Sie eine EBNF Beschreibung \<doppelt\> , die als legale Symbole genau 
 >[!example] solution
 >*x* <= X | ( X { x } )
 >*2y* <= YY | ( YY { 2y } )
->*x2ygemischt* <= (x 2y)
+>*x2ygemischt* <= ( X | \[{X}] ) 
