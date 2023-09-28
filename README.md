@@ -7,3 +7,11 @@ This is my obsidian's GitHub repository, to keep track of my markdown notes, ass
 - implement smart-homepage, fork of @ziadomalik/ethz-assignment-viewer
 
 
+#oopsie
+oh wow, i just spent an hour trying to synv the /homepage directory and accidentally deleted everythiing for a moment, yeah.
+
+oof.
+
+now we good tho
+
+
