@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "etc/literature2buy?.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "etc/literature2buy?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "etc/literature2buy?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "etc/literature2buy?.md"
               }
             }
           },
@@ -191,10 +191,11 @@
   },
   "active": "81bd159d27acb633",
   "lastOpenFiles": [
-    "etc/ersti tag.md",
-    "README.md",
-    "sem1/AuD/ass/U1/AuD_U1_bf.md",
     "etc/closure.md",
+    "etc/literature2buy?.md",
+    "README.md",
+    "etc/ersti tag.md",
+    "sem1/AuD/ass/U1/AuD_U1_bf.md",
     "sem1/AuD/V2_.md",
     "sem1/AuD/V1_introduction to algorithms.md",
     "sem1/AuD/V3_.md",
@@ -226,7 +227,6 @@
     "sem1/DMath/DMath.md",
     "sem1/DMath/ass/U1/DMath_U1_e.pdf",
     "sem1/AuD/V4_.md",
-    "sem1/LinAlg/V2_.md",
     "Untitled.canvas"
   ]
 }
