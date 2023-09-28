@@ -1,7 +1,0 @@
-<div id="menu">
-        <ul>
-            <li><a href="./" onFocus="if(this.blur)this.blur()">HOME/</a></li>
-            <li><a href="download/" onFocus="if(this.blur)this.blur()">DOWNLOAD/</a></li>
-            <li><a href="private/" onFocus="if(this.blur)this.blur()">PRIVATE/</a></li>
-        </ul>
-    </div>
