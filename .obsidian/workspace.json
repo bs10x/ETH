@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_bf.md",
+                "file": "sem.1/DMath/ass/U1/DMath_U1_bf.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_bf.md",
+                "file": "sem.1/DMath/ass/U1/DMath_U1_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_bf.md",
+                "file": "sem.1/DMath/ass/U1/DMath_U1_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_bf.md"
+                "file": "sem.1/DMath/ass/U1/DMath_U1_bf.md"
               }
             }
           },
@@ -165,42 +165,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa2b1d8ac5b49f65",
+  "active": "c398bd3b91f8068c",
   "lastOpenFiles": [
-    "sem1/DMath/ass/U1/DMath_U1_bf.md",
-    "sem1/LinAlg/LinAlg.md",
-    "sem1/LinAlg/ass/U1/LinAlg_U1_bf.md",
-    "sem1/DMath/V2_propositions and logical operators.md",
-    "sem1/DMath/V3_predicates.md",
+    "sem.1/DMath/ass/U1/DMath_U1_bf.md",
+    "sem.1/LinAlg/LinAlg.md",
+    "sem.1/LinAlg/ass/U1/LinAlg_U1_bf.md",
+    "sem.1/DMath/V2_propositions and logical operators.md",
+    "sem.1/DMath/V3_predicates.md",
     "sem1.md",
-    "sem1/LinAlg/V3_.md",
-    "sem1/EProg/ass/U1/EProg_U1_bf.md",
-    "sem1/LinAlg/ass/U1/LinAlg_U1_e.pdf",
-    "sem1/EProg/ass/U1/EProg_U1_e.pdf",
-    "sem1/AuD/V2_.md",
-    "sem1/AuD/V1_introduction to algorithms.md",
-    "sem1/AuD/ass/U0/AuD_U0_bf.md",
-    "sem1/EProg/V1_EBNF.md",
-    "sem1/DMath/rsrc/DMath_script.pdf",
-    "sem1/DMath/DMath.md",
-    "sem1/DMath/ass/U1/DMath_U1_e.pdf",
+    "sem.1/LinAlg/V3_.md",
+    "sem.1/EProg/ass/U1/EProg_U1_bf.md",
+    "sem.1/LinAlg/ass/U1/LinAlg_U1_e.pdf",
+    "sem.1/EProg/ass/U1/EProg_U1_e.pdf",
+    "sem.1/AuD/V2_.md",
+    "sem.1/AuD/V1_introduction to algorithms.md",
+    "sem.1/AuD/ass/U0/AuD_U0_bf.md",
+    "sem.1/EProg/V1_EBNF.md",
+    "sem.1/DMath/rsrc/DMath_script.pdf",
+    "sem.1/DMath/DMath.md",
+    "sem.1/DMath/ass/U1/DMath_U1_e.pdf",
     "sem1/AuD/ass/U1/AuD_U1_bf_tex-test.tex",
-    "sem1/DMath/ass/U1/DMath_U1_bf.pdf",
-    "sem1/AuD/V3_.md",
-    "sem1/AuD/ass/U1/AuD_U1_e.pdf",
+    "sem.1/DMath/ass/U1/DMath_U1_bf.pdf",
+    "sem.1/AuD/V3_.md",
+    "sem.1/AuD/ass/U1/AuD_U1_e.pdf",
     "sem1/Untitled",
     "sem1/DMath/ass/U1/Untitled",
-    "sem1/AuD/V4_.md",
-    "sem1/DMath/V1_mathematical propositions.md",
-    "sem1/AuD/ass/U0/AuD_U0_s.pdf",
-    "sem1/LinAlg/V2_.md",
+    "sem.1/AuD/V4_.md",
+    "sem.1/DMath/V1_mathematical propositions.md",
+    "sem.1/AuD/ass/U0/AuD_U0_s.pdf",
+    "sem.1/LinAlg/V2_.md",
     "conflict-files-obsidian-git.md",
-    "sem1/EProg/V3_.md",
-    "sem1/EProg/V2_EBNF+.md",
-    "sem1/LinAlg/V1_introduction to vectors.md",
-    "sem1/EProg/EProg.md",
+    "sem.1/EProg/V3_.md",
+    "sem.1/EProg/V2_EBNF+.md",
+    "sem.1/LinAlg/V1_introduction to vectors.md",
+    "sem.1/EProg/EProg.md",
     "sem1/EProg/rsrc/ass/U0/EProg_u.1.md",
-    "sem1/AuD/AuD.md",
+    "sem.1/AuD/AuD.md",
     "AuD_graphtheory-script.pdf]], [[AuD_ottmann&widmayer.md",
     "etc/ersti tag.md",
     "Untitled.canvas"
