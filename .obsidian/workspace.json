@@ -103,7 +103,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ETH.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ETH.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ETH.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ETH.md"
+                "file": "README.md"
               }
             }
           },
@@ -438,7 +438,7 @@
     "sem1/LinAlg/LinAlg.md",
     "sem1/LinAlg/rsrc/LinAlg_script.pdf",
     "etc/closure.md",
-    "ETH.md",
+    "README.md",
     "etc/ersti tag.md",
     "sem1/AuD/V2_.md",
     "sem1/AuD/V1_introduction to algorithms.md",
