@@ -20,6 +20,7 @@
           {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "id": "1354077be283de94",
             "type": "leaf",
             "state": {
@@ -51,64 +52,21 @@
 =======
 >>>>>>> e9c7f6a (vault backup: 2023-09-28 07:11:13 from bullshit)
             "id": "0eedb29fba448cfa",
+=======
+            "id": "6ba9ab59eb31ad34",
+>>>>>>> ae6aaad (vault backup: 2023-09-28 10:28:14 from bullshit)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/EProg/ass/U1/EProg_U1_bf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c484f1e7b4c0213c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/AuD/V2_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81bd159d27acb633",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/LinAlg/LinAlg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2857600ed72f323d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "etc/literature2buy?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78e91a10547888db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_bf.md",
+                "file": "sem1/AuD/V3_star search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -192,6 +150,13 @@
         ],
         "currentTab": 5
 >>>>>>> 32c18d1 (vault backup: 2023-09-28 08:24:03 from bullshit)
+=======
+        ]
+>>>>>>> c9e14bd (vault backup: 2023-09-28 10:18:14 from bullshit)
+=======
+        ],
+        "currentTab": 1
+>>>>>>> ae6aaad (vault backup: 2023-09-28 10:28:14 from bullshit)
       }
     ],
     "direction": "vertical"
@@ -220,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Star-Search",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,7 +202,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -257,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_bf.md",
+                "file": "sem1/AuD/V3_star search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_bf.md",
+                "file": "sem1/AuD/V3_star search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/ass/U1/DMath_U1_bf.md"
+                "file": "sem1/AuD/V3_star search.md"
               }
             }
           },
@@ -327,6 +293,9 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -432,25 +401,34 @@
 =======
   "active": "78e91a10547888db",
 >>>>>>> 32c18d1 (vault backup: 2023-09-28 08:24:03 from bullshit)
+=======
+  "active": "04f80e2e44789c0e",
+>>>>>>> c9e14bd (vault backup: 2023-09-28 10:18:14 from bullshit)
+=======
+  "active": "6ba9ab59eb31ad34",
+>>>>>>> ae6aaad (vault backup: 2023-09-28 10:28:14 from bullshit)
+=======
+  "active": "4011d2d5f618ea0c",
+>>>>>>> e93dcfa (vault backup: 2023-09-28 10:38:14 from bullshit)
   "lastOpenFiles": [
+    "sem1/AuD/V2_big O notation.md",
+    "sem1/AuD/V1_introduction to algorithms.md",
+    "sem1/AuD/V3_star search.md",
+    "sem1/AuD/ass/U1/AuD_U1_bf.md",
+    "sem1/DMath/ass/U1/DMath_U1_bf.md",
     "README.md",
     "sem1/AuD/ass/U1/AuD_U1_e.pdf",
-    "sem1/AuD/ass/U1/AuD_U1_bf.md",
     "etc/literature2buy?.md",
     "sem1/LinAlg/LinAlg.md",
     "sem1/LinAlg/rsrc/LinAlg_script.pdf",
     "etc/closure.md",
     "etc/ersti tag.md",
-    "sem1/AuD/V2_.md",
-    "sem1/AuD/V1_introduction to algorithms.md",
-    "sem1/AuD/V3_.md",
     "sem1/AuD/AuD.md",
     "sem1/AuD/rsrc/AuD_graph-theory_new&concise.pdf",
     "sem1/AuD/rsrc/AuD_graph-theory_old&extensive.pdf",
     "sem1/EProg/ass/U1/EProg_U1_bf.md",
     "sem1/EProg/EProg.md",
     "sem1/DMath/V3_predicates.md",
-    "sem1/DMath/ass/U1/DMath_U1_bf.md",
     "sem1/LinAlg/V1_introduction to vectors.md",
     "sem1/EProg/rsrc/EProg_vk_ex.1.x-5.x.pdf",
     "sem1/EProg/rsrc/EProg_vk_ex.5.x-8.x.pdf",
