@@ -27,6 +27,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -102,12 +103,19 @@
     {
       "query": "path:\"sem1/Linalg\"",
 >>>>>>> 38c2547 (vault backup: 2023-09-2710:09:38 from iPad)
+=======
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:sem1/AuD",
+>>>>>>> b1670ee (vault backup: 2023-09-28 07:08:25 from bullshit)
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "query": "",
 =======
@@ -174,19 +182,30 @@
       "color": {
         "a": 1,
         "rgb": 16716032
+=======
+      "query": "path:sem1/DMath  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+>>>>>>> b1670ee (vault backup: 2023-09-28 07:08:25 from bullshit)
       }
     },
     {
       "query": "path:sem1/LinAlg  ",
       "color": {
         "a": 1,
+<<<<<<< HEAD
         "rgb": 16771584
+=======
+        "rgb": 11657298
+>>>>>>> b1670ee (vault backup: 2023-09-28 07:08:25 from bullshit)
       }
     },
     {
       "query": "path:sem1/EProg  ",
       "color": {
         "a": 1,
+<<<<<<< HEAD
         "rgb": 65280
       }
     }
@@ -199,6 +218,12 @@
 >>>>>>> 09cd9fd (vault backup: 2023-09-28 07:01:13 from bullshit)
   "colorGroups": [],
 >>>>>>> cb31619 (vault backup: 2023-09-2712:33:14 from iPad)
+=======
+        "rgb": 5431378
+      }
+    }
+  ],
+>>>>>>> b1670ee (vault backup: 2023-09-28 07:08:25 from bullshit)
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -262,10 +287,20 @@
 =======
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 20,
+  "repelStrength": 17.85400390625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.33902597629280695,
+<<<<<<< HEAD
+<<<<<<< HEAD
+  "scale": 0.24155747753237652,
   "close": false
 }
 >>>>>>> 81c5f31 (vault backup: 2023-09-27 10:29:11 bullshit)
+=======
+  "scale": 0.31662886962107945,
+=======
+  "scale": 0.23302133162213093,
+>>>>>>> 95f74df (vault backup: 2023-09-28 08:01:30 from bullshit)
+  "close": true
+}
+>>>>>>> b1670ee (vault backup: 2023-09-28 07:08:25 from bullshit)

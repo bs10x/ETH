@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/AuD/V1_introduction to algorithms.md",
+                "file": "sem1/DMath/ass/U1/DMath_U1_bf.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/AuD/V1_introduction to algorithms.md",
+            "file": "sem1/DMath/ass/U1/DMath_U1_bf.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/AuD/V1_introduction to algorithms.md",
+            "file": "sem1/DMath/ass/U1/DMath_U1_bf.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/AuD/V1_introduction to algorithms.md"
+            "file": "sem1/DMath/ass/U1/DMath_U1_bf.md"
           }
         }
       }
@@ -144,7 +144,14 @@
   },
   "active": "b0e14dd51054459d",
   "lastOpenFiles": [
+    "sem1/DMath/V3_predicates.md",
     "sem1/AuD/V1_introduction to algorithms.md",
+    "sem1/EProg/ass",
+    "sem1/EProg/ass/U1/EProg_U1_e.pdf",
+    "sem1/EProg/ass/U1",
+    "sem1/LinAlg/ass/U1/LinAlg_U1_bf.md",
+    "sem1/EProg/ass/U1/EProg_U1_bf.md",
+    "sem1/LinAlg/ass/U1/LinAlg_U1_e.pdf",
     "sem1/AuD/AuD.md",
     "sem1/AuD/ass/U0/AuD_U0_bf.md",
     "sem1/AuD/ass/U1",
@@ -154,12 +161,8 @@
     "sem1/AuD/rsrc",
     "sem1/AuD/V3_.md",
     "sem1/AuD",
-    "sem1/AuD/ass/U0/AuD_U0_e.pdf",
-    "sem1/AuD/rsrc/AuD_graphtheory-script.pdf",
     "sem1/AuD/V2_.md",
     "sem1/AuD/V4_.md",
-    "sem1/AuD/rsrc/AuD_ottmann&widmayer.pdf",
-    "sem1/AuD/ass/U1/AuD_U1_e.pdf",
     "sem1/EProg/EProg.md",
     "sem1/DMath/DMath.md",
     "sem1/LinAlg/ass/U1/LinAlg_ex. 0.md",
@@ -176,10 +179,6 @@
     "sem1/AUD/AUD.md",
     "sem1/DMath/V3.md",
     "etc/closure.md",
-    "sem1/AUD/V3_.md",
-    "sem1/DMath/V1_mathematical propositions.md",
-    "sem1/LinAlg/LinAlg.md",
-    "sem1/LinAlg/ass/LinAlg_ex. 0.md",
     "Untitled.canvas",
     "test/canvas-test.canvas",
     "Hello, World!.canvas"
