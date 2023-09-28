@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Star-Search",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ba9ab59eb31ad34",
+  "active": "4011d2d5f618ea0c",
   "lastOpenFiles": [
     "sem1/AuD/V2_big O notation.md",
     "sem1/AuD/V1_introduction to algorithms.md",
