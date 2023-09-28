@@ -72,4 +72,5 @@ truth table of G
 
 F $\equiv$ A  (A  B)  ((A  B)  C)
 q.e.d.
+
 ___

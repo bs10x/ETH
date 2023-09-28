@@ -1,6 +1,9 @@
 ---
 "course:": "[[DMath]]"
-"tags:":
+"tags:": 
+"exercises:": "[[DMath_U1_e.pdf]]"
+"solutions:": "[[DMath_U1_s.pdf]]"
+"hand in:": "[[DMath_U1_bf]]"
 ---
 
 #sem1 #dmath
