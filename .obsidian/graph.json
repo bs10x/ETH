@@ -286,9 +286,10 @@
 >>>>>>> 14698c8 (vault backup: 2023-09-27 10:27:11 bullshit)
 =======
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 17.85400390625,
+  "centerStrength": 0.1395263671875,
+  "repelStrength": 6.95719401041667,
   "linkStrength": 1,
+<<<<<<< HEAD
   "linkDistance": 250,
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -308,3 +309,9 @@
   "close": true
 }
 >>>>>>> b1670ee (vault backup: 2023-09-28 07:08:25 from bullshit)
+=======
+  "linkDistance": 413,
+  "scale": 0.22865293651198773,
+  "close": false
+}
+>>>>>>> 57656e2 (vault backup: 2023-09-28 10:58:14 from bullshit)
