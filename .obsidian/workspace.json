@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/EProg/EProg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/EProg/EProg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/EProg/EProg.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,11 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9bd0d2fbcd81a232",
+  "active": "04f80e2e44789c0e",
   "lastOpenFiles": [
+    "sem1/EProg/EProg.md",
     "sem1/LinAlg/V1_introduction to vectors.md",
     "var/attachments/EProg_vk_ex.1.x-5.x.pdf",
-    "sem1/EProg/EProg.md",
     "var/attachments/EProg_vk_ex.5.x-8.x.pdf",
     "sem1/LinAlg/LinAlg.md",
     "sem1/LinAlg/ass/U1/LinAlg_U1_e.pdf",
