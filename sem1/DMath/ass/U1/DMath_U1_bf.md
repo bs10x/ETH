@@ -23,10 +23,8 @@
 |   1 	|   1	|   1 	|   0	|   1	|
 
 (A  B)  C $\equiv$ A  (B  C)
-q.e.d.
+q.e.d.  
 ____
-___
-___
 
 
 
@@ -39,10 +37,9 @@ ___
 | 1 | 1 | 0 | 0 | 1 | 1 |
 
 $\neg$A $\wedge$ $\neg$B $\equiv$ $\neg$(A  B)
-q.e.d.
+q.e.d.  
 ____
-___
-___
+
 
 ###### c.
 truth table of F:
@@ -73,8 +70,7 @@ truth table of G:
 | 1 | 1 | 1 | 0     | 1           | 1                       | 0                           |
 
 F $\equiv$ A  (A  B)  ((A  B)  C)
-q.e.d.
+q.e.d.  
+___
 
-___
-___
-___
+
