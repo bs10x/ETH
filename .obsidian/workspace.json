@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/literature2buy?.md",
+                "file": "sem1/LinAlg/LinAlg.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etc/literature2buy?.md",
+                "file": "sem1/LinAlg/LinAlg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "etc/literature2buy?.md",
+                "file": "sem1/LinAlg/LinAlg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "etc/literature2buy?.md"
+                "file": "sem1/LinAlg/LinAlg.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "81bd159d27acb633",
   "lastOpenFiles": [
-    "etc/closure.md",
     "etc/literature2buy?.md",
+    "sem1/LinAlg/rsrc/LinAlg_script.pdf",
+    "etc/closure.md",
     "README.md",
     "etc/ersti tag.md",
     "sem1/AuD/ass/U1/AuD_U1_bf.md",
@@ -225,8 +226,6 @@
     "sem1/EProg/ass/U1/EProg_U1_e.pdf",
     "sem1/DMath/rsrc/DMath_script.pdf",
     "sem1/DMath/DMath.md",
-    "sem1/DMath/ass/U1/DMath_U1_e.pdf",
-    "sem1/AuD/V4_.md",
     "Untitled.canvas"
   ]
 }
