@@ -17,9 +17,16 @@
 
 >[!example] **rekursiver Ansatz:**
 >n $\geq$ 3
->1. finde *Star* $P_s$ unter $P_1$ ... $P_{n-1}$
->2. teste, ob $P_s$ auch Star ist für $P_1$ ... $P_n$ (+2 Fragen}
->3. teste, ob $P_n$ Star ist für $P_1$ ... $P_{n-1}$ (+2 Fragen)
+>1. finde *"Star"* $P_s$ unter $P_1$ ... $P_{n-1}$
+>2. teste, ob $P_s$ auch Star ist für $P_1$ ... $P_n$ $\quad$ (+2 Fragen}
+>3. teste, ob $P_n$ Star ist für $P_1$ ... $P_{n-1}$ $\quad$ (+2 Fragen)
+>
+>best case: (nie Schritt 3)
+>
+>
+>worst case: (immer Schritt 3)
+
+
 
 
 

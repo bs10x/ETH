@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Star-Search",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/V3_star search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/V3_star search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/AuD/V3_star search.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,11 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4011d2d5f618ea0c",
+  "active": "04f80e2e44789c0e",
   "lastOpenFiles": [
+    "sem1/AuD/V3_star search.md",
     "sem1/AuD/V2_big O notation.md",
     "sem1/AuD/V1_introduction to algorithms.md",
-    "sem1/AuD/V3_star search.md",
     "sem1/AuD/ass/U1/AuD_U1_bf.md",
     "sem1/DMath/ass/U1/DMath_U1_bf.md",
     "README.md",
