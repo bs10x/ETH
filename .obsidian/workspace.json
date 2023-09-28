@@ -101,9 +101,11 @@
             "id": "78e91a10547888db",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_e.pdf"
+                "file": "ETH.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -255,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_e.pdf",
+                "file": "ETH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +274,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_e.pdf",
+                "file": "ETH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_e.pdf"
+                "file": "ETH.md"
               }
             }
           },
@@ -430,12 +432,13 @@
   "active": "78e91a10547888db",
 >>>>>>> 32c18d1 (vault backup: 2023-09-28 08:24:03 from bullshit)
   "lastOpenFiles": [
+    "sem1/AuD/ass/U1/AuD_U1_e.pdf",
     "sem1/AuD/ass/U1/AuD_U1_bf.md",
     "etc/literature2buy?.md",
     "sem1/LinAlg/LinAlg.md",
     "sem1/LinAlg/rsrc/LinAlg_script.pdf",
     "etc/closure.md",
-    "README.md",
+    "ETH.md",
     "etc/ersti tag.md",
     "sem1/AuD/V2_.md",
     "sem1/AuD/V1_introduction to algorithms.md",
