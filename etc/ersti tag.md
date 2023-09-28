@@ -1,3 +1,4 @@
+[[etc]]
 
 - ziele herunterbrechen (jahresziele, semesterziele, monatsziele, wochenziele, tagesziele)
 - planung einplanen
