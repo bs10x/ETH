@@ -1,6 +1,8 @@
 ---
 "course:": "[[DMath]]"
-"tags:":
+"tags:": 
+"exercises:": 
+"hand in:":
 ---
 | A | B | A$\rightarrow$B | A$\wedge$(A$\rightarrow$B) | (A$\wedge$(A$\rightarrow$B)) $\rightarrow$ B |
 |---|---|-----------------|----------------------------|---|
