@@ -139,14 +139,21 @@
                 "file": "sem1/DMath/ass/U1/DMath_U1_bf.md"
               }
             }
+          },
+          {
+            "id": "6ad2d7c60308ac6d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
