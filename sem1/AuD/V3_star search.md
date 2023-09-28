@@ -30,4 +30,11 @@
 
 
 
-
+| $n$ | $Fragen \space B C \space P_1 \space ist \space Star$ | $Fragen \space WC \space P_n \space ist \space Star$ |
+| - | - | - |
+| $2$ | $+2$ | $+2$ |
+| $3$ | $+2$ | $+2 \cdot 2$ |
+| $4$ | $+2$ | $+2 \cdot 3$ |
+| $\vdots$ | $\vdots$ | $\vdots$ |
+| $n$ | $+2$ | $+2\cdot(n-1)$ |
+| $Total$ | $2(n-1)$ | $n(n-2)$ |
