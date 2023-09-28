@@ -15,8 +15,12 @@
 >alle $P_n$ fragen!
 >$\rightarrow$n*(n-1) elementare operationen
 
->[!example]**rekursiver Ansatz:**
->
+>[!example] **rekursiver Ansatz:**
+>n $\geq$ 3
+>1. finde *Star* $P_s$ unter $P_1$ ... $P_{n-1}$
+>2. teste, ob $P_s$ auch Star ist für $P_1$ ... $P_n$ (+2 Fragen}
+>3. teste, ob $P_n$ Star ist für $P_1$ ... $P_{n-1}$ (+2 Fragen)
+
 
 
 
