@@ -64,8 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78e91a10547888db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -131,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md"
+              }
             }
           },
           {
@@ -196,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04f80e2e44789c0e",
+  "active": "78e91a10547888db",
   "lastOpenFiles": [
     "etc/literature2buy?.md",
     "sem1/LinAlg/LinAlg.md",
