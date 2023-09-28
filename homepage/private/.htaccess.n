@@ -1,4 +1,0 @@
-AuthType shibboleth
-ShibRequireSession On
-ShibRedirectToSSL 443
-require uniqueID 4057267@ethz.ch
