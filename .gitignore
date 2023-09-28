@@ -5,3 +5,5 @@
 obsidian/.obsidian
 
 .gitignore
+
+/homepage
