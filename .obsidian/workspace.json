@@ -148,7 +148,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,7 +166,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "94d180a1eee092e9",
+  "active": "c398bd3b91f8068c",
   "lastOpenFiles": [
     "sem1/AuD/ass/U0/AuD_U0_bf.md",
     "sem1/DMath/ass/U1/DMath_U1_e.pdf",
