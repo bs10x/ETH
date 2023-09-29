@@ -3,14 +3,24 @@ name: deploy diff in bs10x/eth/homepage to /nas/bfeitknecht/homepage (ETH server
 on:
   push:
     branches:
-      - master 
-      
+      - master
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: checkout repository (get changes in the repository) 
+      - name: SSH key-setup
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H slab1.ethz.ch >> ~/.ssh/known_hosts
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+
+      - name: checkout repository (get changes in the repository)
         uses: actions/checkout@v2
 
       - name: copy files in bs10x/ETH/homepage to ETH server (hosted)
