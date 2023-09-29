@@ -25,6 +25,6 @@ jobs:
 
       - name: copy files in bs10x/ETH/homepage to ETH server (hosted)
         run: |
-          scp -r homepage/* bfeitknecht@slab1.ethz.ch:/homepage
+          scp -r homepage/* bfeitknecht@slab1.ethz.ch:homepage
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
