@@ -1,0 +1,20 @@
+name: deploy diff in bs10x/eth/homepage to /nas/bfeitknecht/homepage (ETH server)
+
+on:
+  push:
+    branches:
+      - master 
+      
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout repository (get changes in the repository) 
+        uses: actions/checkout@v2
+
+      - name: copy files in bs10x/ETH/homepage to ETH server (hosted)
+        run: |
+          scp -r homepage/* bfeitknecht@slab1.ethz.ch:/homepage
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
