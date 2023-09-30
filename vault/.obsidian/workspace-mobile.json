@@ -11,8 +11,12 @@
             "id": "eb3aed29933fc04e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "etc/ersti tag.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "etc/ersti tag.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "etc/ersti tag.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "etc/ersti tag.md"
+          }
         }
       }
     ],
@@ -125,6 +133,7 @@
   },
   "active": "eb3aed29933fc04e",
   "lastOpenFiles": [
+    "etc/private",
     "etc/pushfrommacbook.md",
     "push from ipad.md",
     "hello.md"
