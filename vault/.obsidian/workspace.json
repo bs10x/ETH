@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "ef0204964e2b9162",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e905e1a62b0b295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "372d21dcaccf7b0c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "6726ae807d87108b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/LinAlg/rsrc/LinAlg_blackboard-notes-pt-1.pdf"
+              }
+            }
+          },
+          {
+            "id": "70b28df814b8e184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe28d63e32c3168b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fddab58c0769d063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f4cf158045f14fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3eef01e3b58afb78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b14014a5400a500b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4be59d580df31d93",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9eab3abde570e06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3aff261bc292caf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d28441159ca953f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee946e358c8111ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f56d709fdb24392",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md"
+              }
+            }
+          },
+          {
+            "id": "d4d9e5cf2cd5e94b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "70b28df814b8e184",
+  "lastOpenFiles": [
+    "etc/private/testing .gitignore.md",
+    "sem1/AuD/ass/U1/AuD_U1_bf.md",
+    "etc/private/explanations.md",
+    "etc/private/closure.md",
+    "etc/private",
+    "sem1/LinAlg/rsrc/LinAlg_blackboard-notes-pt-1.pdf",
+    "vault/Untitled"
+  ]
+}
