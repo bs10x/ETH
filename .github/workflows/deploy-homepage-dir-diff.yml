@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'homepage/**'   # only trigger the workflow if changes are made inside the 'homepage' directory
+
 
 jobs:
   deploy:
