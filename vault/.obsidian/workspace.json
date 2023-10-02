@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70b28df814b8e184",
+  "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
-    "etc/private/testing .gitignore.md",
     "sem1/AuD/ass/U1/AuD_U1_bf.md",
+    "etc/private/testing .gitignore.md",
     "etc/private/explanations.md",
     "etc/private/closure.md",
     "etc/private",
