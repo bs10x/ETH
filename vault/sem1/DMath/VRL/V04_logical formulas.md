@@ -34,6 +34,9 @@ $(\exists x,\space (x \leq 2)) \space\wedge\space (\exists y,\space (y \geq 5)) 
 
 $(x<1) \wedge ((\exists y,\space \exists z), \space ((yz=x) \rightarrow (y=1)) \vee (z=1)) \overset{def.}{\Leftrightarrow}$ prime(x)
 
-prime(35)
+prime(35) = 1 $\wedge$ 1
+
+$\lnot \exists x \space P(x) \equiv
+
 
 

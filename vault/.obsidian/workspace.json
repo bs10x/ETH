@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/LinAlg/VRL/V10_.md",
+                "file": "sem1/DMath/VRL/V04_logical formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/VRL/V10_.md",
+                "file": "sem1/DMath/VRL/V04_logical formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/VRL/V10_.md",
+                "file": "sem1/DMath/VRL/V04_logical formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/LinAlg/VRL/V10_.md"
+                "file": "sem1/DMath/VRL/V04_logical formulas.md"
               }
             }
           },
@@ -167,6 +167,7 @@
   },
   "active": "a4d0dccb41809ec5",
   "lastOpenFiles": [
+    "sem1/LinAlg/VRL/V10_.md",
     "sem1/LinAlg/VRL/V09_.md",
     "sem1/LinAlg/VRL/V08_.md",
     "sem1/LinAlg/VRL/V07_.md",
@@ -192,7 +193,6 @@
     "sem1/AuD/VRL/V05_.md",
     "sem1/AuD/VRL/V03_star search.md",
     "sem1/AuD/VRL/V02_big O notation.md",
-    "sem1/AuD/VRL/V01_introduction to algorithms.md",
     "sem1/AuD/UE/U0/AuD_U0_e.pdf",
     "sem1/AuD/UE/U2/AuD_U2_e.pdf",
     "sem1/AuD/UE/U2",
