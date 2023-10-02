@@ -2,7 +2,7 @@
 .DS_Store
 
 vault/.obsidian
-vault/.obsidian/*
+vault/.obsidian/**
 
 
-vault/etc/private
+vault/etc/private/**
