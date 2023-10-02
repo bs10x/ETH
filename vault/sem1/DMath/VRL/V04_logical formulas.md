@@ -10,10 +10,14 @@
 
 >[!example] Prädikate:
 >Es gibt eine kleinste Zahl.
->$\exists x \forall y; \space x\leq y$
+>$\exists x \forall y; \space (x\leq y)$
 >
 >Es gibt nicht für jede Zahl eine (*noch*) kleinere.
->$\lnot\forall x \exists ; \space y (y<x)$
+>$\lnot\forall x \exists ; \space (y<x)$
+>
+>Formeln sind äquivalent.
+
+
 
 
 
@@ -36,7 +40,16 @@ $(x<1) \wedge ((\exists y,\space \exists z), \space ((yz=x) \rightarrow (y=1)) \
 
 prime(35) = 1 $\wedge$ 1
 
-$\lnot \exists x \space P(x) \equiv
+
+
+
+
+
+
+###  #Informelle-Äquivalenz
+$\lnot \exists x \space P(x) \equiv \forall  x \lnot P(x)$
+Durch Äquivalenz-transformation 
+
 
 
 
