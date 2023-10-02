@@ -48,8 +48,21 @@
                 "file": "sem1/AuD/ass/U1/AuD_U1_e.pdf"
               }
             }
+          },
+          {
+            "id": "0c95e3ba2cd7a883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/LinAlg/V3_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/LinAlg/V3_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/LinAlg/V3_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/LinAlg/V3_.md"
+              }
             }
           },
           {
@@ -180,12 +197,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372d21dcaccf7b0c",
+  "active": "0c95e3ba2cd7a883",
   "lastOpenFiles": [
-    "sem1/AuD/ass/U1/AuD_U1_e.pdf",
+    "sem1/LinAlg/V2_.md",
+    "sem1/LinAlg/V1_introduction to vectors.md",
+    "sem1/EProg/V3_.md",
+    "sem1/EProg/V2_EBNF+.md",
+    "sem1/EProg/V1_EBNF.md",
     "sem1/AuD/V3_star search.md",
     "sem1/AuD/V2_big O notation.md",
     "sem1/AuD/V1_introduction to algorithms.md",
+    "sem1/DMath/V1_mathematical propositions.md",
+    "sem1/DMath/V2_propositions and logical operators.md",
+    "sem1/DMath/V3_predicates.md",
+    "sem1/DMath/V4_.md",
+    "sem1/AuD/ass/U1/AuD_U1_e.pdf",
     "sem1/AuD/ass/U1/AuD_U1_bf.pdf",
     "sem1/AuD/ass/U1/AuD_U1_bf.md",
     "etc/private/testing .gitignore.md",

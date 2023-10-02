@@ -1,6 +1,5 @@
 ---
 "course:": "[[DMath]]"
-"tags:": 
 "exercises:": 
 "hand in:":
 ---
