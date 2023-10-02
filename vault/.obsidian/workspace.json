@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_e.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -185,12 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ffca03113257268",
+  "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
+    "sem1/AuD/ass/U1/AuD_U1_e.pdf",
     "sem1/AuD/V3_star search.md",
     "sem1/AuD/V2_big O notation.md",
     "sem1/AuD/V1_introduction to algorithms.md",
-    "sem1/AuD/ass/U1/AuD_U1_e.pdf",
     "sem1/AuD/ass/U1/AuD_U1_bf.pdf",
     "sem1/AuD/ass/U1/AuD_U1_bf.md",
     "etc/private/testing .gitignore.md",
