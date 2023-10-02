@@ -1,5 +1,6 @@
 ---
 "course:": "[[AuD]]"
+"exercises:":
 ---
 
 

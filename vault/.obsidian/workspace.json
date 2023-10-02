@@ -40,8 +40,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6620a4e8031522f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/AuD/VRL/V2_big O notation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "454143eff804b459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/AuD/VRL/V3_star search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/AuD/VRL/V3_star search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/AuD/VRL/V3_star search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/AuD/VRL/V3_star search.md"
+              }
             }
           },
           {
@@ -172,10 +201,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372d21dcaccf7b0c",
+  "active": "454143eff804b459",
   "lastOpenFiles": [
-    "sem1/DMath/rsrc/DMath.md",
+    "sem1/AuD/VRL/V2_big O notation.md",
+    "sem1/AuD/VRL/V1_introduction to algorithms.md",
+    "sem1/AuD/UE/U0/AuD_U0_e.pdf",
+    "sem1/AuD/VRL/V0_AuD.md",
+    "sem1/AuD/VRL/V3_star search.md",
+    "sem1/DMath/VRL/V4_.md",
+    "sem1/AuD/UE/U2/AuD_U2_e.pdf",
+    "sem1/AuD/UE/U2",
+    "sem1/EProg/UE/U0",
+    "sem1/LinAlg/UE/U0",
+    "sem1/DMath/UE/U2/DMath_U2_e.pdf",
+    "sem1/DMath/UE/U0",
+    "sem1/DMath/UE/U2",
     "sem1/AuD/UE/U0/AuD_U0_bf.md",
+    "sem1/AuD/UE/U1/AuD_U1_bf.md",
+    "sem1/DMath/rsrc/DMath.md",
     "sem1/LinAlg/VRL/V1_introduction to vectors.md",
     "sem1/LinAlg/VRL/V2_.md",
     "sem1/LinAlg/VRL/V3_.md",
@@ -194,20 +237,6 @@
     "sem1/EProg/VRL/V14_.md",
     "sem1/EProg/VRL/V13_.md",
     "sem1/EProg/VRL/V12_.md",
-    "sem1/EProg/VRL/V11_.md",
-    "sem1/EProg/VRL/V10_.md",
-    "sem1/EProg/VRL/V9_.md",
-    "sem1/EProg/VRL/V8_.md",
-    "sem1/EProg/VRL/V7_.md",
-    "sem1/EProg/VRL/V6_.md",
-    "sem1/EProg/VRL/V5_.md",
-    "sem1/EProg/VRL",
-    "sem1/DMath/VRL",
-    "sem1/AuD/VRL",
-    "sem1/AuD/UE/U1/AuD_U1_e.pdf",
-    "sem1/AuD/UE/U1/AuD_U1_bf.pdf",
-    "etc/private",
-    "sem1/LinAlg/rsrc/LinAlg_blackboard-notes-pt-1.pdf",
-    "vault/Untitled"
+    "sem1/EProg/VRL"
   ]
 }
