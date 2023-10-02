@@ -23,11 +23,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem1/DMath/UE/U2/DMath_U2_e.pdf"
+                "file": "sem1/DMath/rsrc/DMath_script.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/rsrc/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/rsrc/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/rsrc/DMath_script.pdf"
+              }
             }
           },
           {
@@ -159,8 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372d21dcaccf7b0c",
+  "active": "acdb145cdb79516a",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V01_mathematical propositions.md",
+    "sem1/DMath/VRL/V02_propositions, logical operators.md",
     "sem1/DMath/UE/U2/DMath_U2_e.pdf",
     "sem1/DMath/VRL/V04_logical formulas.md",
     "sem1/AuD/rsrc/AuD_UE.md",
@@ -183,8 +190,6 @@
     "sem1/EProg/VRL/V03_.md",
     "sem1/EProg/VRL/V02_EBNF+.md",
     "sem1/EProg/UE/U0/EProg_U0_e.pdf",
-    "sem1/DMath/VRL/V01_mathematical propositions.md",
-    "sem1/DMath/VRL/V02_propositions, logical operators.md",
     "sem1/DMath/VRL/V03_predicates.md",
     "sem1/DMath/UE/U0/DMath_U0_bf.md",
     "sem1/DMath/UE/U0/DMath_U0_s.md",
