@@ -1,8 +1,8 @@
 ---
 "course:": "[[LinAlg]]"
-"exercises:": "[[LinAlg_U1_e.pdf]]"
-"solutions:": 
-"hand in:": "[[LinAlg_U1_bf]]"
+"exercises:": "[[LinAlg_U0_e.pdf]]"
+"solutions:": "[[LinAlg_U0_s.pdf]]"
+"hand in:": "[[LinAlg_U0.pdf]]"
 ---
 
 
