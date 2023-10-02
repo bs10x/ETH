@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/ersti tag.md",
+                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "etc/ersti tag.md",
+            "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "etc/ersti tag.md",
+            "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "etc/ersti tag.md"
+            "file": "sem1/AuD/ass/U1/AuD_U1_bf.md"
           }
         }
       }
@@ -131,8 +131,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "738cfd633a44236e",
+  "active": "eb3aed29933fc04e",
   "lastOpenFiles": [
+    "etc/ersti tag.md",
     "etc/private",
     "etc/pushfrommacbook.md",
     "push from ipad.md",
