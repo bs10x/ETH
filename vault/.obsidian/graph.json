@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:sem1/AuD  ",
@@ -38,14 +38,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0.2,
+  "textFadeMultiplier": 1.1,
   "nodeSizeMultiplier": 0.74300537109375,
   "lineSizeMultiplier": 2.11255696614583,
   "collapse-forces": false,
   "centerStrength": 0.738850911458333,
-  "repelStrength": 14.8811848958333,
+  "repelStrength": 11.4444986979167,
   "linkStrength": 1,
-  "linkDistance": 60,
-  "scale": 0.46041636869065644,
+  "linkDistance": 30,
+  "scale": 0.5421267596465212,
   "close": false
 }
