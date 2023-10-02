@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "eb565bf54fb380ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/VRL/V4_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/VRL/V4_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/VRL/V4_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/DMath/VRL/V4_.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,12 +148,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb565bf54fb380ba",
+  "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V2_propositions, logical operators.md",
+    "sem1/DMath/VRL/V4_logical formulas.md",
+    "sem1/DMath/VRL/V3_predicates.md",
     "sem1/DMath/rsrc/DMath.md",
     "sem1/AuD/UE/U0/AuD_U0_bf.md",
     "sem1/AuD/VRL/V2_big O notation.md",
-    "sem1/DMath/VRL/V4_.md",
     "etc/private/explanations.md",
     "sem1/AuD/VRL/V3_star search.md",
     "sem1/AuD/VRL/V1_introduction to algorithms.md",
@@ -200,8 +185,6 @@
     "sem1/LinAlg/VRL/V14_.md",
     "sem1/LinAlg/VRL",
     "sem1/EProg/VRL/V14_.md",
-    "sem1/EProg/VRL/V13_.md",
-    "sem1/EProg/VRL/V12_.md",
     "sem1/EProg/VRL"
   ]
 }

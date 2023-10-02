@@ -5,7 +5,6 @@
 "hand in:": "[[DMath_U1_bf]]"
 ---
 
-#sem1 #dmath
 #### Bsp. 2.2:
 **Aussagen:
 - R = 2^143 ist *keine* Primzahl

@@ -32,7 +32,8 @@ $(\exists x,\space (x \leq 2)) \space\wedge\space (\exists y,\space (y \geq 5)) 
 
 
 
-$(x<1) \space\wedge\space \exists y,\space \exists z \space (yz=x) \rightarrow \space (y=1) \space\vee\space (z=1) \overset{def.}{\Leftrightarrow}$
-prime(x)
+$(x<1) \wedge ((\exists y,\space \exists z), \space ((yz=x) \rightarrow (y=1)) \vee (z=1)) \overset{def.}{\Leftrightarrow}$ prime(x)
+
+prime(35)
 
 
