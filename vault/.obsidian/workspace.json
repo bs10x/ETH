@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/AuD/VRL/V3_star search.md",
+                "file": "sem1/DMath/VRL/V4_.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/VRL/V3_star search.md",
+                "file": "sem1/DMath/VRL/V4_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/VRL/V3_star search.md",
+                "file": "sem1/DMath/VRL/V4_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/VRL/V3_star search.md"
+                "file": "sem1/DMath/VRL/V4_.md"
               }
             }
           },
@@ -204,10 +204,10 @@
   "active": "454143eff804b459",
   "lastOpenFiles": [
     "sem1/AuD/VRL/V2_big O notation.md",
+    "sem1/AuD/VRL/V3_star search.md",
     "sem1/AuD/VRL/V1_introduction to algorithms.md",
     "sem1/AuD/UE/U0/AuD_U0_e.pdf",
     "sem1/AuD/VRL/V0_AuD.md",
-    "sem1/AuD/VRL/V3_star search.md",
     "sem1/DMath/VRL/V4_.md",
     "sem1/AuD/UE/U2/AuD_U2_e.pdf",
     "sem1/AuD/UE/U2",
