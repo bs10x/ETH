@@ -18,43 +18,7 @@
             }
           },
           {
-            "id": "0a561a0a6a430868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/rsrc/DMath.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad0b71fc290531e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/AuD/UE/U0/AuD_U0_bf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6620a4e8031522f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/AuD/VRL/V2_big O notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "454143eff804b459",
+            "id": "eb565bf54fb380ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,14 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "454143eff804b459",
+  "active": "eb565bf54fb380ba",
   "lastOpenFiles": [
+    "sem1/DMath/rsrc/DMath.md",
+    "sem1/AuD/UE/U0/AuD_U0_bf.md",
     "sem1/AuD/VRL/V2_big O notation.md",
+    "sem1/DMath/VRL/V4_.md",
+    "etc/private/explanations.md",
     "sem1/AuD/VRL/V3_star search.md",
     "sem1/AuD/VRL/V1_introduction to algorithms.md",
     "sem1/AuD/UE/U0/AuD_U0_e.pdf",
     "sem1/AuD/VRL/V0_AuD.md",
-    "sem1/DMath/VRL/V4_.md",
     "sem1/AuD/UE/U2/AuD_U2_e.pdf",
     "sem1/AuD/UE/U2",
     "sem1/EProg/UE/U0",
@@ -216,9 +183,7 @@
     "sem1/DMath/UE/U2/DMath_U2_e.pdf",
     "sem1/DMath/UE/U0",
     "sem1/DMath/UE/U2",
-    "sem1/AuD/UE/U0/AuD_U0_bf.md",
     "sem1/AuD/UE/U1/AuD_U1_bf.md",
-    "sem1/DMath/rsrc/DMath.md",
     "sem1/LinAlg/VRL/V1_introduction to vectors.md",
     "sem1/LinAlg/VRL/V2_.md",
     "sem1/LinAlg/VRL/V3_.md",
