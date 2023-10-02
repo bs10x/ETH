@@ -2,7 +2,7 @@
 "course:": "[[DMath]]"
 "exercises:": "[[DMath_U1_e.pdf]]"
 "solutions:": "[[Dmath_U1_s.pdf]]"
-"hand in:": "[[DMath_U1_bf]]"
+"hand-in:": "[[DMath_U1_bf]]"
 ---
 | A | B | A$\rightarrow$B | A$\wedge$(A$\rightarrow$B) | (A$\wedge$(A$\rightarrow$B)) $\rightarrow$ B |
 |---|---|-----------------|----------------------------|---|

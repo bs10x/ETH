@@ -18,19 +18,31 @@
             }
           },
           {
-            "id": "91d220f202b396c0",
+            "id": "acdb145cdb79516a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMath_U0_s.pdf.md",
+                "file": "sem1/DMath/VRL/V04_logical formulas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63ebb945fb90c2d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/EProg/VRL/V03_.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMath_U0_s.pdf.md",
+                "file": "sem1/EProg/VRL/V03_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMath_U0_s.pdf.md",
+                "file": "sem1/EProg/VRL/V03_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMath_U0_s.pdf.md"
+                "file": "sem1/EProg/VRL/V03_.md"
               }
             }
           },
@@ -149,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,16 +177,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91d220f202b396c0",
+  "active": "63ebb945fb90c2d5",
   "lastOpenFiles": [
-    "sem1/DMath/VRL/V02_propositions, logical operators.md",
-    "DMath_U0_s.pdf.md",
-    "DMath_U0_e.md",
+    "sem1/EProg/VRL/V02_EBNF+.md",
+    "sem1/EProg/UE/U0/EProg_U0_e.pdf",
+    "sem1/EProg/VRL/V01_EBNF.md",
+    "sem1/AuD/VRL/V03_star search.md",
+    "sem1/AuD/VRL/V02_big O notation.md",
+    "sem1/AuD/VRL/V01_introduction to algorithms.md",
     "sem1/DMath/VRL/V01_mathematical propositions.md",
-    "sem1/DMath/UE/U1/DMath_U1_bf.md",
+    "sem1/DMath/VRL/V02_propositions, logical operators.md",
     "sem1/DMath/VRL/V03_predicates.md",
-    "DMath_U1_s.pdf.md",
     "sem1/DMath/VRL/V04_logical formulas.md",
+    "sem1/DMath/VRL/V05_.md",
+    "sem1/DMath/VRL/V06_.md",
+    "sem1/DMath/UE/U1/DMath_U1_s.pdf",
+    "sem1/DMath/UE/U0/DMath_U0_bf.md",
+    "sem1/DMath/UE/U0/DMath_U0_s.md",
+    "sem1/DMath/UE/U0/DMath_U0_e.md",
+    "sem1/DMath/UE/U1/DMath_U1_bf.md",
+    "DMath_U1_s.pdf.md",
     "sem1/LinAlg/VRL/V10_.md",
     "sem1/LinAlg/VRL/V09_.md",
     "sem1/LinAlg/VRL/V08_.md",
@@ -184,15 +206,6 @@
     "sem1/LinAlg/VRL/V04_.md",
     "sem1/LinAlg/VRL/V03_.md",
     "sem1/LinAlg/VRL/V02_.md",
-    "sem1/LinAlg/VRL/V01_introduction to vectors.md",
-    "sem1/EProg/VRL/V09_.md",
-    "sem1/EProg/VRL/V08_.md",
-    "sem1/EProg/VRL/V07_.md",
-    "sem1/EProg/VRL/V06_.md",
-    "sem1/EProg/VRL/V05_.md",
-    "sem1/EProg/VRL/V04_.md",
-    "sem1/EProg/VRL/V03_.md",
-    "sem1/EProg/VRL/V02_EBNF+.md",
     "sem1/AuD/UE/U0/AuD_U0_e.pdf",
     "sem1/AuD/UE/U2/AuD_U2_e.pdf",
     "sem1/AuD/UE/U2",
@@ -200,8 +213,6 @@
     "sem1/LinAlg/UE/U0",
     "sem1/DMath/UE/U2/DMath_U2_e.pdf",
     "sem1/DMath/UE/U0",
-    "sem1/DMath/UE/U2",
-    "sem1/LinAlg/VRL",
-    "sem1/EProg/VRL"
+    "sem1/DMath/UE/U2"
   ]
 }

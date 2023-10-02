@@ -1,7 +1,8 @@
 ---
 "course:": "[[EProg]]"
-"exercises:": "[[EProg_U1_e.pdf]]"
-"hand in:": "[[EProg_U1_bf]]"
+"exercises:": "[[EProg_U0_e.pdf]]"
+"solutions:": "[[EProg_U0_s.pdf]]"
+"hand-in:": "[[EProg_U0_bf]]"
 ---
 
 ### #EBNF 
