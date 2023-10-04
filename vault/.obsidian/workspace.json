@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/EProg/VRL/V26_.md",
+                "file": "sem1/LinAlg/VRL/V04_.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/EProg/VRL/V26_.md",
+                "file": "sem1/LinAlg/VRL/V04_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/EProg/VRL/V26_.md",
+                "file": "sem1/LinAlg/VRL/V04_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/EProg/VRL/V26_.md"
+                "file": "sem1/LinAlg/VRL/V04_.md"
               }
             }
           },
@@ -168,32 +168,32 @@
   },
   "active": "15475b7e39646ec2",
   "lastOpenFiles": [
-    "sem1/EProg/VRL/V27_.md",
-    "sem1/EProg/VRL/V06_.md",
-    "sem1/EProg/VRL/V05_verzweigungen, schleifen.md",
-    "sem1/EProg/VRL/V03_methoden, pre- & post-conditions.md",
-    "sem1/EProg/VRL/V02_EBNF+.md",
-    "sem1/EProg/VRL/V01_EBNF.md",
-    "sem1/EProg/VRL/V00_EProg.md",
-    "sem1/EProg/VRL/V04_typen und variablen.md",
-    "sem1/EProg/VRL/V08_.md",
-    "sem1/EProg/VRL/V28_.md",
+    "sem1/LinAlg/VRL/V03_matrix multiplication.md",
+    "sem1/LinAlg/VRL/V02_scalar products.md",
+    "sem1/LinAlg/VRL/V01_linear combinations.md",
     "sem1/EProg/VRL/V26_.md",
-    "sem1/EProg/VRL/V24_.md",
-    "sem1/EProg/VRL/V22_.md",
-    "sem1/EProg/VRL/V18_.md",
-    "sem1/EProg/VRL/V27_ copy.md",
-    "sem1/EProg/VRL/V25_ copy.md",
-    "sem1/EProg/VRL/V23_ copy.md",
-    "sem1/EProg/VRL/V21_ copy.md",
-    "sem1/EProg/VRL/V19_ copy.md",
-    "sem1/EProg/VRL/V25_.md",
-    "sem1/EProg/VRL/V23_.md",
-    "sem1/EProg/VRL/V21_.md",
-    "sem1/EProg/VRL/V19_.md",
-    "sem1/EProg/VRL/V17_ copy.md",
-    "sem1/EProg/VRL/V17_.md",
-    "sem1/EProg/VRL/V16_ copy.md",
+    "sem1/LinAlg/VRL/V29_.md",
+    "sem1/LinAlg/VRL/V27_.md",
+    "sem1/LinAlg/VRL/V25_.md",
+    "sem1/LinAlg/VRL/V23_.md",
+    "sem1/LinAlg/VRL/V21_.md",
+    "sem1/LinAlg/VRL/V19_.md",
+    "sem1/LinAlg/VRL/V17_.md",
+    "sem1/LinAlg/VRL/V28_ copy.md",
+    "sem1/LinAlg/VRL/V26_ copy.md",
+    "sem1/LinAlg/VRL/V24_ copy.md",
+    "sem1/LinAlg/VRL/V22_ copy.md",
+    "sem1/LinAlg/VRL/V20_ copy.md",
+    "sem1/LinAlg/VRL/V18_ copy.md",
+    "sem1/LinAlg/VRL/V16_ copy.md",
+    "sem1/LinAlg/VRL/V28_.md",
+    "sem1/LinAlg/VRL/V26_.md",
+    "sem1/LinAlg/VRL/V24_.md",
+    "sem1/LinAlg/VRL/V22_.md",
+    "sem1/LinAlg/VRL/V20_.md",
+    "sem1/LinAlg/VRL/V18_.md",
+    "sem1/LinAlg/VRL/V16_.md",
+    "sem1/LinAlg/VRL/V14_ copy.md",
     "sem1/EProg/UE/U0/EProg_U0_e.pdf",
     "sem1/EProg/UE/U1/EProg_U1_e.pdf",
     "sem1/EProg/UE/U2/EProg_U2_e.pdf",
