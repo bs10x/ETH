@@ -21,16 +21,26 @@
             "id": "02afe0469a5ad27e",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/src/DMath_script.pdf"
+              }
+            }
+          },
+          {
+            "id": "94d8c91016a77355",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/VRL/V05_.md",
+                "file": "sem1/LinAlg/VRL/V00_LinAlg.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/VRL/V05_.md",
+                "file": "sem1/LinAlg/VRL/V00_LinAlg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/VRL/V05_.md",
+                "file": "sem1/LinAlg/VRL/V00_LinAlg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/VRL/V05_.md"
+                "file": "sem1/LinAlg/VRL/V00_LinAlg.md"
               }
             }
           },
@@ -166,17 +176,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02afe0469a5ad27e",
+  "active": "94d8c91016a77355",
   "lastOpenFiles": [
+    "sem1/LinAlg/VRL/V02_.md",
+    "sem1/LinAlg/VRL/V01_introduction to vectors.md",
+    "sem1/AuD/VRL/V05_.md",
+    "sem1/AuD/VRL/V03_.md",
+    "sem1/AuD/VRL/V02_big-O, star-search.md",
+    "sem1/AuD/VRL/V00_AuD.md",
+    "sem1/AuD/VRL/V01_karatsuba, pasture-break.md",
+    "sem1/DMath/VRL/V00_DMath.md",
+    "sem1/DMath/VRL/V01_mathematical propositions.md",
+    "sem1/DMath/VRL/V02_propositions, logical operators.md",
+    "sem1/DMath/VRL/V03_predicates.md",
+    "sem1/DMath/VRL/V04_logical formulas.md",
+    "sem1/DMath/VRL/V05_.md",
+    "sem1/DMath/src/DMath_script.pdf",
     "Untitled.md",
     "sem1/DMath/VRL/V25_.md",
     "sem1/DMath/VRL/V26_.md",
-    "sem1/DMath/VRL/V01_mathematical propositions.md",
-    "sem1/DMath/VRL/V00_DMath.md",
     "sem1/DMath/VRL/V22_.md",
     "sem1/DMath/VRL/V27.md",
     "sem1/DMath/VRL/V28_.md",
-    "sem1/DMath/VRL/V02_propositions, logical operators.md",
     "sem1/DMath/VRL/28.md",
     "sem1/DMath/VRL/V27 copy.md",
     "sem1/DMath/VRL/V26_ copy.md",
@@ -184,16 +205,6 @@
     "sem1/DMath/VRL/V23_.md",
     "sem1/AuD/VRL/V13_.md",
     "sem1/AuD/VRL/V14_.md",
-    "sem1/AuD/VRL/V12_.md",
-    "sem1/AuD/VRL/V11_.md",
-    "sem1/DMath/VRL/V21_.md",
-    "DMath_U10_bf.pdf.md",
-    "sem1/DMath/VRL/V20_.md",
-    "sem1/DMath/VRL/V19_.md",
-    "sem1/DMath/VRL/V18_.md",
-    "sem1/DMath/VRL/V17_.md",
-    "sem1/DMath/VRL/V16_.md",
-    "sem1/DMath/VRL/V15_.md",
     "sem1/LinAlg/src/org",
     "sem1/EProg/src/org",
     "sem1/DMath/src/org",
@@ -202,7 +213,6 @@
     "sem1/AuD/src/AuD_script.pdf",
     "sem1/AuD/UE/U0/AuD_U0_s.pdf",
     "sem1/AuD/UE/U0/AuD_U0_e.pdf",
-    "sem1/AuD/UE/U2/AuD_U2_e.pdf",
-    "sem1/AuD/UE/U1/AuD_U1_e.pdf"
+    "sem1/AuD/UE/U2/AuD_U2_e.pdf"
   ]
 }
