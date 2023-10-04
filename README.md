@@ -49,6 +49,12 @@ You are required to solve the bonusquizzes on your own!
 
 
 
-### //SETUP//
+### //ARCH USER SETUP//
 
 - i3 tiling window manager
+- thinkpad l13 yoga
+- arch linux
+- mupdf
+- qute browser
+- rnotes
+- 
