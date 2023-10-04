@@ -18,29 +18,19 @@
             }
           },
           {
-            "id": "94d8c91016a77355",
+            "id": "8a3732fd5bb5cc61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/VRL/V05_equivalence transformations.md",
+                "file": "sem1/EProg/VRL/V01_EBNF.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9e0d5922b8ef8cd3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/EProg/UE/U1/EProg_U1_e.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/EProg/UE/U1/EProg_U1_e.pdf",
+                "file": "sem1/EProg/VRL/V01_EBNF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/EProg/UE/U1/EProg_U1_e.pdf",
+                "file": "sem1/EProg/VRL/V01_EBNF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/EProg/UE/U1/EProg_U1_e.pdf"
+                "file": "sem1/EProg/VRL/V01_EBNF.md"
               }
             }
           },
@@ -176,20 +166,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e0d5922b8ef8cd3",
+  "active": "8a3732fd5bb5cc61",
   "lastOpenFiles": [
-    "sem1/EProg/UE/U2/EProg_U2_e.pdf",
-    "sem1/EProg/UE/U2/EProg_U2_bf.md",
-    "sem1/EProg/UE/U2/test.txt",
+    "sem1/EProg/VRL/V00_EProg.md",
+    "sem1/EProg/UE/U0/EProg_U0_e.pdf",
+    "sem1/EProg/VRL/V01_EBNF.md",
+    "sem1/EProg/VRL/V06_.md",
+    "sem1/EProg/VRL/V05_should've been there.md",
+    "sem1/EProg/VRL/V08_.md",
+    "sem1/EProg/VRL/V07_.md",
+    "sem1/EProg/VRL/V04_even more.md",
+    "sem1/EProg/VRL/V03_something.md",
+    "sem1/AuD/VRL/V02_big-O, star-search.md",
     "sem1/DMath/VRL/V05_equivalence transformations.md",
-    "sem1/EProg/UE/U2",
-    "sem1/DMath/src/DMath_script.pdf",
-    "sem1/LinAlg/VRL/V00_LinAlg.md",
     "sem1/LinAlg/VRL/V02_.md",
     "sem1/LinAlg/VRL/V01_introduction to vectors.md",
+    "sem1/LinAlg/VRL/V00_LinAlg.md",
+    "sem1/EProg/UE/U2/EProg_U2_bf.pdf.md",
+    "sem1/EProg/UE/U1/EProg_U1_e.pdf",
+    "sem1/EProg/UE/U2/EProg_U2_e.pdf",
+    "sem1/EProg/UE/U2/test.txt",
+    "sem1/EProg/UE/U2",
+    "sem1/DMath/src/DMath_script.pdf",
     "sem1/AuD/VRL/V05_.md",
     "sem1/AuD/VRL/V03_.md",
-    "sem1/AuD/VRL/V02_big-O, star-search.md",
     "sem1/AuD/VRL/V00_AuD.md",
     "sem1/AuD/VRL/V01_karatsuba, pasture-break.md",
     "sem1/DMath/VRL/V00_DMath.md",
@@ -199,19 +199,9 @@
     "sem1/DMath/VRL/V04_logical formulas.md",
     "Untitled.md",
     "sem1/DMath/VRL/V25_.md",
-    "sem1/DMath/VRL/V26_.md",
-    "sem1/DMath/VRL/V22_.md",
-    "sem1/DMath/VRL/V27.md",
-    "sem1/DMath/VRL/V28_.md",
-    "sem1/DMath/VRL/28.md",
-    "sem1/DMath/VRL/V27 copy.md",
-    "sem1/DMath/VRL/V26_ copy.md",
-    "sem1/DMath/VRL/V24_.md",
     "sem1/LinAlg/src/org",
     "sem1/EProg/src/org",
     "sem1/DMath/src/org",
-    "sem1/AuD/src/org",
-    "sem1/AuD/src/AuD_graph-theory_old&extensive.pdf",
-    "sem1/AuD/src/AuD_script.pdf"
+    "sem1/AuD/src/org"
   ]
 }
