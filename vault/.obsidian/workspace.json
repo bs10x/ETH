@@ -16,81 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "6657108e3fe96fb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/VRL/V09_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82dfdc7e9bf86044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/VRL/V07_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71889eadd5018f7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/VRL/V03_predicates.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb003b8dab24ccdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/EProg/VRL/V00_EProg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27303d2faa8ee431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/EProg/VRL/V08_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e72faa128f0c38f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/EProg/VRL/V01_EBNF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/EProg/VRL/V01_EBNF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/EProg/VRL/V01_EBNF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/EProg/VRL/V01_EBNF.md"
-              }
+              "state": {}
             }
           },
           {
@@ -226,10 +149,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e72faa128f0c38f7",
+  "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
-    "sem1/EProg/VRL/V00_EProg.md",
+    "sem1/LinAlg/VRL/V00_LinAlg.md",
+    "sem1/LinAlg/VRL/V04_.md",
+    "sem1/LinAlg/VRL/V03_.md",
+    "sem1/LinAlg/VRL/V02_.md",
+    "sem1/LinAlg/VRL/V01_introduction to vectors.md",
+    "sem1/LinAlg/src/LinAlg_src.md",
+    "sem1/LinAlg/src/LinAlg.md",
+    "sem1/LinAlg/src/LinAlg_UE.md",
+    "sem1/EProg/src/EProg.md",
+    "sem1/AuD/src/AuD_src.md",
+    "sem1/AuD/src/AuD.md",
+    "sem1/DMath/src/DMath.md",
+    "sem1/DMath/src/DMath_src.md",
+    "sem1/LinAlg/src/org",
+    "sem1/EProg/UE/U1/EProg_U1_bf.md",
     "sem1/EProg/VRL/V01_EBNF.md",
+    "sem1/EProg/VRL/V00_EProg.md",
     "sem1/EProg/VRL/V08_.md",
     "sem1/EProg/VRL/V07_.md",
     "sem1/EProg/VRL/V06_.md",
@@ -237,24 +175,10 @@
     "sem1/EProg/VRL/V04_.md",
     "sem1/EProg/VRL/V03_.md",
     "sem1/EProg/VRL/V02_EBNF+.md",
-    "sem1/LinAlg/VRL/V00_LinAlg.md",
-    "sem1/LinAlg/VRL/V04_.md",
     "sem1/LinAlg/VRL/V05_.md",
     "sem1/LinAlg/VRL/V07_.md",
-    "sem1/LinAlg/VRL/V02_.md",
-    "sem1/LinAlg/VRL/V03_.md",
-    "sem1/LinAlg/VRL/V01_introduction to vectors.md",
     "sem1/DMath/VRL/V03_predicates.md",
-    "sem1/DMath/VRL/V02_propositions, logical operators.md",
-    "sem1/DMath/VRL/V01_mathematical propositions.md",
-    "sem1/DMath/VRL/V00_DMath.md",
-    "sem1/AuD/VRL/V00_AuD.md",
-    "sem1/AuD/src/org/AuD.md",
-    "sem1/DMath/src/org/DMath.md",
-    "sem1/EProg/src/org/EProg.md",
-    "sem1/EProg/src/org/EProg_src.md",
     "sem1/EProg/src/org",
-    "sem1/DMath/VRL/V07_.md",
     "sem1/DMath/src/org",
     "sem1/AuD/src/org",
     "sem1/AuD/src/AuD_graph-theory_old&extensive.pdf",
@@ -262,7 +186,6 @@
     "sem1/AuD/UE/U0/AuD_U0_s.pdf",
     "sem1/AuD/UE/U0/AuD_U0_e.pdf",
     "sem1/AuD/UE/U2/AuD_U2_e.pdf",
-    "sem1/AuD/UE/U1/AuD_U1_e.pdf",
-    "sem1/AuD/UE/U1/AuD_U1_bf.pdf"
+    "sem1/AuD/UE/U1/AuD_U1_e.pdf"
   ]
 }
