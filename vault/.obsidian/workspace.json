@@ -28,8 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e0d5922b8ef8cd3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/EProg/UE/U2/EProg_U2_e.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/VRL/V05_equivalence transformations.md",
+                "file": "sem1/EProg/UE/U2/EProg_U2_e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/VRL/V05_equivalence transformations.md",
+                "file": "sem1/EProg/UE/U2/EProg_U2_e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/VRL/V05_equivalence transformations.md"
+                "file": "sem1/EProg/UE/U2/EProg_U2_e.pdf"
               }
             }
           },
@@ -165,12 +176,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "9e0d5922b8ef8cd3",
   "lastOpenFiles": [
+    "sem1/EProg/UE/U2/EProg_U2_bf.md",
+    "sem1/EProg/UE/U2/test.txt",
+    "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/EProg/UE/U2/EProg_U2_e.pdf",
     "sem1/EProg/UE/U2",
     "sem1/DMath/src/DMath_script.pdf",
-    "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/LinAlg/VRL/V00_LinAlg.md",
     "sem1/LinAlg/VRL/V02_.md",
     "sem1/LinAlg/VRL/V01_introduction to vectors.md",
@@ -194,14 +207,11 @@
     "sem1/DMath/VRL/V27 copy.md",
     "sem1/DMath/VRL/V26_ copy.md",
     "sem1/DMath/VRL/V24_.md",
-    "sem1/DMath/VRL/V23_.md",
     "sem1/LinAlg/src/org",
     "sem1/EProg/src/org",
     "sem1/DMath/src/org",
     "sem1/AuD/src/org",
     "sem1/AuD/src/AuD_graph-theory_old&extensive.pdf",
-    "sem1/AuD/src/AuD_script.pdf",
-    "sem1/AuD/UE/U0/AuD_U0_s.pdf",
-    "sem1/AuD/UE/U0/AuD_U0_e.pdf"
+    "sem1/AuD/src/AuD_script.pdf"
   ]
 }
