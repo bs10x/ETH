@@ -1,5 +1,5 @@
 ---
 "semester:": "[[sem1]]"
-"rsrc:": "[[AuD_rsrc]]"
+"src:": "[[AuD_src]]"
 ---
 
