@@ -4,5 +4,9 @@
 "solutions:": "[[AuD_U0_s.pdf]]"
 "hand-in:": "[[AuD_U0_bf]]"
 ---
-## #big-O-notation
+## #Algorithm
+
+## #Karatsuba
+## #School-Multiplication
+## #Pasture-Break
 

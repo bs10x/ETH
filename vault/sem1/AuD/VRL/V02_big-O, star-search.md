@@ -1,9 +1,15 @@
 ---
 "course:": "[[AuD]]"
-"exercises:": "[[AuD_U1_e.pdf]]"
-"solutions:": "[[AuD_U1_s.pdf]]"
-"hand-in:": "[[AuD_U1_bf.pdf]]"
+"exercises:": "[[AuD_U0_e.pdf]]"
+"solutions:": "[[AuD_U0_s.pdf]]"
+"hand-in:": "[[AuD_U0_bf]]"
 ---
+## #big-O-notation
+
+
+
+
+
 
 
 >[!example] **Beschreibung**
@@ -41,3 +47,5 @@
 | $\vdots$ | $\vdots$ | $\vdots$ |
 | $n$ | $+2$ | $+2\cdot(n-1)$ |
 | $Total$ | $2(n-1)$ | $n(n-2)$ |
+
+
