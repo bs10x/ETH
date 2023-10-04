@@ -120,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
     "Untitled.md",
     "sem1/DMath/VRL/V25_.md",
