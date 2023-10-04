@@ -1,9 +1,10 @@
 ---
 "course:": "[[DMath]]"
-"exercises:": "[[DMath_U2_e.pdf]]"
-"hand-in:": "[[DMath_U2_bf.pdf]]"
-"solutions:": "[[DMath_U2_s.pdf]]"
+"exercises:": "[[DMath_U1_e.pdf]]"
+"hand-in:": "[[DMath_U1_bf]]"
+"solutions:": "[[DMath_U1_s.pdf]]"
 ---
+
 | A | B | A$\rightarrow$B | A$\wedge$(A$\rightarrow$B) | (A$\wedge$(A$\rightarrow$B)) $\rightarrow$ B |
 |---|---|-----------------|----------------------------|---|
 | 0 | 0 | 1               | 0                          | 1 |
