@@ -14,9 +14,9 @@ Each working group must hand in their own, independent solution of the theory ex
 - **DMAth**
 *from https://crypto.ethz.ch/teaching/DM23/ :*
 Unehrliches Verhalten ist kein Kavaliersdelikt und wird an der ETH ernsthaft bestraft. Insbesondere was die Bonusaufgaben angeht:
-- Das Kopieren von Lösungen von jedweder Quelle (Kommilitonen, Web, etc.) ist nicht erlaubt.
-- Umgekehrt: Lösungen sollten Kommilitonen in keiner Form gezeigt werden.
-- Es ist in Ordnung, in Gruppen zu lernen, aber am Ende müssen die Aufgaben selbständig gelöst werden.
+    - Das Kopieren von Lösungen von jedweder Quelle (Kommilitonen, Web, etc.) ist nicht erlaubt.
+    - Umgekehrt: Lösungen sollten Kommilitonen in keiner Form gezeigt werden.
+    - Es ist in Ordnung, in Gruppen zu lernen, aber am Ende müssen die Aufgaben selbständig gelöst werden.
 
 - **EProg**
 *from https://www.lst.inf.ethz.ch/education/einfuehrung-in-die-programmierung-i--252-0027-1.html :*
