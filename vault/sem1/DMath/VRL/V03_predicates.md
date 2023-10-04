@@ -1,8 +1,8 @@
 ---
 "course:": "[[DMath]]"
-"exercises:": "[[DMath_U1_e.pdf]]"
-"solutions:": "[[Dmath_U1_s.pdf]]"
-"hand-in:": "[[DMath_U1_bf]]"
+"exercises:": "[[DMath_U2_e.pdf]]"
+"solutions:": "[[DMath_U2_s.pdf]]"
+"hand-in:": "[[DMath_U2_bf.pdf]]"
 ---
 | A | B | A$\rightarrow$B | A$\wedge$(A$\rightarrow$B) | (A$\wedge$(A$\rightarrow$B)) $\rightarrow$ B |
 |---|---|-----------------|----------------------------|---|
