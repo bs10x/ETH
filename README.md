@@ -46,3 +46,9 @@ You are required to solve the bonusquizzes on your own!
 - restructure homepage to have shared stylesheets, javascript and html files in non-private directories
 
 
+
+
+
+### //SETUP//
+
+- i3 tiling window manager
