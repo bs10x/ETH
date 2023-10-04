@@ -57,4 +57,4 @@ You are required to solve the bonusquizzes on your own!
 - mupdf
 - qute browser
 - rnotes
-- 
+- lazyvim
