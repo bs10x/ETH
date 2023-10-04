@@ -1,8 +1,8 @@
 ---
 "course:": "[[DMath]]"
 "exercises:": "[[DMath_U1_e.pdf]]"
-"solutions:": "[[DMath_U1_s.pdf]]"
 "hand-in:": "[[DMath_U1_bf]]"
+"solutions:": "[[DMath_U1_s.pdf]]"
 ---
 
 #### Bsp. 2.2:

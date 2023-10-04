@@ -1,8 +1,8 @@
 ---
 "course:": "[[DMath]]"
 "exercises:": "[[DMath_U2_e.pdf]]"
-"solutions:": "[[DMath_U2_s.pdf]]"
 "hand-in:": "[[DMath_U2_bf.pdf]]"
+"solutions:": "[[DMath_U2_s.pdf]]"
 ---
 
 
