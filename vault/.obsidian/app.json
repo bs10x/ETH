@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "vimMode": false
+  "vimMode": false,
+  "attachmentFolderPath": "var/attachments"
 }

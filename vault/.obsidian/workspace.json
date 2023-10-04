@@ -18,29 +18,18 @@
             }
           },
           {
-            "id": "02afe0469a5ad27e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/src/DMath_script.pdf"
-              }
-            }
-          },
-          {
             "id": "94d8c91016a77355",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/VRL/V05_.md",
+                "file": "sem1/DMath/VRL/V05_equivalence transformations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/VRL/V05_.md",
+                "file": "sem1/DMath/VRL/V05_equivalence transformations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/VRL/V05_.md",
+                "file": "sem1/DMath/VRL/V05_equivalence transformations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/VRL/V05_.md"
+                "file": "sem1/DMath/VRL/V05_equivalence transformations.md"
               }
             }
           },
@@ -176,8 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94d8c91016a77355",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem1/EProg/UE/U2/EProg_U2_e.pdf",
+    "sem1/EProg/UE/U2",
+    "sem1/DMath/src/DMath_script.pdf",
+    "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/LinAlg/VRL/V00_LinAlg.md",
     "sem1/LinAlg/VRL/V02_.md",
     "sem1/LinAlg/VRL/V01_introduction to vectors.md",
@@ -191,8 +184,6 @@
     "sem1/DMath/VRL/V02_propositions, logical operators.md",
     "sem1/DMath/VRL/V03_predicates.md",
     "sem1/DMath/VRL/V04_logical formulas.md",
-    "sem1/DMath/VRL/V05_.md",
-    "sem1/DMath/src/DMath_script.pdf",
     "Untitled.md",
     "sem1/DMath/VRL/V25_.md",
     "sem1/DMath/VRL/V26_.md",
@@ -204,7 +195,6 @@
     "sem1/DMath/VRL/V26_ copy.md",
     "sem1/DMath/VRL/V24_.md",
     "sem1/DMath/VRL/V23_.md",
-    "sem1/AuD/VRL/V13_.md",
     "sem1/LinAlg/src/org",
     "sem1/EProg/src/org",
     "sem1/DMath/src/org",
@@ -212,7 +202,6 @@
     "sem1/AuD/src/AuD_graph-theory_old&extensive.pdf",
     "sem1/AuD/src/AuD_script.pdf",
     "sem1/AuD/UE/U0/AuD_U0_s.pdf",
-    "sem1/AuD/UE/U0/AuD_U0_e.pdf",
-    "sem1/AuD/UE/U2/AuD_U2_e.pdf"
+    "sem1/AuD/UE/U0/AuD_U0_e.pdf"
   ]
 }

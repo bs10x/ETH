@@ -11,7 +11,7 @@ $F=\forall A(x=0 \vee \exists y (x\cdot y = 1))$
 	$F \equiv \forall x (\lnot\lnot (x=0) \vee \exists y (x\cdot y = 1))$
 	$F \equiv \forall x (\lnot (x=0) \rightarrow \exists y (x\cdot y = 1))$
 
--with interpretation:
+- with interpretation:
 	every number that is not zero has a multiplicative inverse
 	valid (Q, R)
 	invalid (N, Z)
@@ -35,7 +35,7 @@ $F=\forall A(x=0 \vee \exists y (x\cdot y = 1))$
 
 - $\exists x (F \wedge G) \equiv \exists x F \vee \exists x G$
 - $\forall (F \wedge G) \equiv \forall x F \wedge \forall x G$
-- $\forall x /F \vee G) \nVdash \forall x F \vee \forall x G$
+- $\forall x /F \vee G) \not\models \forall x F \vee \forall x G$
 - $\lnot \forall x F \equiv \exists x \lnot F, \lnot \exists x F \equiv \forall x \lnot F$
 - $\exists x \exists y F \equiv \exists y \exists x F$
 - $\forall x \forall y F \equiv \forall y \forall x F$
