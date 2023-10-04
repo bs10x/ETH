@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/LinAlg/VRL/V00_LinAlg.md",
+                "file": "sem1/DMath/VRL/V05_.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/VRL/V00_LinAlg.md",
+                "file": "sem1/DMath/VRL/V05_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/VRL/V00_LinAlg.md",
+                "file": "sem1/DMath/VRL/V05_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/LinAlg/VRL/V00_LinAlg.md"
+                "file": "sem1/DMath/VRL/V05_.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "94d8c91016a77355",
   "lastOpenFiles": [
+    "sem1/LinAlg/VRL/V00_LinAlg.md",
     "sem1/LinAlg/VRL/V02_.md",
     "sem1/LinAlg/VRL/V01_introduction to vectors.md",
     "sem1/AuD/VRL/V05_.md",
@@ -204,7 +205,6 @@
     "sem1/DMath/VRL/V24_.md",
     "sem1/DMath/VRL/V23_.md",
     "sem1/AuD/VRL/V13_.md",
-    "sem1/AuD/VRL/V14_.md",
     "sem1/LinAlg/src/org",
     "sem1/EProg/src/org",
     "sem1/DMath/src/org",
