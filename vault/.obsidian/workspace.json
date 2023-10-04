@@ -28,9 +28,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5d74c178cf0304d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/LinAlg/VRL/V13_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/VRL/V04_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/VRL/V04_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/LinAlg/VRL/V04_.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,11 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15475b7e39646ec2",
+  "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
+    "sem1/LinAlg/VRL/V13_.md",
+    "sem1/LinAlg/VRL/V12_.md",
+    "sem1/LinAlg/VRL/V09_.md",
+    "sem1/LinAlg/VRL/V07_.md",
+    "sem1/LinAlg/VRL/V05_.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/LinAlg/VRL/V02_scalar products.md",
     "sem1/LinAlg/VRL/V01_linear combinations.md",
+    "sem1/LinAlg/VRL/V00_LinAlg.md",
+    "sem1/LinAlg/VRL/V04_.md",
     "sem1/EProg/VRL/V26_.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V27_.md",
@@ -186,13 +200,6 @@
     "sem1/LinAlg/VRL/V18_ copy.md",
     "sem1/LinAlg/VRL/V16_ copy.md",
     "sem1/LinAlg/VRL/V28_.md",
-    "sem1/LinAlg/VRL/V26_.md",
-    "sem1/LinAlg/VRL/V24_.md",
-    "sem1/LinAlg/VRL/V22_.md",
-    "sem1/LinAlg/VRL/V20_.md",
-    "sem1/LinAlg/VRL/V18_.md",
-    "sem1/LinAlg/VRL/V16_.md",
-    "sem1/LinAlg/VRL/V14_ copy.md",
     "sem1/EProg/UE/U0/EProg_U0_e.pdf",
     "sem1/EProg/UE/U1/EProg_U1_e.pdf",
     "sem1/EProg/UE/U2/EProg_U2_e.pdf",
