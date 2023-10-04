@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/EProg/VRL/V01_EBNF.md",
+                "file": "sem1/EProg/VRL/V08_.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/EProg/VRL/V01_EBNF.md",
+                "file": "sem1/EProg/VRL/V08_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/EProg/VRL/V01_EBNF.md",
+                "file": "sem1/EProg/VRL/V08_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/EProg/VRL/V01_EBNF.md"
+                "file": "sem1/EProg/VRL/V08_.md"
               }
             }
           },
@@ -168,15 +168,22 @@
   },
   "active": "8a3732fd5bb5cc61",
   "lastOpenFiles": [
-    "sem1/EProg/VRL/V00_EProg.md",
-    "sem1/EProg/UE/U0/EProg_U0_e.pdf",
-    "sem1/EProg/VRL/V01_EBNF.md",
-    "sem1/EProg/VRL/V06_.md",
-    "sem1/EProg/VRL/V05_should've been there.md",
-    "sem1/EProg/VRL/V08_.md",
+    "sem1/EProg/VRL/V17_.md",
+    "sem1/EProg/VRL/V16_ copy.md",
+    "sem1/EProg/VRL/V16_.md",
+    "sem1/EProg/VRL/V15_ copy.md",
+    "sem1/EProg/VRL/V15_.md",
+    "sem1/EProg/VRL/V14_ copy.md",
     "sem1/EProg/VRL/V07_.md",
+    "sem1/EProg/VRL/V06_.md",
+    "sem1/EProg/VRL/V05_friday morning.md",
+    "sem1/EProg/VRL/V08_.md",
     "sem1/EProg/VRL/V04_even more.md",
     "sem1/EProg/VRL/V03_something.md",
+    "sem1/EProg/VRL/V02_EBNF+.md",
+    "sem1/EProg/VRL/V01_EBNF.md",
+    "sem1/EProg/VRL/V00_EProg.md",
+    "sem1/EProg/UE/U0/EProg_U0_e.pdf",
     "sem1/AuD/VRL/V02_big-O, star-search.md",
     "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/LinAlg/VRL/V02_.md",
@@ -193,12 +200,6 @@
     "sem1/AuD/VRL/V00_AuD.md",
     "sem1/AuD/VRL/V01_karatsuba, pasture-break.md",
     "sem1/DMath/VRL/V00_DMath.md",
-    "sem1/DMath/VRL/V01_mathematical propositions.md",
-    "sem1/DMath/VRL/V02_propositions, logical operators.md",
-    "sem1/DMath/VRL/V03_predicates.md",
-    "sem1/DMath/VRL/V04_logical formulas.md",
-    "Untitled.md",
-    "sem1/DMath/VRL/V25_.md",
     "sem1/LinAlg/src/org",
     "sem1/EProg/src/org",
     "sem1/DMath/src/org",
