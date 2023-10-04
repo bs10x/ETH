@@ -28,21 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e9645f871372a6f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/VRL/V28_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/VRL/V28_.md",
+                "file": "sem1/DMath/VRL/V22_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/VRL/V28_.md",
+                "file": "sem1/DMath/VRL/V22_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/VRL/V28_.md"
+                "file": "sem1/DMath/VRL/V22_.md"
               }
             }
           },
@@ -177,10 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9645f871372a6f6",
+  "active": "e5035ad470054774",
   "lastOpenFiles": [
     "sem1/DMath/VRL/V27.md",
     "sem1/DMath/VRL/V28_.md",
+    "sem1/DMath/VRL/V02_propositions, logical operators.md",
+    "sem1/DMath/VRL/V01_mathematical propositions.md",
+    "sem1/DMath/VRL/V00_DMath.md",
     "sem1/DMath/VRL/V26_.md",
     "sem1/DMath/VRL/28.md",
     "sem1/DMath/VRL/V27 copy.md",
@@ -202,9 +193,6 @@
     "sem1/DMath/VRL/V16_.md",
     "sem1/DMath/VRL/V15_.md",
     "sem1/DMath/VRL/V14_.md",
-    "sem1/DMath/VRL/V13_.md",
-    "sem1/DMath/VRL/V12_.md",
-    "sem1/DMath/VRL/V11_.md",
     "sem1/LinAlg/src/org",
     "sem1/EProg/src/org",
     "sem1/DMath/src/org",
