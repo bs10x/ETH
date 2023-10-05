@@ -21,9 +21,11 @@
             "id": "6d0c86a08ddc0a89",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/AuD/UE/U2/AuD_U2_e.pdf"
+                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/UE/U2/AuD_U2_e.pdf",
+                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/UE/U2/AuD_U2_e.pdf",
+                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/UE/U2/AuD_U2_e.pdf"
+                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md"
               }
             }
           },
@@ -166,6 +168,9 @@
   },
   "active": "6d0c86a08ddc0a89",
   "lastOpenFiles": [
+    "sem1/LinAlg/VRL/V02_scalar products.md",
+    "sem1/LinAlg/VRL/V03_matrix multiplication.md",
+    "sem1/AuD/UE/U2/AuD_U2_e.pdf",
     "sem1/AuD/src/AuD_src.md",
     "sem1/AuD/src/AuD_script.pdf",
     "sem1/AuD/src/AuD_notes_1.pdf",
@@ -182,7 +187,6 @@
     "sem1/DMath/src/DMath_pvw_HS22.pdf",
     "sem1/AuD/src/AuD_pvw_HS22.pdf",
     "sem1/AuD/VRL/V03_.md",
-    "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
@@ -199,7 +203,6 @@
     "sem1/LinAlg/VRL/V17_.md",
     "sem1/LinAlg/VRL/V16_.md",
     "sem1/LinAlg/VRL/V14_.md",
-    "sem1/EProg/UE/U0/EProg_U0_e.pdf",
-    "sem1/EProg/UE/U1/EProg_U1_e.pdf"
+    "sem1/EProg/UE/U0/EProg_U0_e.pdf"
   ]
 }
