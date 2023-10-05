@@ -87,3 +87,19 @@ $A(n) \leq \frac{1}{2}\cdot n\cdot n^2 = \frac{n^3}{2}$
 $A(n) \geq \frac{1}{2}\cdot((n-1)^2 +(n-2)^2 +\cdot\cdot\cdot+2^n+1^2 +0^2)$
 $\quad\quad\geq\frac{1}{2}\cdot (Summanden \geq (\frac{n}{2})^2)\cdot (\frac{n}{2})$
 $\quad\quad\geq \frac{1}{2}\cdot\frac{n}{4}\cdot (\frac{n}{2})^2 = \frac{1}{32} \cdot n^3$
+
+
+
+Geht's besser??
+Natürlich!
+Assoziativität von Addition ausnutzen:
+for (i: 1..n)
+	$S_{i, i}\leftarrow a_i \quad +0A$
+	$S_{i,\,i+1}\leftarrow a_i+a_{i+1} \quad +1A$
+	$S_{i,\,i+2}\leftarrow S_{i,\,i+1}+ a_{i+2} \quad +1A$
+	$\cdot\cdot\cdot$
+	$S_{i,\,n}\leftarrow S_{i,\,n-1} \quad +\frac{1}{n-i}$
+endfor
+
+
+MSS rekursiv
