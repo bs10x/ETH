@@ -68,7 +68,19 @@ naiver algorithmus:
 
 pseudocode:
 for (i: 1..n)
-	$S_{i, i}\leftarrow a_i$
-	$S_{i, i+1}\leftarrow a_i+a_{i+1}$
-	
-	
+	$S_{i, i}\leftarrow a_i \quad +0A$
+	$S_{i,\,i+1}\leftarrow a_i+a_{i+1} \quad +1A$
+	$S_{i,\,i+2}\leftarrow a_i+a_{i+1}+ a_{i+2} \quad +2A$
+	$\cdot\cdot\cdot$
+	$S_{i,\,n}\leftarrow a_i + \cdot\cdot\cdot +a_n \quad +(n-i)$
+endfor
+
+
+A(n) = Anzahl Additionen (worst case)
+$\quad\quad = \frac{(n-i)\cdot(n-i+1)}{2}$
+
+$\frac{(n-i)^2}{2}\geq \frac{(n-i)\cdot(n-i+1)}{2} \leq \frac{(n-i+1)^2}{2}$ Abschätzung (lower und upper bound)
+
+$A(n) \leq \frac{1}{2}\cdot(n^2 +(n-1)^2 +(n-2)^2 +\cdot\cdot\cdot+2^n+1^2)$
+
+
