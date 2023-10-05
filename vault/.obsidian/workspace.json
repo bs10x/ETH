@@ -23,13 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md",
+                "file": "sem1/AuD/VRL/V02_big-O, star-search.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#kur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/AuD/VRL/V02_big-O, star-search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/AuD/VRL/V02_big-O, star-search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/AuD/VRL/V02_big-O, star-search.md"
+              }
             }
           },
           {
@@ -161,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372d21dcaccf7b0c",
+  "active": "3eef01e3b58afb78",
   "lastOpenFiles": [
-    "sem1.md",
+    "sem1/AuD/VRL/V03_.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
+    "sem1.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
     "sem1/LinAlg/VRL/V27_.md",
@@ -188,7 +195,6 @@
     "sem1/LinAlg/VRL/V08_.md",
     "sem1/LinAlg/VRL/V07_.md",
     "sem1/LinAlg/VRL/V06_.md",
-    "sem1/LinAlg/VRL/V05_.md",
     "sem1/EProg/UE/U0/EProg_U0_e.pdf",
     "sem1/EProg/UE/U1/EProg_U1_e.pdf",
     "sem1/EProg/UE/U2/EProg_U2_e.pdf",
