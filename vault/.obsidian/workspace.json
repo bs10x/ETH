@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/AuD/VRL/V02_big-O, star-search.md",
+                "file": "sem1/AuD/src/AuD_src.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,14 +39,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "74c0af5d33f08fa0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -183,16 +175,19 @@
   },
   "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
+    "sem1/AuD/src/AuD_src.md",
+    "sem1/AuD/src/AuD_script.pdf",
+    "sem1/AuD/src/AuD_notes_1.pdf",
+    "sem1/AuD/src/AuD_notes_2.pdf",
+    "sem1/AuD/src/AuD_notes_3.pdf",
+    "sem1/AuD/VRL/V02_big-O, star-search.md",
     "etc/literature2buy?.md",
     "etc/ersti tag.md",
-    "sem1/AuD/VRL/V02_big-O, star-search.md",
-    "sem1/AuD/src/AuD_script.pdf",
     "sem1/LinAlg/src/LinAlg_src.md",
     "sem1/EProg/src/EProg_src.md",
     "sem1/DMath/src/DMath_src.md",
     "sem1/LinAlg/src/LinAlg_pvw_HS22.pdf",
     "sem1/EProg/src/EProg_pvw_HS22.pdf",
-    "sem1/AuD/src/AuD_src.md",
     "sem1/DMath/src/DMath_pvw_HS22.pdf",
     "sem1/AuD/src/AuD_pvw_HS22.pdf",
     "sem1/AuD/VRL/V03_.md",
@@ -213,11 +208,7 @@
     "sem1/LinAlg/VRL/V17_.md",
     "sem1/LinAlg/VRL/V16_.md",
     "sem1/LinAlg/VRL/V14_.md",
-    "sem1/LinAlg/VRL/V13_.md",
     "sem1/EProg/UE/U0/EProg_U0_e.pdf",
-    "sem1/EProg/UE/U1/EProg_U1_e.pdf",
-    "sem1/EProg/UE/U2/EProg_U2_e.pdf",
-    "sem1/EProg/UE/U2/test.txt",
-    "sem1/EProg/UE/U2"
+    "sem1/EProg/UE/U1/EProg_U1_e.pdf"
   ]
 }
