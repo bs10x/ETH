@@ -44,6 +44,10 @@ You are required to solve the bonusquizzes on your own!
     - install git in shell enviroment (ipad)
 - implement smart-homepage (fork of @ziadomalik/ethz-assignment-viewer)
 - restructure homepage to have shared stylesheets, javascript and html files in non-private directories
+- buy a macbook
+- install asahi linux
+
+
 
 
 
@@ -58,3 +62,4 @@ You are required to solve the bonusquizzes on your own!
 - qute browser
 - rnotes
 - lazyvim
+
