@@ -50,6 +50,25 @@
 
 
 
+
 ### #aktien-kursveränderung
 
 +7 -11 +18 +10 -23 -3 +27 -1
+
+höchste gewinne: +18+10-23-3+27= +29
+
+problem: max subarray sum (MSS)
+
+eingabe: $a_i ,\,a_{i+1},\,\cdot\cdot\cdot ,a_j,\, a\in\mathbb{Z},\,i,\,j\in ?$
+
+naiver algorithmus:
+- berechne alle teilsummen
+
+
+
+pseudocode:
+for (i: 1..n)
+	$S_{i, i}\leftarrow a_i$
+	$S_{i, i+1}\leftarrow a_i+a_{i+1}$
+	
+	

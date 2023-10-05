@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#kur",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,8 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3eef01e3b58afb78",
+  "active": "939cef663dc05211",
   "lastOpenFiles": [
+    "sem1/LinAlg/src/LinAlg_src.md",
+    "sem1/EProg/src/EProg_src.md",
+    "sem1/DMath/src/DMath_src.md",
+    "sem1/LinAlg/src/LinAlg_pvw_HS22.pdf",
+    "sem1/EProg/src/EProg_pvw_HS22.pdf",
+    "sem1/AuD/src/AuD_src.md",
+    "sem1/DMath/src/DMath_pvw_HS22.pdf",
+    "sem1/AuD/VRL/V02_big-O, star-search.md",
+    "sem1/AuD/src/AuD_pvw_HS22.pdf",
     "sem1/AuD/VRL/V03_.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1.md",
@@ -190,20 +198,11 @@
     "sem1/LinAlg/VRL/V13_.md",
     "sem1/LinAlg/VRL/V12_.md",
     "sem1/LinAlg/VRL/V11_.md",
-    "sem1/LinAlg/VRL/V10_.md",
-    "sem1/LinAlg/VRL/V09_.md",
-    "sem1/LinAlg/VRL/V08_.md",
-    "sem1/LinAlg/VRL/V07_.md",
-    "sem1/LinAlg/VRL/V06_.md",
     "sem1/EProg/UE/U0/EProg_U0_e.pdf",
     "sem1/EProg/UE/U1/EProg_U1_e.pdf",
     "sem1/EProg/UE/U2/EProg_U2_e.pdf",
     "sem1/EProg/UE/U2/test.txt",
     "sem1/EProg/UE/U2",
-    "sem1/DMath/src/DMath_script.pdf",
-    "sem1/LinAlg/src/org",
-    "sem1/EProg/src/org",
-    "sem1/DMath/src/org",
-    "sem1/AuD/src/org"
+    "sem1/DMath/src/DMath_script.pdf"
   ]
 }
