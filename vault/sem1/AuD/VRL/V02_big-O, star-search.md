@@ -82,5 +82,8 @@ $\quad\quad = \frac{(n-i)\cdot(n-i+1)}{2}$
 $\frac{(n-i)^2}{2}\geq \frac{(n-i)\cdot(n-i+1)}{2} \leq \frac{(n-i+1)^2}{2}$ Abschätzung (lower und upper bound)
 
 $A(n) \leq \frac{1}{2}\cdot(n^2 +(n-1)^2 +(n-2)^2 +\cdot\cdot\cdot+2^n+1^2)$
+$A(n) \leq \frac{1}{2}\cdot n\cdot n^2 = \frac{n^3}{2}$
 
-
+$A(n) \geq \frac{1}{2}\cdot((n-1)^2 +(n-2)^2 +\cdot\cdot\cdot+2^n+1^2 +0^2)$
+$\quad\quad\geq\frac{1}{2}\cdot (Summanden \geq (\frac{n}{2})^2)\cdot (\frac{n}{2})$
+$\quad\quad\geq \frac{1}{2}\cdot\frac{n}{4}\cdot (\frac{n}{2})^2 = \frac{1}{32} \cdot n^3$
