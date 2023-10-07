@@ -53,7 +53,7 @@ You are required to solve the bonusquizzes on your own!
 
 
 
-### //ARCH USER SETUP//
+### //ARCH-USER-SETUP//
 
 - i3 tiling window manager
 - thinkpad l13 yoga
