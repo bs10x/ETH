@@ -161,8 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372d21dcaccf7b0c",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U3",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/LinAlg/VRL/V02_scalar products.md",
     "sem1/AuD/UE/U2/AuD_U2_e.pdf",
@@ -197,7 +198,6 @@
     "sem1/LinAlg/VRL/V18_.md",
     "sem1/LinAlg/VRL/V17_.md",
     "sem1/LinAlg/VRL/V16_.md",
-    "sem1/LinAlg/VRL/V14_.md",
     "sem1/EProg/UE/U0/EProg_U0_e.pdf"
   ]
 }
