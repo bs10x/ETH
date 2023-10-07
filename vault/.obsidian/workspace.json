@@ -28,8 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2eb2af4cfb08df94",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/EProg/UE/U2/EProg_U2_e.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/EProg/UE/U2/EProg_U2_e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/EProg/UE/U2/EProg_U2_e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/EProg/UE/U2/EProg_U2_e.pdf"
+              }
             }
           },
           {
@@ -148,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,6 +177,13 @@
   },
   "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem1/AuD/UE/U1/AuD_u1_s.pdf",
+    "sem1/LinAlg/UE/U0/LinAlg_U0_s.pdf",
+    "sem1/LinAlg/UE/U1/LinAlg_U1_s.pdf",
+    "sem1/LinAlg/UE/U0/LinAlg_U0_e.pdf",
+    "sem1/LinAlg/UE/U2/LinAlg_U2_e.pdf",
+    "sem1/LinAlg/UE/U2",
+    "sem1/DMath/UE/U3/DMath_U3_e.pdf",
     "sem1/DMath/UE/U3",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/LinAlg/VRL/V02_scalar products.md",
@@ -170,18 +191,12 @@
     "sem1/AuD/src/AuD_src.md",
     "sem1/AuD/src/AuD_script.pdf",
     "sem1/AuD/src/AuD_notes_1.pdf",
-    "sem1/AuD/src/AuD_notes_2.pdf",
-    "sem1/AuD/src/AuD_notes_3.pdf",
     "sem1/AuD/VRL/V02_big-O, star-search.md",
     "etc/literature2buy?.md",
     "etc/ersti tag.md",
     "sem1/LinAlg/src/LinAlg_src.md",
     "sem1/EProg/src/EProg_src.md",
     "sem1/DMath/src/DMath_src.md",
-    "sem1/LinAlg/src/LinAlg_pvw_HS22.pdf",
-    "sem1/EProg/src/EProg_pvw_HS22.pdf",
-    "sem1/DMath/src/DMath_pvw_HS22.pdf",
-    "sem1/AuD/src/AuD_pvw_HS22.pdf",
     "sem1/AuD/VRL/V03_.md",
     "sem1.md",
     "sem1/LinAlg/VRL/V29_.md",
@@ -197,7 +212,6 @@
     "sem1/LinAlg/VRL/V19_.md",
     "sem1/LinAlg/VRL/V18_.md",
     "sem1/LinAlg/VRL/V17_.md",
-    "sem1/LinAlg/VRL/V16_.md",
-    "sem1/EProg/UE/U0/EProg_U0_e.pdf"
+    "sem1/LinAlg/VRL/V16_.md"
   ]
 }
