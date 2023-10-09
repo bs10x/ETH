@@ -52,8 +52,6 @@ $m! +1$
 
 ### #Mengen-Lehre
 
-
-
 {{1}} = {1} ?
 
 
@@ -68,8 +66,6 @@ Geht nicht, weil Universum aller Mengen ist keine Menge
 
 
 $\forall x (x\in A \leftrightarrow x\in B) \overset{def.}{\Leftrightarrow} A=B$
-
-
 
 
 
