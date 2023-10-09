@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0c9a502bf1683b9c",
+        "id": "d708c888e2a78f32",
         "type": "tabs",
         "children": [
           {
-            "id": "1bbacb01b42d470d",
+            "id": "1142ce61ba335077",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -123,6 +123,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bbacb01b42d470d",
-  "lastOpenFiles": []
+  "active": "1142ce61ba335077",
+  "lastOpenFiles": [
+    "sem1/DMath/src/DMath_src.md",
+    "sem1/DMath/src/DMath_script.pdf",
+    "sem1/DMath/src/DMath.md",
+    "sem1/DMath/src/DMath_pvw_HS22.pdf",
+    "sem1/DMath/src",
+    "sem1/DMath/VRL/V05_equivalence transformations.md",
+    "sem1/DMath/VRL/V01_mathematical propositions.md",
+    "sem1/DMath/VRL/V02_propositions, logical operators.md",
+    "sem1/DMath/VRL/V26_.md",
+    "sem1/DMath/VRL/V24_.md",
+    "sem1/DMath/VRL/V18_.md",
+    "sem1/DMath/VRL/V03_predicates.md",
+    "sem1/DMath/VRL/V19_.md",
+    "sem1/DMath/VRL/V25_.md",
+    "sem1/DMath/VRL/V09_.md",
+    "sem1/DMath/VRL/V21_.md",
+    "sem1/DMath/VRL/V04_logical formulas.md",
+    "sem1/DMath/VRL/V20_.md",
+    "sem1/DMath/VRL/V08_.md",
+    "sem1/DMath/VRL/V22_.md",
+    "sem1/DMath/VRL/V23_.md",
+    "sem1/DMath/VRL/V12_.md",
+    "sem1/DMath/VRL/V06_.md",
+    "sem1/DMath/VRL/V07_.md",
+    "sem1/DMath/VRL/V13_.md",
+    "sem1/DMath/VRL/V11_.md",
+    "sem1/DMath/VRL/V10_.md",
+    "sem1/DMath/VRL/V14_.md",
+    "sem1/DMath/VRL/V00_DMath.md",
+    "sem1/DMath/VRL",
+    "sem1/DMath/UE/U2/DMath_U2_e.pdf",
+    "sem1/DMath/UE/U2/DMath_U2_bf.pdf",
+    "sem1/DMath/UE/U3/DMath_U3_e.pdf",
+    "sem1/DMath/UE/U1/DMath_U1_s.pdf",
+    "sem1/DMath/UE/U1/DMath_U1_e.pdf",
+    "sem1/DMath/UE/U2"
+  ]
 }
