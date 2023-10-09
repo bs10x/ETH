@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "3cac325881efa516",
+    "id": "f6d4840dd2891004",
     "type": "split",
     "children": [
       {
-        "id": "3ca6449179f57afc",
+        "id": "0c9a502bf1683b9c",
         "type": "tabs",
         "children": [
           {
-            "id": "eb3aed29933fc04e",
+            "id": "1bbacb01b42d470d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a48e03a2c717616e",
+    "id": "cb82b5ed03566deb",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "738cfd633a44236e",
+        "id": "4802a04bb15b374a",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +35,7 @@
         }
       },
       {
-        "id": "8bf722a16e50f2ac",
+        "id": "d100b049064695bc",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +50,7 @@
         }
       },
       {
-        "id": "ef734383e8728d25",
+        "id": "9e2ca8ef9b333f38",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +61,7 @@
         }
       },
       {
-        "id": "868fcc3fc1ed3042",
+        "id": "34bc4c3b9bc4516b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "7fb4e80d2c51eb34",
+    "id": "d648957e6dd8f6ad",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c3a745b242c59f14",
+        "id": "69ffdfdcfa179ca3",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,25 +92,22 @@
         }
       },
       {
-        "id": "b75b572cdd8e20e8",
+        "id": "e485c9df6e813666",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/AuD/ass/U1/AuD_U1_bf.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "723d6e46b444a0c4",
+        "id": "f940180e503a7f12",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "sem1/AuD/ass/U1/AuD_U1_bf.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,13 +123,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb3aed29933fc04e",
-  "lastOpenFiles": [
-    "etc/private/explanations.md",
-    "etc/private",
-    "etc/ersti tag.md",
-    "etc/pushfrommacbook.md",
-    "push from ipad.md",
-    "hello.md"
-  ]
+  "active": "1bbacb01b42d470d",
+  "lastOpenFiles": []
 }
