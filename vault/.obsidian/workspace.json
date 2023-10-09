@@ -177,6 +177,9 @@
   },
   "active": "d4d9e5cf2cd5e94b",
   "lastOpenFiles": [
+    "test3.md",
+    "test2.md",
+    "test.md",
     "sem1/EProg/src/EProg_s9_methoden+.pdf",
     "sem1/EProg/src/EProg_s8_loops.pdf",
     "sem1/EProg/src/EProg_s7_verzweigungen.pdf",
@@ -187,7 +190,6 @@
     "sem1/EProg/src/EProg_s2_ebnf+.pdf",
     "sem1/EProg/src/EProg_s1_ebnf.pdf",
     "sem1/EProg/src/EProg_s0_information.pdf",
-    "EProg_V0_slides.pdf",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/LinAlg/VRL/V02_scalar products.md",
     "sem1/AuD/src/AuD_src.md",
@@ -210,8 +212,6 @@
     "sem1/LinAlg/VRL/V21_.md",
     "sem1/LinAlg/VRL/V20_.md",
     "sem1/LinAlg/VRL/V19_.md",
-    "sem1/LinAlg/VRL/V18_.md",
-    "sem1/LinAlg/VRL/V17_.md",
-    "sem1/LinAlg/VRL/V16_.md"
+    "sem1/LinAlg/VRL/V18_.md"
   ]
 }
