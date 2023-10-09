@@ -28,9 +28,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9a33dc34c579aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4c4e294002bdcdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "test.md",
+            "file": "test3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "test.md",
+            "file": "test3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "test.md"
+            "file": "test3.md"
           }
         }
       }
@@ -142,10 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e067353c981ea70",
+  "active": "d4c4e294002bdcdd",
   "lastOpenFiles": [
-    "sem1/AuD/src/AuD_src.md",
+    "test2.md",
+    "test3.md",
     "test.md",
+    "sem1/AuD/src/AuD_src.md",
     "sem1/EProg/src/EProg_s1_ebnf.pdf",
     "sem1/EProg/src/EProg_s2_ebnf+.pdf",
     "sem1/EProg/src/EProg_s3_ebnf-recursion.pdf",
@@ -177,8 +203,6 @@
     "sem1/DMath/VRL/V23_.md",
     "sem1/DMath/VRL/V12_.md",
     "sem1/DMath/VRL/V06_.md",
-    "sem1/DMath/VRL/V07_.md",
-    "sem1/DMath/VRL/V13_.md",
-    "sem1/DMath/VRL/V11_.md"
+    "sem1/DMath/VRL/V07_.md"
   ]
 }
