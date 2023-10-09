@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/VRL/V05_equivalence transformations.md",
+                "file": "sem1/EProg/VRL/V05_verzweigungen, schleifen.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "sem1/EProg/VRL/V05_verzweigungen, schleifen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,6 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "sem1/EProg/VRL/V05_verzweigungen, schleifen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +124,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "sem1/EProg/VRL/V05_verzweigungen, schleifen.md"
+          }
         }
       }
     ],
@@ -138,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4802a04bb15b374a",
+  "active": "1142ce61ba335077",
   "lastOpenFiles": [
     "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/DMath/src/DMath_src.md",
