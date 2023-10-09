@@ -144,15 +144,21 @@
   },
   "active": "4802a04bb15b374a",
   "lastOpenFiles": [
+    "sem1/EProg/src/EProg_s1_ebnf.pdf",
+    "sem1/EProg/src/EProg_s2_ebnf+.pdf",
+    "sem1/EProg/src/EProg_s3_ebnf-recursion.pdf",
+    "sem1/EProg/src/EProg_s4_methoden.pdf",
+    "sem1/EProg/src/EProg_s5_typen, variablen.pdf",
+    "sem1/EProg/src/EProg_s6_hoare-trippel.pdf",
+    "sem1/EProg/src/EProg_s7_verzweigungen.pdf",
+    "sem1/EProg/src/EProg_s8_loops.pdf",
+    "sem1/EProg/src/EProg_s9_methoden+.pdf",
     "sem1/AuD/src/AuD_notes_2.pdf",
     "sem1/EProg/src/EProg_s0_information.pdf",
     "sem1/EProg/VRL/V05_verzweigungen, schleifen.md",
     "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/DMath/src/DMath_src.md",
-    "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/src/DMath.md",
-    "sem1/DMath/src/DMath_pvw_HS22.pdf",
-    "sem1/DMath/src",
     "sem1/DMath/VRL/V01_mathematical propositions.md",
     "sem1/DMath/VRL/V02_propositions, logical operators.md",
     "sem1/DMath/VRL/V26_.md",
@@ -173,12 +179,6 @@
     "sem1/DMath/VRL/V07_.md",
     "sem1/DMath/VRL/V13_.md",
     "sem1/DMath/VRL/V11_.md",
-    "sem1/DMath/VRL/V10_.md",
-    "sem1/DMath/VRL",
-    "sem1/DMath/UE/U2/DMath_U2_e.pdf",
-    "sem1/DMath/UE/U2/DMath_U2_bf.pdf",
-    "sem1/DMath/UE/U3/DMath_U3_e.pdf",
-    "sem1/DMath/UE/U1/DMath_U1_s.pdf",
-    "sem1/DMath/UE/U1/DMath_U1_e.pdf"
+    "sem1/DMath/VRL/V10_.md"
   ]
 }
