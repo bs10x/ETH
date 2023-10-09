@@ -38,15 +38,10 @@ You are required to solve the bonusquizzes on your own!
 ### //TODO//
 
 - make personal website look nicer
-- update setups so device conflict doesn't occur anymore
-    - ipad only syncs vault/ directory, not homepage/
-    - shell script automation? working copy?
-    - install git in shell enviroment (ipad)
 - implement smart-homepage (fork of @ziadomalik/ethz-assignment-viewer)
 - restructure homepage to have shared stylesheets, javascript and html files in non-private directories
 - buy a macbook
 - install asahi linux
-
 
 
 
@@ -62,4 +57,14 @@ You are required to solve the bonusquizzes on your own!
 - qute browser
 - rnotes
 - lazyvim
+
+
+
+### //DOC//
+
+- resolved ceoss-device .obsidian directory override conflict
+- added shortcuts and automations to pull and push on ipad
+
+
+
 
