@@ -1,3 +1,6 @@
 {
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "newFileLocation": "current"
 }
