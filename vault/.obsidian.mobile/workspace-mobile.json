@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/VRL/V06_beweise, lemmas.md",
+                "file": "sem1/DMath/VRL/V06_lemmas, mengen.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/VRL/V06_beweise, lemmas.md",
+            "file": "sem1/DMath/VRL/V06_lemmas, mengen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/VRL/V06_beweise, lemmas.md",
+            "file": "sem1/DMath/VRL/V06_lemmas, mengen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/DMath/VRL/V06_beweise, lemmas.md"
+            "file": "sem1/DMath/VRL/V06_lemmas, mengen.md"
           }
         }
       }
@@ -144,7 +144,7 @@
   "active": "9478b9b47983979a",
   "lastOpenFiles": [
     "sem1/DMath/src/DMath_script.pdf",
-    "sem1/DMath/VRL/V06_beweise, lemmas.md",
+    "sem1/DMath/VRL/V06_lemmas, mengen.md",
     "sem1/DMath/UE/U3/DMath_U3_e.pdf",
     "Untitled.canvas",
     "test3.md",
