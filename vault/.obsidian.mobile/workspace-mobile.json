@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d708c888e2a78f32",
+        "id": "6ba4c168365c9ace",
         "type": "tabs",
         "children": [
           {
-            "id": "dfb4811000a4007c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "da2744ada6dffe9b",
+            "id": "9478b9b47983979a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf"
+                "file": "sem1/DMath/VRL/V06_.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf",
+            "file": "sem1/DMath/VRL/V06_.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf",
+            "file": "sem1/DMath/VRL/V06_.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf"
+            "file": "sem1/DMath/VRL/V06_.md"
           }
         }
       }
@@ -140,8 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da2744ada6dffe9b",
+  "active": "9478b9b47983979a",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "sem1/DMath/UE/U3/DMath_U3_e.pdf",
     "test3.md",
     "test2.md",
     "test.md",
@@ -155,7 +148,6 @@
     "sem1/EProg/src/EProg_s7_verzweigungen.pdf",
     "sem1/EProg/src/EProg_s8_loops.pdf",
     "sem1/EProg/src/EProg_s9_methoden+.pdf",
-    "sem1/AuD/src/AuD_notes_2.pdf",
     "sem1/EProg/VRL/V05_verzweigungen, schleifen.md",
     "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/DMath/src/DMath_src.md",
@@ -176,7 +168,6 @@
     "sem1/DMath/VRL/V22_.md",
     "sem1/DMath/VRL/V23_.md",
     "sem1/DMath/VRL/V12_.md",
-    "sem1/DMath/VRL/V06_.md",
-    "sem1/DMath/VRL/V07_.md"
+    "sem1/DMath/VRL/V06_.md"
   ]
 }

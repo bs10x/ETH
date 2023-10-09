@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "trashOption": "system",
   "newFileLocation": "current",
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "var/attachments"
 }
