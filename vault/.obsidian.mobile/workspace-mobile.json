@@ -81,9 +81,17 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "8b50d20bdfb35dcd",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "d648957e6dd8f6ad",
@@ -138,13 +146,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "9478b9b47983979a",
   "lastOpenFiles": [
-    "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/UE/U3/DMath_U3_e.pdf",
     "Untitled.canvas",
     "test3.md",
@@ -157,9 +169,6 @@
     "sem1/EProg/src/EProg_s4_methoden.pdf",
     "sem1/EProg/src/EProg_s5_typen, variablen.pdf",
     "sem1/EProg/src/EProg_s6_hoare-trippel.pdf",
-    "sem1/EProg/src/EProg_s7_verzweigungen.pdf",
-    "sem1/EProg/src/EProg_s8_loops.pdf",
-    "sem1/EProg/src/EProg_s9_methoden+.pdf",
     "sem1/EProg/VRL/V05_verzweigungen, schleifen.md",
     "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/DMath/src/DMath_src.md",
