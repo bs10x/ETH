@@ -49,7 +49,8 @@ $m! +1$
 >$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\rightarrow \forall n, \,P(n)$
 
 
-$R \overset{def.}{=} {A | A \nin A}$
+$R \overset{def.}{=} {A | A \notin A}$
+
 
 
 
