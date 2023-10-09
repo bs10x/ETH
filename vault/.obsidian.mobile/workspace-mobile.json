@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1bbc9daa1d198af1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/src/DMath_script.pdf"
+              }
+            }
           }
         ]
       }
@@ -133,8 +143,9 @@
   },
   "active": "9478b9b47983979a",
   "lastOpenFiles": [
-    "sem1/DMath/UE/U3/DMath_U3_e.pdf",
+    "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/VRL/V06_.md",
+    "sem1/DMath/UE/U3/DMath_U3_e.pdf",
     "Untitled.canvas",
     "test3.md",
     "test2.md",
