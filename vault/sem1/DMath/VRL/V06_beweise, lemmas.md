@@ -39,8 +39,6 @@ $S_a \quad \forall m \exists p (prime(p) \wedge p>m$
 $m! +1$
 
 
-{{1}} = {1} ?
-
 >[!example] Induktion
 >$U=\mathbb{N}, \, fixes \, P$
 >Theorem:
@@ -49,10 +47,23 @@ $m! +1$
 >$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\rightarrow \forall n, \,P(n)$
 
 
-$R \overset{def.}{=} {A | A \notin A}$
 
 
 
+### #Mengen-Lehre
+
+
+
+{{1}} = {1} ?
+
+
+Russell
+$R \overset{def.}{=} \{ A | A \notin A\}$
+$R \in R \implies R \notin R$
+$R \notin R \implies R\in R$
+-> **Paradox!**
+
+Geht nicht, weil Universum aller Mengen ist keine Menge
 
 
 
