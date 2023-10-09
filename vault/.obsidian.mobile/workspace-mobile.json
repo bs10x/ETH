@@ -8,14 +8,29 @@
         "type": "tabs",
         "children": [
           {
+            "id": "dfb4811000a4007c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
             "id": "1142ce61ba335077",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/VRL/V05_equivalence transformations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,14 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1142ce61ba335077",
+  "active": "dfb4811000a4007c",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/DMath/src/DMath_src.md",
     "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/src/DMath.md",
     "sem1/DMath/src/DMath_pvw_HS22.pdf",
     "sem1/DMath/src",
-    "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/DMath/VRL/V01_mathematical propositions.md",
     "sem1/DMath/VRL/V02_propositions, logical operators.md",
     "sem1/DMath/VRL/V26_.md",
