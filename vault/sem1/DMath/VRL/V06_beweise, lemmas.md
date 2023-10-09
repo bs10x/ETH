@@ -41,8 +41,15 @@ $m! +1$
 
 {{1}} = {1} ?
 
+>[!example] Induktion
+>$U=\mathbb{N}, \, fixes \, P$
+>Theorem:
+>$P(O) \wedge \forall n (P(n) \rightarrow P(n+1)) \implies \forall n, \,P(n)$
+>$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\models \forall n, \,P(n)$
+>$\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\rightarrow \forall n, \,P(n)$
 
 
+$R \overset{def.}{=} {A | A \nin A}$
 
 
 
