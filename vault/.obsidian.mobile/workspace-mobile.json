@@ -11,11 +11,9 @@
             "id": "9478b9b47983979a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem1/DMath/VRL/V06_.md",
-                "mode": "source",
-                "source": false
+                "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/VRL/V06_.md",
+            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/VRL/V06_.md",
+            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/DMath/VRL/V06_.md"
+            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf"
           }
         }
       }
@@ -133,6 +131,7 @@
   },
   "active": "9478b9b47983979a",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V06_.md",
     "Untitled.canvas",
     "sem1/DMath/UE/U3/DMath_U3_e.pdf",
     "test3.md",
@@ -167,7 +166,6 @@
     "sem1/DMath/VRL/V08_.md",
     "sem1/DMath/VRL/V22_.md",
     "sem1/DMath/VRL/V23_.md",
-    "sem1/DMath/VRL/V12_.md",
-    "sem1/DMath/VRL/V06_.md"
+    "sem1/DMath/VRL/V12_.md"
   ]
 }
