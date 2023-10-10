@@ -18,18 +18,6 @@
             }
           },
           {
-            "id": "6f37c013b753056e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hallo svea.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6d0c86a08ddc0a89",
             "type": "leaf",
             "state": {
@@ -40,8 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0863a88aa6af214a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/AuD/src/AuD_src.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md"
+              }
             }
           },
           {
@@ -172,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372d21dcaccf7b0c",
+  "active": "6d0c86a08ddc0a89",
   "lastOpenFiles": [
+    "sem1/AuD/src/AuD_src.md",
     "DMath_U3_bf.md",
     "hallo svea.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
@@ -188,7 +194,6 @@
     "sem1/EProg/src/EProg_s05_typen, variablen.pdf",
     "sem1/EProg/src/EProg_s04_methoden.pdf",
     "sem1/EProg/src/EProg_s03_ebnf-recursion.pdf",
-    "sem1/AuD/src/AuD_src.md",
     "sem1/AuD/VRL/V00_AuD.md",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
     "test3.md",
