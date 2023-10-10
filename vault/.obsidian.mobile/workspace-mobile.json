@@ -39,12 +39,8 @@
             "id": "eb1fe08f4b9a6ffb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DMath_U3_bf.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -114,7 +110,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DMath_U3_bf.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +126,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "DMath_U3_bf.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -142,9 +136,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "DMath_U3_bf.md"
-          }
+          "state": {}
         }
       },
       {
@@ -172,23 +164,24 @@
   },
   "active": "eb1fe08f4b9a6ffb",
   "lastOpenFiles": [
+    "hallo svea.md",
     "DMath_U3_bf.md",
-    "sem1/DMath/UE/U3/DMath_U3_e.pdf",
+    "sem1/DMath/UE/U2/DMath_U2_s.pdf",
+    "sem1/AuD/src/AuD_s01_algorithmen.pdf",
+    "sem1/AuD/src/AuD_s02_big-o-notation.pdf",
+    "sem1/AuD/src/AuD_s03_max-subarray-sum.pdf",
+    "sem1/AuD/src/AuD_s04_search-&sorting-algorithms.pdf",
+    "sem1/EProg/src/EProg_s06_hoare-trippel.pdf",
+    "sem1/EProg/src/EProg_s03_ebnf-recursion.pdf",
+    "sem1/EProg/src/EProg_s05_typen, variablen.pdf",
+    "sem1/EProg/src/EProg_s00_information.pdf",
+    "sem1/EProg/src/EProg_s07_verzweigungen.pdf",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
-    "Context/spacesLastSync.log",
-    "Context",
-    "sem1/DMath/src/DMath_script.pdf",
     "Untitled.canvas",
     "test3.md",
     "test2.md",
     "test.md",
     "sem1/AuD/src/AuD_src.md",
-    "sem1/EProg/src/EProg_s1_ebnf.pdf",
-    "sem1/EProg/src/EProg_s2_ebnf+.pdf",
-    "sem1/EProg/src/EProg_s3_ebnf-recursion.pdf",
-    "sem1/EProg/src/EProg_s4_methoden.pdf",
-    "sem1/EProg/src/EProg_s5_typen, variablen.pdf",
-    "sem1/EProg/src/EProg_s6_hoare-trippel.pdf",
     "sem1/EProg/VRL/V05_verzweigungen, schleifen.md",
     "sem1/DMath/VRL/V05_equivalence transformations.md",
     "sem1/DMath/src/DMath_src.md",
@@ -206,8 +199,6 @@
     "sem1/DMath/VRL/V04_logical formulas.md",
     "sem1/DMath/VRL/V20_.md",
     "sem1/DMath/VRL/V08_.md",
-    "sem1/DMath/VRL/V22_.md",
-    "sem1/DMath/VRL/V23_.md",
-    "sem1/DMath/VRL/V12_.md"
+    "sem1/DMath/VRL/V22_.md"
   ]
 }
