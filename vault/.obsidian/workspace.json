@@ -148,8 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372d21dcaccf7b0c",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "var/literature2buy?.md",
+    "var/ersti tag.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/AuD/src/AuD_src.md",
     "DMath_U3_bf.md",
@@ -183,8 +185,6 @@
     "sem1/LinAlg/VRL/V27_.md",
     "sem1/LinAlg/VRL/V26_.md",
     "sem1/LinAlg/VRL/V25_.md",
-    "sem1/LinAlg/VRL/V24_.md",
-    "sem1/LinAlg/VRL/V23_.md",
-    "sem1/LinAlg/VRL/V22_.md"
+    "sem1/LinAlg/VRL/V24_.md"
   ]
 }
