@@ -9,7 +9,7 @@
 "EProg_s4:": "[[EProg_s04_methoden.pdf]]"
 "EProg_s5:": "[[EProg_s05_typen, variablen.pdf]]"
 "EProg_s6:": "[[EProg_s06_hoare-trippel.pdf]]"
-"EProg_s7:": "[[EProg_s7_verzweigungen.pdf]]"
-"EProg_s8:": "[[EProg_s8_schleifen.pdf]]"
-"EProg_s9:": "[[EProg_s9_methoden++.pdf]]"
+"EProg_s7:": "[[EProg_s07_verzweigungen.pdf]]"
+"EProg_s8:": "[[EProg_s08_schleifen.pdf]]"
+"EProg_s9:": "[[EProg_s09_methoden++.pdf]]"
 ---
