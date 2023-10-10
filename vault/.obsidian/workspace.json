@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "6f37c013b753056e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hallo svea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d0c86a08ddc0a89",
             "type": "leaf",
             "state": {
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md",
+                "file": "hallo svea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md",
+                "file": "hallo svea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md"
+                "file": "hallo svea.md"
               }
             }
           },
@@ -165,8 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "6f37c013b753056e",
   "lastOpenFiles": [
+    "hallo svea.md",
+    "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/DMath/UE/U2/DMath_U2_s.pdf",
     "sem1/EProg/UE/U2/EProg_U2_e.pdf",
     "sem1/AuD/src/AuD_s03_max-subarray-sum.pdf",
@@ -178,14 +192,12 @@
     "sem1/EProg/src/EProg_s05_typen, variablen.pdf",
     "sem1/EProg/src/EProg_s04_methoden.pdf",
     "sem1/EProg/src/EProg_s03_ebnf-recursion.pdf",
-    "sem1/EProg/src/EProg_s02_ebnf++.pdf",
     "sem1/AuD/src/AuD_src.md",
     "sem1/AuD/VRL/V00_AuD.md",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
     "test3.md",
     "test2.md",
     "test.md",
-    "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/LinAlg/VRL/V02_scalar products.md",
     "sem1/AuD/VRL/V02_big-O, star-search.md",
     "etc/literature2buy?.md",
