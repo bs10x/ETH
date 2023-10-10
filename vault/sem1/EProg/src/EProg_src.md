@@ -1,5 +1,15 @@
 ---
-VK_ex.1.x-5.x: "[[EProg_vk_ex.1.x-5.x.pdf]]"
-VK_ex.5.x-8.x: "[[EProg_vk_ex.5.x-8.x.pdf]]"
-pv: "[[EProg_pvw_HS22.pdf]]"
+"VK_ex.1.x-5.x:": "[[EProg_vk_ex.1.x-5.x.pdf]]"
+"VK_ex.5.x-8.x:": "[[EProg_vk_ex.5.x-8.x.pdf]]"
+"pv:": "[[EProg_pvw_HS22.pdf]]"
+"EProg_s0:": "[[EProg_s0_information.pdf]]"
+"EProg_s1:": "[[EProg_s1_ebnf.pdf]]"
+"EProg_s2:": "[[EProg_s2_ebnf++.pdf]]"
+"EProg_s3:": "[[EProg_s3_ebnf-recursion.pdf]]"
+"EProg_s4:": "[[EProg_s4_methoden.pdf]]"
+"EProg_s5:": "[[EProg_s5_typen, variablen.pdf]]"
+"EProg_s6:": "[[EProg_s6_hoare-trippel.pdf]]"
+"EProg_s7:": "[[EProg_s7_verzweigungen.pdf]]"
+"EProg_s8:": "[[EProg_s8_schleifen.pdf]]"
+"EProg_s9:": "[[EProg_s9_methoden++.pdf]]"
 ---

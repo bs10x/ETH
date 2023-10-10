@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/VRL/V00_AuD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/VRL/V00_AuD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/AuD/VRL/V00_AuD.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,8 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d17f18975b993587",
+  "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
+    "sem1/AuD/VRL/V00_AuD.md",
+    "sem1/EProg/src/EProg_s2_ebnf++.pdf",
+    "sem1/EProg/src/EProg_s9_methoden++.pdf",
     "sem1/EProg/src/EProg_s8_schleifen.pdf",
     "sem1/EProg/src/EProg_src.md",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
@@ -202,9 +200,6 @@
     "sem1/EProg/src/EProg_s5_typen, variablen.pdf",
     "sem1/EProg/src/EProg_s4_methoden.pdf",
     "sem1/EProg/src/EProg_s3_ebnf-recursion.pdf",
-    "sem1/EProg/src/EProg_s2_ebnf+.pdf",
-    "sem1/EProg/src/EProg_s1_ebnf.pdf",
-    "sem1/EProg/src/EProg_s0_information.pdf",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/LinAlg/VRL/V02_scalar products.md",
     "sem1/AuD/src/AuD_src.md",
