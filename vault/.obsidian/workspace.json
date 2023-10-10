@@ -55,9 +55,11 @@
             "id": "95b176723f20fd4e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/EProg/src/EProg_s09_methoden++.pdf"
+                "file": "sem1/EProg/src/EProg_src.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/EProg/src/EProg_s09_methoden++.pdf",
+                "file": "sem1/EProg/src/EProg_src.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/EProg/src/EProg_s09_methoden++.pdf",
+                "file": "sem1/EProg/src/EProg_src.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/EProg/src/EProg_s09_methoden++.pdf"
+                "file": "sem1/EProg/src/EProg_src.md"
               }
             }
           },
@@ -199,6 +201,7 @@
   },
   "active": "95b176723f20fd4e",
   "lastOpenFiles": [
+    "sem1/EProg/src/EProg_s09_methoden++.pdf",
     "sem1/EProg/src/EProg_s08_schleifen.pdf",
     "sem1/EProg/src/EProg_s07_verzweigungen.pdf",
     "sem1/EProg/src/EProg_s06_hoare-trippel.pdf",
@@ -209,7 +212,6 @@
     "sem1/EProg/src/EProg_s01_ebnf.pdf",
     "sem1/AuD/src/AuD_s04_search-&sorting-algorithms.pdf",
     "sem1/AuD/src/AuD_s03_max-subarray-sum.pdf",
-    "sem1/AuD/src/AuD_s02_big-o-notation.pdf",
     "sem1/AuD/src/AuD_src.md",
     "sem1/AuD/VRL/V00_AuD.md",
     "sem1/EProg/src/EProg_src.md",
