@@ -57,7 +57,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem1/AuD/src/AuD_s04_search-&sorting-algorithms.pdf"
+                "file": "sem1/EProg/src/EProg_s06_hoare-trippel.pdf"
               }
             }
           }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/src/AuD_s04_search-&sorting-algorithms.pdf",
+                "file": "sem1/EProg/src/EProg_s06_hoare-trippel.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/src/AuD_s04_search-&sorting-algorithms.pdf",
+                "file": "sem1/EProg/src/EProg_s06_hoare-trippel.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/src/AuD_s04_search-&sorting-algorithms.pdf"
+                "file": "sem1/EProg/src/EProg_s06_hoare-trippel.pdf"
               }
             }
           },
@@ -197,15 +197,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "d4d9e5cf2cd5e94b",
   "lastOpenFiles": [
+    "sem1/EProg/src/EProg_s05_typen, variablen.pdf",
+    "sem1/EProg/src/EProg_s04_methoden.pdf",
+    "sem1/EProg/src/EProg_s03_ebnf-recursion.pdf",
+    "sem1/EProg/src/EProg_s02_ebnf++.pdf",
+    "sem1/EProg/src/EProg_s01_ebnf.pdf",
+    "sem1/AuD/src/AuD_s04_search-&sorting-algorithms.pdf",
     "sem1/AuD/src/AuD_s03_max-subarray-sum.pdf",
     "sem1/AuD/src/AuD_s02_big-o-notation.pdf",
     "sem1/AuD/src/AuD_src.md",
-    "sem1/AuD/src/AuD_s04_search-&sorting-algorithms.pdf",
     "sem1/AuD/src/AuD_s01_algorithmen.pdf",
     "sem1/AuD/VRL/V00_AuD.md",
-    "sem1/EProg/src/EProg_s2_ebnf++.pdf",
     "sem1/EProg/src/EProg_s9_methoden++.pdf",
     "sem1/EProg/src/EProg_s8_schleifen.pdf",
     "sem1/EProg/src/EProg_src.md",
@@ -213,9 +217,6 @@
     "test3.md",
     "test2.md",
     "test.md",
-    "sem1/EProg/src/EProg_s9_methoden+.pdf",
-    "sem1/EProg/src/EProg_s8_loops.pdf",
-    "sem1/EProg/src/EProg_s7_verzweigungen.pdf",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/LinAlg/VRL/V02_scalar products.md",
     "sem1/AuD/VRL/V02_big-O, star-search.md",
