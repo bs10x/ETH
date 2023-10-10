@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hallo svea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hallo svea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hallo svea.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f37c013b753056e",
+  "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
     "hallo svea.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
