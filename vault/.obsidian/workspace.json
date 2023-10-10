@@ -28,43 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2eb2af4cfb08df94",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/EProg/UE/U2/EProg_U2_e.pdf"
-              }
-            }
-          },
-          {
-            "id": "d17f18975b993587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/AuD/VRL/V00_AuD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95b176723f20fd4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/EProg/src/EProg_src.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/EProg/src/EProg_src.md",
+                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/EProg/src/EProg_src.md",
+                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/EProg/src/EProg_src.md"
+                "file": "sem1/LinAlg/VRL/V03_matrix multiplication.md"
               }
             }
           },
@@ -199,8 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95b176723f20fd4e",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U2/DMath_U2_s.pdf",
+    "sem1/EProg/UE/U2/EProg_U2_e.pdf",
+    "sem1/AuD/src/AuD_s03_max-subarray-sum.pdf",
+    "sem1/EProg/src/EProg_src.md",
     "sem1/EProg/src/EProg_s09_methoden++.pdf",
     "sem1/EProg/src/EProg_s08_schleifen.pdf",
     "sem1/EProg/src/EProg_s07_verzweigungen.pdf",
@@ -209,12 +179,8 @@
     "sem1/EProg/src/EProg_s04_methoden.pdf",
     "sem1/EProg/src/EProg_s03_ebnf-recursion.pdf",
     "sem1/EProg/src/EProg_s02_ebnf++.pdf",
-    "sem1/EProg/src/EProg_s01_ebnf.pdf",
-    "sem1/AuD/src/AuD_s04_search-&sorting-algorithms.pdf",
-    "sem1/AuD/src/AuD_s03_max-subarray-sum.pdf",
     "sem1/AuD/src/AuD_src.md",
     "sem1/AuD/VRL/V00_AuD.md",
-    "sem1/EProg/src/EProg_src.md",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
     "test3.md",
     "test2.md",
