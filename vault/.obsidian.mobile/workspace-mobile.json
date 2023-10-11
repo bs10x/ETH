@@ -43,8 +43,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,6 +109,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +126,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +137,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf"
+          }
         }
       },
       {
@@ -162,8 +165,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4802a04bb15b374a",
+  "active": "9478b9b47983979a",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U3/DMath_U3_bf.pdf",
     "var/literature2buy?.md",
     "var/ersti tag.md",
     "hallo svea.md",
@@ -199,7 +203,6 @@
     "sem1/DMath/VRL/V09_.md",
     "sem1/DMath/VRL/V21_.md",
     "sem1/DMath/VRL/V04_logical formulas.md",
-    "sem1/DMath/VRL/V20_.md",
-    "sem1/DMath/VRL/V08_.md"
+    "sem1/DMath/VRL/V20_.md"
   ]
 }
