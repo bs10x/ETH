@@ -16,8 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "b57265eb9db628f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf"
+              }
             }
           },
           {
@@ -148,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "b57265eb9db628f9",
   "lastOpenFiles": [
     "sem1/DMath/UE/U3/DMath_U3_bf.pdf",
     "var/literature2buy?.md",
