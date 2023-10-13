@@ -11,8 +11,10 @@
             "id": "eb1fe08f4b9a6ffb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem1/EProg/src/EProg_s09_methoden++.pdf"
+              }
             }
           },
           {
@@ -91,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "sem1/EProg/src/EProg_s09_methoden++.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "sem1/EProg/src/EProg_s09_methoden++.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "sem1/EProg/src/EProg_s09_methoden++.pdf"
+          }
         }
       },
       {
@@ -143,7 +149,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4802a04bb15b374a",
+  "active": "eb1fe08f4b9a6ffb",
   "lastOpenFiles": [
     "sem1/AuD/UE/U3/AuD_U3_e.pdf",
     "sem1/LinAlg/UE/U3/LinAlg_U3_e 1.pdf",
