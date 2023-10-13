@@ -12,4 +12,6 @@
 "EProg_s07:": "[[EProg_s07_verzweigungen.pdf]]"
 "EProg_s08:": "[[EProg_s08_schleifen.pdf]]"
 "EProg_s09:": "[[EProg_s09_methoden++.pdf]]"
+"EProg_s10:": "[[EProg_s10_invarianten.pdf]]"
+"EProg_s11:": "[[EProg_s011_arrays.pdf]]"
 ---
