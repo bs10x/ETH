@@ -11,9 +11,11 @@
             "id": "eb1fe08f4b9a6ffb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/EProg/src/EProg_s09_methoden++.pdf"
+                "file": "sem1/EProg/src/EProg_src.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/EProg/src/EProg_s09_methoden++.pdf",
+            "file": "sem1/EProg/src/EProg_src.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/EProg/src/EProg_s09_methoden++.pdf",
+            "file": "sem1/EProg/src/EProg_src.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/EProg/src/EProg_s09_methoden++.pdf"
+            "file": "sem1/EProg/src/EProg_src.md"
           }
         }
       },
@@ -149,8 +151,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb1fe08f4b9a6ffb",
+  "active": "4802a04bb15b374a",
   "lastOpenFiles": [
+    "sem1/EProg/src/EProg_s09_methoden++.pdf",
+    "sem1/EProg/src/EProg_s10_invarianten.pdf",
+    "sem1/EProg/src/EProg_s11_arrays.pdf",
     "sem1/AuD/UE/U3/AuD_U3_e.pdf",
     "sem1/LinAlg/UE/U3/LinAlg_U3_e 1.pdf",
     "sem1/AuD/UE/U2/AuD_U2_s.pdf",
@@ -159,13 +164,10 @@
     "sem1/DMath/UE/U3/DMath_U3_e.pdf",
     "sem1/LinAlg/UE/U3",
     "sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf",
-    "sem1/AuD/UE/U3",
-    "sem1/LinAlg/UE/U2/LinAlg_U2_s.pdf",
     "var/literature2buy?.md",
     "var/ersti tag.md",
     "hallo svea.md",
     "DMath_U3_bf.md",
-    "sem1/DMath/UE/U2/DMath_U2_s.pdf",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
     "Untitled.canvas",
     "test3.md",
