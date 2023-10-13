@@ -8,42 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9478b9b47983979a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf"
-              }
-            }
-          },
-          {
-            "id": "1bbc9daa1d198af1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/src/DMath_script.pdf"
-              }
-            }
-          },
-          {
-            "id": "0431c173f53c9126",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "eb1fe08f4b9a6ffb",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "ad00b3436035a46f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,7 +106,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,9 +116,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "sem1/DMath/UE/U3/DMath_U3_e.pdf"
-          }
+          "state": {}
         }
       },
       {
@@ -165,14 +142,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4802a04bb15b374a",
+  "active": "ad00b3436035a46f",
   "lastOpenFiles": [
+    "sem1/DMath/src/DMath_script.pdf",
+    "sem1/DMath/UE/U3/DMath_U3_bf.pdf",
+    "sem1/DMath/UE/U3/DMath_U3_e.pdf",
     "sem1/LinAlg/UE/U3",
     "sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf",
     "sem1/AuD/UE/U3/AuD_U3_e.pdf",
     "sem1/AuD/UE/U3",
     "sem1/LinAlg/UE/U2/LinAlg_U2_s.pdf",
-    "sem1/DMath/UE/U3/DMath_U3_bf.pdf",
     "var/literature2buy?.md",
     "var/ersti tag.md",
     "hallo svea.md",
@@ -180,8 +159,6 @@
     "sem1/DMath/UE/U2/DMath_U2_s.pdf",
     "sem1/AuD/src/AuD_s01_algorithmen.pdf",
     "sem1/AuD/src/AuD_s02_big-o-notation.pdf",
-    "sem1/AuD/src/AuD_s03_max-subarray-sum.pdf",
-    "sem1/AuD/src/AuD_s04_search-&sorting-algorithms.pdf",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
     "Untitled.canvas",
     "test3.md",
