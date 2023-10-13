@@ -19,12 +19,13 @@
             "id": "ad00b3436035a46f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem1/AuD/UE/U3/AuD_U3_e.pdf"
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,6 +145,7 @@
   },
   "active": "4802a04bb15b374a",
   "lastOpenFiles": [
+    "sem1/AuD/UE/U3/AuD_U3_e.pdf",
     "sem1/LinAlg/UE/U3/LinAlg_U3_e 1.pdf",
     "sem1/AuD/UE/U2/AuD_U2_s.pdf",
     "sem1/DMath/src/DMath_script.pdf",
@@ -151,7 +153,6 @@
     "sem1/DMath/UE/U3/DMath_U3_e.pdf",
     "sem1/LinAlg/UE/U3",
     "sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf",
-    "sem1/AuD/UE/U3/AuD_U3_e.pdf",
     "sem1/AuD/UE/U3",
     "sem1/LinAlg/UE/U2/LinAlg_U2_s.pdf",
     "var/literature2buy?.md",
