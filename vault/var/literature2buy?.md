@@ -7,5 +7,5 @@ AuD
 EProg
 S. Reges und M. Stepp, "Building Java Programs",  Pearson.  5. Auflage (2019) aber die 4. Auflage (2016) geht genauso gut. Einige Beispiele aus der Vorlesung finden Sie auch in diesem Buch. Die Informatik Bibilothek hat Exemplare.
 
-R. Sedgewick und K. Wayne, "Einführung in die Programmierung mit Java", 2011, Pearson Higher Education, ISBN 978-3-86894-0476-3. Deutsche Übersetzung, auch auf Englisch (neuere Ausgabe!) erhältlich.  Enthält viele interessante Beispiele von Programmen die Anwendungsprobleme lösen. Auch in der Informatik Bibliothek vorhanden.
+- R. Sedgewick und K. Wayne, "Einführung in die Programmierung mit Java", 2011, Pearson Higher Education, ISBN 978-3-86894-0476-3. Deutsche Übersetzung, auch auf Englisch (neuere Ausgabe!) erhältlich.  Enthält viele interessante Beispiele von Programmen die Anwendungsprobleme lösen. Auch in der Informatik Bibliothek vorhanden.
 
