@@ -11,9 +11,9 @@
             "id": "eb1fe08f4b9a6ffb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "var/Pasted image 20231015075427.jpg"
+                "file": "var/attachments/PP_ersti-tag_D-INFK.pdf"
               }
             }
           },
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "var/Pasted image 20231015075427.jpg",
+            "file": "var/attachments/PP_ersti-tag_D-INFK.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "var/Pasted image 20231015075427.jpg",
+            "file": "var/attachments/PP_ersti-tag_D-INFK.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "var/Pasted image 20231015075427.jpg"
+            "file": "var/attachments/PP_ersti-tag_D-INFK.pdf"
           }
         }
       },
@@ -151,8 +151,10 @@
   },
   "active": "eb1fe08f4b9a6ffb",
   "lastOpenFiles": [
-    "sem1/DMath/UE/U2/DMath_U2_bf.pdf",
+    "var/ersti tag.md",
     "var/Pasted image 20231015075427.jpg",
+    "var/sem1_schedule.jpg",
+    "sem1/DMath/UE/U2/DMath_U2_bf.pdf",
     "sem1/DMath/UE/U3/DMath_U3_bf.pdf",
     "sem1/EProg/VRL/V06_.md",
     "sem1/EProg/src/EProg_src.md",
@@ -164,9 +166,7 @@
     "sem1/AuD/UE/U2/AuD_U2_s.pdf",
     "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/UE/U3/DMath_U3_e.pdf",
-    "sem1/LinAlg/UE/U3",
     "var/literature2buy?.md",
-    "var/ersti tag.md",
     "hallo svea.md",
     "DMath_U3_bf.md",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
