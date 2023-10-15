@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "ba479e746b6c94e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "958a09703b5d0804",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aed7128ee84dd07",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "951682f3c6e8992b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "97219b041ef24466",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d2597077e65fa17b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "45f49a350db5f998",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fc848a96d5f18d42",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "abc4edec1c01b272",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d9b24f4f37b071dd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d98c086a0bd3e853",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e562d05e6164adfd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6aed7128ee84dd07",
+  "lastOpenFiles": [
+    "vault/sem1/DMath/UE/U2/DMath_U2_e.pdf",
+    "vault/sem1/DMath/UE/U2/DMath_U2_s.pdf",
+    "vault/sem1/DMath/UE/U2/DMath_U2_bf.pdf",
+    "vault/sem1/DMath/UE/U3/DMath_U3_bf.pdf",
+    "vault/sem1/DMath/UE/U3/DMath_U3_e.pdf",
+    "vault/sem1/DMath/UE/U1/DMath_U1_bf.md",
+    "vault/sem1/DMath/UE/U1/DMath_U1_s.pdf",
+    "vault/sem1/DMath/UE/U1/DMath_U1_e.pdf",
+    "vault/sem1/LinAlg/UE/U2/LinAlg_U2_s.pdf",
+    "vault/sem1/LinAlg/UE/U2/LinAlg_U2_e.pdf",
+    "vault/sem1/LinAlg/UE/U3/LinAlg_U3_e 1.pdf",
+    "vault/sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf",
+    "vault/sem1/LinAlg/UE/U1/LinAlg_U1_bf.md",
+    "vault/sem1/AuD/UE/U0/AuD_U0_bf.md",
+    "vault/sem1/EProg/UE/U2/EProg_U2_bf.pdf.md",
+    "vault/sem1/EProg/UE/U1/EProg_U1_bf.md",
+    "vault/sem1/DMath/src/DMath_src.md",
+    "vault/sem1/DMath/src/DMath.md",
+    "vault/sem1/DMath/VRL/V05_equivalence transformations.md",
+    "vault/sem1/DMath/VRL/V06_lemmas, mengen.md",
+    "vault/sem1/DMath/VRL/V01_mathematical propositions.md",
+    "vault/sem1/DMath/VRL/V02_propositions, logical operators.md",
+    "vault/sem1/DMath/VRL/V26_.md",
+    "vault/sem1/DMath/VRL/V24_.md",
+    "vault/sem1/DMath/VRL/V18_.md",
+    "vault/sem1/DMath/VRL/V03_predicates.md",
+    "vault/sem1/DMath/VRL/V19_.md",
+    "vault/sem1/DMath/VRL/V25_.md",
+    "vault/sem1/DMath/VRL/V09_.md",
+    "vault/sem1/DMath/VRL/V21_.md",
+    "vault/sem1/DMath/VRL/V04_logical formulas.md",
+    "vault/sem1/DMath/VRL/V20_.md",
+    "vault/sem1/DMath/VRL/V08_.md",
+    "vault/sem1/DMath/VRL/V22_.md",
+    "vault/sem1/DMath/VRL/V23_.md",
+    "vault/sem1/DMath/VRL/V12_.md",
+    "vault/var/sem1_schedule.jpg",
+    "homepage/img/favicon/favicon-32x32.png",
+    "homepage/img/favicon/android-chrome-512x512.png",
+    "homepage/img/favicon/android-chrome-192x192.png",
+    "homepage/img/favicon/favicon-16x16.png"
+  ]
+}
