@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb1fe08f4b9a6ffb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "var/attachments/PP_ersti-tag_D-INFK.pdf"
-              }
-            }
-          },
-          {
             "id": "ad00b3436035a46f",
             "type": "leaf",
             "state": {
@@ -93,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "var/attachments/PP_ersti-tag_D-INFK.pdf",
+            "file": "sem1/AuD/UE/U3/AuD_U3_e.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "var/attachments/PP_ersti-tag_D-INFK.pdf",
+            "file": "sem1/AuD/UE/U3/AuD_U3_e.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "var/attachments/PP_ersti-tag_D-INFK.pdf"
+            "file": "sem1/AuD/UE/U3/AuD_U3_e.pdf"
           }
         }
       },
@@ -149,8 +139,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb1fe08f4b9a6ffb",
+  "active": "ad00b3436035a46f",
   "lastOpenFiles": [
+    "var/attachments/PP_ersti-tag_D-INFK.pdf",
     "var/ersti tag.md",
     "var/Pasted image 20231015075427.jpg",
     "var/sem1_schedule.jpg",
