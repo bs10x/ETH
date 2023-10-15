@@ -11,9 +11,9 @@
             "id": "eb1fe08f4b9a6ffb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "sem1/DMath/UE/U2/DMath_U2_bf.pdf"
+                "file": "var/Pasted image 20231015075427.jpg"
               }
             }
           },
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/UE/U2/DMath_U2_bf.pdf",
+            "file": "var/Pasted image 20231015075427.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/UE/U2/DMath_U2_bf.pdf",
+            "file": "var/Pasted image 20231015075427.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/DMath/UE/U2/DMath_U2_bf.pdf"
+            "file": "var/Pasted image 20231015075427.jpg"
           }
         }
       },
@@ -149,8 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4802a04bb15b374a",
+  "active": "eb1fe08f4b9a6ffb",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U2/DMath_U2_bf.pdf",
+    "var/Pasted image 20231015075427.jpg",
     "sem1/DMath/UE/U3/DMath_U3_bf.pdf",
     "sem1/EProg/VRL/V06_.md",
     "sem1/EProg/src/EProg_src.md",
