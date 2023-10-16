@@ -28,9 +28,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad746bedd144f534",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9aa7e921dd398e6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "var/literature2buy?.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "var/literature2buy?.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "var/literature2buy?.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -165,8 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b57265eb9db628f9",
+  "active": "9aa7e921dd398e6a",
   "lastOpenFiles": [
+    "Untitled.md",
+    "var/literature2buy?.md",
     "sem1/AuD/UE/U2/AuD_U2_bf&al.pdf",
     "sem1/AuD/UE/U3/AuD_U3_bf.pdf",
     "var/sem1_schedule.jpg",
@@ -178,8 +200,6 @@
     "sem1/LinAlg/UE/U2/LinAlg_U2_s.pdf",
     "sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf",
     "sem1/LinAlg/UE/U3",
-    "sem1/AuD/UE/U3/AuD_U3_e.pdf",
-    "var/literature2buy?.md",
     "var/ersti tag.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/AuD/src/AuD_src.md",
