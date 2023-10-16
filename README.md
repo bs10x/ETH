@@ -57,6 +57,9 @@ You are required to solve the bonusquizzes on your own!
 - qute browser
 - rnotes
 - lazyvim
+- roofie (launcher)
+- bitwarden
+- rwb (bitwareen client)
 
 
 
