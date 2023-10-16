@@ -11,9 +11,11 @@
             "id": "ad00b3436035a46f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/AuD/UE/U3/AuD_U3_e.pdf"
+                "file": "sem1/DMath/VRL/V06_lemmas, mengen.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "sem1/DMath/VRL/V06_lemmas, mengen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "sem1/DMath/VRL/V06_lemmas, mengen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -110,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/AuD/UE/U3/test.md"
+            "file": "sem1/DMath/VRL/V06_lemmas, mengen.md"
           }
         }
       },
@@ -137,11 +141,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4802a04bb15b374a",
+  "active": "ad00b3436035a46f",
   "lastOpenFiles": [
+    "sem1/AuD/UE/U3/test.md",
     "sem1/AuD/UE/U2/AuD_U2_bf&al.pdf",
     "sem1/AuD/UE/U3/AuD_U3_e.pdf",
-    "sem1/AuD/UE/U3/test.md",
     "sem1/AuD/UE/U3/AuD_U3_bf.pdf",
     "var/attachments/PP_ersti-tag_D-INFK.pdf",
     "var/ersti tag.md",
@@ -155,7 +159,6 @@
     "sem1/EProg/src/EProg_s10_invarianten.pdf",
     "sem1/EProg/src/EProg_s11_arrays.pdf",
     "sem1/LinAlg/UE/U3/LinAlg_U3_e 1.pdf",
-    "sem1/AuD/UE/U2/AuD_U2_s.pdf",
     "var/literature2buy?.md",
     "hallo svea.md",
     "DMath_U3_bf.md",
