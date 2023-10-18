@@ -16,5 +16,4 @@
 - design patterns in oop
 - the dragon book
 - the wizard book
-
-hi
+- the man-month
