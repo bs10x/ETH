@@ -15,4 +15,4 @@
 - the c programming language
 - design patterns in oop
 - the dragon book
-- the wizar
+- the wizard book
