@@ -11,4 +11,5 @@
 
 **var**
 - the art of computer programming, knuth
+- SICP
 - 
