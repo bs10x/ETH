@@ -12,4 +12,8 @@
 **var**
 - the art of computer programming, knuth
 - SICP
+- the c programming language
+- design patterns in oop
+- the dragon book
+- the wizard book
 - 
