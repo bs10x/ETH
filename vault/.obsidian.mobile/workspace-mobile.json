@@ -11,11 +11,9 @@
             "id": "ad00b3436035a46f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "var/literature2buy?.md",
-                "mode": "source",
-                "source": false
+                "file": "sem1/DMath/UE/U4/AuD_U4_e.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "var/literature2buy?.md",
+            "file": "sem1/DMath/UE/U4/AuD_U4_e.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "var/literature2buy?.md",
+            "file": "sem1/DMath/UE/U4/AuD_U4_e.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "var/literature2buy?.md"
+            "file": "sem1/DMath/UE/U4/AuD_U4_e.pdf"
           }
         }
       },
@@ -143,6 +141,8 @@
   },
   "active": "4802a04bb15b374a",
   "lastOpenFiles": [
+    "Untitled",
+    "var/literature2buy?.md",
     "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
     "sem1/DMath/UE/U4/AuD_U4_e.pdf",
     "sem1/DMath/UE/U4",
@@ -153,7 +153,6 @@
     "sem1/EProg/UE/U4",
     "sem1/EProg/UE/U3/EProg_U3_e.pdf",
     "sem1/EProg/UE/U3",
-    "sem1/EProg/UE/U4",
     "Untitled.md",
     "sem1/DMath/VRL/V07_.md",
     "sem1/DMath/VRL/V08_relations.md",
@@ -164,7 +163,6 @@
     "var/sem1_schedule.jpg",
     "sem1/EProg/VRL/V06_.md",
     "sem1/EProg/src/EProg_src.md",
-    "var/literature2buy?.md",
     "hallo svea.md",
     "DMath_U3_bf.md",
     "Untitled.canvas",
