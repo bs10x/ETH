@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem1/DMath/UE/U4/AuD_U4_e.pdf"
+                "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/UE/U4/AuD_U4_e.pdf",
+            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/UE/U4/AuD_U4_e.pdf",
+            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/DMath/UE/U4/AuD_U4_e.pdf"
+            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf"
           }
         }
       },
@@ -142,9 +142,9 @@
   "active": "4802a04bb15b374a",
   "lastOpenFiles": [
     "Untitled",
+    "sem1/DMath/UE/U4/AuD_U4_e.pdf",
     "var/literature2buy?.md",
     "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
-    "sem1/DMath/UE/U4/AuD_U4_e.pdf",
     "sem1/DMath/UE/U4",
     "sem1/DMath/UE/U4",
     "sem1/EProg/src/EProg_sx.pdf",
