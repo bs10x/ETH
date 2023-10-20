@@ -16,45 +16,8 @@
                 "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf"
               }
             }
-          },
-          {
-            "id": "2370ad875edea98f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "doc/apple-shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7491c344673b18f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "doc/deploy-gh-wf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b53474913fac6c04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "doc/mbp-setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "doc/mbp-setup.md",
+            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "doc/mbp-setup.md",
+            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -149,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "doc/mbp-setup.md"
+            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf"
           }
         }
       },
@@ -176,7 +139,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b53474913fac6c04",
+  "active": "ad00b3436035a46f",
   "lastOpenFiles": [
     "doc/deploy-gh-wf.md",
     "doc/mbp-setup.md",
