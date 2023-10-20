@@ -16,8 +16,45 @@
                 "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf"
               }
             }
+          },
+          {
+            "id": "2370ad875edea98f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/apple-shortcuts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7491c344673b18f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/deploy-gh-wf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b53474913fac6c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/mbp-setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
+            "file": "doc/mbp-setup.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
+            "file": "doc/mbp-setup.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf"
+            "file": "doc/mbp-setup.md"
           }
         }
       },
@@ -139,20 +176,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4802a04bb15b374a",
+  "active": "b53474913fac6c04",
   "lastOpenFiles": [
+    "doc/deploy-gh-wf.md",
+    "doc/mbp-setup.md",
+    "doc/apple-shortcuts.md",
+    "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
+    "doc",
     "sem1/AuD/UE/U4",
     "sem1/AuD/UE/U4/AuD_U4_e.pdf",
     "var/literature2buy?.md",
-    "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
     "sem1/DMath/UE/U4",
     "sem1/DMath/UE/U4",
     "sem1/EProg/src/EProg_sx.pdf",
     "sem1/EProg/UE/U4/EProg_U4_e.pdf",
     "sem1/EProg/UE/U4",
     "sem1/EProg/UE/U4",
-    "sem1/EProg/UE/U3/EProg_U3_e.pdf",
-    "sem1/EProg/UE/U3",
     "Untitled.md",
     "sem1/DMath/VRL/V07_.md",
     "sem1/DMath/VRL/V08_relations.md",
@@ -177,8 +216,6 @@
     "sem1/DMath/VRL/V01_mathematical propositions.md",
     "sem1/DMath/VRL/V02_propositions, logical operators.md",
     "sem1/DMath/VRL/V26_.md",
-    "sem1/DMath/VRL/V24_.md",
-    "sem1/DMath/VRL/V18_.md",
-    "sem1/DMath/VRL/V03_predicates.md"
+    "sem1/DMath/VRL/V24_.md"
   ]
 }
