@@ -36,9 +36,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "0976e514f0e202de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WHAT WHYYYY.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -171,8 +185,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "0976e514f0e202de",
   "lastOpenFiles": [
+    "Untitled.md",
     "WHAT WHYYYY.md",
     "test1.md",
     "test",
@@ -208,7 +223,6 @@
     "etc/ersti tag.md",
     "sem1/LinAlg/src/LinAlg_src.md",
     "sem1/DMath/src/DMath_src.md",
-    "sem1/AuD/VRL/V03_.md",
-    "sem1.md"
+    "sem1/AuD/VRL/V03_.md"
   ]
 }
