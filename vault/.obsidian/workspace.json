@@ -141,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "d4d9e5cf2cd5e94b",
   "lastOpenFiles": [
     "test1.md",
     "test",
