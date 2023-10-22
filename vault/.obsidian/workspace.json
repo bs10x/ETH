@@ -36,9 +36,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "a7abfd0ecbf4bb4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "s3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "s3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "s3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "s3.md"
+              }
             }
           },
           {
@@ -169,8 +185,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4d9e5cf2cd5e94b",
+  "active": "a7abfd0ecbf4bb4a",
   "lastOpenFiles": [
+    "s3.md",
     "test1.md",
     "test",
     "doc/mbp-setup.md",
