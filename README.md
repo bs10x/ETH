@@ -7,7 +7,7 @@ Check out my website: https://n.ethz.ch/~bfeitknecht/
 
 I am not responsible for any damage caused by the use of the files in this repository. Use at your own risk. The rules of conduct of the ETH Zurich and all the visited courses apply. In particular, the rules on plagiarism and the use of unauthorized aids apply. See https://www.ethz.ch/students/en/studies/performance-assessments/plagiarism.html for more information.
 
-All the files in this repository are for personal use only. If you want to use them, please contact me first (bfeitknecht@student.ethz.ch). I am not trxing to make my solutions available for copying. You may use them as reference, but you are not allowed to copy them.
+All the files in this repository are for personal use only. If you want to use them, please contact me first (bfeitknecht@student.ethz.ch). I am not trying to make my solutions available for copying. You may use them as reference, but you are not allowed to copy them.
 
 
 - **AuD**
