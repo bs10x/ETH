@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6ba4c168365c9ace",
+        "id": "bb036f78302bd531",
         "type": "tabs",
         "children": [
           {
-            "id": "ad00b3436035a46f",
+            "id": "6e18d41a158686c3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf"
+                "file": "sem1/DMath/VRL/V10_posets.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
+            "file": "sem1/DMath/VRL/V10_posets.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
+            "file": "sem1/DMath/VRL/V10_posets.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/DMath/UE/U4/DMath_U4_bf.pdf"
+            "file": "sem1/DMath/VRL/V10_posets.md"
           }
         }
       },
@@ -139,12 +141,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad00b3436035a46f",
+  "active": "6e18d41a158686c3",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V09_.md",
+    "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
     "doc/deploy-gh-wf.md",
     "doc/mbp-setup.md",
     "doc/apple-shortcuts.md",
-    "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
     "doc",
     "sem1/AuD/UE/U4",
     "sem1/AuD/UE/U4/AuD_U4_e.pdf",
@@ -178,7 +181,6 @@
     "sem1/DMath/src/DMath.md",
     "sem1/DMath/VRL/V01_mathematical propositions.md",
     "sem1/DMath/VRL/V02_propositions, logical operators.md",
-    "sem1/DMath/VRL/V26_.md",
-    "sem1/DMath/VRL/V24_.md"
+    "sem1/DMath/VRL/V26_.md"
   ]
 }
