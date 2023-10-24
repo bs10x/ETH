@@ -18,29 +18,16 @@
             }
           },
           {
-            "id": "b57265eb9db628f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "var/literature2buy?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad746bedd144f534",
+            "id": "d0642b0288dd3087",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf"
+                "file": "sem1/EProg/src/EProg_s11_arrays.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -163,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,19 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
+    "sem1/EProg/src/EProg_s11_arrays.pdf",
+    "sem1/EProg/src/EProg_src.md",
+    "var/literature2buy?.md",
+    "EProg_s011_arrays.pdf.md",
+    "sem1/EProg/src/EProg_sx.pdf",
+    "sem1/AuD/VRL/V03_.md",
+    "sem1/AuD/VRL/V02_big-O, star-search.md",
+    "sem1/AuD/VRL/V01_karatsuba, pasture-break.md",
+    "sem1/AuD/src/AuD.md",
+    "sem1/AuD/UE/U2/AuD_U2_bf&al.pdf",
+    "var/sem1.md",
+    "sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf",
     "sem1/LinAlg/UE/U4",
     "sem1/LinAlg/UE/U4/LinAlg_U4_e.pdf",
     "sem1/LinAlg/UE/U3/LinAlg_U3_s.pdf",
     "sem1/LinAlg/UE/U3/LinAlg_U3_e 1.pdf",
-    "sem1/LinAlg/UE/U3/LinAlg_U3_e.pdf",
     "sem1/DMath/UE/U4/DMath_U4_bf.pdf",
     "sem1/DMath/UE/U4/DMath_U4_e.pdf",
-    "sem1/DMath/UE/U5",
-    "sem1/DMath/UE/U5/DMath_U5_e.pdf",
-    "sem1/DMath/UE/U3/DMath_U3_s.pdf",
-    "sem1/DMath/UE/U4/DMath_u4_s.pdf",
     "sem1/DMath/VRL/V10_posets.md",
     "hehdh.md",
     "WHAT WHYYYY.md",
@@ -196,23 +187,15 @@
     "doc/deploy-gh-wf.md",
     "doc/apple-shortcuts.md",
     "sem1/DMath/VRL/V08_relations.md",
-    "var/literature2buy?.md",
     "var/sem1_schedule.jpg",
     "var/ersti tag.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem1/AuD/src/AuD_src.md",
     "DMath_U3_bf.md",
     "hallo svea.md",
-    "sem1/EProg/src/EProg_src.md",
     "sem1/AuD/VRL/V00_AuD.md",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
     "test3.md",
-    "test2.md",
-    "test.md",
-    "sem1/LinAlg/VRL/V02_scalar products.md",
-    "sem1/AuD/VRL/V02_big-O, star-search.md",
-    "etc/literature2buy?.md",
-    "etc/ersti tag.md",
-    "sem1/LinAlg/src/LinAlg_src.md"
+    "test2.md"
   ]
 }

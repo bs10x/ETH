@@ -1,7 +1,7 @@
 ---
 "course:": "[[AuD]]"
 "exercises:": "[[AuD_U2_e.pdf]]"
-"hand-in:": "[[AuD_U2_bf.pdf]]"
+"hand-in:": "[[AuD_U2_bf&al.pdf]]"
 "solutions:": "[[AuD_U2_s.pdf]]"
 ---
 ## #big-O-notation
