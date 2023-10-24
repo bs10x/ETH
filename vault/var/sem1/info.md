@@ -1,6 +1,6 @@
 [[sem1]]
 
-first day note
+notes from the first day: [[ersti tag]] 
 
 schedule: [[sem1_schedule.jpg]]
 
