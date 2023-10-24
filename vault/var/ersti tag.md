@@ -1,4 +1,4 @@
-[[sem1]]
+
 
 - ziele herunterbrechen (jahresziele, semesterziele, monatsziele, wochenziele, tagesziele)
 - planung einplanen

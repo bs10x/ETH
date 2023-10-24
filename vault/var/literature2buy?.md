@@ -1,4 +1,4 @@
-[[sem1]]
+
 
 **AuD**
 - Ronald L. Graham, Donald E. Knuth, and Oren Patashnik. 1994. Concrete Mathematics: A Foundation for Computer Science (2nd ed.). Addison-Wesley Longman Publishing Co.
