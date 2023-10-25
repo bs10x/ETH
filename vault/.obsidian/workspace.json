@@ -21,6 +21,16 @@
             "id": "ad746bedd144f534",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/src/DMath_script.pdf"
+              }
+            }
+          },
+          {
+            "id": "2a4903fb5f5c6b10",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "sem1/DMath/VRL/V11_.md",
@@ -31,6 +41,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "b4062212f7b18c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca760dc5559ae424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/VRL/V11_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/VRL/V11_.md",
+                "file": "sem1/DMath/src/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/VRL/V11_.md",
+                "file": "sem1/DMath/src/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/VRL/V11_.md"
+                "file": "sem1/DMath/src/DMath_script.pdf"
               }
             }
           },
@@ -168,6 +196,8 @@
   },
   "active": "ad746bedd144f534",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V11_.md",
+    "sem1/DMath/src/DMath_script.pdf",
     "sem1/LinAlg/VRL/V07_.md",
     "sem1/LinAlg/VRL/V08_.md",
     "var/sem1/sem1_schedule.jpg",
@@ -183,7 +213,6 @@
     "sem1/DMath/UE/U4/DMath_u4_s.pdf",
     "sem1/DMath/UE/U4/DMath_U4_e.pdf",
     "sem1/DMath/UE/U3/DMath_U3_s.pdf",
-    "sem1/AuD/UE/U5/AuD_U5_e.pdf",
     "sem1/DMath/VRL/V10_posets.md",
     "test1.md",
     "doc/mbp-setup.md",
@@ -203,8 +232,6 @@
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
     "test3.md",
     "test2.md",
-    "test.md",
-    "sem1/LinAlg/VRL/V02_scalar products.md",
-    "sem1/AuD/VRL/V02_big-O, star-search.md"
+    "test.md"
   ]
 }
