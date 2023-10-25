@@ -18,21 +18,15 @@
             }
           },
           {
-            "id": "b57265eb9db628f9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "var/sem1_schedule.jpg"
-              }
-            }
-          },
-          {
             "id": "ad746bedd144f534",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sem1/LinAlg/VRL/V07_.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "var/sem1_schedule.jpg",
+                "file": "sem1/LinAlg/VRL/V07_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "var/sem1_schedule.jpg",
+                "file": "sem1/LinAlg/VRL/V07_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "var/sem1_schedule.jpg"
+                "file": "sem1/LinAlg/VRL/V07_.md"
               }
             }
           },
@@ -159,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b57265eb9db628f9",
+  "active": "ad746bedd144f534",
   "lastOpenFiles": [
+    "sem1/LinAlg/VRL/V08_.md",
     "var/sem1/sem1_schedule.jpg",
     "var/sem1/literature2buy?.md",
     "var/sem1/info.md",
