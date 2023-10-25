@@ -50,16 +50,16 @@ You are required to solve the bonusquizzes on your own!
 
 ### //ARCH-USER-SETUP//
 
-- i3 tiling window manager
 - thinkpad l13 yoga
 - arch linux
+- i3 tiling window manager
 - mupdf
 - qute browser
 - rnotes
 - lazyvim
 - roofie (launcher)
 - bitwarden
-- rwb (bitwareen client)
+- rwb (bitwarden client)
 
 
 
