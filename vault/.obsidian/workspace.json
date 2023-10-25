@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/LinAlg/VRL/V07_.md",
+                "file": "sem1/DMath/VRL/V11_.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/VRL/V07_.md",
+                "file": "sem1/DMath/VRL/V11_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/VRL/V07_.md",
+                "file": "sem1/DMath/VRL/V11_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/LinAlg/VRL/V07_.md"
+                "file": "sem1/DMath/VRL/V11_.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "ad746bedd144f534",
   "lastOpenFiles": [
+    "sem1/LinAlg/VRL/V07_.md",
     "sem1/LinAlg/VRL/V08_.md",
     "var/sem1/sem1_schedule.jpg",
     "var/sem1/literature2buy?.md",
@@ -204,7 +205,6 @@
     "test2.md",
     "test.md",
     "sem1/LinAlg/VRL/V02_scalar products.md",
-    "sem1/AuD/VRL/V02_big-O, star-search.md",
-    "etc/literature2buy?.md"
+    "sem1/AuD/VRL/V02_big-O, star-search.md"
   ]
 }
