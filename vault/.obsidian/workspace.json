@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "ef0204964e2b9162",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e905e1a62b0b295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "372d21dcaccf7b0c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "ad746bedd144f534",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/src/DMath_script.pdf"
+              }
+            }
+          },
+          {
+            "id": "2a4903fb5f5c6b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/VRL/V11_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b4062212f7b18c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca760dc5559ae424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/VRL/V11_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe28d63e32c3168b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fddab58c0769d063",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f4cf158045f14fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3eef01e3b58afb78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b14014a5400a500b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4be59d580df31d93",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9eab3abde570e06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3aff261bc292caf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sem1/DMath/src/DMath_script.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d28441159ca953f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sem1/DMath/src/DMath_script.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee946e358c8111ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f56d709fdb24392",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sem1/DMath/src/DMath_script.pdf"
+              }
+            }
+          },
+          {
+            "id": "d4d9e5cf2cd5e94b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ad746bedd144f534",
+  "lastOpenFiles": [
+    "sem1/DMath/src/DMath_pvw_HS22.pdf",
+    "sem1/DMath/src/DMath_script.pdf",
+    "sem1/DMath/VRL/V11_.md",
+    "sem1/LinAlg/VRL/V07_.md",
+    "sem1/LinAlg/VRL/V08_.md",
+    "var/sem1/sem1_schedule.jpg",
+    "var/sem1/literature2buy?.md",
+    "var/sem1/info.md",
+    "var/sem1/ersti tag.md",
+    "var/sem1",
+    "sem1/LinAlg/UE/U4/LinAlg_U4_e.pdf",
+    "sem1/LinAlg/UE/U4",
+    "sem1/LinAlg/UE/U3/LinAlg_U3_s.pdf",
+    "sem1/DMath/UE/U5/DMath_U5_e.pdf",
+    "sem1/DMath/UE/U5",
+    "sem1/DMath/UE/U4/DMath_u4_s.pdf",
+    "sem1/DMath/UE/U4/DMath_U4_e.pdf",
+    "sem1/DMath/UE/U3/DMath_U3_s.pdf",
+    "sem1/DMath/VRL/V10_posets.md",
+    "test1.md",
+    "doc/mbp-setup.md",
+    "doc/deploy-gh-wf.md",
+    "doc/apple-shortcuts.md",
+    "Untitled.md",
+    "sem1/DMath/VRL/V08_relations.md",
+    "var/literature2buy?.md",
+    "var/sem1_schedule.jpg",
+    "var/ersti tag.md",
+    "sem1/LinAlg/VRL/V03_matrix multiplication.md",
+    "sem1/AuD/src/AuD_src.md",
+    "DMath_U3_bf.md",
+    "hallo svea.md",
+    "sem1/EProg/src/EProg_src.md",
+    "sem1/AuD/VRL/V00_AuD.md",
+    "sem1/DMath/VRL/V06_lemmas, mengen.md",
+    "test3.md",
+    "test2.md",
+    "test.md"
+  ]
+}

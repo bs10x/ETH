@@ -1,0 +1,8 @@
+{
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "attachmentFolderPath": "var/attachments"
+}

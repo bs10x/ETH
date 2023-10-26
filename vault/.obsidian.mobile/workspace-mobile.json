@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "f6d4840dd2891004",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb036f78302bd531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e18d41a158686c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/VRL/V10_posets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb82b5ed03566deb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4802a04bb15b374a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d100b049064695bc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9e2ca8ef9b333f38",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "34bc4c3b9bc4516b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d648957e6dd8f6ad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "69ffdfdcfa179ca3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "sem1/DMath/VRL/V10_posets.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e485c9df6e813666",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "sem1/DMath/VRL/V10_posets.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f940180e503a7f12",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "sem1/DMath/VRL/V10_posets.md"
+          }
+        }
+      },
+      {
+        "id": "046a6aebac3644f7",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6e18d41a158686c3",
+  "lastOpenFiles": [
+    "sem1/DMath/UE/U3/DMath_U3_s.pdf",
+    "sem1/DMath/UE/U4/DMath_u4_s.pdf",
+    "sem1/AuD/UE/U5",
+    "sem1/DMath/UE/U5",
+    "sem1/AuD/UE/U3/AuD_U3_s.pdf",
+    "sem1/AuD/UE/U5/AuD_U5_e.pdf",
+    "sem1/DMath/UE/U4/DMath_U4_e.pdf",
+    "sem1/LinAlg/UE/U4",
+    "sem1/DMath/UE/U5/DMath_U5_e.pdf",
+    "sem1/AuD/UE/U4/AuD_U4_s.pdf",
+    "sem1/LinAlg/UE/U3/LinAlg_U3_s.pdf",
+    "var/sem1/sem1_schedule.jpg",
+    "var/sem1/literature2buy?.md",
+    "var/sem1/info.md",
+    "var/sem1/ersti tag.md",
+    "sem1/DMath/VRL/V09_.md",
+    "doc/deploy-gh-wf.md",
+    "doc/mbp-setup.md",
+    "doc/apple-shortcuts.md",
+    "var/literature2buy?.md",
+    "Untitled.md",
+    "sem1/DMath/VRL/V07_.md",
+    "sem1/DMath/VRL/V08_relations.md",
+    "sem1/DMath/VRL/V06_lemmas, mengen.md",
+    "sem1/AuD/UE/U3/test.md",
+    "var/ersti tag.md",
+    "var/Pasted image 20231015075427.jpg",
+    "var/sem1_schedule.jpg",
+    "sem1/EProg/VRL/V06_.md",
+    "sem1/EProg/src/EProg_src.md",
+    "hallo svea.md",
+    "DMath_U3_bf.md",
+    "Untitled.canvas",
+    "test3.md",
+    "test2.md",
+    "test.md",
+    "sem1/AuD/src/AuD_src.md",
+    "sem1/EProg/VRL/V05_verzweigungen, schleifen.md",
+    "sem1/DMath/VRL/V05_equivalence transformations.md",
+    "sem1/DMath/src/DMath_src.md"
+  ]
+}
