@@ -1,0 +1,27 @@
+## directory structure on nas: "bfeitknecht@slab1.ethz.ch"
+homepage/
+    ...
+    dev/
+        every-day.sh
+        every-day.html
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^: gets modified every day, needs to be pushed to remote every day
+
+
+
+## directory structure in remote: "origin" on branch: "master"
+~/
+    ...
+    homepage/
+        ...
+        dev/
+            every-day.sh
+            every-day.html
+
+
+
+
+options:
+- use a different branch to do daily commit, all activity  on branch: "dev"
+- figure out a way to push from nas to remote without having to pull
+    - pull and do a clean up?
