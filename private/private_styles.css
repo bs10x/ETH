@@ -1,0 +1,68 @@
+body {
+    background-color: #ff0000;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    text-align: left;
+    min-height: 2000vh;
+}
+
+/* Styling for the header */
+h1 {
+    display: none; /* Hide the header */
+}
+
+/* Modern navigation menu styles */
+#menu {
+    width: 100%; 
+    height: 50px; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    transition: background-color 0.3s ease;
+}
+
+#menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex; /* Use flexbox for horizontal alignment */
+    justify-content: flex-start; /* Center the menu items horizontally */
+    align-items: top; /* Center the menu items vertically */
+    height: 100%; /* Make the menu items fill the entire height */
+}
+
+#menu li {
+    margin: 10px 10px; /* control space between menu items */
+}
+
+#menu a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff; /* Text color for normal state */
+    transition: color 0.2s ease; /* Smooth text color transition */
+}
+
+#menu a:hover {
+    color: #000000; /* Text color on hover */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

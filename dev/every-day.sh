@@ -7,6 +7,6 @@ cd ~/homepage/dev
 current_date=$(date +"%a. %d.%m.%Y")
 
 # Update the HTML file with the current date
-sed -i "s/<p>Last updated: .*<\/p>/<p>Last updated: $current_date<\/p>/" every-day.html
+seyd -i "s/<p>Last updated: .*<\/p>/<p>Last updated: $current_date!<\/p>/" every-day.html
 
 
