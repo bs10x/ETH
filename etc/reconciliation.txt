@@ -21,6 +21,17 @@ homepage/
 
 
 
+I have the above folder structure on my nas that hosts the website and my remote repository respectively.
+i have a crontab that executes the every-day.sh script every dayand edits the every-day.html file.
+i want to commit these changes to the remote reposiotory. the problem is, that dev is a subdirectory of homepage.
+i want to sync my changes from local (nas) to remote (github) but i want them to be in the subdirectory dev inside homepage,
+where they belong. i absolutely do not want to lose all my commits on the remote. i don't even really want to pull from remote,
+unless absolutely necessary. how can i solve this problem?
+
+
+
+
+
 options:
 - use a different branch to do daily commit, all activity  on branch: "dev"
 - figure out a way to push from nas to remote without having to pull
@@ -40,7 +51,9 @@ Split Repository
 ├── every-day.sh
 └── every-day.html
 
-In this example, we have a directory called homepage/dev in the original repository that we want to split into a separate repository. We can use the git subtree split command to split the homepage/dev directory into a new branch, and then use the git push command to push the new branch to a new repository.
+In this example, we have a directory called homepage/dev in the original repository that we want to split into a separate repository.
+We can use the git subtree split command to split the homepage/dev directory into a new branch, and then use the git push command
+to push the new branch to a new repository.
 
 Here are the steps to split the homepage/dev directory into a separate repository using the git subtree command:
 
@@ -63,9 +76,13 @@ Replace new-remote with a name for the new remote repository, and new-repository
 This will push the dev-split branch to the master branch of the new repository.
 
 
-Once the homepage/dev directory has been split into a separate repository, you can work with it as if it were a separate repository. You can make changes to the files in the homepage/dev directory, commit the changes, and push the changes to the new repository using the standard Git commands.
+Once the homepage/dev directory has been split into a separate repository, you can work with it as if it were a separate repository.
+You can make changes to the files in the homepage/dev directory, commit the changes, and push the changes to the new repository
+using the standard Git commands.
 
-To merge changes from the new repository back into the original repository, you can use the git subtree merge command. This command allows you to merge changes from a subtree of a repository into the main repository, while preserving the history of the subtree.
+To merge changes from the new repository back into the original repository, you can use the git subtree merge command.
+This command allows you to merge changes from a subtree of a repository into the main repository,
+while preserving the history of the subtree.
 
 Here are the steps to merge changes from the new repository back into the original repository using the git subtree command:
 
@@ -77,12 +94,20 @@ Replace new-remote with a name for the new remote repository, and new-repository
 2. Fetch the latest changes from the new repository using the git fetch command.
     git fetch new-remote
 
-3. Use the git subtree merge command to merge changes from the dev directory in the new repository into the homepage/dev directory in the original repository.
+3. Use the git subtree merge command to merge changes from the dev directory in the new repository into the homepage/dev directory
+in the original repository.
     git subtree merge --prefix=homepage/dev new-remote/master
-This will merge the changes from the dev directory in the new repository into the homepage/dev directory in the original repository, while preserving the history of the dev directory.
+This will merge the changes from the dev directory in the new repository into the homepage/dev directory in the original repository,
+while preserving the history of the dev directory.
 
 
-Note that using the git subtree command can be complex and risky, as it can result in unexpected changes to the repository. It is generally recommended to review the changes carefully before using git subtree, and to test the modified code thoroughly to ensure that it works as expected.
+Note that using the git subtree command can be complex and risky, as it can result in unexpected changes to the repository.
+It is generally recommended to review the changes carefully before using git subtree, and to test the modified code thoroughly
+to ensure that it works as expected.
+
+
+
+
 
 
 
