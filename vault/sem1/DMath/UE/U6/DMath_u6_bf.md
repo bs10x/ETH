@@ -60,11 +60,13 @@ $f\{0,\,1\} \rightarrow \{0, 1\}^\infty$
 $$f_n\{0,\,1\} \overset{def}{=} \begin{cases} 0, &\text{for $f_n(0)$}\\\{1\}^n \{0\}^\infty, &\text{for $f_n(1)$} \end{cases}$$
 
 
+f_0{0, 1} def.= 00000...
+f_1{0, 1} def.= 10000...
+f_i{0, 1} def.= 0, for fi(0) and 
+we observe, that the function has n numbers of 1's, followed by an infinite number of zeros. we note that each number $n \in\mathbb{N}$ can thus be mapped to an element in $\{0, 1\}^\infty$, namely, $\{1\}^n \{0\}^\infty$ 
 
-we observe, that the function has n numbers of 1's, followed by an infinite number of zeros. we note that each number $n \in\mathbb{N}$ can thus be mapped to an element in $\{0, 1\}^\infty$, namely, $\{1\}^n \{0\}^\infty$. 
-
-
-since $\{0, 1\}^\infty$
+we can now however, define a function 
+since $\{0, 1\}^\infty$ is uncountable (by Theorem 3.23.)
 
 
 
