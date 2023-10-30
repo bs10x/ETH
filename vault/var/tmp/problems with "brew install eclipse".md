@@ -1,6 +1,6 @@
 
 
-[[info]]
+[[var]]
 ### Problem:
 
 - when i install eclipse using homebrew, it displays "NewApplication" in the top left as app name
