@@ -26,9 +26,19 @@
                 "file": "sem1/DMath/UE/U6/DMath_U6_e.pdf"
               }
             }
+          },
+          {
+            "id": "7eda3b003b394a74",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/src/DMath_script.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "44dce6f23750fb76",
@@ -113,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_U6_e.pdf",
+                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_U6_e.pdf",
+                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_U6_e.pdf"
+                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md"
               }
             }
           },
@@ -183,8 +193,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f56cfda920bf44a1",
+  "active": "1775f594df03cbb4",
   "lastOpenFiles": [
+    "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "var/keeping track of my work.md",
@@ -195,7 +206,6 @@
     "var/ersti tag.md",
     "var/literature2buy?.md",
     "var/sem1_schedule.jpg",
-    "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/VRL/V11_.md",
     "var/tmp/Untitled",
     "var/tmp",
@@ -222,7 +232,6 @@
     "hallo svea.md",
     "sem1/EProg/src/EProg_src.md",
     "sem1/AuD/VRL/V00_AuD.md",
-    "sem1/DMath/VRL/V06_lemmas, mengen.md",
-    "test3.md"
+    "sem1/DMath/VRL/V06_lemmas, mengen.md"
   ]
 }
