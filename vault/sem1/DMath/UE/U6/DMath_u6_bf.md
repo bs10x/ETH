@@ -39,18 +39,10 @@ f3(1) = 111000...
 
 we observe, that the function fn, has n numbers of 1's, followed by an infinite number of zeros.
 
-for all n \in \mathbb{Z}, we can thus have a function that returns an 
+for all n \in \mathbb{N}, we can thus have a function that returns an element of  $\{0, 1\}^\infty$
+
+howver, there is always some 
 
 
 
 
-
-
-
-
-1 0000000011
-0 000000000
-
-
-1 0001100101
-0 000000000
