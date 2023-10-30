@@ -6,7 +6,7 @@ rm -rf eclipse-ws/
 
 brew uninstall --cask eclipse-java
 
-rm -rf .eclipse/
+bf@mbp ~> rm -rf .eclipse/
 
 
 cd Library/Preferences/
@@ -14,6 +14,7 @@ rm -rf /Library/Preferences/epp.package.committers.plist
 
 
 
+bf@mbp ~> cd Library/Preferences/
 
 bf@mbp ~/L/Preferences> rm -rf epp.package.committers.plist 
 
