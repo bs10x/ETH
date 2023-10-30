@@ -39,9 +39,14 @@ f_3(0) = 0
 f_3(1) = 111
 
 
+$f\{0,\,1\} \rightarrow \{0, 1\}^\infty$
+
+
+
 we observe, that the function f_n, where n \in\mathbb{N} has n numbers of 1's, followed by an infinite number of zeros. we ignore these and note that each number n \in\mathbb{N} can thus be mapped to an element in $\{0, 1\}^\infty$, namely, {1}^n. 
 
-we can define an f_\hat{n}
+we define \hat{b}, such that 
+we can define an f_\hat{n}, such that
 
 
 since $\{0, 1\}^\infty$
