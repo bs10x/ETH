@@ -22,9 +22,9 @@ Proof. This is a proof by contradiction. To arrive at a contradiction, assume th
 
 
 we have to prove, that $S \sim \{0, 1\}^\infty$
-to prove that, we have to show that there is an uncountable set of functions, that map {0, 1} to  $\{0, 1\}^\infty$.
+for that, we have to show that there is an uncountable set of functions, that map {0, 1} to  $\{0, 1\}^\infty$.
 
-we can construct f1, such that
+we can construct f_n, such that
 
 f_0(0) = 0
 f_0(1) = 0
@@ -39,7 +39,12 @@ f_3(0) = 0
 f_3(1) = 111
 
 
-we observe, that the function fn, has n numbers of 1's, followed by an infinite number of zeros. we ignore these and note that each number can be mapped to an element in $\{0, 1\}^\infty$, namely, {1}^n. since $\{0, 1\}^\infty$
+we observe, that the function f_n, where n \in\mathbb{N} has n numbers of 1's, followed by an infinite number of zeros. we ignore these and note that each number n \in\mathbb{N} can thus be mapped to an element in $\{0, 1\}^\infty$, namely, {1}^n. 
+
+we can define an f_\hat{n}
+
+
+since $\{0, 1\}^\infty$
 
 
 
