@@ -16,30 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "85d4f2ca55786935",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "var/tmp/problems with \"brew install eclipse\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4105a3785dea9c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "var/var.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -175,8 +151,8 @@
   },
   "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
-    "var/var.md",
     "var/tmp/problems with \"brew install eclipse\".md",
+    "var/var.md",
     "var/sem1/ersti tag.md",
     "var/sem1/literature2buy?.md",
     "var/sem1/sem1_schedule.jpg",
