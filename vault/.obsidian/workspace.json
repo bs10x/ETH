@@ -16,6 +16,18 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "85d4f2ca55786935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "var/tmp/problems with \"brew install eclipse\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
