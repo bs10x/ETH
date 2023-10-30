@@ -16,55 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "ad746bedd144f534",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/src/DMath_script.pdf"
-              }
-            }
-          },
-          {
-            "id": "2a4903fb5f5c6b10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/VRL/V11_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4755c36db171960a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "var/tmp/problems with \"brew install eclipse\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74b58de7d19fa38b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "var/tmp/problems with \"brew install eclipse\".md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "var/tmp/problems with \"brew install eclipse\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "var/tmp/problems with \"brew install eclipse\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "var/tmp/problems with \"brew install eclipse\".md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,15 +149,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74b58de7d19fa38b",
+  "active": "372d21dcaccf7b0c",
   "lastOpenFiles": [
     "var/tmp/problems with \"brew install eclipse\".md",
+    "sem1/DMath/src/DMath_script.pdf",
+    "sem1/DMath/VRL/V11_.md",
     "var/tmp/Untitled",
     "var/tmp",
     "sem1/LinAlg/UE/U4/LinAlg_U4_e.pdf",
-    "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/src/DMath_pvw_HS22.pdf",
-    "sem1/DMath/VRL/V11_.md",
     "sem1/LinAlg/VRL/V07_.md",
     "sem1/LinAlg/VRL/V08_.md",
     "var/sem1/sem1_schedule.jpg",
@@ -238,7 +187,6 @@
     "sem1/AuD/VRL/V00_AuD.md",
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
     "test3.md",
-    "test2.md",
-    "test.md"
+    "test2.md"
   ]
 }
