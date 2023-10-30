@@ -19,10 +19,11 @@ $\blacksquare$
 The set $S = \{\text{functions }\{0,\,1\} \rightarrow \{0,\,1\}^\infty\}$ is uncountable.
 
 **Proof:**
-(using: Theorem 3.23. The set $\{0,\,1\}^\infty$  is uncountable.
+(using: Theorem 3.23. The set $\{0,\,1\}^\infty$  is uncountable)
 
 This is a proof by contradiction. To arrive at a contradiction, we assume that a bijection
-$f : \mathbb{N} \rightarrow f : N → {0, 1}^∞ exists. Let $\beta_{i,\,j}$ be the j-th bit in the i-th sequence $f(i)$, where for convenience we begin numbering the bits with j = 0:
+$f : \mathbb{N} \rightarrow \{0, \,1\}^\infty$ 
+exists. Let $\beta_{i,\,j}$ be the j-th bit in the i-th sequence $f(i)$, where for convenience we begin numbering the bits with $j = 0$ :
 
 $f(i) \overset{def}{=} \beta_{i,\,0}, \,\beta_{i,\,1}, \,\beta_{i,\,2}, \,\beta_{i,\,3}, \, ...$
 
@@ -32,7 +33,8 @@ We define a new semi-infinite binary sequence $\alpha$ as follows:
 
 $\alpha \overset{def}{=} \overline{\beta_{i,\,0}}, \,\overline{\beta_{i,\,1}}, \,\overline{\beta_{i,\,2}}, \,\overline{\beta_{i,\,3}}, \, ...$
 
-Obviously, $\alpha \in \{0,\,1\}^\infty$ but there is no $n \in\mathbb{N}$ such that α = f (n) since α is constructed so as to disagree in at least one bit (actually the nth bit) with every sequence f (n) for n ∈ N. This shows that f cannot be a bijection, which concludes the proof.
+Obviously, $\alpha \in \{0,\,1\}^\infty$ but there is no $n \in\mathbb{N}$ such that $\alpha = f(n)$ since $\alpha$ is constructed so as to disagree in at least one bit (actually the n-th bit) with every sequence $f(n)$ for $n \in\mathbb{N}$.
+This shows that $f$ cannot be a bijection, which concludes the proof.
 
 
 we have to prove, that $S \sim \{0, 1\}^\infty$
