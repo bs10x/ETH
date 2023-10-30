@@ -16,7 +16,7 @@ $\blacksquare$
 
 #### b)
 **Prove:**
-The set S = {functions {0, 1} → {0, 1}∞} is uncountable.
+The set $S = \{\text{functions }\{0,\,1\} \rightarrow \{0,\,1\}^\infty\}$ is uncountable.
 
 **Proof:**
 (using: Theorem 3.23. The set $\{0,\,1\}^\infty$  is uncountable.

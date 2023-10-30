@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "44dce6f23750fb76",
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
+                "file": "sem1/DMath/src/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
+                "file": "sem1/DMath/src/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md"
+                "file": "sem1/DMath/src/DMath_script.pdf"
               }
             }
           },
@@ -205,10 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1775f594df03cbb4",
+  "active": "7eda3b003b394a74",
   "lastOpenFiles": [
-    "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "sem1/DMath/UE/U6/DMath_u6_bf.md",
+    "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/VRL/V12_.md",
     "sem1/DMath/VRL/V11_.md",
