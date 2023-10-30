@@ -25,17 +25,19 @@ we have to prove, that $S \sim \{0, 1\}^\infty$
 to prove that, we have to show that there is an uncountable set of functions, that map {0, 1} to  $\{0, 1\}^\infty$.
 
 we can construct f1, such that
-f0(0) = 0000000000000...
-f0(1) = 00000...
 
-f1(0) = 000...
-f1(1) = 100000...
+f_0(0) = 0
+f_0(1) = 0
 
-f2(0) = 000...
-f2(1) = 110000...
+f_1(0) = 0
+f_1(1) = 1
 
-f3(0) = 000...
-f3(1) = 111000...
+f_2(0) = 0
+f_2(1) = 11
+
+f_3(0) = 0
+f_3(1) = 111
+
 
 we observe, that the function fn, has n numbers of 1's, followed by an infinite number of zeros.
 
