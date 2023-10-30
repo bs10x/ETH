@@ -54,7 +54,7 @@ f_2(1) = 11
 f_3(0) = 0
 f_3(1) = 111
 
-f_n {0, 1} \overset{def}{=} 
+$$f_n \{0,\,1\} \overset{def}{=} \begin{cases} \mbox{0, } & \mbox{for f_n(0)}\\ \mbox{\{1\}^n 0^\infty}$$
 
 $f\{0,\,1\} \rightarrow \{0, 1\}^\infty$
 
