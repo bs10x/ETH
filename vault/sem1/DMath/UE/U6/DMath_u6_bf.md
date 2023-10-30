@@ -10,10 +10,13 @@ Let A, B be sets. If A is uncountable and A $\succeq$ B then B is uncountable.
 (using Lemma 3.15.(ii): The relation $\succeq$ is transitive: $A \succeq B \land B \succeq C \implies A \succeq C$)
 (using Definition 3.42.(iii): A set $A$ is called countable if $A\succeq N$, and *uncountable* otherwise)
 
+$\mathbb{N} \succeq A \land A \succeq B \implies \mathbb{N} \succeq B$
+$\blacksquare$
 
 
 #### b)
-
+**Prove:**
+The set S = {functions {0, 1} → {0, 1}∞} is uncountable.
 
 **Proof:**
 (using: Theorem 3.23. The set $\{0,\,1\}^\infty$  is uncountable.
