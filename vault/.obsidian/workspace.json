@@ -18,25 +18,53 @@
             }
           },
           {
-            "id": "b57265eb9db628f9",
+            "id": "ad746bedd144f534",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "var/sem1_schedule.jpg"
+                "file": "sem1/DMath/src/DMath_script.pdf"
               }
             }
           },
           {
-            "id": "ad746bedd144f534",
+            "id": "2a4903fb5f5c6b10",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/VRL/V11_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4755c36db171960a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "var/tmp/problems with \"brew install eclipse\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74b58de7d19fa38b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "var/tmp/problems with \"brew install eclipse\".md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "var/sem1_schedule.jpg",
+                "file": "var/tmp/problems with \"brew install eclipse\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "var/sem1_schedule.jpg",
+                "file": "var/tmp/problems with \"brew install eclipse\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "var/sem1_schedule.jpg"
+                "file": "var/tmp/problems with \"brew install eclipse\".md"
               }
             }
           },
@@ -159,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,23 +200,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b57265eb9db628f9",
+  "active": "74b58de7d19fa38b",
   "lastOpenFiles": [
     "var/tmp/problems with \"brew install eclipse\".md",
+    "var/tmp/Untitled",
     "var/tmp",
+    "sem1/LinAlg/UE/U4/LinAlg_U4_e.pdf",
+    "sem1/DMath/src/DMath_script.pdf",
+    "sem1/DMath/src/DMath_pvw_HS22.pdf",
+    "sem1/DMath/VRL/V11_.md",
+    "sem1/LinAlg/VRL/V07_.md",
+    "sem1/LinAlg/VRL/V08_.md",
     "var/sem1/sem1_schedule.jpg",
     "var/sem1/literature2buy?.md",
     "var/sem1/info.md",
     "var/sem1/ersti tag.md",
     "var/sem1",
-    "sem1/LinAlg/UE/U4/LinAlg_U4_e.pdf",
     "sem1/LinAlg/UE/U4",
     "sem1/LinAlg/UE/U3/LinAlg_U3_s.pdf",
     "sem1/DMath/UE/U5/DMath_U5_e.pdf",
     "sem1/DMath/UE/U5",
-    "sem1/DMath/UE/U4/DMath_u4_s.pdf",
-    "sem1/DMath/UE/U4/DMath_U4_e.pdf",
-    "sem1/DMath/UE/U3/DMath_U3_s.pdf",
     "sem1/DMath/VRL/V10_posets.md",
     "test1.md",
     "doc/mbp-setup.md",
@@ -207,9 +239,6 @@
     "sem1/DMath/VRL/V06_lemmas, mengen.md",
     "test3.md",
     "test2.md",
-    "test.md",
-    "sem1/LinAlg/VRL/V02_scalar products.md",
-    "sem1/AuD/VRL/V02_big-O, star-search.md",
-    "etc/literature2buy?.md"
+    "test.md"
   ]
 }
