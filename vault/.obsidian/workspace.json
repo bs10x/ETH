@@ -38,8 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4755c36db171960a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "var/tmp/problems with \"brew install eclipse\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "var/tmp/problems with \"brew install eclipse\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "var/tmp/problems with \"brew install eclipse\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "var/tmp/problems with \"brew install eclipse\".md"
+              }
             }
           },
           {
@@ -171,8 +188,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372d21dcaccf7b0c",
+  "active": "4755c36db171960a",
   "lastOpenFiles": [
+    "var/tmp/problems with \"brew install eclipse\".md",
+    "var/tmp/Untitled",
+    "var/tmp",
     "sem1/LinAlg/UE/U4/LinAlg_U4_e.pdf",
     "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/src/DMath_pvw_HS22.pdf",
@@ -188,9 +208,6 @@
     "sem1/LinAlg/UE/U3/LinAlg_U3_s.pdf",
     "sem1/DMath/UE/U5/DMath_U5_e.pdf",
     "sem1/DMath/UE/U5",
-    "sem1/DMath/UE/U4/DMath_u4_s.pdf",
-    "sem1/DMath/UE/U4/DMath_U4_e.pdf",
-    "sem1/DMath/UE/U3/DMath_U3_s.pdf",
     "sem1/DMath/VRL/V10_posets.md",
     "test1.md",
     "doc/mbp-setup.md",
