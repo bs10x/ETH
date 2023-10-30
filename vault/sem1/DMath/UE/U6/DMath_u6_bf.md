@@ -39,11 +39,15 @@ f_3(0) = 0
 f_3(1) = 111
 
 
-we observe, that the function fn, has n numbers of 1's, followed by an infinite number of zeros. we ignore these and note that each number can be mapped to an element in $\{0, 1\}^\infty$, namely, {1}^n. since  
+we observe, that the function fn, has n numbers of 1's, followed by an infinite number of zeros. we ignore these and note that each number can be mapped to an element in $\{0, 1\}^\infty$, namely, {1}^n. since $\{0, 1\}^\infty$
+
+
+
+
 
 for all n \in \mathbb{N}, we can thus have a function that returns an element of  $\{0, 1\}^\infty$
 
-howver, there is always some element e 
+however, there is always some element e 
 
 
 
