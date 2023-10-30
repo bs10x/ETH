@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_U6_e.pdf",
+                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_U6_e.pdf",
+                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_U6_e.pdf"
+                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md"
               }
             }
           },
@@ -205,11 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f56cfda920bf44a1",
+  "active": "1775f594df03cbb4",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "sem1/DMath/src/DMath_script.pdf",
-    "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "sem1/DMath/VRL/V12_.md",
     "sem1/DMath/VRL/V11_.md",
     "sem1/AuD/UE/U6/AuD_U6_e.pdf",
