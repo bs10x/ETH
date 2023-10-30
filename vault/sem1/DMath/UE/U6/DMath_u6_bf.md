@@ -22,7 +22,26 @@ Proof. This is a proof by contradiction. To arrive at a contradiction, assume th
 
 
 we have to prove, that $S \sim \{0, 1\}^\infty$
-to prove that, we have to show
+to prove that, we have to show that there is an uncountable set of functions, that map {0, 1} to  $\{0, 1\}^\infty$.
+
+we can construct f1, such that
+f0(0) = 0000000000000...
+f0(1) = 00000...
+
+f1(0) = 000...
+f1(1) = 100000...
+
+f2(0) = 000...
+f2(1) = 110000...
+
+
+
+
+
+
+
+
+
 
 1 0000000011
 0 000000000
