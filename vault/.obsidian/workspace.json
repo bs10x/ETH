@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -193,8 +192,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1775f594df03cbb4",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem1/AuD/UE/U6/AuD_U6_e.pdf",
+    "sem1/AuD/UE/U6",
+    "sem1/AuD/UE/U5/AuD_U5_s.pdf",
+    "sem1/EProg/UE/U5/EProg_U5_e.pdf",
+    "sem1/EProg/UE/U5",
+    "sem1/LinAlg/UE/U5/LinAlg_U5_e.pdf",
+    "sem1/LinAlg/UE/U4/LinAlg_U4_s.pdf",
+    "sem1/LinAlg/UE/U5",
     "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "sem1/DMath/UE/U6/DMath_U6_e.pdf",
@@ -207,15 +214,8 @@
     "var/literature2buy?.md",
     "var/sem1_schedule.jpg",
     "sem1/DMath/VRL/V11_.md",
-    "var/tmp/Untitled",
-    "var/tmp",
-    "sem1/LinAlg/UE/U4/LinAlg_U4_e.pdf",
-    "sem1/DMath/src/DMath_pvw_HS22.pdf",
     "sem1/LinAlg/VRL/V07_.md",
     "sem1/LinAlg/VRL/V08_.md",
-    "var/sem1",
-    "sem1/LinAlg/UE/U4",
-    "sem1/LinAlg/UE/U3/LinAlg_U3_s.pdf",
     "sem1/DMath/VRL/V10_posets.md",
     "test1.md",
     "doc/mbp-setup.md",
