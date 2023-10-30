@@ -55,8 +55,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "23a4c618b8c13156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/VRL/V12_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
+                "file": "sem1/DMath/VRL/V12_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
+                "file": "sem1/DMath/VRL/V12_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md"
+                "file": "sem1/DMath/VRL/V12_.md"
               }
             }
           },
@@ -192,8 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "23a4c618b8c13156",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V11_.md",
+    "sem1/DMath/VRL/V12_.md",
+    "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "sem1/AuD/UE/U6/AuD_U6_e.pdf",
     "sem1/AuD/UE/U6",
     "sem1/AuD/UE/U5/AuD_U5_s.pdf",
@@ -203,17 +219,14 @@
     "sem1/LinAlg/UE/U4/LinAlg_U4_s.pdf",
     "sem1/LinAlg/UE/U5",
     "sem1/DMath/src/DMath_script.pdf",
-    "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "var/keeping track of my work.md",
-    "sem1/DMath/UE/U6",
     "Untitled.canvas",
     "var/problems with \"brew install eclipse\".md",
     "var/var.md",
     "var/ersti tag.md",
     "var/literature2buy?.md",
     "var/sem1_schedule.jpg",
-    "sem1/DMath/VRL/V11_.md",
     "sem1/LinAlg/VRL/V07_.md",
     "sem1/LinAlg/VRL/V08_.md",
     "sem1/DMath/VRL/V10_posets.md",
