@@ -57,11 +57,11 @@ f_3(1) = 111
 
 $f\{0,\,1\} \rightarrow \{0, 1\}^\infty$
 
-$$f_n\{0,\,1\} \overset{def}{=} \begin{cases} 0,\quad\quad\quad\quad\,\,\,\,\text{for $f_n(0)$}\\\{1\}^n \{0\}^\infty, \quad\text{for $f_n(1)$} \end{cases}$$
+$$f_n\{0,\,1\} \overset{def}{=} \begin{cases} 0, &\text{for $f_n(0)$}\\\{1\}^n \{0\}^\infty, &\text{for $f_n(1)$} \end{cases}$$
 
 
 
-we observe, that the function f_n, where n \in\mathbb{N} has n numbers of 1's, followed by an infinite number of zeros. we ignore these and note that each number n \in\mathbb{N} can thus be mapped to an element in $\{0, 1\}^\infty$, namely, {1}^n. 
+we observe, that the function has n numbers of 1's, followed by an infinite number of zeros. we note that each number $n \in\mathbb{N}$ can thus be mapped to an element in $\{0, 1\}^\infty$, namely, $\{1\}^n \{0\}^\infty$. 
 
 
 since $\{0, 1\}^\infty$
