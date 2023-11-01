@@ -45,3 +45,11 @@ crontab on nas:
 ```
 * * * * * /nas/bfeitknecht/homepage/dev/testing.sh >> /nas/bfeitknecht/homepage/dev/cron.log 2>&1
 ```
+
+
+
+
+first test crontab ran from:
+Mon Oct 30 02:20:01 PM CET 2023
+Mon Oct 30 06:18:02 PM CET 2023
+
