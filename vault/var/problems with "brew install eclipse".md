@@ -30,7 +30,5 @@ bf@mbp ~/Library> rm -rf Saved\ Application\ State/epp.package.java.savedState/
 increase animation speed of hide/show dock:
 
 
-bf@mbp ~> defaults write com.apple.dock autohide-delay -float 0  
-killall Dock
-bf@mbp ~> defaults write com.apple.dock autohide-time-modifier -float 0.3;  
-	killall Dock
+bf@mbp ~> defaults write com.apple.dock autohide-delay -float 0;killall Dock
+bf@mbp ~> defaults write com.apple.dock autohide-time-modifier -float 0.3;killall Dock
