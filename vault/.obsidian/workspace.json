@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/VRL/V12_.md",
+                "file": "sem1/DMath/src/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/VRL/V12_.md",
+                "file": "sem1/DMath/src/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/VRL/V12_.md"
+                "file": "sem1/DMath/src/DMath_script.pdf"
               }
             }
           },
@@ -176,13 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70c4e7ca1b314da1",
+  "active": "7eda3b003b394a74",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V12_.md",
     "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "sem1/DMath/src/DMath_script.pdf",
     "var/err-log of my struggles.md",
     "var/sem1_schedule.jpg",
-    "sem1/DMath/VRL/V12_.md",
     "var/keeping track of my work.md",
     "var/var.md",
     "sem1/DMath/UE/U6/DMath_u6_bf.md",
