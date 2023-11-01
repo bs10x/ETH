@@ -1,6 +1,10 @@
 
 
 [[var]]
+
+
+
+problem with homebrew install --cask eclipse-java
 ### Problem:
 
 - when i install eclipse using homebrew, it displays "NewApplication" in the top left as app name
@@ -29,6 +33,15 @@ bf@mbp ~/Library> rm -rf Saved\ Application\ State/epp.package.java.savedState/
 
 increase animation speed of hide/show dock:
 
-
 bf@mbp ~> defaults write com.apple.dock autohide-delay -float 0;killall Dock
 bf@mbp ~> defaults write com.apple.dock autohide-time-modifier -float 0.3;killall Dock
+
+
+
+
+
+crontab on nas:
+
+```
+* * * * * /nas/bfeitknecht/homepage/dev/testing.sh >> /nas/bfeitknecht/homepage/dev/cron.log 2>&1
+```

@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/VRL/V12_.md",
+                "file": "var/err-log of my struggles.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/VRL/V12_.md",
+                "file": "var/err-log of my struggles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/VRL/V12_.md",
+                "file": "var/err-log of my struggles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/VRL/V12_.md"
+                "file": "var/err-log of my struggles.md"
               }
             }
           },
@@ -190,10 +189,10 @@
   "active": "3f1a29705cd6c64c",
   "lastOpenFiles": [
     "var/sem1_schedule.jpg",
-    "var/problems with \"brew install eclipse\".md",
+    "sem1/DMath/VRL/V12_.md",
+    "var/err-log of my struggles.md",
     "var/keeping track of my work.md",
     "var/var.md",
-    "sem1/DMath/VRL/V12_.md",
     "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "sem1/DMath/src/DMath_script.pdf",
