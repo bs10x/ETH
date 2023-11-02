@@ -5,4 +5,4 @@
 0 */3 * * * /nas/bfeitknecht/homepage/dev/persistence.sh >> /nas/bfeitknecht/homepage/dev/persistence.log 2>&1
 
 # run "daily-commit.sh" at midnight and log all output to "daily-commit.log"
-//TODO//
+1 0 * * * /nas/bfeitknecht/homepage/dev/daily-commit.sh >> /nas/bfeitknecht/homepage/dev/daily-commit.log 2>&1

@@ -7,5 +7,5 @@ cd ~/homepage/dev/
 crontab -r
 
 # create a new crontab from "persistance-template.txt"
-crontab -e persistence-template.txt
+crontab persistence-template.txt
 
