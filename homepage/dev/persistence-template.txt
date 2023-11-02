@@ -1,0 +1,8 @@
+# run "minute.sh" every minute and log all output to minute.log
+* * * * * /nas/bfeitknecht/homepage/dev/minute.sh >> /nas/bfeitknecht/homepage/dev/minute.log 2>&1
+
+# run "persistence.sh" every three hours and log all output to "persistence.log"
+0 */3 * * * /nas/bfeitknecht/homepage/dev/persistence.sh >> /nas/bfeitknecht/homepage/dev/persistence.log 2>&1
+
+# run "daily-commit.sh" at midnight and log all output to "daily-commit.log"
+//TODO//
