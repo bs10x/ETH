@@ -74,3 +74,9 @@ crontab -e /path/to/cron-job-file.txt
 
 
 // cron-job-file.txt
+```
+# run log every minute
+* * * * * /nas/bfeitknecht/homepage/dev/testing.sh >> /nas/bfeitknecht/homepage/dev/cron.log 2>&1
+
+0 */3 * * * /nas/bfeitknecht/homepage/dev/testing.sh >> /nas/bfeitknecht/homepage/dev/cron.log 2>&1
+```
