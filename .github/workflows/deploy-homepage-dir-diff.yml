@@ -21,7 +21,7 @@ jobs:
           ssh-keyscan -H slab1.ethz.ch >> ~/.ssh/known_hosts
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
+          # SSH_KNOWN_HOSTS: ${{ secrets.SSH_KNOWN_HOSTS }}
 
       - name: checkout repository (get changes in the repository)
         uses: actions/checkout@v2
