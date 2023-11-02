@@ -64,16 +64,21 @@ crontab on nas:
 every 3h, run persistence script (reset cron jobs, read cronjob from file)
 
 // persistence.sh
+```
+# navigate to "dev/" 
+cd ~/homepage/dev/
 
-cd homepage/dev/
+# remove the old crontab
 crontab -r
-crontab -e template-persistence.txt
+
+# create a new crontab from "persistance-template.txt"
+crontab -e persistence-template.txt
+```
 
 
 
 
-
-// persistence-template.txt
+// cron-job-file.txt
 ```
 # run "minute.sh" every minute and log all to minute.log
 * * * * * /nas/bfeitknecht/homepage/dev/minute.sh >> /nas/bfeitknecht/homepage/dev/minute.log 2>&1
@@ -81,4 +86,3 @@ crontab -e template-persistence.txt
 # run "persistence.sh" every three hours and log errors to "persistence.log"
 0 */3 * * * /nas/bfeitknecht/homepage/dev/persistence.sh >> /nas/bfeitknecht/homepage/dev/persistence.log 2>&1
 ```
-
