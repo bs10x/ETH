@@ -41,23 +41,21 @@ bf@mbp ~> defaults write com.apple.dock autohide-time-modifier -float 0.3;killal
 
 
 crontab on nas:
-
 ```
 * * * * * /nas/bfeitknecht/homepage/dev/testing.sh >> /nas/bfeitknecht/homepage/dev/cron.log 2>&1
 ```
 
 
+**first test crontab:**
+	Mon Oct 30 02:20:01 PM CET 2023
+	Mon Oct 30 06:18:02 PM CET 2023
 
+**second test crontab ran:**
+	(a little bit before actually)
+	Wed Nov  1 03:10:01 PM CET 2023
+	Wed Nov  1 08:34:01 PM CET 2023
 
-first test crontab:
-Mon Oct 30 02:20:01 PM CET 2023
-Mon Oct 30 06:18:02 PM CET 2023
-
-second test crontab ran:
-
-(a little bit before actually)
-Wed Nov  1 03:10:01 PM CET 2023
-Wed Nov  1 08:34:01 PM CET 2023
+–> about ~4, 5 hours
 
 
 
@@ -66,8 +64,10 @@ Wed Nov  1 08:34:01 PM CET 2023
 every 3h, run persistence script (reset cron jobs, read cronjob from file)
 
 // persistence.sh
+
+cd homepage/dev/
 crontab -r
-crontab -e /path/to/cron-job-file.txt
+crontab -e template-persistence.txt
 
 
 
@@ -75,8 +75,8 @@ crontab -e /path/to/cron-job-file.txt
 
 // cron-job-file.txt
 ```
-# run "minute.sh" minute and log to cron.log
-* * * * * /nas/bfeitknecht/homepage/dev/testing.sh >> /nas/bfeitknecht/homepage/dev/cron.log 2>&1
+# run "minute.sh" every minute and log all to minute.log
+* * * * * /nas/bfeitknecht/homepage/dev/minute.sh >> /nas/bfeitknecht/homepage/dev/minute.log 2>&1
 
 # run "persistence.sh" every three hours and log errors to "persistence.log"
 0 */3 * * * /nas/bfeitknecht/homepage/dev/persistence.sh >> /nas/bfeitknecht/homepage/dev/persistence.log 2>&1
