@@ -49,7 +49,14 @@ crontab on nas:
 
 
 
-first test crontab ran from:
+first test crontab:
 Mon Oct 30 02:20:01 PM CET 2023
 Mon Oct 30 06:18:02 PM CET 2023
+
+second test crontab ran:
+
+(a little bit before actually)
+Wed Nov  1 03:10:01 PM CET 2023
+Wed Nov  1 08:34:01 PM CET 2023
+
 
