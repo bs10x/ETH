@@ -78,7 +78,7 @@ crontab -e persistence-template.txt
 
 
 
-// cron-job-file.txt
+// persistence-template.txt
 ```
 # run "minute.sh" every minute and log all to minute.log
 * * * * * /nas/bfeitknecht/homepage/dev/minute.sh >> /nas/bfeitknecht/homepage/dev/minute.log 2>&1
