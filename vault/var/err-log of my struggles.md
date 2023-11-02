@@ -81,3 +81,4 @@ crontab -e template-persistence.txt
 # run "persistence.sh" every three hours and log errors to "persistence.log"
 0 */3 * * * /nas/bfeitknecht/homepage/dev/persistence.sh >> /nas/bfeitknecht/homepage/dev/persistence.log 2>&1
 ```
+
