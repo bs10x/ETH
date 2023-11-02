@@ -60,3 +60,17 @@ Wed Nov  1 03:10:01 PM CET 2023
 Wed Nov  1 08:34:01 PM CET 2023
 
 
+
+
+
+every 3h, run persistence script (reset cron jobs, read cronjob from file)
+
+// persistence.sh
+crontab -r
+crontab -e /path/to/cron-job-file.txt
+
+
+
+
+
+// cron-job-file.txt
