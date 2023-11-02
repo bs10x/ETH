@@ -20,13 +20,23 @@ The set $S = \{\text{functions }\{0,\,1\} \rightarrow \{0,\,1\}^\infty\}$ is unc
 
 **Proof:**
 We will prove this using contradiction.
-Let's assume the set $S$ is countable, so $S \sim\mathbb{N}$. This means, that there is a one to one mapping between functions $f_n$ to $\mathbb{N}$. Let us define $f_n$ as follows:
+Let's assume the set $S$ is countable, so $S \sim\mathbb{N}$. This means, that there is a one to one mapping (injection) between functions $f_n$ to $\mathbb{N}$. Let us define $f_n$ as follows:
 
 $f_n \overset{def}{=} \beta_{n,\,0}, \,\beta_{n,\,1}, \,\beta_{n,\,2}, \,\beta_{n,\,3}, \, ...$
- 
- Let $\beta_{n,\,i}$ be the i-th bit in the n-th sequence $f_n$, where for convenience we begin numbering the bits with $i = 0$
+
+For some $n \in \mathbb{N}$
+
+Let $\beta_{n,\,i}$ be the i-th bit in the n-th sequence $f_n$, where for convenience we begin numbering the bits with $i = 0$
 
 Let $\overline{b}$ be the complement of a bit $b \in \{0,\,1\}$.
+
+We define a new semi-infinite binary sequence $\alpha$ as follows:
+
+$\alpha \overset{def}{=} \overline{\beta_{n,\,0}}, \,\overline{\beta_{n,\,1}}, \,\overline{\beta_{n,\,2}}, \,\overline{\beta_{n,\,3}}, \, ...$
+
+Obviously, $\alpha \in \{0,\,1\}^\infty$ but there is no $n \in\mathbb{N}$ such that $\alpha = f_n$ since $\alpha$ is constructed so as to disagree in at least one bit (actually the i-th bit) with every sequence $f_n$ for $n \in\mathbb{N}$.
+This shows that there cannot be an injection from $f_n$ to $\mathbb{N}$, which concludes the proof.
+
 
 
 (using: Theorem 3.23. The set $\{0,\,1\}^\infty$  is uncountable)

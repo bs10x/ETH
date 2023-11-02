@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
+                "file": "sem1/DMath/src/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
+                "file": "sem1/DMath/src/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md"
+                "file": "sem1/DMath/src/DMath_script.pdf"
               }
             }
           },
@@ -187,14 +187,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aac22e4cda1754e4",
+  "active": "7eda3b003b394a74",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "sem1/DMath/VRL/V11_.md",
     "sem1/DMath/VRL/V12_.md",
     "sem1/DMath/VRL/V10_posets.md",
     "var/literature2buy?.md",
     "sem1/DMath/src/DMath_script.pdf",
-    "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "var/err-log of my struggles.md",
     "sem1/AuD/VRL/V07_.md",
     "sem1/AuD/VRL/V06_.md",
