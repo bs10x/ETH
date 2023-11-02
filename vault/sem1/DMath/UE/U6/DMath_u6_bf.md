@@ -19,13 +19,21 @@ $\blacksquare$
 The set $S = \{\text{functions }\{0,\,1\} \rightarrow \{0,\,1\}^\infty\}$ is uncountable.
 
 **Proof:**
-We will prove this using contradiction. Let's assume the set $S$ is countable, so $S \sim\mathbb{N}$. This means, that there is a one to one mapping between functions $f_n$ to $\mathbb{N}$. Let
+We will prove this using contradiction.
+Let's assume the set $S$ is countable, so $S \sim\mathbb{N}$. This means, that there is a one to one mapping between functions $f_n$ to $\mathbb{N}$. Let us define $f_n$ as follows:
+
+$f_n \overset{def}{=} \beta_{n,\,0}, \,\beta_{n,\,1}, \,\beta_{n,\,2}, \,\beta_{n,\,3}, \, ...$
+ 
+ Let $\beta_{n,\,i}$ be the i-th bit in the n-th sequence $f_n$, where for convenience we begin numbering the bits with $i = 0$
+
+Let $\overline{b}$ be the complement of a bit $b \in \{0,\,1\}$.
 
 
 (using: Theorem 3.23. The set $\{0,\,1\}^\infty$  is uncountable)
 
 This is a proof by contradiction. To arrive at a contradiction, we assume that a bijection
 $f : \mathbb{N} \rightarrow \{0, \,1\}^\infty$ 
+
 exists. Let $\beta_{i,\,j}$ be the j-th bit in the i-th sequence $f(i)$, where for convenience we begin numbering the bits with $j = 0$ :
 
 $f(i) \overset{def}{=} \beta_{i,\,0}, \,\beta_{i,\,1}, \,\beta_{i,\,2}, \,\beta_{i,\,3}, \, ...$
