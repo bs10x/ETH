@@ -75,8 +75,9 @@ crontab -e /path/to/cron-job-file.txt
 
 // cron-job-file.txt
 ```
-# run log every minute
+# run "minute.sh" minute and log to cron.log
 * * * * * /nas/bfeitknecht/homepage/dev/testing.sh >> /nas/bfeitknecht/homepage/dev/cron.log 2>&1
 
-0 */3 * * * /nas/bfeitknecht/homepage/dev/testing.sh >> /nas/bfeitknecht/homepage/dev/cron.log 2>&1
+# run "persistence.sh" every three hours and log errors to "persistence.log"
+0 */3 * * * /nas/bfeitknecht/homepage/dev/persistence.sh >> /nas/bfeitknecht/homepage/dev/persistence.log 2>&1
 ```
