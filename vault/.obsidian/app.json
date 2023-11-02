@@ -2,5 +2,12 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "vimMode": false,
-  "attachmentFolderPath": "var/attachments"
+  "attachmentFolderPath": "var/attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
