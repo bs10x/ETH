@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/literature2buy?.md",
+                "file": "sem1/DMath/VRL/V11_.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,18 +189,19 @@
   },
   "active": "aac22e4cda1754e4",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V11_.md",
+    "sem1/DMath/VRL/V12_.md",
+    "sem1/DMath/VRL/V10_posets.md",
+    "var/literature2buy?.md",
+    "sem1/DMath/src/DMath_script.pdf",
+    "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "var/err-log of my struggles.md",
     "sem1/AuD/VRL/V07_.md",
     "sem1/AuD/VRL/V06_.md",
-    "var/literature2buy?.md",
     "var/keeping track of my work.md",
-    "sem1/DMath/VRL/V12_.md",
-    "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "var/sem1_schedule.jpg",
     "var/var.md",
-    "sem1/DMath/UE/U6/DMath_u6_bf.md",
-    "sem1/DMath/VRL/V11_.md",
     "sem1/AuD/UE/U6/AuD_U6_e.pdf",
     "sem1/AuD/UE/U6",
     "sem1/AuD/UE/U5/AuD_U5_s.pdf",
@@ -213,7 +214,6 @@
     "var/ersti tag.md",
     "sem1/LinAlg/VRL/V07_.md",
     "sem1/LinAlg/VRL/V08_.md",
-    "sem1/DMath/VRL/V10_posets.md",
     "test1.md",
     "doc/mbp-setup.md",
     "doc/deploy-gh-wf.md",
@@ -225,7 +225,6 @@
     "sem1/AuD/src/AuD_src.md",
     "DMath_U3_bf.md",
     "hallo svea.md",
-    "sem1/EProg/src/EProg_src.md",
-    "sem1/AuD/VRL/V00_AuD.md"
+    "sem1/EProg/src/EProg_src.md"
   ]
 }

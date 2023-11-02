@@ -19,6 +19,9 @@ $\blacksquare$
 The set $S = \{\text{functions }\{0,\,1\} \rightarrow \{0,\,1\}^\infty\}$ is uncountable.
 
 **Proof:**
+We will prove this using contradiction. Let's assume the set $S$ is countable, so $S \sim\mathbb{N}$. This means, that there is a one to one mapping between functions $f_n$ to $\mathbb{N}$. Let
+
+
 (using: Theorem 3.23. The set $\{0,\,1\}^\infty$  is uncountable)
 
 This is a proof by contradiction. To arrive at a contradiction, we assume that a bijection
