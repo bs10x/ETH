@@ -15,8 +15,7 @@ $\blacksquare$
 The set $S = \{\text{functions }\{0,\,1\} \rightarrow \{0,\,1\}^\infty\}$ is uncountable.
 
 **Proof:**
-We will prove this using contradiction.
-Let's assume the set $S$ is countable, so $S \sim\mathbb{N}$. This means, that there is a one to one mapping onto each unique value (bijection) between functions $f_n$ to $\mathbb{N}$. Let us define $f_n$ as follows:
+We will prove this using contradiction. Let's assume the set $S$ is countable, so $S \sim\mathbb{N}$. This means, that there is a one to one mapping onto each unique value (bijection) between functions $f_n$ to $\mathbb{N}$. Let us define $f_n$ as follows:
 
 $f_n \overset{def}{=} \beta_{n,\,0}, \,\beta_{n,\,1}, \,\beta_{n,\,2}, \,\beta_{n,\,3}, \, ...$
 For some $n \in \mathbb{N}$
