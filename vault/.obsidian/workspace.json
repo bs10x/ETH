@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -188,8 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aac22e4cda1754e4",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U7/DMath_U7_e.pdf",
+    "sem1/DMath/UE/U7",
+    "sem1/EProg/UE/U6",
+    "sem1/EProg/UE/U6/EProg_U6_e.pdf",
+    "sem1/DMath/UE/U6/DMath_u6_bf.pdf",
     "sem1/DMath/src/DMath_script.pdf",
     "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "sem1/DMath/VRL/V11_.md",
@@ -207,10 +211,6 @@
     "sem1/AuD/UE/U6",
     "sem1/AuD/UE/U5/AuD_U5_s.pdf",
     "sem1/EProg/UE/U5/EProg_U5_e.pdf",
-    "sem1/EProg/UE/U5",
-    "sem1/LinAlg/UE/U5/LinAlg_U5_e.pdf",
-    "sem1/LinAlg/UE/U4/LinAlg_U4_s.pdf",
-    "sem1/LinAlg/UE/U5",
     "Untitled.canvas",
     "var/ersti tag.md",
     "sem1/LinAlg/VRL/V07_.md",
