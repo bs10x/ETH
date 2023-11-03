@@ -1,3 +1,8 @@
 #[submodule "homepage"]
 #	path = homepage
 #	url = git@github.com:bs10x/homepage.git
+
+
+[submodule "src/EProg/bfeitknecht"]
+	path = src/EProg/bfeitknecht
+	url = https://gitlab.inf.ethz.ch/course-eprog2023/students/bfeitknecht.git

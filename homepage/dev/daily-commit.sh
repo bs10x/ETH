@@ -6,8 +6,8 @@ cd ~/homepage/dev
 # Get the current date and time
 now=$(date +"%Y-%m-%d %H:%M:%S")
 
-# Update the every-day.html file with the current date and time
-sed -i "s/<span id=\"modified\">.*<\/span>/<span id=\"modified\">$now<\/span>/" every-day.html
+# Update the daily-commit.html file with the current date and time
+sed -i "s/<span id=\"modified\">.*<\/span>/<span id=\"modified\">$now<\/span>/" daily-commit.html
 
 # Add all changes to the staging area
 git add ./

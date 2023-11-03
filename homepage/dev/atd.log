@@ -1,0 +1,14 @@
+Fri Nov  3 10:02:18 AM CET 2023:
+● atd.service - Deferred execution scheduler
+     Loaded: loaded (/usr/lib/systemd/system/atd.service; enabled; preset: enabled)
+    Drop-In: /usr/lib/systemd/system/service.d
+             └─10-timeout-abort.conf
+     Active: active (running) since Fri 2023-11-03 08:57:07 CET; 1h 5min ago
+       Docs: man:atd(8)
+   Main PID: 1022 (atd)
+      Tasks: 1 (limit: 4552)
+     Memory: 248.0K
+        CPU: 1ms
+     CGroup: /system.slice/atd.service
+             └─1022 /usr/sbin/atd -f
+
