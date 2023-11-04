@@ -20,3 +20,6 @@ git commit -m "daily commit ($now)"
 
 # Push the changes to the upstream remote origin master branch
 git push -u origin master
+
+# make line breaks
+echo -e "\n\n\n"
