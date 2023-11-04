@@ -13,5 +13,5 @@ crontab persistence-template.txt
 # echo "crontab persistence-template.txt" | at 6:56 am
 
 # log the status of at daemon
-echo -e "$(date):\n$(systemctl status atd\n\n)" >> atd.log
+echo -e "$(date):\n$(systemctl status atd)\n\n" >> atd.log
 
