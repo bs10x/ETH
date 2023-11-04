@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# echo current date and time
+echo -e "$(date):\n\n"
+
 # navigate to "dev/" 
 cd ~/homepage/dev/
 

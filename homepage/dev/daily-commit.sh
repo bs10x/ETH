@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# echo the current time
+echo -e "$(date):\n\n"
+
 # Navigate to the directory containing the HTML file
 cd ~/homepage/dev
 
