@@ -1,13 +1,13 @@
 ## 6.5
 #### a)
 **Prove:**
-Let A, B be sets. If A is uncountable and A $\succeq$ B then B is uncountable.
+Let A, B be sets. If A is uncountable and A $\preceq$ B then B is uncountable.
 
 **Proof:**
-(using Lemma 3.15.(ii): The relation $\succeq$ is transitive: $A \succeq B \land B \succeq C \implies A \succeq C$)
-(using Definition 3.42.(iii): A set $A$ is called countable if $A\succeq N$, and *uncountable* otherwise)
+(using Lemma 3.15.(ii): The relation $\preceq$ is transitive: $A \preceq B \land B \preceq C \implies A \preceq C$)
+(using Definition 3.42.(iii): A set $A$ is called countable if $A\preceq N$, and *uncountable* otherwise)
 
-$\mathbb{N} \succeq A \land A \succeq B \implies \mathbb{N} \succeq B$
+$\mathbb{N} \preceq A \land A \preceq B \implies \mathbb{N} \preceq B$
 $\blacksquare$
 
 #### b)
