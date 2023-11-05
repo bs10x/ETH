@@ -1,4 +1,4 @@
 ---
 "semester:": "[[sem1]]"
-"src:": "[[DMath_src]]"
+"src:": "[[LinAlg_lib]]"
 ---

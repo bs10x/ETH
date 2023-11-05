@@ -1,5 +1,4 @@
 ---
 "semester:": "[[sem1]]"
-"src:": "[[AuD_src]]"
+"src:": "[[EProg_lib]]"
 ---
-

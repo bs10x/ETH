@@ -23,7 +23,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem1/DMath/src/DMath_script.pdf"
+                "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
           },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
+                "file": "sem1/DMath/lib/DMath.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
+                "file": "sem1/DMath/lib/DMath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md",
+                "file": "sem1/DMath/lib/DMath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U6/DMath_u6_bf.md"
+                "file": "sem1/DMath/lib/DMath.md"
               }
             }
           },
@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a935972ce4e8a23",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
-    "sem1/DMath/src/DMath_script.pdf",
+    "sem1/AuD/lib/AuD_lib.md",
+    "sem1/DMath/UE/U6/DMath_u6_bf.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/LinAlg/UE/U5/LinAlg_U5_e.pdf",
     "sem1/DMath/UE/U6/DMath_U6_e.pdf",
-    "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "tmp.md",
     "sem1/DMath/VRL/V11_.md",
     "sem1/DMath/UE/U7/DMath_U7_e.pdf",
@@ -232,9 +232,8 @@
     "sem1/DMath/VRL/V08_relations.md",
     "var/ersti tag.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
-    "sem1/AuD/src/AuD_src.md",
     "DMath_U3_bf.md",
     "hallo svea.md",
-    "sem1/EProg/src/EProg_src.md"
+    "sem1/EProg/lib/EProg_lib.md"
   ]
 }
