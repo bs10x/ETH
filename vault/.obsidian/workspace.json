@@ -16,8 +16,17 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "4b63461dec816208",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4d9e5cf2cd5e94b",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
     "var/keeping track of my work.md",
     "tmp.md",
