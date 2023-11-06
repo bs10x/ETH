@@ -38,9 +38,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b30af381c2ca4a62",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "35f683465c434f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "configure fzf for fish.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
+                "file": "configure fzf for fish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
+                "file": "configure fzf for fish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
+                "file": "configure fzf for fish.md"
               }
             }
           },
@@ -177,11 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b63461dec816208",
+  "active": "35f683465c434f6c",
   "lastOpenFiles": [
+    "configure fzf for fish.md",
     "var/prüfungsvorbereitung.md",
-    "var/var.md",
     "sem1/DMath/lib/DMath_script.pdf",
+    "var/var.md",
     "var/keeping track of my work.md",
     "tmp.md",
     "sem1/DMath/lib/DMath.md",
@@ -215,7 +236,6 @@
     "sem1/DMath/VRL/V08_relations.md",
     "var/ersti tag.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
-    "DMath_U3_bf.md",
-    "hallo svea.md"
+    "DMath_U3_bf.md"
   ]
 }
