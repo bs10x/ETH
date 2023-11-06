@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "var/prüfungsvorbereitung.md",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "var/prüfungsvorbereitung.md",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "var/prüfungsvorbereitung.md"
+                "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
           },
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48ead6bfb6604cd7",
+  "active": "4b63461dec816208",
   "lastOpenFiles": [
-    "var/var.md",
     "var/prüfungsvorbereitung.md",
+    "var/var.md",
     "sem1/DMath/lib/DMath_script.pdf",
     "var/keeping track of my work.md",
     "tmp.md",
