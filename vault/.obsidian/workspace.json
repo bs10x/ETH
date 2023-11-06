@@ -40,14 +40,6 @@
             }
           },
           {
-            "id": "b30af381c2ca4a62",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "35f683465c434f6c",
             "type": "leaf",
             "state": {
@@ -60,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "configure fzf for fish.md",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "configure fzf for fish.md",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "configure fzf for fish.md"
+                "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
           },
@@ -197,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f683465c434f6c",
+  "active": "4b63461dec816208",
   "lastOpenFiles": [
     "configure fzf for fish.md",
     "var/prüfungsvorbereitung.md",
