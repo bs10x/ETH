@@ -31,12 +31,16 @@
             "id": "48ead6bfb6604cd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "var/prüfungsvorbereitung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
+                "file": "var/prüfungsvorbereitung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
+                "file": "var/prüfungsvorbereitung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
+                "file": "var/prüfungsvorbereitung.md"
               }
             }
           },
@@ -173,8 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b63461dec816208",
+  "active": "48ead6bfb6604cd7",
   "lastOpenFiles": [
+    "var/var.md",
+    "var/prüfungsvorbereitung.md",
     "sem1/DMath/lib/DMath_script.pdf",
     "var/keeping track of my work.md",
     "tmp.md",
@@ -196,7 +202,6 @@
     "sem1/AuD/VRL/V07_.md",
     "sem1/AuD/VRL/V06_.md",
     "var/sem1_schedule.jpg",
-    "var/var.md",
     "sem1/AuD/UE/U6/AuD_U6_e.pdf",
     "sem1/AuD/UE/U6",
     "Untitled.canvas",
