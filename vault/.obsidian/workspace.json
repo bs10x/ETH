@@ -16,62 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "7eda3b003b394a74",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
-              }
-            }
-          },
-          {
-            "id": "7020e48ff1cf1f59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/VRL/V11_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71955d9257847c9d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/UE/U6/DMath_U6_e.pdf"
-              }
-            }
-          },
-          {
-            "id": "7a935972ce4e8a23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/lib/DMath.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ef4563be8bcc976",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "var/keeping track of my work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -204,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "372d21dcaccf7b0c",
+  "active": "d4d9e5cf2cd5e94b",
   "lastOpenFiles": [
     "var/keeping track of my work.md",
     "tmp.md",
