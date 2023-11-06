@@ -52,9 +52,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3254360256a0718",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "var/computer science is a lie!!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "var/computer science is a lie!!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "var/computer science is a lie!!!.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b63461dec816208",
+  "active": "d3254360256a0718",
   "lastOpenFiles": [
-    "sem1/DMath/lib/DMath_script.pdf",
     "var/computer science is a lie!!!.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "var/configure fzf for fish.md",
     "var/prüfungsvorbereitung.md",
     "var/var.md",
