@@ -21,6 +21,16 @@
             "id": "4b63461dec816208",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/lib/DMath_script.pdf"
+              }
+            }
+          },
+          {
+            "id": "48ead6bfb6604cd7",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
@@ -92,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/lib/DMath_script.pdf"
+              }
             }
           },
           {
@@ -145,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,14 +172,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "4b63461dec816208",
   "lastOpenFiles": [
+    "sem1/DMath/lib/DMath_script.pdf",
     "var/keeping track of my work.md",
     "tmp.md",
     "sem1/DMath/lib/DMath.md",
     "sem1/AuD/lib/AuD_lib.md",
     "sem1/DMath/UE/U6/DMath_u6_bf.md",
-    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/LinAlg/UE/U5/LinAlg_U5_e.pdf",
     "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "sem1/DMath/VRL/V11_.md",
@@ -195,7 +210,6 @@
     "var/ersti tag.md",
     "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "DMath_U3_bf.md",
-    "hallo svea.md",
-    "sem1/EProg/lib/EProg_lib.md"
+    "hallo svea.md"
   ]
 }
