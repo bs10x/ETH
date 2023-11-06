@@ -21,9 +21,11 @@
             "id": "4b63461dec816208",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
+                "file": "var/computer science is a lie!!!.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -45,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "configure fzf for fish.md",
+                "file": "var/configure fzf for fish.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
+                "file": "var/computer science is a lie!!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
+                "file": "var/computer science is a lie!!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
+                "file": "var/computer science is a lie!!!.md"
               }
             }
           },
@@ -191,9 +192,10 @@
   },
   "active": "4b63461dec816208",
   "lastOpenFiles": [
-    "configure fzf for fish.md",
-    "var/prüfungsvorbereitung.md",
     "sem1/DMath/lib/DMath_script.pdf",
+    "var/computer science is a lie!!!.md",
+    "var/configure fzf for fish.md",
+    "var/prüfungsvorbereitung.md",
     "var/var.md",
     "var/keeping track of my work.md",
     "tmp.md",
@@ -226,8 +228,6 @@
     "doc/deploy-gh-wf.md",
     "doc/apple-shortcuts.md",
     "sem1/DMath/VRL/V08_relations.md",
-    "var/ersti tag.md",
-    "sem1/LinAlg/VRL/V03_matrix multiplication.md",
-    "DMath_U3_bf.md"
+    "var/ersti tag.md"
   ]
 }
