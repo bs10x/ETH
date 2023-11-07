@@ -12,6 +12,6 @@ d | a ∧ d | b ∧ ∀c ((c | a ∧ c | b) → c | d)
 
 
 Definition 4.5.
-The least common multiple l of two positive integers a and b, de- noted l = lcm(a, b), is the common multiple of a and b which divides every common multiple of a and b, i.e.,
+The least common multiple l of two positive integers a and b, denoted l = lcm(a, b), is the common multiple of a and b which divides every common multiple of a and b, i.e.,
 $$(a\,|\,lcm(a,\,b))\land (b\,|\,lcm(a,\,b)) \land (\forall m((a\,|\,m \land b\,|\,m) \rightarrow lcm(a,\,b)\,|\,m))$$
 

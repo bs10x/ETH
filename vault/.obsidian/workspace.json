@@ -18,22 +18,29 @@
             }
           },
           {
-            "id": "5cd20f96af1e7154",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/UE/U7/DMath_U7_e.pdf"
-              }
-            }
-          },
-          {
             "id": "5ea67e5403452269",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "sem1/DMath/lib/DMath_script.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "90253d8242356a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cd20f96af1e7154",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/UE/U7/DMath_U7_e.pdf"
               }
             }
           },
@@ -50,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -116,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md"
               }
             }
           },
@@ -186,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ea67e5403452269",
+  "active": "011b4b20eeb8335c",
   "lastOpenFiles": [
-    "sem1/DMath/UE/U7/DMath_U7_bf.md",
     "sem1/DMath/lib/DMath_script.pdf",
+    "sem1/DMath/UE/U7/DMath_U7_bf.md",
     "sem1/DMath/UE/U7/DMath_U7_e.pdf",
     "var/computer science is a lie!!!.md",
     "var/configure fzf for fish.md",
