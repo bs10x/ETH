@@ -18,51 +18,39 @@
             }
           },
           {
-            "id": "4b63461dec816208",
+            "id": "5cd20f96af1e7154",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "var/computer science is a lie!!!.md",
-                "mode": "source",
-                "source": false
+                "file": "sem1/DMath/UE/U7/DMath_U7_e.pdf"
               }
             }
           },
           {
-            "id": "48ead6bfb6604cd7",
+            "id": "5ea67e5403452269",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "var/prüfungsvorbereitung.md",
-                "mode": "source",
-                "source": false
+                "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
           },
           {
-            "id": "35f683465c434f6c",
+            "id": "011b4b20eeb8335c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/configure fzf for fish.md",
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d3254360256a0718",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md"
+              }
             }
           },
           {
@@ -194,10 +186,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3254360256a0718",
+  "active": "011b4b20eeb8335c",
   "lastOpenFiles": [
-    "var/computer science is a lie!!!.md",
+    "sem1/DMath/UE/U7/DMath_U7_bf.md",
+    "sem1/DMath/UE/U7/DMath_U7_e.pdf",
     "sem1/DMath/lib/DMath_script.pdf",
+    "var/computer science is a lie!!!.md",
     "var/configure fzf for fish.md",
     "var/prüfungsvorbereitung.md",
     "var/var.md",
@@ -209,7 +203,6 @@
     "sem1/LinAlg/UE/U5/LinAlg_U5_e.pdf",
     "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "sem1/DMath/VRL/V11_.md",
-    "sem1/DMath/UE/U7/DMath_U7_e.pdf",
     "sem1/DMath/UE/U7",
     "sem1/EProg/UE/U6",
     "sem1/EProg/UE/U6/EProg_U6_e.pdf",
