@@ -26,14 +26,7 @@
                 "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "90253d8242356a1c",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "5cd20f96af1e7154",
             "type": "leaf",
@@ -43,7 +36,14 @@
                 "file": "sem1/DMath/UE/U7/DMath_U7_e.pdf"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "90253d8242356a1c",
+        "type": "tabs",
+        "children": [
           {
             "id": "011b4b20eeb8335c",
             "type": "leaf",
@@ -56,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
