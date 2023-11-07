@@ -36,4 +36,7 @@ $$gcd(a,\,b)=\prod_i p_i^{min(e_i,\,f_i)}$$
 $$lcm(a,\,b)=\prod_i p_i^{max(e_i,\,f_i)}$$
 
 since $e_i$, $f_i$, $g_i$ are the powers of the prime number $p_i$ we can nest the definitions. this gives us:
-$$\prod_i p_i^{min(e_i,\,max(f_i,\,g_i))}$$
+$$\prod_i p_i^{min(e_i,\,max(f_i,\,g_i))}=\prod_i p_i ^{max(min(e_i,\,f_i),\, min(e_i,\, g_i))}$$ 
+where $e_i \leq f_i \leq g_i$
+
+for convenience and read
