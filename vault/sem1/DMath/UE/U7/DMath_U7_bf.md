@@ -32,7 +32,8 @@ $$b=\prod_{i} p_i^{f_i}$$
 $$c=\prod_{i} p_i^{g_i}$$
 
 this gives us the definitions for gcd(a, b, c) and lcm(a, b, c):
-$$gcd(a,\,b,\,c)=\prod_i p_i^{min(e_i,\,f_i,\,g_i)}$$
-$$lcm(a,\,b,\,c)=\prod_i p_i^{max(e_i,\,f_i,\,g_i)}$$
+$$gcd(a,\,b)=\prod_i p_i^{min(e_i,\,f_i)}$$
+$$lcm(a,\,b)=\prod_i p_i^{max(e_i,\,f_i)}$$
 
-
+since $e_i$, $f_i$, $g_i$ are the powers of the prime number $p_i$ we can nest the definitions. this gives us:
+$$\prod_i p_i^{min(e_i,\,max(f_i,\,g_i))}$$
