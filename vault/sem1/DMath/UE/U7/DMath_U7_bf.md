@@ -50,3 +50,32 @@ min(u, max(v, w)) = max(min(u, v), min(u, w))
 
 since there are three variables there are $3!=6$ cases we need to consider.
 
+u = v = w
+u < v = w
+u = v < w
+v = w < u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
