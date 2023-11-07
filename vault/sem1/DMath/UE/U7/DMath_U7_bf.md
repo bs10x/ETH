@@ -45,4 +45,4 @@ $f_i=v$
 $g_i=w$
 
 we will prove the equivalence using case distinction.
-since
+since there are three variables there are 3
