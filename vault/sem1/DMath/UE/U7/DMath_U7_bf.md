@@ -44,5 +44,15 @@ $e_i=u$
 $f_i=v$
 $g_i=w$
 
-we will prove the equivalence using case distinction.
-since there are three variables there are 3
+we will prove the equivalence using case distinction. we only need to concern ourselves with:
+
+min(u, max(v, w)) = max(min(u, v), min(u, w))
+
+since there are three variables there are $3!=6$ cases we need to consider.
+
+case 1: u<v, w 
+case 2: 
+case 3:
+case 4:
+case 5:
+case 6: u=v=w
