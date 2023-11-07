@@ -16,16 +16,22 @@ The least common multiple l of two positive integers a and b, denoted l = lcm(a,
 $$(a\,|\,lcm(a,\,b))\land (b\,|\,lcm(a,\,b)) \land (\forall m((a\,|\,m \land b\,|\,m) \rightarrow lcm(a,\,b)\,|\,m))$$
 
 
+
+
+
+
+
+## 7.3
 Prove that for all positive integers a, b, c:
-$$gcd(a, lcm(b, c)) = lcm(gcd(a, b), gcd(a, c))$$
+$$gcd(a,\,lcm(b,\,c)) = lcm(gcd(a,\,b),\,gcd(a,\,c))$$
 
 
-we define the variables $a,\,b,\,c$as follows, as products of primes to the powers $e_i$, $f_i$ and $g_i$ respectively:
+we define the variables $a,\,b,\,c$ as products of primes to the powers $e_i$, $f_i$ and $g_i$ respectively:
 $$a=\prod_{i} p_i^{e_i}$$
 $$b=\prod_{i} p_i^{f_i}$$
 $$c=\prod_{i} p_i^{g_i}$$
 
-
+this gives us the definitions for gcd(a, b, c) and lcm(a, b, c):
 $$gcd(a,\,b,\,c)=\prod_i p_i^{min(e_i,\,f_i,\,g_i)}$$
 $$lcm(a,\,b,\,c)=\prod_i p_i^{max(e_i,\,f_i,\,g_i)}$$
 
