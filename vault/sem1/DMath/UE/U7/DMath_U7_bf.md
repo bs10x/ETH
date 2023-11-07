@@ -63,8 +63,7 @@ v = w < u
 $d=gcd(a,\,b) \overset{\cdot}{\implies} \exists u,\,v \in \mathbb{Z}\,|\,d=u\cdot a + v\cdot b$
 
 
-
-	
+$\forall \,a,\,b,\,u,\,v\,\in\mathbb{Z}/\{0\}\overset{\cdot}{\implies}$
 
 
 
