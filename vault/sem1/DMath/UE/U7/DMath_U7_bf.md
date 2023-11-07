@@ -60,7 +60,7 @@ v = w < u
 
 
 
-d = gcd(a, b)
+$d=gcd(a,\,b) \implies d=u\cdot a + v\cdot $
 
 
 
