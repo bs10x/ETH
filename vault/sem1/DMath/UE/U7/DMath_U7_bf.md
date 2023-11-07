@@ -39,4 +39,10 @@ since $e_i$, $f_i$, $g_i$ are the powers of the prime number $p_i$ we can nest t
 $$\prod_i p_i^{min(e_i,\,max(f_i,\,g_i))}=\prod_i p_i ^{max(min(e_i,\,f_i),\, min(e_i,\, g_i))}$$ 
 where $e_i \leq f_i \leq g_i$
 
-for convenience and read
+for convenience and readability's sake, we will define the variables as follows:
+$e_i=u$
+$f_i=v$
+$g_i=w$
+
+we will prove the equivalence using case distinction.
+since
