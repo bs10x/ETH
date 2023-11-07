@@ -60,10 +60,11 @@ v = w < u
 
 
 
-$d=gcd(a,\,b) \implies d=u\cdot a + v\cdot $
+$d=gcd(a,\,b) \overset{\cdot}{\implies} \exists u,\,v \in \mathbb{Z}\,|\,d=u\cdot a + v\cdot b$
 
 
 
+	
 
 
 
