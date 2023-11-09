@@ -21,11 +21,9 @@
             "id": "51a6019bbab06e0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem1/LinAlg/VRL/V12_.md",
-                "mode": "source",
-                "source": false
+                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf"
               }
             }
           }
@@ -76,13 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/VRL/V12_.md",
+                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/VRL/V12_.md",
+                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/LinAlg/VRL/V12_.md"
+                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf"
               }
             }
           },
@@ -168,8 +164,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3eef01e3b58afb78",
+  "active": "51a6019bbab06e0a",
   "lastOpenFiles": [
+    "sem1/AuD/lib/AuD_script.pdf",
+    "sem1/AuD/VRL/V05_.md",
+    "sem1/AuD/VRL/Untitled.canvas",
     "sem1/DMath/VRL/V13_.md",
     "sem1/DMath/UE/U7/DMath_U7_bf.md",
     "sem1/DMath/UE/U7/DMath_U7_e.pdf",
@@ -205,7 +204,6 @@
     "sem1/LinAlg/VRL/V08_.md",
     "test1.md",
     "doc/mbp-setup.md",
-    "doc/deploy-gh-wf.md",
-    "doc/apple-shortcuts.md"
+    "doc/deploy-gh-wf.md"
   ]
 }
