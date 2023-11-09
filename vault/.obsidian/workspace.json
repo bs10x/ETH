@@ -16,19 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "51a6019bbab06e0a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -165,8 +150,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "ad3cf7794a56cad8",
   "lastOpenFiles": [
+    "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
     "sem1/AuD/lib/AuD_script.pdf",
     "sem1/AuD/VRL/V05_.md",
     "sem1/AuD/VRL/Untitled.canvas",
@@ -198,7 +184,6 @@
     "sem1/AuD/VRL/V06_.md",
     "var/sem1_schedule.jpg",
     "sem1/AuD/UE/U6/AuD_U6_e.pdf",
-    "sem1/AuD/UE/U6",
     "Untitled.canvas",
     "var/ersti tag.md",
     "sem1/LinAlg/VRL/V07_.md",
