@@ -40,15 +40,21 @@ $$\prod_i p_i^{min(e_i,\,max(f_i,\,g_i))}=\prod_i p_i ^{max(min(e_i,\,f_i),\, mi
 
 we will prove the equation using case distinction. we only need to concern ourselves with:
 
-
+case 1:
 $e_i\leq f_i,\,g_i$
 –> min of anything with $e_i$ will be $e_i$
 
+case 2, 3:
 $e_i \geq f_i,\,g_i$
 –> $max(f_i,\,g_i) =f_i \vee g_i$
+–> 
+If u is greater than or equal to both v and w, then the maximum of v and w will be either v or w (whichever is greater). In this case, both sides of the equation will again be equal.
+
+
+case 4:
+$f_i \leq e_1 \leq g_i$
+–> $max(f_i,\,g_i)= g_i$
    
-- If u is greater than or equal to both v and w, then the maximum of v and w will be either v or w (whichever is greater). In this case, both sides of the equation will again be equal.
-    
 - If u is between v and w, then the maximum of v and w will be w, and the minimum of u with w will be u. So, both sides of the equation will be equal.
 
 
