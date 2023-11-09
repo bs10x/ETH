@@ -38,12 +38,11 @@ $$lcm(a,\,b)=\prod_i p_i^{max(e_i,\,f_i)}$$
 since $e_i$, $f_i$, $g_i$ are the powers of the prime number $p_i$ at index $i$ the equation to prove resolves to:
 $$\prod_i p_i^{min(e_i,\,max(f_i,\,g_i))}=\prod_i p_i ^{max(min(e_i,\,f_i),\, min(e_i,\, g_i))}$$ 
 
-we will prove the equivalence using case distinction. we only need to concern ourselves with:
-
-min(u, max(v, w)) = max(min(u, v), min(u, w))
+we will prove the equation using case distinction. we only need to concern ourselves with:
 
 
-
+Case 1:
+$e_i \leq f_i \leq g_i$ $$ \prod_i p_i^{e_i} = \prod_i p_i^{f_i} $$ Case 2: $e_i \leq g_i \leq f_i$ $$ \prod_i p_i^{e_i} = \prod_i p_i^{g_i} $$ Case 3: $f_i \leq e_i \leq g_i$ $$ \prod_i p_i^{f_i} = \prod_i p_i^{\min(e_i, g_i)} $$ Case 4: $f_i \leq g_i \leq e_i$ $$ \prod_i p_i^{f_i} = \prod_i p_i^{g_i} $$ Case 5: $g_i \leq e_i \leq f_i$ $$ \prod_i p_i^{g_i} = \prod_i p_i^{\min(e_i, f_i)} $$ Case 6: $g_i \leq f_i \leq e_i$ $$ \prod_i p_i^{g_i} = \prod_i p_i^{f_i} $$
 
 
 
@@ -63,6 +62,8 @@ ___
 
 
 
+
+min(u, max(v, w)) = max(min(u, v), min(u, w))
 
 
 
