@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -164,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51a6019bbab06e0a",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
     "sem1/AuD/lib/AuD_script.pdf",
     "sem1/AuD/VRL/V05_.md",
