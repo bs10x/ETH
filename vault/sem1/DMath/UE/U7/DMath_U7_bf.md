@@ -1,26 +1,3 @@
-Prove that for all positive integers a, b, c
-
-gcd(a, lcm(b, c)) = lcm(gcd(a, b), gcd(a, c))
-
-greatest common divisor ( a, least common multiple (b, c)) =
-
-
-
-Definition 4.2.
-For integers a and b (not both 0), an integer d is called a greatest common divisor of a and b if d divides both a and b and if every common divisor of a and b divides d, i.e., if
-d | a ∧ d | b ∧ ∀c ((c | a ∧ c | b) → c | d)
-
-
-Definition 4.5.
-The least common multiple l of two positive integers a and b, denoted l = lcm(a, b), is the common multiple of a and b which divides every common multiple of a and b, i.e.,
-$$(a\,|\,lcm(a,\,b))\land (b\,|\,lcm(a,\,b)) \land (\forall m((a\,|\,m \land b\,|\,m) \rightarrow lcm(a,\,b)\,|\,m))$$
-
-
-
-
-
-
-
 ## 7.3
 Prove that for all positive integers a, b, c:
 $$gcd(a,\,lcm(b,\,c)) = lcm(gcd(a,\,b),\,gcd(a,\,c))$$
@@ -72,11 +49,11 @@ $max(min(e_i, f_i), min(e_i, g_i)) = max(e_i, e_i) = e_i$
 So, both sides of the equation will be equal.
 
 
-Thus, the statement is proven for all $e_i,\,f_i,\,g_i$
+Thus, the statement is proven for all $e_i,\,f_i,\,g_i$ which corresponds to
+$gcd(a,\,lcm(b,\,c)) = lcm(gcd(a,\,b),\,gcd(a,\,c))$
 
-
-
-
+for all positive integers $a,\,b,\,c$
+$\square$
 
 ___
 
@@ -89,11 +66,6 @@ ___
 
 
 
-
-
-
-
-min(u, max(v, w)) = max(min(u, v), min(u, w))
 
 
 
