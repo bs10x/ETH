@@ -41,8 +41,18 @@ $$\prod_i p_i^{min(e_i,\,max(f_i,\,g_i))}=\prod_i p_i ^{max(min(e_i,\,f_i),\, mi
 we will prove the equation using case distinction. we only need to concern ourselves with:
 
 
-Case 1:
-$e_i \leq f_i \leq g_i$ $$ \prod_i p_i^{e_i} = \prod_i p_i^{f_i} $$ Case 2: $e_i \leq g_i \leq f_i$ $$ \prod_i p_i^{e_i} = \prod_i p_i^{g_i} $$ Case 3: $f_i \leq e_i \leq g_i$ $$ \prod_i p_i^{f_i} = \prod_i p_i^{\min(e_i, g_i)} $$ Case 4: $f_i \leq g_i \leq e_i$ $$ \prod_i p_i^{f_i} = \prod_i p_i^{g_i} $$ Case 5: $g_i \leq e_i \leq f_i$ $$ \prod_i p_i^{g_i} = \prod_i p_i^{\min(e_i, f_i)} $$ Case 6: $g_i \leq f_i \leq e_i$ $$ \prod_i p_i^{g_i} = \prod_i p_i^{f_i} $$
+$e_i\leq f_i,\,g_i$
+–> min of u 
+
+- If u is less than or equal to both v and w, then the minimum of u with anything will be u. So, both sides of the equation will be equal.
+
+   
+- If u is greater than or equal to both v and w, then the maximum of v and w will be either v or w (whichever is greater). In this case, both sides of the equation will again be equal.
+    
+- If u is between v and w, then the maximum of v and w will be w, and the minimum of u with w will be u. So, both sides of the equation will be equal.
+
+
+
 
 
 
