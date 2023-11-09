@@ -43,6 +43,8 @@ we will prove the equation using case distinction. we only need to concern ourse
 case 1:
 $e_i\leq f_i,\,g_i$
 If $e_i$ is less than or equal to both $f_i$ and $g_i$, then the minimum of $e_i$ with anything will be $e_i$.
+$$min(e_i, max(f_i, g_i)) = min(e_i, g_i) = e_i$$
+$$max(min(e_i, f_i), min(e_i, g_i)) = max(e_i, e_i) = e_i$$
 So, both sides of the equation will be equal.
 
 
@@ -54,8 +56,6 @@ In both cases, both sides of the equation will be equal.
 
 case 4:
 $f_i \leq e_i \leq g_i$
-–> $max(f_i,\,g_i)= g_i$ and $min(e_i,\,g_i)=e_i$
-
 If $e_i$ is between $f_i$ and w, then the maximum of $f_i$ and w will be $g_i$, and the minimum of $e_i$ with $g_i$ will be $e_i$.
 So, both sides of the equation will be equal.
 
