@@ -42,10 +42,10 @@ we will prove the equation using case distinction. we only need to concern ourse
 
 
 $e_i\leq f_i,\,g_i$
-–> min of u 
+–> min of anything with $e_i$ will be $e_i$
 
-- If u is less than or equal to both v and w, then the minimum of u with anything will be u. So, both sides of the equation will be equal.
-
+$e_i \geq f_i,\,g_i$
+–> $max(f_i,\,g_i) =f_i \vee g_i$
    
 - If u is greater than or equal to both v and w, then the maximum of v and w will be either v or w (whichever is greater). In this case, both sides of the equation will again be equal.
     
