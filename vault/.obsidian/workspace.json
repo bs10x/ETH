@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
+                "file": "sem1/EProg/VRL/V10_.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
+                "file": "sem1/EProg/VRL/V10_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
+                "file": "sem1/EProg/VRL/V10_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md"
+                "file": "sem1/EProg/VRL/V10_.md"
               }
             }
           },
@@ -168,12 +168,12 @@
   },
   "active": "c6d881b7327abb8a",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U7/DMath_U7_bf.md",
     "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
     "sem1/AuD/lib/AuD_script.pdf",
     "sem1/AuD/VRL/V05_.md",
     "sem1/AuD/VRL/Untitled.canvas",
     "sem1/DMath/VRL/V13_.md",
-    "sem1/DMath/UE/U7/DMath_U7_bf.md",
     "sem1/DMath/UE/U7/DMath_U7_e.pdf",
     "sem1/DMath/lib/DMath_script.pdf",
     "var/computer science is a lie!!!.md",
@@ -199,7 +199,6 @@
     "sem1/AuD/VRL/V07_.md",
     "sem1/AuD/VRL/V06_.md",
     "var/sem1_schedule.jpg",
-    "sem1/AuD/UE/U6/AuD_U6_e.pdf",
     "Untitled.canvas",
     "var/ersti tag.md",
     "sem1/LinAlg/VRL/V07_.md",
