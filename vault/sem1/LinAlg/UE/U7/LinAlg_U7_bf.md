@@ -6,7 +6,7 @@
 int[] A;
 int n = A.length;
 int b;
-boolean[][] DP = new boolean [n+1][b+1];
+boolean[][] dp = new boolean [n+1][b+1];
 
 // base cases; 0 can always sum up to zero
 for (int i = 0; i <= n; i++) {dp[i][0] = true;}
@@ -25,6 +25,18 @@ for(int i = 1; i <= n; i++) { //loop through rows (1-n)
 		}
 	}
 }
-
+return dp[n][b]
 
 ```
+
+
+
+
+1. Dimensions of the DP table: What are the dimensions of the DP table?
+   The dimensions are n+1 by b+1, that is one row for every 
+   
+2. Subproblems: What is the meaning of each entry?
+3. Recursion: How can an entry of the table be computed from previous entries? Justify why your recurrence relation is correct. Specify the base cases of the recursion, i.e., the cases that do not depend on others.
+4. Calculation order: In which order can entries be computed so that values needed for each entry have been determined in previous steps?
+5. Extracting the solution: How can the solution be extracted once the table has been filled?
+6. Running time: What is the running time of your solution?
