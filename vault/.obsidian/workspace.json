@@ -26,9 +26,21 @@
                 "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
               }
             }
+          },
+          {
+            "id": "bc0f863926faf696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/LinAlg/UE/U7/LinAlg_U7_bf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
+                "file": "sem1/LinAlg/UE/U7/LinAlg_U7_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
+                "file": "sem1/LinAlg/UE/U7/LinAlg_U7_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
+                "file": "sem1/LinAlg/UE/U7/LinAlg_U7_bf.md"
               }
             }
           },
@@ -164,10 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6d881b7327abb8a",
+  "active": "bc0f863926faf696",
   "lastOpenFiles": [
-    "sem1/LinAlg/lib/LinAlg_lib.md",
+    "sem1/LinAlg/UE/U7/LinAlg_U7_bf.md",
+    "sem1/LinAlg/UE/U7",
+    "sem1/LinAlg/UE/U6",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
+    "sem1/LinAlg/lib/LinAlg_lib.md",
     "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
     "sem1/LinAlg/lib/LinAlg_script.pdf",
     "sem1/EProg/VRL/V10_.md",
@@ -189,9 +204,7 @@
     "sem1/AuD/lib/AuD_lib.md",
     "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "sem1/LinAlg/UE/U5/LinAlg_U5_e.pdf",
-    "sem1/DMath/UE/U6/DMath_U6_e.pdf",
     "sem1/DMath/VRL/V11_.md",
-    "sem1/DMath/UE/U7",
     "sem1/DMath/VRL/V12_.md",
     "sem1/DMath/VRL/V10_posets.md",
     "var/literature2buy?.md",
