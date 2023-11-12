@@ -45,7 +45,15 @@ return dp[n][b]
    Each entry is calculated, row after row. All entries are either trivial (A\[i] or 3\*A\[i]) or a combination of previous entries.
    
 5. Extracting the solution: How can the solution be extracted once the table has been filled?
-   The value of dp\[n]\[b] will tell if there exists a subset $\mathbb{I}$, such that $\sum_{i\in \mathbb{I}}c^i*A$
-   
+   The value of dp\[n]\[b] will tell if there exists a subset $\mathbb{I}$, such that $\sum_{i\in \mathbb{I}}c_i*A[i]$, where $c_i= \{1,\,3\}$.
    
 6. Running time: What is the running time of your solution?
+   The running time is O(n\*b) since
+   a. The outer loop runs from 1 to n, and the inner loop runs from 1 to b. Each iteration of the inner loop involves constant time operations.
+   
+   b. Inside the inner loop, there are constant-time operations for checking conditions and updating the DP table.
+
+
+
+
+7.4
