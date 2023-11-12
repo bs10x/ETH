@@ -60,11 +60,23 @@ return dp[n][b]
 
 ```java
 int[][][] DP = new int[n + 1][k + 1][2];
+
 // Base cases
+for (int l = 0; l <= 1; l++) {
+	DP[1][0][l] = 1;
+}
 
-for (int l = 0; l <= 1; l++) { DP[1][0][l] = 1; } // Filling the DP tablefor (int i = 2; i <= n; i++) { for (int j = 0; j <= k; j++) { for (int l = 0; l <= 1; l++) { DP[i][j][l] = DP[i - 1][j][0] + DP[i - 1][j][1]; if (j > 0) { DP[i][j][l] += DP[i - 1][j - 1][l]; } } } } // Summing up the possibilities for the last character int result = DP[n][k][0] + DP[n][k][1]; return result; }
-
-
-
-
+// Filling the DP table
+for (int i = 2; i <= n; i++) {
+	for (int j = 0; j <= k; j++) {
+		for (int l = 0; l <= 1; l++) {
+			DP[i][j][l] = DP[i - 1][j][0] + DP[i - 1][j][1];
+			if (j > 0) { DP[i][j][l] += DP[i - 1][j - 1][l];
+			}
+		}
+	}
+}
+// Summing up the possibilities for the last character
+int result = DP[n][k][0] + DP[n][k][1];
+return result;
 ```
