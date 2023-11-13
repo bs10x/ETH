@@ -49,7 +49,23 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 
 
 
+tables with mult mod15 and mod16
 
+
+
+  1 2 4 7 8 11 13 14
+1
+3
+5
+7
+9
+11
+13
+15
+
+$$
+
+$$
 
 
 
