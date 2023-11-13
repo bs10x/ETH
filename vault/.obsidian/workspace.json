@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "cf586c111795c3ce",
@@ -68,7 +68,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/VRL/V14_.md",
+                "file": "DMath_U8_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/VRL/V14_.md",
+                "file": "DMath_U8_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/VRL/V14_.md"
+                "file": "DMath_U8_bf.md"
               }
             }
           },
@@ -204,12 +205,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baf8c7450a006961",
+  "active": "45a2a6e6b33cdbea",
   "lastOpenFiles": [
-    "DMath_U8_bf.md",
-    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U8/DMath_U8_e.pdf",
     "sem1/DMath/VRL/V14_.md",
+    "DMath_U8_bf.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U8",
     "sem1/AuD/VRL/V08_.md",
     "sem1/AuD/VRL/V07_.md",
