@@ -95,3 +95,18 @@ The recurrence relation is given by:
 This relation considers the possibilities of appending a 0 or a 1 to the existing strings and accounts for the occurrence of "11." The base cases are:
 - `DP[1][0][0] = 1`
 - `DP[1][0][1] = 1`
+
+4.
+The entries can be computed in a bottom-up manner. The outer loop iterates over the length of the string (`i`), the middle loop over the number of occurrences (`j`), and the inner loop over the last digit (`l`).
+
+5.
+Once the DP table is filled, the solution is obtained by summing up the possibilities for the last character of the string:
+`result = DP[n][k][0] + DP[n][k][1];`
+
+6.
+The running time of the solution is O(nk). This is because the algorithm involves a triple-nested loop structure, where each loop can iterate up to `n`, `k`, and 2 respectively. The filling of the DP table and the final computation of the result both have a time complexity of O(nk).
+
+
+
+
+
