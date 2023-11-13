@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "debff021c7c68ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/AuD/VRL/V08_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -83,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/AuD/VRL/V08_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/AuD/VRL/V08_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/AuD/VRL/V08_.md"
+              }
             }
           },
           {
@@ -149,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad3cf7794a56cad8",
+  "active": "debff021c7c68ae6",
   "lastOpenFiles": [
+    "sem1/AuD/VRL/V07_.md",
+    "sem1/AuD/VRL/V05_.md",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/LinAlg/UE/U7/LinAlg_U7_bf.md",
     "sem1/LinAlg/UE/U7",
@@ -162,7 +182,6 @@
     "sem1/DMath/UE/U7/DMath_U7_bf.md",
     "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
     "sem1/AuD/lib/AuD_script.pdf",
-    "sem1/AuD/VRL/V05_.md",
     "sem1/AuD/VRL/Untitled.canvas",
     "sem1/DMath/VRL/V13_.md",
     "sem1/DMath/UE/U7/DMath_U7_e.pdf",
@@ -182,7 +201,6 @@
     "sem1/DMath/VRL/V10_posets.md",
     "var/literature2buy?.md",
     "var/err-log of my struggles.md",
-    "sem1/AuD/VRL/V07_.md",
     "sem1/AuD/VRL/V06_.md",
     "var/sem1_schedule.jpg",
     "Untitled.canvas",
