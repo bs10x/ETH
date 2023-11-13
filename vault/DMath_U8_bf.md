@@ -13,8 +13,6 @@ Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume tha
   Prove the following statements. 
   a) Axiom G1 holds for $\langle S, \star, \tilde{\,}, f(e)\rangle$
   
-	
-
 
 
 
@@ -24,6 +22,13 @@ Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume tha
 c)
 Prove that $$\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle \simeq \langle\mathbb{Z}^∗_{16}, \odot_{16}〉$$
 
+
+
 $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 1 2 4 8
 11 7 14 13
+
+
+$\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
+1 3 5 7
+9 11 13 15
