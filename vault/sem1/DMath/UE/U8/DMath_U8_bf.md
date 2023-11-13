@@ -48,4 +48,10 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 1 3 5 7 9 11 13 15
 
 
-$$\langle\{\text{Students at ETH}\};\dagger\rangle$$
+
+
+
+
+$$\eth\overset{def}{=}\{\text{The set of all Students at ETH}\}$$
+$$\overset{def}{=}\text{uzgz}$$
+$$\langle\eth;\dagger\rangle$$
