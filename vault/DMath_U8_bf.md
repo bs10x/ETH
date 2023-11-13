@@ -9,7 +9,7 @@
 8.3
 Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume that $f : G \rightarrow S$ is a bijection, and consider
 - the binary operation $\star$ on $S$ given by $s \star s′ \overset{def}{=} f (f^{−1}(s) ∗ f^{−1}(s′))$ 
-- the unary operation ˜ on $S$ given by ˜s def = f (̂ f −1(s) ) . Prove the following statements. a) Axiom G1 holds for 〈S, ? , ˜, f (e)〉
+- the unary operation $\tilde{}$  on $S$ given by $\tilde{s} \overset{def}{=} f(\widehat{f^{-1}(s))$. Prove the following statements. a) Axiom G1 holds for 〈S, ? , ˜, f (e)〉
 
 
 
