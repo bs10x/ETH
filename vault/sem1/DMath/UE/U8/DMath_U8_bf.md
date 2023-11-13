@@ -63,15 +63,18 @@ tables with mult mod15 and mod16
 13
 15
 
-$$
-
-$$
 
 
 
 
 
 
+| $\odot_{15}$ |  | $A \rightarrow B$ | $A \wedge (A \rightarrow B)$ | $A \wedge (A \rightarrow B) \rightarrow B$ |
+| - | - | - | - | - |
+| 0 | 0 | 1 | 0 | 1 |
+| 1 | 0 | 0 | 0 | 1 |
+| 0 | 1 | 1 | 0 | 1 |
+| 1 | 1 | 1 | 1 | 1 |
 
 
 
