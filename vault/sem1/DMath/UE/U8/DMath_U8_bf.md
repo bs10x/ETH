@@ -24,7 +24,7 @@ Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume tha
 
 
 
-(a, b)\*(e_1, e_2)
+(a, b)\*(e_1, e_2) =(ae_1, ae_2 +b) = (a, b)
 e_1=1, e_2=0
 
 8.4
