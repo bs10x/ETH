@@ -55,4 +55,4 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 $$\eth\overset{def}{=}\{\text{The set of all Students at ETH}\}$$
 $$\smile\overset{def}{=}\text{B smiles, where }B\in\eth
 $$
-$$\langle\Upsilon\circledS;\circledast ; \circledcirc; \rangle$$
+$$\langle\text{Set};\circledast ; \circledcirc; \text{neutral element} \rangle$$
