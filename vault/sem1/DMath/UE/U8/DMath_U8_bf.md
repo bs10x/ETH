@@ -11,9 +11,8 @@ Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume tha
 - the binary operation $\star$ on $S$ given by $s \star s′ \overset{def}{=} f (f^{−1}(s) ∗ f^{−1}(s′))$ 
 - the unary operation $\tilde{}$  on $S$ given by $\tilde{s} \overset{def}{=} f(\widehat{f^{-1}(s)})$.
   Prove the following statements. 
-  a) Axiom G1 holds for $\langle S, \star, \tilde{\,}, f(e)\rangle$
+  a) Axiom G1 (* is associative) holds for $\langle S, \star, \tilde{\,}, f(e)\rangle$
   
--> def \*
 
 
 
