@@ -26,6 +26,18 @@
                 "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
+          },
+          {
+            "id": "baf8c7450a006961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/VRL/V14_.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -167,6 +179,8 @@
   },
   "active": "f5e95e517eea4742",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V14_.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/AuD/VRL/V08_.md",
     "sem1/AuD/VRL/V07_.md",
     "sem1/AuD/VRL/V05_.md",
@@ -184,7 +198,6 @@
     "sem1/AuD/VRL/Untitled.canvas",
     "sem1/DMath/VRL/V13_.md",
     "sem1/DMath/UE/U7/DMath_U7_e.pdf",
-    "sem1/DMath/lib/DMath_script.pdf",
     "var/computer science is a lie!!!.md",
     "var/configure fzf for fish.md",
     "var/prüfungsvorbereitung.md",
@@ -204,7 +217,6 @@
     "var/sem1_schedule.jpg",
     "Untitled.canvas",
     "var/ersti tag.md",
-    "sem1/LinAlg/VRL/V07_.md",
-    "sem1/LinAlg/VRL/V08_.md"
+    "sem1/LinAlg/VRL/V07_.md"
   ]
 }
