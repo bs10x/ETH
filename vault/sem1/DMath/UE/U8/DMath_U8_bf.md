@@ -53,5 +53,6 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 
 
 $$\eth\overset{def}{=}\{\text{The set of all Students at ETH}\}$$
-$$\overset{def}{=}\text{uzgz}$$
-$$\langle\eth;\dagger\rangle$$
+$$\smile\overset{def}{=}\text{B smiles, where }B\in\eth
+$$
+$$\langle\eth;\smile ; \frown; \rangle$$
