@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DMath_U8_bf.md",
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMath_U8_bf.md",
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMath_U8_bf.md",
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMath_U8_bf.md"
+                "file": "sem1/DMath/UE/U7/DMath_U7_bf.md"
               }
             }
           },
@@ -207,9 +207,11 @@
   },
   "active": "45a2a6e6b33cdbea",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U7/DMath_U7_e.pdf",
+    "sem1/DMath/UE/U7/DMath_U7_bf.md",
+    "DMath_U8_bf.md",
     "sem1/DMath/UE/U8/DMath_U8_e.pdf",
     "sem1/DMath/VRL/V14_.md",
-    "DMath_U8_bf.md",
     "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U8",
     "sem1/AuD/VRL/V08_.md",
@@ -223,7 +225,6 @@
     "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
     "sem1/LinAlg/lib/LinAlg_script.pdf",
     "sem1/EProg/VRL/V10_.md",
-    "sem1/DMath/UE/U7/DMath_U7_bf.md",
     "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
     "sem1/AuD/lib/AuD_script.pdf",
     "sem1/AuD/VRL/Untitled.canvas",
