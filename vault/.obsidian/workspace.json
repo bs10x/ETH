@@ -18,14 +18,12 @@
             }
           },
           {
-            "id": "debff021c7c68ae6",
+            "id": "f5e95e517eea4742",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem1/AuD/VRL/V08_.md",
-                "mode": "source",
-                "source": false
+                "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
           }
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/VRL/V08_.md",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/VRL/V08_.md",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/VRL/V08_.md"
+                "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
           },
@@ -167,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "debff021c7c68ae6",
+  "active": "f5e95e517eea4742",
   "lastOpenFiles": [
+    "sem1/AuD/VRL/V08_.md",
     "sem1/AuD/VRL/V07_.md",
     "sem1/AuD/VRL/V05_.md",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
