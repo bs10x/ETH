@@ -38,9 +38,19 @@
                 "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
+          },
+          {
+            "id": "f5e95e517eea4742",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/UE/U8/DMath_U8_e.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "cf586c111795c3ce",
@@ -52,16 +62,6 @@
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "f5e95e517eea4742",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_e.pdf"
-              }
             }
           },
           {
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"

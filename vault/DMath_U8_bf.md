@@ -2,6 +2,23 @@
 
 
 
+
+
+
+
+8.3
+Let $\langle\mathbb$〈G, ∗,̂ , e〉 be a group, and let S be a set. Assume that f : G → S is a bijection, and consider - the binary operation ? on S given by s ? s′ def = f (f −1(s) ∗ f −1(s′)), - the unary operation ˜ on S given by ˜s def = f (̂ f −1(s) ) . Prove the following statements. a) Axiom G1 holds for 〈S, ? , ˜, f (e)〉
+
+
+
+
+
+
+
 8.4
 c)
-Prove that $\langle\mathbb{Z}; 15, 15〉 \simeq 〈Z∗ 16, 16〉$$
+Prove that $$\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle \simeq \langle\mathbb{Z}^∗_{16}, \odot_{16}〉$$
+
+$\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
+1 2 4 8
+11 7 14 13
