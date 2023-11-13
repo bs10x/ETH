@@ -48,3 +48,4 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 1 3 5 7 9 11 13 15
 
 
+$$\langle\{\text{Students at ETH}\};\dagger\rangle$$
