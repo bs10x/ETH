@@ -80,3 +80,18 @@ for (int i = 2; i <= n; i++) {
 int result = DP[n][k][0] + DP[n][k][1];
 return result;
 ```
+
+1.
+- `i` represents the length of the binary string.
+- `j` represents the number of occurrences of "11" in the string.
+- `l` represents the last digit of the string (either 0 or 1).
+
+2.
+The entry `DP[i][j][l]` represents the number of binary strings of length `i` with `j` occurrences of "11" that end in `l`.
+
+3.
+The recurrence relation is given by:
+`DP[i][j][l] = DP[i-1][j][0] + DP[i-1][j][1] + DP[i-1][j-1][l]`
+This relation considers the possibilities of appending a 0 or a 1 to the existing strings and accounts for the occurrence of "11." The base cases are:
+- `DP[1][0][0] = 1`
+- `DP[1][0][1] = 1`
