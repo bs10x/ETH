@@ -12,7 +12,14 @@ Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume tha
 - the unary operation $\tilde{}$  on $S$ given by $\tilde{s} \overset{def}{=} f(\widehat{f^{-1}(s)})$.
   Prove the following statements. 
   a) Axiom G1 (* is associative) holds for $\langle S, \star, \tilde{\,}, f(e)\rangle$
+
+  ((a, b)\*(c,d))\*(e, f)
+  = (ac, ad+b)\*(e, f)
   
+  =(ace, acf +ad +b)
+  = (a, b)\*((c, d)\*(e, f))
+  = (a, b)\*(ce, cf +d)
+ 
 
 
 
