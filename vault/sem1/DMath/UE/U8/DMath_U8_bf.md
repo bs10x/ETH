@@ -10,7 +10,8 @@
 Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume that $f : G \rightarrow S$ is a bijection, and consider
 - the binary operation $\star$ on $S$ given by $s \star s′ \overset{def}{=} f (f^{−1}(s) ∗ f^{−1}(s′))$ 
 - the unary operation $\tilde{}$  on $S$ given by $\tilde{s} \overset{def}{=} f(\widehat{f^{-1}(s)})$.
-  Prove the following statements. 
+ 
+  Prove the following statement. 
   a) Axiom G1 ($\star$ and $\tilde{}$ is associative) holds for $\langle S, \star, \tilde{\,}, f(e)\rangle$
 
   ((a, b)\*(c,d))\*(e, f) // def *
@@ -49,8 +50,6 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 
 
 
-tables with mult mod15 and mod16
-
 | $\odot_{15}$ | 1  | 2  | 4  | 7  | 8  | 11 | 13 | 14 |
 |--------------|----|----|----|----|----|----|----|----|
 | **1**            | 1  | 2  | 4  | 7  | 8  | 11 | 13 | 14 |
@@ -63,6 +62,16 @@ tables with mult mod15 and mod16
 | **14**           | 14 | 13 | 11 | 8  | 7  | 4  | 2  | 1  |
 
 
+| $\odot_{16}$ | 1  | 3  | 5  | 7  | 9  | 11 | 13 | 15 |
+|--------------|----|----|----|----|----|----|----|----|
+| **1**        | 1  | 3  | 5  | 7  | 9  | 11 | 13 | 15 |
+| **3**        | 3  | 9  | 15 | 5  | 11 | 1  | 7  | 13 |
+| **5**        | 5  | 15 | 9  | 3  | 13 | 7  | 1  | 11 |
+| **7**        | 7  | 5  | 3  | 1  | 15 | 13 | 11 | 9  |
+| **9**        | 9  | 11 | 13 | 15 | 1  | 3  | 5  | 7  |
+| **11**       | 11 | 1  | 7  | 13 | 3  | 9  | 15 | 5  |
+| **13**       | 13 | 7  | 1  | 11 | 5  | 15 | 9  | 3  |
+| **15**       | 15 | 13 | 11 | 9  | 7  | 5  | 3  | 1  |
 
 
 
