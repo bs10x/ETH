@@ -84,8 +84,12 @@
             "id": "816891c7b8a2670b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/VRL/V14_.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -155,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/VRL/V14_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/VRL/V14_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/VRL/V14_.md"
+              }
             }
           },
           {
