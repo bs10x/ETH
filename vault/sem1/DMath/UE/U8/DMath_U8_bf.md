@@ -76,9 +76,10 @@ $\langle14\rangle=\{1,14\}\text{ (order 2)}$
 
 2, 11, (7 or 13), 14
 
-
+2, 8
 1, 4, 7, 11, 13, 14
 11, 13, 14
+ord4, ord4, ord2
 
 $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 
@@ -107,6 +108,10 @@ $\langle15\rangle=\{1,15\}\text{ (order 2)}$
 3, 7, (5 or 13), 15
 
 
+7
+1, 3, 5, 9, 11, 13 ,15
+11, 13, 15
+ord4, ord4, ord2
 
 
 
