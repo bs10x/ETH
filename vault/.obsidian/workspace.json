@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
+                "file": "sem1/DMath/VRL/V14_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
+                "file": "sem1/DMath/VRL/V14_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
+                "file": "sem1/DMath/VRL/V14_.md"
               }
             }
           },
@@ -230,12 +230,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6a95171faf9a7a2",
+  "active": "816891c7b8a2670b",
   "lastOpenFiles": [
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/VRL/V14_.md",
     "sem1/LinAlg/VRL/V14_.md",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
-    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U8/DMath_U8_e.pdf",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "AuD_U8_e.pdf.md",
