@@ -46,20 +46,10 @@ Prove that $$\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle \simeq \langle\mathbb{Z
 
 
 
-
-$\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
-1 2 4 8
-11 7 14 13
-
-
-$\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
-1 3 5 7
-9 11 13 15
-
-
  For two groups $\langle G; *, \hat{\,}, e\rangle$ and $\langle H; \star , \tilde{\,}, e'\rangle$, a function $\psi : G \rightarrow H$ is called a group homomorphism if, for all $a$ and $b$, $\psi (a*b) = \psi (a) \star \psi (b)$ If $\psi$ is a bijection from $G$ to $H$, then it is called an isomorphism, and we say that $G$ and $H$ are isomorphic and write $G \simeq H$.
 
 
+$\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 
 | $\odot_{15}$ | 1  | 2  | 4  | 7  | 8  | 11 | 13 | 14 |
 |--------------|----|----|----|----|----|----|----|----|
@@ -73,6 +63,7 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 | **14**           | 14 | 13 | 11 | 8  | 7  | 4  | 2  | 1  |
 
 
+$\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 | $\odot_{16}$ | 1  | 3  | 5  | 7  | 9  | 11 | 13 | 15 |
 |--------------|----|----|----|----|----|----|----|----|
 | **1**        | 1  | 3  | 5  | 7  | 9  | 11 | 13 | 15 |
