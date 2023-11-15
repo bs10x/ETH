@@ -74,6 +74,15 @@ $2^5\equiv_{15}2$
 $2^6\equiv_{15}4$
 $2^7\equiv_{15}8$
 
+$\langle1\rangle=\{1\} \text{ (order 1)}$
+$\langle2\rangle=\{1,2,4,8\}\text{ (order 4)}$
+$\langle4\rangle=\{1,4\} \text{ (order 2)}$
+$\langle7\rangle=\{1,7,4,13\} \text{ (order 4)}$
+⟨8⟩={1,8,4,2} (order 44)
+⟨11⟩={1,11,1,13} (order 44)
+⟨13⟩={1,13,4,7} (order 44)
+⟨14⟩={1,14} (order 22)
+
 
 
 
