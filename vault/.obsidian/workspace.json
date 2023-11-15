@@ -79,9 +79,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "816891c7b8a2670b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -148,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_bf.md"
-              }
+              "state": {}
             }
           },
           {
@@ -218,14 +221,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5d17d71f736f2f5",
+  "active": "816891c7b8a2670b",
   "lastOpenFiles": [
-    "sem1/DMath/lib/DMath_script.pdf",
+    "sem1/LinAlg/VRL/V14_.md",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U8/DMath_U8_e.pdf",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "AuD_U8_e.pdf.md",
-    "sem1/LinAlg/VRL/V14_.md",
     "sem1/LinAlg/lib/LinAlg_lib.md",
     "sem1/DMath/VRL/V14_.md",
     "sem1/DMath/UE/U1/DMath_U1_bf.md",
