@@ -64,25 +64,14 @@ $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 | **14**           | 14 | 13 | 11 | 8  | 7  | 4  | 2  | 1  |
 
 
-$2^0\equiv_{15}1$
-$2^1\equiv_{15}2$
-$2^2\equiv_{15}4$
-$2^3\equiv_{15}8$
-
-$2^4\equiv_{15}1$
-$2^5\equiv_{15}2$
-$2^6\equiv_{15}4$
-$2^7\equiv_{15}8$
-
 $\langle1\rangle=\{1\} \text{ (order 1)}$
 $\langle2\rangle=\{1,2,4,8\}\text{ (order 4)}$
 $\langle4\rangle=\{1,4\} \text{ (order 2)}$
 $\langle7\rangle=\{1,7,4,13\} \text{ (order 4)}$
-⟨8⟩={1,8,4,2} (order 44)
-⟨11⟩={1,11,1,13} (order 44)
-⟨13⟩={1,13,4,7} (order 44)
-⟨14⟩={1,14} (order 22)
-
+$\langle8\rangle=\{1,8,4,2\} \text{ (order 4)}$
+$\langle11\rangle=\{1,11,1,13\} \text{ (order 4)}$
+$\langle13\rangle=\{1,13,4,7\} \text{ (order 4)}$
+$\langle14\rangle=\{1,14\}\text{ (order 2)}$
 
 
 
@@ -99,6 +88,19 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 | **11**       | 11 | 1  | 7  | 13 | 3  | 9  | 15 | 5  |
 | **13**       | 13 | 7  | 1  | 11 | 5  | 15 | 9  | 3  |
 | **15**       | 15 | 13 | 11 | 9  | 7  | 5  | 3  | 1  |
+
+
+$\langle1\rangle=\{1\} \text{ (order 1)}$
+$\langle3\rangle=\{1,3,9,13\}\text{ (order 4)}$
+$\langle5\rangle=\{1,5,9,13\} \text{ (order 4)}$
+$\langle7\rangle=\{1,7,3,13\} \text{ (order 4)}$
+$\langle9\rangle=\{1,8,4,2\} \text{ (order 4)}$
+$\langle11\rangle=\{1,11,1,13\} \text{ (order 4)}$
+$\langle13\rangle=\{1,13,4,7\} \text{ (order 4)}$
+$\langle14\rangle=\{1,14\}\text{ (order 2)}$
+
+
+
 
 
 
