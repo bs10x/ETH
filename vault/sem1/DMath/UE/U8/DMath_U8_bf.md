@@ -93,11 +93,11 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 $\langle1\rangle=\{1\} \text{ (order 1)}$
 $\langle3\rangle=\{1,3,9,13\}\text{ (order 4)}$
 $\langle5\rangle=\{1,5,9,13\} \text{ (order 4)}$
-$\langle7\rangle=\{1,7,3,13\} \text{ (order 4)}$
-$\langle9\rangle=\{1,8,4,2\} \text{ (order 4)}$
-$\langle11\rangle=\{1,11,1,13\} \text{ (order 4)}$
-$\langle13\rangle=\{1,13,4,7\} \text{ (order 4)}$
-$\langle14\rangle=\{1,14\}\text{ (order 2)}$
+$\langle7\rangle=\{1,7\} \text{ (order 2)}$
+$\langle9\rangle=\{1,9\} \text{ (order 2)}$
+$\langle11\rangle=\{1,11,9,3\} \text{ (order 4)}$
+$\langle13\rangle=\{1,13,9,5\} \text{ (order 4)}$
+$\langle15\rangle=\{1,15,4,\}\text{ (order 2)}$
 
 
 
