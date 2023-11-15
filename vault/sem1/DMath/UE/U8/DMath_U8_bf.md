@@ -28,6 +28,18 @@ Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume tha
 (a, b)\*(e_1, e_2) =(ae_1, ae_2 +b) = (a, b)
 e_1=1, e_2=0
 
+
+
+
+
+
+
+
+
+
+
+
+
 8.4
 c)
 Prove that $$\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle \simeq \langle\mathbb{Z}^∗_{16}, \odot_{16}〉$$
@@ -45,8 +57,7 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 9 11 13 15
 
 
-1 2 4 7 8 11 13 14
-1 3 5 7 9 11 13 15
+ For two groups $\langle G; \rangle$〈G; ∗,̂ , e〉 and 〈H; ⋆,˜, e′〉, a function ψ : G → H is called a group homomorphism if, for all a and b, ψ(a ∗ b) = ψ(a) ⋆ ψ(b). If ψ is a bijection from G to H, then it is called an isomorphism, and we say that G and H are isomorphic and write G ≃ H
 
 
 
