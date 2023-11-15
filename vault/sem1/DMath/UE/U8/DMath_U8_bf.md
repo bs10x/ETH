@@ -86,7 +86,6 @@ $\psi : \mathbb{Z}^*_{15} \rightarrow \mathbb{Z}^*_{16}$
 $$
 \psi (a) \overset{def}{=} \psi(2^k\equiv_{15}a) = 3^k \,\text{mod 16}
 $$
-ψ:Z15∗​→Z16∗​ by �(2�mod  15)=3�mod  16ψ(2kmod15)=3kmod16
 
 
 
