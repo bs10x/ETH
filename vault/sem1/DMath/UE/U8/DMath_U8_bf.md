@@ -46,7 +46,8 @@ Prove that $$\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle \simeq \langle\mathbb{Z
 
 
 
- For two groups $\langle G; *, \hat{\,}, e\rangle$ and $\langle H; \star , \tilde{\,}, e'\rangle$, a function $\psi : G \rightarrow H$ is called a group homomorphism if, for all $a$ and $b$, $\psi (a*b) = \psi (a) \star \psi (b)$ If $\psi$ is a bijection from $G$ to $H$, then it is called an isomorphism, and we say that $G$ and $H$ are isomorphic and write $G \simeq H$.
+ For two groups $\langle G; *, \hat{\,}, e\rangle$ and $\langle H; \star , \tilde{\,}, e'\rangle$, a function $\psi : G \rightarrow H$ is called a group homomorphism if, for all $a$ and $b$, $\psi (a*b) = \psi (a) \star \psi (b)$
+ If $\psi$ is a bijection from $G$ to $H$, then it is called an isomorphism, and we say that $G$ and $H$ are isomorphic and write $G \simeq H$.
 
 
 $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
@@ -64,6 +65,7 @@ $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 
 
 $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
+
 | $\odot_{16}$ | 1  | 3  | 5  | 7  | 9  | 11 | 13 | 15 |
 |--------------|----|----|----|----|----|----|----|----|
 | **1**        | 1  | 3  | 5  | 7  | 9  | 11 | 13 | 15 |
@@ -74,6 +76,8 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 | **11**       | 11 | 1  | 7  | 13 | 3  | 9  | 15 | 5  |
 | **13**       | 13 | 7  | 1  | 11 | 5  | 15 | 9  | 3  |
 | **15**       | 15 | 13 | 11 | 9  | 7  | 5  | 3  | 1  |
+
+
 
 
 
