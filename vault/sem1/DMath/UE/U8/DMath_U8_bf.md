@@ -74,6 +74,8 @@ $\langle13\rangle=\{1,13,4,7\} \text{ (order 4)}$
 $\langle14\rangle=\{1,14\}\text{ (order 2)}$
 
 
+2, 14, (7 or 13) 11
+
 
 
 $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
@@ -100,7 +102,8 @@ $\langle13\rangle=\{1,13,9,5\} \text{ (order 4)}$
 $\langle15\rangle=\{1,15\}\text{ (order 2)}$
 
 
-
+2, 7, 15 (13 or 5)
+5, 13 15
 
 
 
