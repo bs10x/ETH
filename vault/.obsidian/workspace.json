@@ -37,9 +37,19 @@
                 "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
               }
             }
+          },
+          {
+            "id": "358ae925717cf75d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/UE/U8/DMath_U8_e.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "cf586c111795c3ce",
@@ -210,11 +220,12 @@
   },
   "active": "b5d17d71f736f2f5",
   "lastOpenFiles": [
-    "sem1/DMath/lib/DMath_script.pdf",
-    "sem1/DMath/UE/U8/DMath_U8_bf.md",
-    "sem1/LinAlg/VRL/V14_.md",
-    "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/DMath/UE/U8/DMath_U8_e.pdf",
+    "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
+    "AuD_U8_e.pdf.md",
+    "sem1/DMath/UE/U8/DMath_U8_bf.md",
+    "sem1/DMath/lib/DMath_script.pdf",
+    "sem1/LinAlg/VRL/V14_.md",
     "sem1/LinAlg/lib/LinAlg_lib.md",
     "sem1/DMath/VRL/V14_.md",
     "sem1/DMath/UE/U1/DMath_U1_bf.md",
@@ -245,7 +256,6 @@
     "sem1/DMath/VRL/V11_.md",
     "sem1/DMath/VRL/V12_.md",
     "sem1/DMath/VRL/V10_posets.md",
-    "var/literature2buy?.md",
     "var/sem1_schedule.jpg",
     "Untitled.canvas"
   ]

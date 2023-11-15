@@ -57,7 +57,7 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 9 11 13 15
 
 
- For two groups $\langle G; *, \hat{\,}, e\rangle$ and $\langle H; \star , \tilde{\,}, e'\rangle$ a function ψ : G → H is called a group homomorphism if, for all a and b, ψ(a ∗ b) = ψ(a) ⋆ ψ(b). If ψ is a bijection from G to H, then it is called an isomorphism, and we say that G and H are isomorphic and write G ≃ H
+ For two groups $\langle G; *, \hat{\,}, e\rangle$ and $\langle H; \star , \tilde{\,}, e'\rangle$, a function $\psi : G \rightarrow H$ is called a group homomorphism if, for all $a$ and $b$, $\psi (a*b) = \psi (a) \star \psi (b)$ If $\psi$ is a bijection from $G$ to $H$, then it is called an isomorphism, and we say that $G$ and $H$ are isomorphic and write $G \simeq H$.
 
 
 
