@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -229,7 +230,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "816891c7b8a2670b",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
     "sem1/LinAlg/VRL/V14_.md",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
