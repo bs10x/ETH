@@ -19,7 +19,7 @@
             }
           },
           {
-            "id": "858576786695054a",
+            "id": "b6a95171faf9a7a2",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -39,7 +39,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "cf586c111795c3ce",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_bf.md",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_bf.md",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_bf.md"
+                "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
           },
@@ -208,13 +208,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "177983f76f34c97a",
+  "active": "b6a95171faf9a7a2",
   "lastOpenFiles": [
-    "sem1/DMath/VRL/V14_.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
+    "sem1/DMath/VRL/V14_.md",
     "sem1/DMath/UE/U1/DMath_U1_bf.md",
     "sem1/DMath/UE/U8/DMath_U8_e.pdf",
-    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U7/DMath_U7_bf.md",
     "sem1/DMath/UE/U7/DMath_U7_e.pdf",
     "sem1/DMath/UE/U8",
@@ -246,7 +246,6 @@
     "sem1/DMath/VRL/V10_posets.md",
     "var/literature2buy?.md",
     "var/err-log of my struggles.md",
-    "sem1/AuD/VRL/V06_.md",
     "var/sem1_schedule.jpg",
     "Untitled.canvas"
   ]
