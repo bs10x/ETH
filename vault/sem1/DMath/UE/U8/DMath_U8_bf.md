@@ -74,9 +74,11 @@ $\langle13\rangle=\{1,13,4,7\} \text{ (order 4)}$
 $\langle14\rangle=\{1,14\}\text{ (order 2)}$
 
 
-2, 14, (7 or 13) 11
+2, 11, (7 or 13), 14
 
 
+1, 4, 7, 11, 13, 14
+11, 13, 14
 
 $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 
@@ -102,11 +104,17 @@ $\langle13\rangle=\{1,13,9,5\} \text{ (order 4)}$
 $\langle15\rangle=\{1,15\}\text{ (order 2)}$
 
 
-2, 7, 15 (13 or 5)
-5, 13 15
+3, 7, (5 or 13), 15
 
 
 
+
+
+
+
+
+1 2 4 7 8 11 13 14
+1 3 5 7 9 11 13 15
 
 
 $\psi : \mathbb{Z}^*_{15} \rightarrow \mathbb{Z}^*_{16}$
