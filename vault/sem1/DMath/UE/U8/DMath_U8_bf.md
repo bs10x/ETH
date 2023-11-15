@@ -81,8 +81,10 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 
 
 
+$\psi : \mathbb{Z}^*_{15} \rightarrow \mathbb{Z}^*_{16}$
+
 $$
-\psi : \mathbb{Z}^*_15
+\psi \overset{def}{=} \psi(())
 $$
 ψ:Z15∗​→Z16∗​ by �(2�mod  15)=3�mod  16ψ(2kmod15)=3kmod16
 
