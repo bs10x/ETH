@@ -96,14 +96,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/VRL/V14_.md",
+                "file": "sem1/DMath/VRL/V14_körper.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/VRL/V14_.md",
+                "file": "sem1/DMath/UE/U8/DMath_U8_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/VRL/V14_.md",
+                "file": "sem1/DMath/UE/U8/DMath_U8_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/VRL/V14_.md"
+                "file": "sem1/DMath/UE/U8/DMath_U8_bf.md"
               }
             }
           },
@@ -240,14 +240,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "816891c7b8a2670b",
+  "active": "b5d17d71f736f2f5",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V14_körper.md",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
     "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
     "sem1/DMath/UE/U8/DMath_U8_e.pdf",
     "sem1/DMath/lib/DMath_script.pdf",
     "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
-    "sem1/DMath/VRL/V14_.md",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/DMath/UE/U8/AuD_U8_e.pdf.md",
     "sem1/LinAlg/lib/LinAlg_lib.md",
