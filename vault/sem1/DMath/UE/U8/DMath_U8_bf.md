@@ -26,13 +26,13 @@ Since we have
 $$(s_1 \star s_2)\star s_3=f(f^{−1}(f(f^{−1}(s_1​)\ast f^{−1}(s_2​)))\ast f^{−1}(s_3​))=f((f^{−1}(s_1​)\ast f^{−1}(s_2​))\ast f^{−1}(s_3​))$$
 and
 $$s_1 \star(s_2\star s_3) = f(f^{−1}(s_1​)∗f^{−1}(f(f^{−1}(s_2​)∗f^{−1}(s_3​))))=f(f^{−1}(s_1​)∗(f^{−1}(s_2​)∗f^{−1}(s_3​)))$$
+given by the definition of $\star$ and the operation $\ast$ is associative in $G$, we have
+$$
+(f^{−1}(s_1​)∗f^{−1}(s_2​))∗f^{−1}(s_3​)=f^{−1}(s_1)∗(f^{−1}(s_2​)∗f^{−1}(s_3​))
+$$
 
 
 
-
-
-
-s1​⋆(s2​⋆s3​)=f(f−1(s1​)∗f−1(f(f−1(s2​)∗f−1(s3​))))=f(f−1(s1​)∗(f−1(s2​)∗f−1(s3​))).
 
 Since ⟨G,∗,^,e⟩ is a group, the operation ∗ is associative in G. Therefore, we have
 
