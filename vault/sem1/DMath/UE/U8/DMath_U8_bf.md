@@ -56,8 +56,8 @@ $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 >$\langle1\rangle=\{1\} \text{ (order 1)}$
 >$\langle2\rangle=\{1,2,4,8\}\text{ (order 4)}$
 >$\langle4\rangle=\{1,4\} \text{ (order 2)}$
->$\langle7\rangle=\{1,7,4,13\} \text{ (order 4)}$
 >$\langle8\rangle=\{1,8,4,2\} \text{ (order 4)}$
+>$\langle7\rangle=\{1,7,4,13\} \text{ (order 4)}$
 >$\langle11\rangle=\{1,11,1,13\} \text{ (order 4)}$
 >$\langle13\rangle=\{1,13,4,7\} \text{ (order 4)}$
 >$\langle14\rangle=\{1,14\}\text{ (order 2)}$
@@ -79,10 +79,10 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 >[!example] subgroups and their orders
 >$\langle1\rangle=\{1\} \text{ (order 1)}$
 >$\langle3\rangle=\{1,3,9,11\}\text{ (order 4)}$
->$\langle5\rangle=\{1,5,9,13\} \text{ (order 4)}$
->$\langle7\rangle=\{1,7\} \text{ (order 2)}$
 >$\langle9\rangle=\{1,9\} \text{ (order 2)}$
 >$\langle11\rangle=\{1,11,9,3\} \text{ (order 4)}$
+>$\langle5\rangle=\{1,5,9,13\} \text{ (order 4)}$
+>$\langle7\rangle=\{1,7\} \text{ (order 2)}$
 >$\langle13\rangle=\{1,13,9,5\} \text{ (order 4)}$
 >$\langle15\rangle=\{1,15\}\text{ (order 2)}$
 
@@ -93,18 +93,15 @@ We define a function $\psi : \mathbb{Z}^*_{15} \rightarrow \mathbb{Z}^*_{16}$ as
 $\psi(1)=1$
 $\psi(2)=3$
 $\psi(4)=9$
-$\psi(7)=7$
-$\psi(8)=9$
-$\psi(11)=11$
+$\psi(8)=11$
+$\psi(7)=5$
+$\psi(11)=7$
 $\psi(13)=13$
 $\psi(14)=15$
 
-Obviously the function is bijective. 
+Obviously the function is bijective., as it maps each element onto one unique element and each element has an inverse. 
 
-
-
-
-now we will prove that it is a group homomorphism on $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
+Now we will prove that it is a group homomorphism on $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 
 
 To do this, we must prove, that for all $a,$  $b$ $\in\mathbb{Z}^*_{15}$
