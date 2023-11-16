@@ -121,7 +121,7 @@ $\psi(14)=15$
 obviously, $\psi$ is bijective. now we will prove that it is a group homomorphism on $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 
 
-To do this, we must prove, that for all $a$ and $b$
+To do this, we must prove, that for all $a,$  $b$ $\in\mathbb{Z}^*_{15}$
 $$
 \psi(a\odot_{15}b)=\psi(a)\odot_{16}\psi(b)
 $$
@@ -131,16 +131,8 @@ $$
 
 
 $$
-\psi(2^a\odot_{15}7^b) = 3^a \odot_{16} 5^b \text{, where } a,\, b \in \mathbb{Z}_2\times \mathbb{Z}_4
-
+\psi(2^a\odot_{15}7^b) = 3^a \odot_{16} 5^b, \quad\forall a,\, b \in \mathbb{Z}_2\times \mathbb{Z}_4
 $$
-
-
-$\langle 2\rangle$     $\langle 7\rangle$
- $1$        $1$              $2^0\cdot7=7$
- $2$        $7$              $2^1\cdot7=14$
- $4$        $4$              $2^2\cdot7=13$
- $8$       $13$             $2^3\cdot7=11$
 
 
 
@@ -148,16 +140,14 @@ $\langle2\rangle\qquad\langle7\rangle\qquad\langle2\rangle \odot_{15} 7$
 $\;1\qquad\quad1\qquad\;\; 2^0\odot_{15}7=7$ 
 $\;2\qquad\quad7\qquad\;\; 2^1\odot_{15}7=4$ 
 $\;4\qquad\quad4\qquad\;\; 2^2\odot_{15}7=7$ 
-$\;8\qquad\;\;\;13\qquad\; 2^0\odot_{15}7=11$ 
-
-
+$\;8\qquad\;\;\;13\qquad\; 2^3\odot_{15}7=11$ 
 
 
 $\langle3\rangle\qquad\langle5\rangle\qquad\langle3\rangle \odot_{16} 5$
 $\;1\qquad\quad1\qquad\;\; 3^0\odot_{16}5=5$ 
-$\;3\qquad\quad7\qquad\;\; 2^1\odot_{15}7=4$ 
-$\;9\qquad\quad4\qquad\;\; 2^2\odot_{15}7=7$ 
-$11\qquad\;\;\;13\qquad 2^0\odot_{15}7=11$ 
+$\;3\qquad\quad5\qquad\;\; 3^1\odot_{16}5=15$ 
+$\;9\qquad\quad9\qquad\;\; 3^2\odot_{16}5=13$ 
+$11\qquad\;\;13\qquad\; 3^3\odot_{16}5=7$ 
 
 
 
