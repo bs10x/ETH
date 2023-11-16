@@ -136,7 +136,11 @@ $$
 $$
 
 
-
+$\langle 2\rangle$     $\langle 7\rangle$
+ $1$        $1$
+ $2$
+ $4$
+ $8$
 
 
 
