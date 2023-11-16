@@ -124,12 +124,34 @@ ord4, ord4, ord2
 
 $\psi : \mathbb{Z}^*_{15} \rightarrow \mathbb{Z}^*_{16}$
 
+
 $\psi(1)=1$
 $\psi(2)=3$
 $\psi(4)=5$
 $\psi(7)=7$
 $\psi(8)=9$
-$\psi(1)=11$
+$\psi(11)=11$
+$\psi(13)=13$
+$\psi(14)=15$
+
+
+obviously, $\psi$ is bijective. now we will prove that it is a group homomorphism on $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
+
+
+To do this, we must prove, that for all $a$ and $b$
+$$
+\psi(a\odot_{15}b)=\psi(a)\odot_{16}\psi(b)
+$$
+
+
+a=2, b=8, LHS= 1
+psi(2)=3, psi(8)=9, RHS=
+
+
+
+
+
+
 
 
 
