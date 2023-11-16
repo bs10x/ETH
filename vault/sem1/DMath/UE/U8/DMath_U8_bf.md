@@ -28,7 +28,7 @@ and
 $$s_1 \star(s_2\star s_3) = f(f^{−1}(s_1​)∗f^{−1}(f(f^{−1}(s_2​)∗f^{−1}(s_3​))))=f(f^{−1}(s_1​)∗(f^{−1}(s_2​)∗f^{−1}(s_3​)))$$
 given by the definition of $\star$ and the operation $\ast$ is associative in $G$, we have
 $$
-(f^{−1}(s_1​)∗f^{−1}(s_2​))∗f^{−1}(s_3​)=f^{−1}(s_1)∗(f^{−1}(s_2​)∗f^{−1}(s_3​))
+((f^{−1}(s_1​)∗f^{−1}(s_2​))∗f^{−1}(s_3​)=f^{−1}(s_1)∗(f^{−1}(s_2​)∗f^{−1}(s_3​))
 $$
 
 
