@@ -1,12 +1,6 @@
 
+## 8.3
 
-
-
-
-
-
-
-8.3
 Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume that $f : G \rightarrow S$ is a bijection, and consider
 - the binary operation $\star$ on $S$ given by $s \star s′ \overset{def}{=} f (f^{−1}(s) ∗ f^{−1}(s′))$ 
 - the unary operation $\tilde{}$  on $S$ given by $\tilde{s} \overset{def}{=} f(\widehat{f^{-1}(s)})$.
@@ -14,9 +8,7 @@ Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume tha
   Prove the following statement. 
   a) Axiom G1 ($\star$ is associative) holds for $\langle S, \star, \tilde{\,}, f(e)\rangle$
 
-
-
-
+___
 
 To prove that **G1** holds for $\langle S; \star, \tilde{\;}, f(e)\rangle$, we will show that the operation $\star$ is associative.
 
@@ -30,58 +22,21 @@ given by the definition of $\star$ and the operation $\ast$ is associative in $G
 $$
 ((f^{−1}(s_1​)∗f^{−1}(s_2​))∗f^{−1}(s_3​)=f^{−1}(s_1)∗(f^{−1}(s_2​)∗f^{−1}(s_3​))
 $$
+$$
+f(f^{−1}(s_1​)∗(f^{−1}(s_2​)∗f^{−1}(s_3​)))=f^{−1}(s_1)∗(f^{−1}(s_2​)∗f^{−1}(s_3​))
+$$
+Thus, 
+$$(s_1 \star s_2)\star s_3= s_1 \star(s_2\star s_3)$$
+$\square$
+
+___
+
+## 8.4
+c) Prove that $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle \simeq \langle\mathbb{Z}^∗_{16}, \odot_{16}〉$.
 
 
-
-
-Since ⟨G,∗,^,e⟩ is a group, the operation ∗ is associative in G. Therefore, we have
-
-(f−1(s1​)∗f−1(s2​))∗f−1(s3​)=f−1(s1​)∗(f−1(s2​)∗f−1(s3​)).
-
-So, (s1​⋆s2​)⋆s3​=s1​⋆(s2​⋆s3​), which means ⋆ is associative on S.
-
-For ~: Let s∈S. We need to show that s~~=s.
-
-
-
-
-
-
-
-
-  ((a, b)\*(c,d))\*(e, f) // def *
-  = (ac, ad+b)\*(e, f) // def *
-  
-  = (ace, acf +ad +b)
-  = (ace, a(cf +d) +b)
-  = (a, b)\*(ce, cf +d)
-
- = (a, b)\*((c, d)\*(e, f))
-
-
-
-(a, b)\*(e_1, e_2) =(ae_1, ae_2 +b) = (a, b)
-e_1=1, e_2=0
-
-
-
-
-
-
-
-
-
-
-
-
-
-8.4
-c)
-Prove that $$\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle \simeq \langle\mathbb{Z}^∗_{16}, \odot_{16}〉$$
-
-
-
- For two groups $\langle G; *, \hat{\,}, e\rangle$ and $\langle H; \star , \tilde{\,}, e'\rangle$, a function $\psi : G \rightarrow H$ is called a group homomorphism if, for all $a$ and $b$, $\psi (a*b) = \psi (a) \star \psi (b)$
+ For two groups $\langle G; *, \hat{\,}, e\rangle$ and $\langle H; \star , \tilde{\,}, e'\rangle$, a function $\psi : G \rightarrow H$ is called a group homomorphism if, for all $a$ and $b$,
+ $\psi (a*b) = \psi (a) \star \psi (b)$
  If $\psi$ is a bijection from $G$ to $H$, then it is called an isomorphism, and we say that $G$ and $H$ are isomorphic and write $G \simeq H$.
 
 
