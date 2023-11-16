@@ -37,9 +37,7 @@ c) Prove that $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle \simeq \langle\mathbb
 
  For two groups $\langle G; *, \hat{\,}, e\rangle$ and $\langle H; \star , \tilde{\,}, e'\rangle$, a function $\psi : G \rightarrow H$ is called a group homomorphism if, for all $a$ and $b$,
  $\psi (a*b) = \psi (a) \star \psi (b)$
- If $\psi$ is a bijection from $G$ to $H$, then it is called an isomorphism, and we say that $G$ and $H$ are isomorphic and write $G \simeq H$.
-
-
+ If $\psi$ is a bijection from $G$ to $H$, then it is called an isomorphism, and we say that $G$ and $H$ are isomorphic and write $G \simeq H$. (Definition 5.10.)
 
 
 $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
@@ -89,14 +87,6 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 >$\langle15\rangle=\{1,15\}\text{ (order 2)}$
 
 
-
-
-
-
-1 2 4 7 8 11 13 14
-1 3 5 7 9 11 13 15
-
-
 $\psi : \mathbb{Z}^*_{15} \rightarrow \mathbb{Z}^*_{16}$
 
 
@@ -123,7 +113,7 @@ $$
 
 
 $$
-\psi(2^a\odot_{15}7^b) = 3^a \odot_{16} 5^b, \quad\forall a,\, b \in \mathbb{Z}_2\times \mathbb{Z}_4
+\psi(2^a\odot_{15}7^b) = 3^a \odot_{16} 5^b, \quad\forall a,\, b \in \mathbb{Z}_4\times \mathbb{Z}_2
 $$
 
 
