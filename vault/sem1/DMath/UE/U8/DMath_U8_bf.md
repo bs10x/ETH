@@ -144,8 +144,8 @@ $\langle 2\rangle$     $\langle 7\rangle$
 
 
 
-$\langle2\rangle\quad\quad\langle7\rangle\quad\quad\langle2\rangle$
-$\,\,1\quad\quad1\quad\quad2^0\cdot7=7$ 
+$\langle2\rangle\quad\quad\langle7\rangle\quad\quad\langle2\rangle \cdot 7$
+$\,\,1\quad\quad\ \ 1\quad\quad\quad\ \ 2^0\cdot7=7$ 
 
 
 
