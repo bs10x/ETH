@@ -54,52 +54,46 @@ $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 
 | $\odot_{15}$ | 1  | 2  | 4  | 7  | 8  | 11 | 13 | 14 |
 |--------------|----|----|----|----|----|----|----|----|
-| **1**            | 1  | 2  | 4  | 7  | 8  | 11 | 13 | 14 |
+| **1**            | ==1==  | 2  | 4  | 7  | 8  | 11 | 13 | 14 |
 | **2**            | 2  | 4  | 8  | 14 | 1  | 7  | 11 | 13 |
-| **4**            | 4  | 8  | 1  | 13 | 2  | 14 | 7  | 11 |
+| **4**            | 4  | 8  | ==1==  | 13 | 2  | 14 | 7  | 11 |
 | **7**            | 7  | 14 | 13 | 4  | 11 | 2  | 1  | 8  |
-| **8**            | 8  | 1  | 2  | 11 | 4  | 13 | 14 | 7  |
+| **8**            | 8  | ==1==  | 2  | 11 | 4  | 13 | 14 | 7  |
 | **11**           | 11 | 7  | 14 | 2  | 13 | 1  | 8  | 4  |
-| **13**           | 13 | 11 | 7  | 1  | 14 | 8  | 4  | 2  |
+| **13**           | 13 | 11 | 7  | ==1==  | 14 | 8  | 4  | 2  |
 | **14**           | 14 | 13 | 11 | 8  | 7  | 4  | 2  | 1  |
-
-
-$\langle1\rangle=\{1\} \text{ (order 1)}$
-$\langle2\rangle=\{1,2,4,8\}\text{ (order 4)}$
-$\langle4\rangle=\{1,4\} \text{ (order 2)}$
-$\langle7\rangle=\{1,7,4,13\} \text{ (order 4)}$
-$\langle8\rangle=\{1,8,4,2\} \text{ (order 4)}$
-$\langle11\rangle=\{1,11,1,13\} \text{ (order 4)}$
-$\langle13\rangle=\{1,13,4,7\} \text{ (order 4)}$
-$\langle14\rangle=\{1,14\}\text{ (order 2)}$
+>[!example] Orders of Subgroups
+>$\langle1\rangle=\{1\} \text{ (order 1)}$
+>$\langle2\rangle=\{1,2,4,8\}\text{ (order 4)}$
+>$\langle4\rangle=\{1,4\} \text{ (order 2)}$
+>$\langle7\rangle=\{1,7,4,13\} \text{ (order 4)}$
+>$\langle8\rangle=\{1,8,4,2\} \text{ (order 4)}$
+>$\langle11\rangle=\{1,11,1,13\} \text{ (order 4)}$
+>$\langle13\rangle=\{1,13,4,7\} \text{ (order 4)}$
+>$\langle14\rangle=\{1,14\}\text{ (order 2)}$
 
 
 
 $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
-
 | $\odot_{16}$ | 1  | 3  | 5  | 7  | 9  | 11 | 13 | 15 |
 |--------------|----|----|----|----|----|----|----|----|
 | **1**        | ==1==  | 3  | 5  | 7  | 9  | 11 | 13 | 15 |
-| **3**        | 3  | 9  | 15 | 5  | 11 | 1  | 7  | 13 |
-| **5**        | 5  | 15 | 9  | 3  | 13 | 7  | 1  | 11 |
+| **3**        | 3  | 9  | 15 | 5  | 11 | ==1==  | 7  | 13 |
+| **5**        | 5  | 15 | 9  | 3  | 13 | 7  | ==1==  | 11 |
 | **7**        | 7  | 5  | 3  | ==1==  | 15 | 13 | 11 | 9  |
-| **9**        | 9  | 11 | 13 | 15 | 1  | 3  | 5  | 7  |
-| **11**       | 11 | 1  | 7  | 13 | 3  | 9  | 15 | 5  |
-| **13**       | 13 | 7  | 1  | 11 | 5  | 15 | 9  | 3  |
-| **15**       | 15 | 13 | 11 | 9  | 7  | 5  | 3  | 1  |
-
-
-$\langle1\rangle=\{1\} \text{ (order 1)}$
-$\langle3\rangle=\{1,3,9,11\}\text{ (order 4)}$
-$\langle5\rangle=\{1,5,9,13\} \text{ (order 4)}$
-$\langle7\rangle=\{1,7\} \text{ (order 2)}$
-$\langle9\rangle=\{1,9\} \text{ (order 2)}$
-$\langle11\rangle=\{1,11,9,3\} \text{ (order 4)}$
-$\langle13\rangle=\{1,13,9,5\} \text{ (order 4)}$
-$\langle15\rangle=\{1,15\}\text{ (order 2)}$
-
-
-3, 7, (5 or 13), 15
+| **9**        | 9  | 11 | 13 | 15 | ==1==  | 3  | 5  | 7  |
+| **11**       | 11 | ==1==  | 7  | 13 | 3  | 9  | 15 | 5  |
+| **13**       | 13 | 7  | ==1==  | 11 | 5  | 15 | 9  | 3  |
+| **15**       | 15 | 13 | 11 | 9  | 7  | 5  | 3  | ==1==  |
+>[!example] Orders of Subgroups
+>$\langle1\rangle=\{1\} \text{ (order 1)}$
+>$\langle3\rangle=\{1,3,9,11\}\text{ (order 4)}$
+>$\langle5\rangle=\{1,5,9,13\} \text{ (order 4)}$
+>$\langle7\rangle=\{1,7\} \text{ (order 2)}$
+>$\langle9\rangle=\{1,9\} \text{ (order 2)}$
+>$\langle11\rangle=\{1,11,9,3\} \text{ (order 4)}$
+>$\langle13\rangle=\{1,13,9,5\} \text{ (order 4)}$
+>$\langle15\rangle=\{1,15\}\text{ (order 2)}$
 
 
 
