@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -229,7 +230,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "b5d17d71f736f2f5",
   "lastOpenFiles": [
     "sem1/DMath/VRL/V14_.md",
     "sem1/DMath/lib/DMath_script.pdf",
