@@ -50,6 +50,8 @@ Prove that $$\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle \simeq \langle\mathbb{Z
  If $\psi$ is a bijection from $G$ to $H$, then it is called an isomorphism, and we say that $G$ and $H$ are isomorphic and write $G \simeq H$.
 
 
+
+
 $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 
 | $\odot_{15}$ | 1  | 2  | 4  | 7  | 8  | 11 | 13 | 14 |
@@ -150,12 +152,6 @@ $\;9\qquad\quad9\qquad\;\; 3^2\odot_{16}5=13$
 $11\qquad\;\;13\qquad\; 3^3\odot_{16}5=7$ 
 
 
-
-
-
-$$
-\psi (a) \overset{def}{=} \psi(2^k\equiv_{15}a) = 3^k \,\text{mod 16}
-$$
 
 
 
