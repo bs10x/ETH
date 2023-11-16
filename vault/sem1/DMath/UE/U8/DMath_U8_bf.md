@@ -21,18 +21,16 @@ Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume tha
 To prove that **G1** holds for $\langle S; \star, \tilde{\;}, f(e)\rangle$, we will show that the operation $\star$ is associative.
 
 Let $s_1,\: s_2,\: s_3 \in S$
-We need to show that $(s_1 \ast s_2)\ast s_3= ()$
+We need to show that $(s_1 \star s_2)\star s_3= s_1 \star(s_2\star s_3)$.
+Since we have
+$$(s_1 \star s_2)\star s_3=f(f^{−1}(f(f^{−1}(s_1​)\ast f^{−1}(s_2​)))\ast f^{−1}(s_3​))=f((f^{−1}(s_1​)\ast f^{−1}(s_2​))\ast f^{−1}(s_3​))$$
+and
+$$s_1 \star(s_2\star s_3) = f(f^{−1}(s_1​)∗f^{−1}(f(f^{−1}(s_2​)∗f^{−1}(s_3​))))=f(f^{−1}(s_1​)∗(f^{−1}(s_2​)∗f^{−1}(s_3​)))$$
 
-$f(f^{−1}(f(f^{−1}(s_1​)\ast f^{−1}(s_2​)))\ast f^{−1}(s_3​))=f((f^{−1}(s_1​)\ast f^{−1}(s_2​))\ast f^{−1}(s_3​))$
 
 
-For ⋆: Let s1​,s2​,s3​∈S. We need to show that (s1​⋆s2​)⋆s3​=s1​⋆(s2​⋆s3​).
 
-By definition of ⋆, we have
 
-(s1​⋆s2​)⋆s3​=f(f−1(f(f−1(s1​)∗f−1(s2​)))∗f−1(s3​))=f((f−1(s1​)∗f−1(s2​))∗f−1(s3​)).
-
-And
 
 s1​⋆(s2​⋆s3​)=f(f−1(s1​)∗f−1(f(f−1(s2​)∗f−1(s3​))))=f(f−1(s1​)∗(f−1(s2​)∗f−1(s3​))).
 
