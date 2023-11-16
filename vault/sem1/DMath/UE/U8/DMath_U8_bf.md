@@ -137,12 +137,16 @@ $$
 
 
 $\langle 2\rangle$     $\langle 7\rangle$
- $1$        $1$
- $2$        $7$              $2^1\cdot7$
- $4$        $4$              $2^2\cdot7$
- $8$       $13$             $2^3\cdot7$
+ $1$        $1$              $2^0\cdot7=7$
+ $2$        $7$              $2^1\cdot7=14$
+ $4$        $4$              $2^2\cdot7=13$
+ $8$       $13$             $2^3\cdot7=11$
 
-   
+
+
+$\langle2\rangle\quad\quad\langle7\rangle\quad\quad\langle2\rangle$
+$\,\,1\quad\quad1\quad\quad2^0\cdot7=7$ 
+
 
 
 
