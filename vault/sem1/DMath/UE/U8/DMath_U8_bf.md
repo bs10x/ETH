@@ -145,10 +145,21 @@ $\langle 2\rangle$     $\langle 7\rangle$
 
 
 $\langle2\rangle\qquad\langle7\rangle\qquad\langle2\rangle \odot_{15} 7$
-$\;1\qquad\quad1\qquad\;\; 2^0\cdot7=7$ 
-$\;2\qquad\quad7\qquad\;\; 2^1\cdot7=4$ 
+$\;1\qquad\quad1\qquad\;\; 2^0\odot_{15}7=7$ 
+$\;2\qquad\quad7\qquad\;\; 2^1\odot_{15}7=4$ 
 $\;4\qquad\quad4\qquad\;\; 2^2\odot_{15}7=7$ 
-$\;1\qquad\quad1\qquad\;\; 2^0\cdot7=7$ 
+$\;8\qquad\;\;\;13\qquad\; 2^0\odot_{15}7=11$ 
+
+
+
+
+$\langle3\rangle\qquad\langle5\rangle\qquad\langle3\rangle \odot_{16} 5$
+$\;1\qquad\quad1\qquad\;\; 3^0\odot_{16}5=5$ 
+$\;3\qquad\quad7\qquad\;\; 2^1\odot_{15}7=4$ 
+$\;9\qquad\quad4\qquad\;\; 2^2\odot_{15}7=7$ 
+$11\qquad\;\;\;13\qquad 2^0\odot_{15}7=11$ 
+
+
 
 
 
