@@ -52,7 +52,7 @@ $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 | **11**       | 11    | 7     | 14    | 13    | 2     | ==1== | 8     | 4     |
 | **13**       | 13    | 11    | 7     | 14    | ==1== | 8     | 4     | 2     |
 | **14**       | 14    | 13    | 11    | 7     | 8     | 4     | 2     | ==1== |
->[!example] Orders of Subgroups
+>[!example] subgroups and their orders
 >$\langle1\rangle=\{1\} \text{ (order 1)}$
 >$\langle2\rangle=\{1,2,4,8\}\text{ (order 4)}$
 >$\langle4\rangle=\{1,4\} \text{ (order 2)}$
@@ -76,7 +76,7 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 | **7**        | 7     | 5     | 15    | 13    | 3     | ==1== | 11    | 9     |
 | **13**       | 13    | 7     | 5     | 15    | ==1== | 11    | 9     | 3     |
 | **15**       | 15    | 13    | 7     | 5     | 11    | 9     | 3     | ==1== |
->[!example] Orders of Subgroups
+>[!example] subgroups and their orders
 >$\langle1\rangle=\{1\} \text{ (order 1)}$
 >$\langle3\rangle=\{1,3,9,11\}\text{ (order 4)}$
 >$\langle5\rangle=\{1,5,9,13\} \text{ (order 4)}$
@@ -88,8 +88,21 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 
 
 
-We define a function
-$\psi : \mathbb{Z}^*_{15} \rightarrow \mathbb{Z}^*_{16}$
+We define a function $\psi : \mathbb{Z}^*_{15} \rightarrow \mathbb{Z}^*_{16}$ as follows:
+
+$\psi(1)=1$
+$\psi(2)=3$
+$\psi(4)=9$
+$\psi(7)=7$
+$\psi(8)=9$
+$\psi(11)=11$
+$\psi(13)=13$
+$\psi(14)=15$
+
+Obviously the function is bijective. 
+
+
+
 
 now we will prove that it is a group homomorphism on $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 
