@@ -124,6 +124,16 @@ ord4, ord4, ord2
 
 $\psi : \mathbb{Z}^*_{15} \rightarrow \mathbb{Z}^*_{16}$
 
+$\psi(1)=1$
+$\psi(2)=3$
+$\psi(4)=5$
+$\psi(7)=7$
+$\psi(8)=9$
+$\psi(1)=11$
+
+
+
+
 $$
 \psi (a) \overset{def}{=} \psi(2^k\equiv_{15}a) = 3^k \,\text{mod 16}
 $$
