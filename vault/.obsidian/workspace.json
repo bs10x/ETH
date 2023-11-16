@@ -221,14 +221,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "b10ff9949a560e5f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,10 +244,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5d17d71f736f2f5",
+  "active": "b10ff9949a560e5f",
   "lastOpenFiles": [
     "sem1/DMath/VRL/V14_körper.md",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
