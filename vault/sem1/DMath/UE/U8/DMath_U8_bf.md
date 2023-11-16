@@ -52,15 +52,7 @@ $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 | **11**       | 11    | 7     | 14    | 13    | 2     | ==1== | 8     | 4     |
 | **13**       | 13    | 11    | 7     | 14    | ==1== | 8     | 4     | 2     |
 | **14**       | 14    | 13    | 11    | 7     | 8     | 4     | 2     | ==1== |
->[!example] subgroups and their orders
->$\langle1\rangle=\{1\} \text{ (order 1)}$
->$\langle2\rangle=\{1,2,4,8\}\text{ (order 4)}$
->$\langle4\rangle=\{1,4\} \text{ (order 2)}$
->$\langle8\rangle=\{1,8,4,2\} \text{ (order 4)}$
->$\langle7\rangle=\{1,7,4,13\} \text{ (order 4)}$
->$\langle11\rangle=\{1,11,1,13\} \text{ (order 4)}$
->$\langle13\rangle=\{1,13,4,7\} \text{ (order 4)}$
->$\langle14\rangle=\{1,14\}\text{ (order 2)}$
+
 
 
 
@@ -76,15 +68,7 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 | **7**        | 7     | 5     | 15    | 13    | 3     | ==1== | 11    | 9     |
 | **13**       | 13    | 7     | 5     | 15    | ==1== | 11    | 9     | 3     |
 | **15**       | 15    | 13    | 7     | 5     | 11    | 9     | 3     | ==1== |
->[!example] subgroups and their orders
->$\langle1\rangle=\{1\} \text{ (order 1)}$
->$\langle3\rangle=\{1,3,9,11\}\text{ (order 4)}$
->$\langle9\rangle=\{1,9\} \text{ (order 2)}$
->$\langle11\rangle=\{1,11,9,3\} \text{ (order 4)}$
->$\langle5\rangle=\{1,5,9,13\} \text{ (order 4)}$
->$\langle7\rangle=\{1,7\} \text{ (order 2)}$
->$\langle13\rangle=\{1,13,9,5\} \text{ (order 4)}$
->$\langle15\rangle=\{1,15\}\text{ (order 2)}$
+
 
 
 
@@ -99,7 +83,7 @@ $\psi(11)=7$
 $\psi(13)=13$
 $\psi(14)=15$
 
-Obviously the function is bijective., as it maps each element onto one unique element and each element has an inverse. 
+Obviously the function is bijective, as it maps each element onto one unique element (injective) and each element has an inverse (surjective). 
 
 Now we will prove that it is a group homomorphism on $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 
@@ -110,6 +94,35 @@ $$
 $$
 
 
+
+
+
+___
+**DO NOT GRADE**
+
+
+
+
+>[!example] subgroups and their orders
+>$\langle1\rangle=\{1\} \text{ (order 1)}$
+>$\langle3\rangle=\{1,3,9,11\}\text{ (order 4)}$
+>$\langle9\rangle=\{1,9\} \text{ (order 2)}$
+>$\langle11\rangle=\{1,11,9,3\} \text{ (order 4)}$
+>$\langle5\rangle=\{1,5,9,13\} \text{ (order 4)}$
+>$\langle7\rangle=\{1,7\} \text{ (order 2)}$
+>$\langle13\rangle=\{1,13,9,5\} \text{ (order 4)}$
+>$\langle15\rangle=\{1,15\}\text{ (order 2)}$
+
+
+>[!example] subgroups and their orders
+>$\langle1\rangle=\{1\} \text{ (order 1)}$
+>$\langle2\rangle=\{1,2,4,8\}\text{ (order 4)}$
+>$\langle4\rangle=\{1,4\} \text{ (order 2)}$
+>$\langle8\rangle=\{1,8,4,2\} \text{ (order 4)}$
+>$\langle7\rangle=\{1,7,4,13\} \text{ (order 4)}$
+>$\langle11\rangle=\{1,11,1,13\} \text{ (order 4)}$
+>$\langle13\rangle=\{1,13,4,7\} \text{ (order 4)}$
+>$\langle14\rangle=\{1,14\}\text{ (order 2)}$
 
 
 
@@ -143,12 +156,6 @@ $11\qquad\;\;13\qquad\; 3^3\odot_{16}5=7$
 
 
 
-$$\eth\overset{def}{=}\{\text{The set of all Students at ETH}\}$$
-$$\smile\overset{def}{=}\text{B smiles, where }B\in\eth
-$$
-$$\langle\text{Set};\circledast ; \circledcirc; \text{neutral element} \rangle $$
-
-
 
 
 
@@ -167,12 +174,6 @@ $$\langle\text{Set};\circledast ; \circledcirc; \text{neutral element} \rangle $
 | **11**           | 11 | 7  | 14 | 2  | 13 | ==1==  | 8  | 4  |
 | **13**           | 13 | 11 | 7  | ==1==  | 14 | 8  | 4  | 2  |
 | **14**           | 14 | 13 | 11 | 8  | 7  | 4  | 2  | ==1==  |
-
-
-
-
-
-
 
 | $\odot_{16}$ | 1  | 3  | 5  | 7  | 9  | 11 | 13 | 15 |
 |--------------|----|----|----|----|----|----|----|----|
