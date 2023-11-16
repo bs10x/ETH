@@ -91,10 +91,70 @@ $$
 \psi(a\odot_{15}b)=\psi(a)\odot_{16}\psi(b)
 $$
 
-
+We do this by case distinction:
 
 $\psi(1 \odot_{15}1)= 1 = \psi(1) \odot_{16} \psi(1)$
-
-
-
-
+$\psi(1 \odot_{15}2)= 3 = \psi(1) \odot_{16} \psi(2)$
+$\psi(1 \odot_{15}4)= 9 = \psi(1) \odot_{16} \psi(4)$
+$\psi(1 \odot_{15}7)= 5 = \psi(1) \odot_{16} \psi(7)$
+$\psi(1 \odot_{15}8)= 11 = \psi(1) \odot_{16} \psi(8)$
+$\psi(1 \odot_{15}11)= 7 = \psi(1) \odot_{16} \psi(11)$
+$\psi(1 \odot_{15}13)= 13 = \psi(1) \odot_{16} \psi(13)$
+$\psi(1 \odot_{15}14)= 15 = \psi(1) \odot_{16} \psi(14)$
+$\psi(2 \odot_{15}1)= 3 = \psi(2) \odot_{16} \psi(1)$
+$\psi(2 \odot_{15}2)= 9 = \psi(2) \odot_{16} \psi(2)$
+$\psi(2 \odot_{15}4)= 11 = \psi(2) \odot_{16} \psi(4)$
+$\psi(2 \odot_{15}7)= 15 = \psi(2) \odot_{16} \psi(7)$
+$\psi(2 \odot_{15}8)= 1 = \psi(2) \odot_{16} \psi(8)$
+$\psi(2 \odot_{15}11)= 5 = \psi(2) \odot_{16} \psi(11)$
+$\psi(2 \odot_{15}13)= 7 = \psi(2) \odot_{16} \psi(13)$
+$\psi(2 \odot_{15}14)= 13 = \psi(2) \odot_{16} \psi(14)$
+$\psi(4 \odot_{15}1)= 9 = \psi(4) \odot_{16} \psi(1)$
+$\psi(4 \odot_{15}2)= 11 = \psi(4) \odot_{16} \psi(2)$
+$\psi(4 \odot_{15}4)= 1 = \psi(4) \odot_{16} \psi(4)$
+$\psi(4 \odot_{15}7)= 13 = \psi(4) \odot_{16} \psi(7)$
+$\psi(4 \odot_{15}8)= 3 = \psi(4) \odot_{16} \psi(8)$
+$\psi(4 \odot_{15}11)= 15 = \psi(4) \odot_{16} \psi(11)$
+$\psi(4 \odot_{15}13)= 5 = \psi(4) \odot_{16} \psi(13)$
+$\psi(4 \odot_{15}14)= 7 = \psi(4) \odot_{16} \psi(14)$
+$\psi(7 \odot_{15}1)= 5 = \psi(7) \odot_{16} \psi(1)$
+$\psi(7 \odot_{15}2)= 15 = \psi(7) \odot_{16} \psi(2)$
+$\psi(7 \odot_{15}4)= 13 = \psi(7) \odot_{16} \psi(4)$
+$\psi(7 \odot_{15}7)= 9 = \psi(7) \odot_{16} \psi(7)$
+$\psi(7 \odot_{15}8)= 7 = \psi(7) \odot_{16} \psi(8)$
+$\psi(7 \odot_{15}11)= 3 = \psi(7) \odot_{16} \psi(11)$
+$\psi(7 \odot_{15}13)= 1 = \psi(7) \odot_{16} \psi(13)$
+$\psi(7 \odot_{15}14)= 11 = \psi(7) \odot_{16} \psi(14)$
+$\psi(8 \odot_{15}1)= 11 = \psi(8) \odot_{16} \psi(1)$
+$\psi(8 \odot_{15}2)= 1 = \psi(8) \odot_{16} \psi(2)$
+$\psi(8 \odot_{15}4)= 3 = \psi(8) \odot_{16} \psi(4)$
+$\psi(8 \odot_{15}7)= 7 = \psi(8) \odot_{16} \psi(7)$
+$\psi(8 \odot_{15}8)= 9 = \psi(8) \odot_{16} \psi(8)$
+$\psi(8 \odot_{15}11)= 13 = \psi(8) \odot_{16} \psi(11)$
+$\psi(8 \odot_{15}13)= 15 = \psi(8) \odot_{16} \psi(13)$
+$\psi(8 \odot_{15}14)= 5 = \psi(8) \odot_{16} \psi(14)$
+$\psi(11 \odot_{15}1)= 7 = \psi(11) \odot_{16} \psi(1)$
+$\psi(11 \odot_{15}2)= 5 = \psi(11) \odot_{16} \psi(2)$
+$\psi(11 \odot_{15}4)= 15 = \psi(11) \odot_{16} \psi(4)$
+$\psi(11 \odot_{15}7)= 3 = \psi(11) \odot_{16} \psi(7)$
+$\psi(11 \odot_{15}8)= 13 = \psi(11) \odot_{16} \psi(8)$
+$\psi(11 \odot_{15}11)= 1 = \psi(11) \odot_{16} \psi(11)$
+$\psi(11 \odot_{15}13)= 11 = \psi(11) \odot_{16} \psi(13)$
+$\psi(11 \odot_{15}14)= 9 = \psi(11) \odot_{16} \psi(14)$
+$\psi(13 \odot_{15}1)= 13 = \psi(13) \odot_{16} \psi(1)$
+$\psi(13 \odot_{15}2)= 7 = \psi(13) \odot_{16} \psi(2)$
+$\psi(13 \odot_{15}4)= 5 = \psi(13) \odot_{16} \psi(4)$
+$\psi(13 \odot_{15}7)= 1 = \psi(13) \odot_{16} \psi(7)$
+$\psi(13 \odot_{15}8)= 15 = \psi(13) \odot_{16} \psi(8)$
+$\psi(13 \odot_{15}11)= 11 = \psi(13) \odot_{16} \psi(11)$
+$\psi(13 \odot_{15}13)= 9 = \psi(13) \odot_{16} \psi(13)$
+$\psi(13 \odot_{15}14)= 3 = \psi(13) \odot_{16} \psi(14)$
+$\psi(14 \odot_{15}1)= 15 = \psi(14) \odot_{16} \psi(1)$
+$\psi(14 \odot_{15}2)= 13 = \psi(14) \odot_{16} \psi(2)$
+$\psi(14 \odot_{15}4)= 7 = \psi(14) \odot_{16} \psi(4)$
+$\psi(14 \odot_{15}7)= 11 = \psi(14) \odot_{16} \psi(7)$
+$\psi(14 \odot_{15}8)= 5 = \psi(14) \odot_{16} \psi(8)$
+$\psi(14 \odot_{15}11)= 9 = \psi(14) \odot_{16} \psi(11)$
+$\psi(14 \odot_{15}13)= 3 = \psi(14) \odot_{16} \psi(13)$
+$\psi(14 \odot_{15}14)= 1 = \psi(14) \odot_{16} \psi(14)$
+$\square$
