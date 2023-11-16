@@ -18,10 +18,12 @@ Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume tha
 
 
 
-To prove that **G1** holds for $\langle S; \star, \tilde{\;}, f(e)\rangle$, we need to show that the operation $\star$ is associative.
+To prove that **G1** holds for $\langle S; \star, \tilde{\;}, f(e)\rangle$, we will show that the operation $\star$ is associative.
 
 Let $s_1,\: s_2,\: s_3 \in S$
-We need to show that $$
+We need to show that $(s_1 \ast s_2)\ast s_3= ()$
+
+$f(f^{−1}(f(f^{−1}(s_1​)\ast f^{−1}(s_2​)))\ast f^{−1}(s_3​))=f((f^{−1}(s_1​)\ast f^{−1}(s_2​))\ast f^{−1}(s_3​))$
 
 
 For ⋆: Let s1​,s2​,s3​∈S. We need to show that (s1​⋆s2​)⋆s3​=s1​⋆(s2​⋆s3​).

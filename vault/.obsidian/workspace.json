@@ -6,7 +6,6 @@
       {
         "id": "90253d8242356a1c",
         "type": "tabs",
-        "dimension": 47.13896457765668,
         "children": [
           {
             "id": "ad3cf7794a56cad8",
@@ -57,26 +56,6 @@
                 "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf"
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "cf586c111795c3ce",
-        "type": "tabs",
-        "dimension": 52.86103542234333,
-        "children": [
-          {
-            "id": "bf06e4cbea527418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
             "id": "b5d17d71f736f2f5",
@@ -89,21 +68,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "816891c7b8a2670b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/VRL/V14_körper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
