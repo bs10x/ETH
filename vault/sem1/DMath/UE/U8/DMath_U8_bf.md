@@ -12,7 +12,36 @@ Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume tha
 - the unary operation $\tilde{}$  on $S$ given by $\tilde{s} \overset{def}{=} f(\widehat{f^{-1}(s)})$.
  
   Prove the following statement. 
-  a) Axiom G1 ($\star$  and  $\tilde{}$  is associative) holds for $\langle S, \star, \tilde{\,}, f(e)\rangle$
+  a) Axiom G1 ($\star$ is associative) holds for $\langle S, \star, \tilde{\,}, f(e)\rangle$
+
+
+
+
+
+To prove that **G1** holds for $\langle S; \star, \tilde{\;}, f(e)\rangle$, we need to show that the operation $\star$ is associative.
+
+Let $s_1,\: s_2,\: s_3 \in S$
+We need to show that $$
+
+
+For ⋆: Let s1​,s2​,s3​∈S. We need to show that (s1​⋆s2​)⋆s3​=s1​⋆(s2​⋆s3​).
+
+By definition of ⋆, we have
+
+(s1​⋆s2​)⋆s3​=f(f−1(f(f−1(s1​)∗f−1(s2​)))∗f−1(s3​))=f((f−1(s1​)∗f−1(s2​))∗f−1(s3​)).
+
+And
+
+s1​⋆(s2​⋆s3​)=f(f−1(s1​)∗f−1(f(f−1(s2​)∗f−1(s3​))))=f(f−1(s1​)∗(f−1(s2​)∗f−1(s3​))).
+
+Since ⟨G,∗,^,e⟩ is a group, the operation ∗ is associative in G. Therefore, we have
+
+(f−1(s1​)∗f−1(s2​))∗f−1(s3​)=f−1(s1​)∗(f−1(s2​)∗f−1(s3​)).
+
+So, (s1​⋆s2​)⋆s3​=s1​⋆(s2​⋆s3​), which means ⋆ is associative on S.
+
+For ~: Let s∈S. We need to show that s~~=s.
+
 
 
 
