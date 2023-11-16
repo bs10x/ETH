@@ -55,7 +55,6 @@ $\langle\mathbb{Z}^*_{15}, \odot_{15}\rangle$
 
 
 
-
 $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 
 | $\odot_{16}$ | 1     | 3     | 9     | 11    | 5     | 7     | 13    | 15    |
@@ -68,7 +67,6 @@ $\langle\mathbb{Z}^*_{16}, \odot_{16}\rangle$
 | **7**        | 7     | 5     | 15    | 13    | 3     | ==1== | 11    | 9     |
 | **13**       | 13    | 7     | 5     | 15    | ==1== | 11    | 9     | 3     |
 | **15**       | 15    | 13    | 7     | 5     | 11    | 9     | 3     | ==1== |
-
 
 
 
@@ -92,7 +90,6 @@ To do this, we must prove, that for all $a,$  $b$ $\in\mathbb{Z}^*_{15}$
 $$
 \psi(a\odot_{15}b)=\psi(a)\odot_{16}\psi(b)
 $$
-
 
 
 
