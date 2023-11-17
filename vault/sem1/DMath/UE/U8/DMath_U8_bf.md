@@ -1,4 +1,4 @@
-
+[[V14_körper]]
 ## 8.3
 
 Let $\langle G,*,\hat\, , e\rangle$ be a group, and let $S$ be a set. Assume that $f : G \rightarrow S$ is a bijection, and consider

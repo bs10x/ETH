@@ -1,3 +1,4 @@
+[[sem1/DMath/VRL/V12_|V12_]]
 ## 7.3
 Prove that for all positive integers a, b, c:
 $$gcd(a,\,lcm(b,\,c)) = lcm(gcd(a,\,b),\,gcd(a,\,c))$$
