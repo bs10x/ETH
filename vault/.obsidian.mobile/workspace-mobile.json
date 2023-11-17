@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c6fcd4150f503ea",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb103e49f1285d66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/VRL/V10_posets.md",
+            "file": "test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/VRL/V10_posets.md",
+            "file": "test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "sem1/DMath/VRL/V10_posets.md"
+            "file": "test.md"
           }
         }
       },
@@ -141,47 +162,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e18d41a158686c3",
+  "active": "cb103e49f1285d66",
   "lastOpenFiles": [
-    "sem1/DMath/UE/U3/DMath_U3_s.pdf",
-    "sem1/DMath/UE/U4/DMath_u4_s.pdf",
-    "sem1/AuD/UE/U5",
-    "sem1/DMath/UE/U5",
-    "sem1/AuD/UE/U3/AuD_U3_s.pdf",
-    "sem1/AuD/UE/U5/AuD_U5_e.pdf",
-    "sem1/DMath/UE/U4/DMath_U4_e.pdf",
-    "sem1/LinAlg/UE/U4",
-    "sem1/DMath/UE/U5/DMath_U5_e.pdf",
-    "sem1/AuD/UE/U4/AuD_U4_s.pdf",
-    "sem1/LinAlg/UE/U3/LinAlg_U3_s.pdf",
+    "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
+    "sem1/AuD/lib/AuD_script.pdf",
+    "sem1/AuD/lib/AuD_s04_search-&sorting-algorithms.pdf",
+    "sex.md",
+    "sem1/LinAlg/UE/U4/LinAlg_U4_s.pdf",
+    "sem1/LinAlg/lib",
+    "var/sem1_schedule.jpg",
+    "sem1/LinAlg/UE/U7",
+    "sem1/AuD/lib/AuD_s01_algorithmen.pdf",
+    "sem1/EProg/lib/EProg_s06_hoare-trippel.pdf",
+    "sem1/EProg/lib/EProg_s04_methoden.pdf",
+    "sem1/EProg/lib/EProg_lib.md",
+    "sem1/EProg/lib/EProg.md",
+    "sem1/EProg/lib/EProg_s01_ebnf.pdf",
+    "sem1/EProg/lib/EProg_vk_ex.1.x-5.x.pdf",
+    "var/computer science is a lie!!!.md",
+    "sem1/DMath/lib/DMath_lib.md",
+    "sem1/DMath/lib/DMath.md",
+    "var/var.md",
+    "sem1/DMath/VRL/V14_körper.md",
+    "var/err-log of my struggles.md",
+    "sem1/LinAlg/UE/U7/AuD_U7_bf.md",
+    "sem1/DMath/UE/U7/DMath_U7_bf.md",
+    "sem1/DMath/UE/U6/DMath_u6_bf.md",
+    "var/literature2buy?.md",
+    "var/keeping track of my work.md",
+    "var/ersti tag.md",
+    "sem1/LinAlg/lib/LinAlg.md",
+    "sem1/DMath/UE/U8/DMath_U8_bf.md",
+    "var/configure fzf for fish.md",
+    "sem1/LinAlg/lib/LinAlg_lib.md",
+    "var/prüfungsvorbereitung.md",
+    "test.md",
+    "sem1/AuD/lib/AuD_lib.md",
+    "sem1/AuD/lib/AuD.md",
+    "sem1/DMath/VRL/V10_posets.md",
     "var/sem1/sem1_schedule.jpg",
     "var/sem1/literature2buy?.md",
-    "var/sem1/info.md",
-    "var/sem1/ersti tag.md",
-    "sem1/DMath/VRL/V09_.md",
-    "doc/deploy-gh-wf.md",
-    "doc/mbp-setup.md",
-    "doc/apple-shortcuts.md",
-    "var/literature2buy?.md",
-    "Untitled.md",
-    "sem1/DMath/VRL/V07_.md",
-    "sem1/DMath/VRL/V08_relations.md",
-    "sem1/DMath/VRL/V06_lemmas, mengen.md",
-    "sem1/AuD/UE/U3/test.md",
-    "var/ersti tag.md",
     "var/Pasted image 20231015075427.jpg",
-    "var/sem1_schedule.jpg",
-    "sem1/EProg/VRL/V06_.md",
-    "sem1/EProg/src/EProg_src.md",
-    "hallo svea.md",
-    "DMath_U3_bf.md",
-    "Untitled.canvas",
-    "test3.md",
-    "test2.md",
-    "test.md",
-    "sem1/AuD/src/AuD_src.md",
-    "sem1/EProg/VRL/V05_verzweigungen, schleifen.md",
-    "sem1/DMath/VRL/V05_equivalence transformations.md",
-    "sem1/DMath/src/DMath_src.md"
+    "Untitled.canvas"
   ]
 }
