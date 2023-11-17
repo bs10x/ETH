@@ -26,21 +26,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "cb103e49f1285d66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +110,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -162,7 +148,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb103e49f1285d66",
+  "active": "4802a04bb15b374a",
   "lastOpenFiles": [
     "test2",
     "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
