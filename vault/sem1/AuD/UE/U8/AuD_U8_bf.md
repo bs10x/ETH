@@ -5,4 +5,23 @@ In this exercise, we want to prove the following statement: Among any six people
 a)
 *Prove the above statement, i.e. that in every possible graph on 6 vertices, there are three vertices that are all pairwise adjacent or there are three vertices that are all pairwise not adjacent.*
 
-We will prove this using case distinction. Let's imagine the graph $G$ with the six vertices {a, b, c, d, e, f}. To model the edges, we will utilise a matrix, where each column and row represent a vertex and it's possible edges. since we don
+We will prove this using case distinction. Let's imagine the graph $G$ with the six vertices {a, b, c, d, e, f}. To model the edges, we will utilise a matrix, where each column and row represent a vertex and it's possible edges. since we don't want to count edges twice (symetry) and a vertex can't be connected to itself, the matrix looks like this:
+
+$$
+\begin{bmatrix}
+\\
+0 or 1\\
+0 or 1 & 0 or 1\\
+0 or 1 & 0 or 1 & 0 or 1\\
+0 or 1 & 0 or 1 & 0 or 1 & 0 or 1\\
+0 or 1 & 0 or 1 & 0 or 1 & 0 or 1 & 0 or 1\\
+\end{bmatrix}
+$$
+
+
+$$
+\begin{bmatrix}
+a & b\\
+a & b
+\end{bmatrix}
+$$
