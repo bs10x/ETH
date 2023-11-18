@@ -21,9 +21,11 @@
             "id": "b96bd7f0a7b562e6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_bf.pdf"
+                "file": "sem1/AuD/UE/U8/AuD_U8_bf.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_bf.pdf",
+                "file": "sem1/AuD/UE/U8/AuD_U8_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_bf.pdf",
+                "file": "sem1/AuD/UE/U8/AuD_U8_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U8/DMath_U8_bf.pdf"
+                "file": "sem1/AuD/UE/U8/AuD_U8_bf.md"
               }
             }
           },
@@ -175,11 +178,14 @@
   },
   "active": "b96bd7f0a7b562e6",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U8/DMath_U8_bf.pdf",
+    "sem1/AuD/UE/U8/AuD_U8_bf.md",
+    "sem1/AuD/UE/U8",
+    "sem1/AuD/UE/U7",
     "sem1/DMath/UE/U6/DMath_u6_bf.md",
     "sem1/DMath/UE/U7/DMath_U7_bf.md",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
     "sem1/LinAlg/UE/U7/AuD_U7_bf.md",
-    "sem1/DMath/UE/U8/DMath_U8_bf.pdf",
     "sem1/DMath/UE/U8/AuD_U8_e.pdf.md",
     "sem1/DMath/UE/U7/DMath_U7_bf.pdf",
     "var/configure fzf for fish.md",
@@ -199,8 +205,6 @@
     "sem1/AuD/VRL/V08_.md",
     "sem1/AuD/VRL/V07_.md",
     "sem1/AuD/VRL/V05_.md",
-    "sem1/LinAlg/UE/U7",
-    "sem1/LinAlg/UE/U6",
     "sem1/EProg/VRL/V10_.md",
     "sem1/AuD/VRL/Untitled.canvas",
     "sem1/DMath/VRL/V13_.md",
@@ -210,7 +214,6 @@
     "sem1/DMath/lib/DMath.md",
     "sem1/AuD/lib/AuD_lib.md",
     "sem1/DMath/VRL/V11_.md",
-    "sem1/DMath/VRL/V12_.md",
     "var/sem1_schedule.jpg",
     "Untitled.canvas"
   ]
