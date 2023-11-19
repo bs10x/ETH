@@ -12,13 +12,14 @@ We will prove this using case distinction. Let's imagine the graph $G$ with the 
 
 
 $$
-\begin{array}{c|c|c|c|c|c} 
-a & b & c & d & e & f\\
-b \\
-c\\
-d\\
-e\\
-f\
+\begin{array}{c|c|c|c|c|c|c} 
+& a & b & c & d & e & f\\\hline
+a & \times \\\hline
+b \\\hline
+c \\\hline
+d \\\hline
+e \\\hline
+f \\
 
 
 \end{array}
