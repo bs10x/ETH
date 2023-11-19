@@ -5,17 +5,13 @@ In this exercise, we want to prove the following statement: Among any six people
 a)
 *Prove the above statement, i.e. that in every possible graph on 6 vertices, there are three vertices that are all pairwise adjacent or there are three vertices that are all pairwise not adjacent.*
 
-We will prove this using case distinction. Let's imagine the graph $G$ with the six vertices {a, b, c, d, e, f}. To model the edges, we will utilise a matrix, where each column and row represent a vertex and it's possible edges. since we don't want to count edges twice (symetry) and a vertex can't be connected to itself, the matrix looks like this, for the cases where everyone knows everyone and no one knows anybody, respectively:
+We will prove this using case distinction. Let's imagine the graph $G$ with the six vertices {a, b, c, d, e, f}. To model the edges, we will utilise an adjacency table, where each column represent a vertex and the rows contain its degree, i.e. what other vertices it's connected to. since we don't want to count edges twice (symetry) and a vertex can't be connected to itself, the matrix looks like this, for the cases where everyone knows everyone and no one knows anybody, respectively:
 
 $$
-\begin{array}{c|c|c|c|c|c|c} 
-& a & b & c & d & e & f\\\hline
-a & \\\hline
-b & 1 \\\hline
-c & 1 & 1 \\\hline
-d & 1 & 1 & 1 \\\hline
-e & 1 & 1 & 1 & 1 \\\hline
-f & 1 & 1 & 1 & 1 & 1 \\
+\begin{array}{c|c|c|c|c|c} 
+a & b & c & d & e & f \\\hline
+5 & 5 & 5 & 5 & 5 & 5 \\\hline
+\text{b, c, d, e, f} & \text{c, d, e, f, a} & \text{d, e, f, a, b} & \text{e, f, a, b, c} & \text{f, a, b, c, d} & \text{a, b, c, d, e} \\
 \end{array}
 $$
 

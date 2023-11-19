@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
+                "file": "sem1/AuD/UE/U8/AuD_U8_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
+                "file": "sem1/AuD/UE/U8/AuD_U8_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf"
+                "file": "sem1/AuD/UE/U8/AuD_U8_bf.md"
               }
             }
           },
@@ -186,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94e5589806692ca1",
+  "active": "77e6a3a0dec7493a",
   "lastOpenFiles": [
-    "sem1/AuD/UE/U8/AuD_U8_bf.md",
     "sem1/AuD/lib/AuD_graph-theory_new&concise.pdf",
+    "sem1/AuD/UE/U8/AuD_U8_bf.md",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/DMath/VRL/V04_logical formulas.md",
     "sem1/DMath/VRL/V03_predicates.md",
