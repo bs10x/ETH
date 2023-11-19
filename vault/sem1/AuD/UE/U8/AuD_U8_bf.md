@@ -27,3 +27,8 @@ $$
 we note that for any three people to not know each other means, that there exists a cycle between their respective vertices, so for example $a$ knows $b$, $b$ knows $c$, and $c$ knows $a$ (and of course vice versa). we can denote this property as follows: if two people know each other, find a third who they both know. that is a cycle between three friends. if we start randomly adding edges, we note, that there always a set of two vertices, together with a third, that are all not connected until we reach 6 edges. at this point however, the only way for there to not be a cycle of strangers, there must be two cycles already. after we add four more, we note that there must now exist at least one cycle between three vertices. that is because at nine edges every vertex must be connected to at least two other vertex, and thus, no matter where we draw the tenth edge, a cycle will close.
 
 
+
+
+b)
+Is the statement also true for five people? In other words, does the following hold: For any graph $G = (V, E)$ with 5 vertices, there are either three vertices that are all pairwise adjacent or there are three vertices that are all pairwise not adjacent (or both). Provide a proof or a counterexample.
+
