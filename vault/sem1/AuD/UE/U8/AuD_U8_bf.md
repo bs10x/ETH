@@ -32,3 +32,13 @@ we note that for any three people to not know each other means, that there exist
 b)
 Is the statement also true for five people? In other words, does the following hold: For any graph $G = (V, E)$ with 5 vertices, there are either three vertices that are all pairwise adjacent or there are three vertices that are all pairwise not adjacent (or both). Provide a proof or a counterexample.
 
+disproven by counterexample. observe the adjacency table for the following graph:
+
+$$
+\begin{array}{c|c|c|c|c} 
+a & b & c & d & e \\\hline
+2 & 2 & 2 & 2 & 2 \\\hline
+\text {b, d} & \text{a, e} & \text{d, e} & \text {a, c} & \text{b, c}\\
+\end{array}
+$$
+since it's not possible to find two unconnected vertic
