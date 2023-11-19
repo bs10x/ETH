@@ -5,8 +5,7 @@ In this exercise, we want to prove the following statement: Among any six people
 a)
 *Prove the above statement, i.e. that in every possible graph on 6 vertices, there are three vertices that are all pairwise adjacent or there are three vertices that are all pairwise not adjacent.*
 
-We will prove this using case distinction. Let's imagine the graph $G$ with the six vertices {a, b, c, d, e, f}. To model the edges, we will utilise a matrix, where each column and row represent a vertex and it's possible edges. since we don't want to count edges twice (symetry) and a vertex can't be connected to itself, the matrix looks like this:
-
+We will prove this using case distinction. Let's imagine the graph $G$ with the six vertices {a, b, c, d, e, f}. To model the edges, we will utilise a matrix, where each column and row represent a vertex and it's possible edges. since we don't want to count edges twice (symetry) and a vertex can't be connected to itself, the matrix looks like this, for the cases where everyone knows everyone and no one knows anybody, respectively:
 
 
 
@@ -14,30 +13,28 @@ We will prove this using case distinction. Let's imagine the graph $G$ with the 
 $$
 \begin{array}{c|c|c|c|c|c|c} 
 & a & b & c & d & e & f\\\hline
-a & \times \\\hline
-b \\\hline
-c \\\hline
-d \\\hline
-e \\\hline
-f \\
-
-
+a & \\\hline
+b & 1 \\\hline
+c & 1 & 1 \\\hline
+d & 1 & 1 & 1 \\\hline
+e & 1 & 1 & 1 & 0 \\\hline
+f & 1 & 1 & 0 & 0 & 0 \\
 \end{array}
 $$
 
 
-
-
-
 $$
-\begin{bmatrix}
-\\
-\text{0 or 1}\\
-\text{0 or 1} & \text{0 or 1}\\
-\text{0 or 1} & \text{0 or 1} & \text{0 or 1}\\
-\text{0 or 1} & \text{0 or 1} & \text{0 or 1} & \text{0 or 1}\\
-\text{0 or 1} & \text{0 or 1} & \text{0 or 1} & \text{0 or 1} & \text{0 or 1}\\
-\end{bmatrix}
+\begin{array}{c|c|c|c|c|c|c} 
+& a & b & c & d & e & f\\\hline
+a & \\\hline
+b & 0 \\\hline
+c & 0 & 0 \\\hline
+d & 0 & 0 & 0 \\\hline
+e & 0 & 0 & 0 & 0 \\\hline
+f & 0 & 0 & 0 & 0 & 0 \\
+\end{array}
 $$
+
+
 
 
