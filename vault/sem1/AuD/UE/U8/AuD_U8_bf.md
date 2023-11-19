@@ -24,36 +24,6 @@ a & b & c & d & e & f \\\hline
 \end{array}
 $$
 
-we note that for any three people to not know each other means, that there exists a cycle between their respective vertices, so for example $a$ knows $b$, $b$ knows $c$, and $c$ knows $a$ (and of course vice versa). we can denote this property as follows: if two people know each other, find a third who they both know. that is a cycle between three friends. if we start randomly adding edges, we note, that there always a set of two vertices, together with a third, that are all not connected until we reach 6 edges. at this point however, the only way for there to not be a cycle of strangers, there must be 
+we note that for any three people to not know each other means, that there exists a cycle between their respective vertices, so for example $a$ knows $b$, $b$ knows $c$, and $c$ knows $a$ (and of course vice versa). we can denote this property as follows: if two people know each other, find a third who they both know. that is a cycle between three friends. if we start randomly adding edges, we note, that there always a set of two vertices, together with a third, that are all not connected until we reach 6 edges. at this point however, the only way for there to not be a cycle of strangers, there must be two cycles already. after we add four more, we note that there must now exist at least one cycle between three vertices. that is because at nine edges every vertex must be connected to at least two other vertex, and thus, no matter where we draw the tenth edge, a cycle will close.
 
 
-
-
-
-
-$$
-\begin{array}{c|c|c|c|c|c|c} 
-& a & b & c & d & e & f\\\hline
-a & \\\hline
-b & 0 \\\hline
-c & 0 & 0 \\\hline
-d & 0 & 0 & 0 \\\hline
-e & 0 & 0 & 0 & 0 \\\hline
-f & 0 & 0 & 0 & 0 & 0 \\
-\end{array}
-$$
-
-
-
-
-$$
-\begin{array}{c|c|c|c|c|c|c} 
-& a & b & c & d & e & f\\\hline
-a & \\\hline
-b & 1 \\\hline
-c & 0 & 1 \\\hline
-d & 1 & 0 & 1 \\\hline
-e & 0 & 1 & 0 & 1 \\\hline
-f & 1 & 0 & 1 & 0 & 1 \\
-\end{array}
-$$
