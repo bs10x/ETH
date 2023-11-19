@@ -15,7 +15,6 @@ a & b & c & d & e & f \\\hline
 \end{array}
 $$
 
-
 $$
 \begin{array}{c|c|c|c|c|c} 
 a & b & c & d & e & f \\\hline
@@ -41,4 +40,29 @@ a & b & c & d & e \\\hline
 \text {b, d} & \text{a, e} & \text{d, e} & \text {a, c} & \text{b, c}\\
 \end{array}
 $$
-since it's not possible to find two unconnected vertic
+
+since it's not possible to find two unconnected vertices with a third that isn't connected to either, but there's also no closed cycle between three vertices, the statement is disproven.
+
+
+## 8.5
+In the following, let $G = (V, E)$ be a graph, $n = |V|$ and $m = |E|$.
+
+a)
+Let $v \neq w \in V$. Prove that if there is a walk with endpoints $v$ and $w$, then there is a path with endpoints $v$ and $w$.
+
+
+For each of the following statements, decide whether the statement is true or false. If the statement is true, provide a proof; if it is false, provide a counterexample.
+b)
+Every graph with <$m \geq n$ is connected.
+
+c)
+If $G$ contains a Hamiltonian path, then $G$ contains a Eulerian walk.
+
+d)
+If every vertex of a non-empty graph $G$ has degree at least 2, then $G$ contains a cycle.
+
+e)
+Suppose in a graph G every pair of vertices v, w has a common neighbour (i.e., for all distinct vertices v, w, there is a vertex x such that {v, x} and {w, x} are both edges). Then there exists a vertex p in G which is a neighbour of every other vertex in G (i.e., p has degree n − 1).
+
+f)
+Let G be a connected graph with at least 3 vertices. Suppose there exists a vertex vcut in G so that after deleting vcut, G is no longer connected. Then G does not have a Hamiltonian cycle. (Deleting a vertex v means that we remove v and any edge containing v from the graph)
