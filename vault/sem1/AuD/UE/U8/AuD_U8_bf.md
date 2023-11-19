@@ -7,6 +7,20 @@ a)
 
 We will prove this using case distinction. Let's imagine the graph $G$ with the six vertices {a, b, c, d, e, f}. To model the edges, we will utilise a matrix, where each column and row represent a vertex and it's possible edges. since we don't want to count edges twice (symetry) and a vertex can't be connected to itself, the matrix looks like this:
 
+
+
+
+
+$$
+\begin{array}{c|c|c|c|c|c}
+
+\end{array}
+$$
+
+
+
+
+
 $$
 \begin{bmatrix}
 \\
