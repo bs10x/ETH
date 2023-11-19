@@ -10,18 +10,12 @@ We will prove this using case distinction. Let's imagine the graph $G$ with the 
 $$
 \begin{bmatrix}
 \\
-0 or 1\\
-0 or 1 & 0 or 1\\
-0 or 1 & 0 or 1 & 0 or 1\\
-0 or 1 & 0 or 1 & 0 or 1 & 0 or 1\\
-0 or 1 & 0 or 1 & 0 or 1 & 0 or 1 & 0 or 1\\
+\text{0 or 1}\\
+\text{0 or 1} & \text{0 or 1}\\
+\text{0 or 1} & \text{0 or 1} & \text{0 or 1}\\
+\text{0 or 1} & \text{0 or 1} & \text{0 or 1} & \text{0 or 1}\\
+\text{0 or 1} & \text{0 or 1} & \text{0 or 1} & \text{0 or 1} & \text{0 or 1}\\
 \end{bmatrix}
 $$
 
 
-$$
-\begin{bmatrix}
-a & b\\
-a & b
-\end{bmatrix}
-$$
