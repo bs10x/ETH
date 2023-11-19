@@ -11,9 +11,25 @@ $$
 \begin{array}{c|c|c|c|c|c} 
 a & b & c & d & e & f \\\hline
 5 & 5 & 5 & 5 & 5 & 5 \\\hline
-\text{b, c, d, e, f} & \text{c, d, e, f, a} & \text{d, e, f, a, b} & \text{e, f, a, b, c} & \text{f, a, b, c, d} & \text{a, b, c, d, e} \\
+b\\ c\\ d\\ e\\ f & c\\ d\\ e\\ f & \text{d, e, f, a, b} & \text{e, f, a, b, c} & \text{f, a, b, c, d} & \text{a, b, c, d, e} \\
 \end{array}
 $$
+
+
+$$
+\begin{array}{c|c|c|c|c|c} 
+a & b & c & d & e & f \\\hline
+0 & 0 & 0 & 0 & 0 & 0 \\\hline
+\\
+\end{array}
+$$
+
+we note that for any three people to not know each other means, that there exists a cycle between their respective vertices, so for example $a$ knows $b$, $b$ knows $c$, and $c$ knows $a$ (and of course vice versa). we can denote this property as follows: if two people know each other, find a third who they both know. that is a cycle between three friends.
+
+
+
+
+
 
 $$
 \begin{array}{c|c|c|c|c|c|c} 
