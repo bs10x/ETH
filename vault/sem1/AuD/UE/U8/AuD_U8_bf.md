@@ -34,3 +34,14 @@ $$
 
 
 
+$$
+\begin{array}{c|c|c|c|c|c|c} 
+& a & b & c & d & e & f\\\hline
+a & \\\hline
+b & 1 \\\hline
+c & 0 & 1 \\\hline
+d & 1 & 0 & 1 \\\hline
+e & 0 & 1 & 0 & 1 \\\hline
+f & 1 & 0 & 1 & 0 & 1 \\
+\end{array}
+$$
