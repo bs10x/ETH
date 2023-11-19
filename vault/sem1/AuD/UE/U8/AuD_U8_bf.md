@@ -12,7 +12,7 @@ We will prove this using case distinction. Let's imagine the graph $G$ with the 
 
 
 $$
-\begin{array}{c|c|c|c|c|c}
+\begin{array}{c|c|c|c|c|c} stopid bitch
 
 \end{array}
 $$
