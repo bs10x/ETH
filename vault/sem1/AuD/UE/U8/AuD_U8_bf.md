@@ -7,9 +7,6 @@ a)
 
 We will prove this using case distinction. Let's imagine the graph $G$ with the six vertices {a, b, c, d, e, f}. To model the edges, we will utilise a matrix, where each column and row represent a vertex and it's possible edges. since we don't want to count edges twice (symetry) and a vertex can't be connected to itself, the matrix looks like this, for the cases where everyone knows everyone and no one knows anybody, respectively:
 
-
-
-
 $$
 \begin{array}{c|c|c|c|c|c|c} 
 & a & b & c & d & e & f\\\hline
@@ -17,11 +14,10 @@ a & \\\hline
 b & 1 \\\hline
 c & 1 & 1 \\\hline
 d & 1 & 1 & 1 \\\hline
-e & 1 & 1 & 1 & 0 \\\hline
-f & 1 & 1 & 0 & 0 & 0 \\
+e & 1 & 1 & 1 & 1 \\\hline
+f & 1 & 1 & 1 & 1 & 1 \\
 \end{array}
 $$
-
 
 $$
 \begin{array}{c|c|c|c|c|c|c} 
