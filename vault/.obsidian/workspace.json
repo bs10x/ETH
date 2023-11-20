@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -172,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7aedf7e8bfc42383",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem1/AuD/UE/U9/AuD_U9_e.pdf",
+    "sem1/AuD/UE/U9",
     "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U9/DMath_u9_bf.md",
     "sem1/DMath/UE/U9/DMath_U9_e.pdf",
@@ -209,7 +209,6 @@
     "sem1/LinAlg/lib/LinAlg_pvw_HS22.pdf",
     "sem1/LinAlg/lib/LinAlg_lib.md",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
-    "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
     "sem1/LinAlg/lib/LinAlg.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
