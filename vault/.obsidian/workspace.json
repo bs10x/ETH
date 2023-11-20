@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/UE/U9/DMath_u9_bf.md",
+                "file": "var/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U9/DMath_u9_bf.md",
+                "file": "var/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U9/DMath_u9_bf.md",
+                "file": "var/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U9/DMath_u9_bf.md"
+                "file": "var/test.md"
               }
             }
           },
@@ -184,15 +184,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "7aedf7e8bfc42383",
   "lastOpenFiles": [
+    "var/var.md",
+    "sem1/DMath/UE/U9/DMath_u9_bf.md",
     "sem1/AuD/UE/U9/AuD_U9_e.pdf",
     "sem1/AuD/UE/U9",
     "sem1/DMath/lib/DMath_script.pdf",
-    "sem1/DMath/UE/U9/DMath_u9_bf.md",
     "sem1/DMath/UE/U9/DMath_U9_e.pdf",
     "sem1/DMath/UE/U9",
-    "var/var.md",
     "var/sem1_schedule.jpg",
     "var/prüfungsvorbereitung.md",
     "var/literature2buy?.md",
@@ -204,11 +204,10 @@
     "var/attachments/PP_ersti-tag_D-INFK.pdf",
     "var/attachments",
     "var",
-    "sex.md",
+    "var/test.md",
     "sem1/LinAlg/lib/LinAlg_script.pdf",
     "sem1/LinAlg/lib/LinAlg_pvw_HS22.pdf",
     "sem1/LinAlg/lib/LinAlg_lib.md",
-    "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/LinAlg/lib/LinAlg.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
