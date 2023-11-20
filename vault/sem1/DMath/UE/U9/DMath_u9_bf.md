@@ -20,6 +20,27 @@ $$
 & = a 0 + (-a) b \qquad\text{a0 = 0}\\
 & = a (-b + b) + (-a) b \qquad \text{G3 von ...}\\
 & = a (-b) + a b + (-a) b \qquad\text{Distributiv. von R.} \\
-& = a(-b) + (a+(-a))
+& = a(-b) + (a+(-a)) b \qquad \text{} \\
+& = a(-b) + 0b \qquad \text{} \\
+& = a(-b) + 0 \qquad \text{} \\
+& = a(-b) \\
+& \square
 \end{align}
 $$
+
+
+
+
+
+
+
+
+
+
+Definition 5.18.
+A ring 〈R; +, −, 0, ·, 1〉 is an algebra for which
+(i) 〈R; +, −, 0〉 is a commutative group.
+(ii) 〈R; ·, 1〉 is a monoid.
+(iii) a(b + c) = (ab) + (ac) and (b + c)a = (ba) + (ca) for all a, b, c ∈ R (left and right distributive laws).
+A ring is called commutative if multiplication is commutative (ab = ba).
+20
