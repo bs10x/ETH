@@ -1,6 +1,6 @@
 
 ## 9.4
-In this exercise, you prove the remark in Chapter 5, Footnote 20 of the lecture notes. Consider an algebra $\langle R; +, 1, 0, \cdot, 1\rangle$ such that:
+In this exercise, you prove the remark in Chapter 5, Footnote 20 of the lecture notes. Consider an algebra $\langle R; +, -, 0, \cdot, 1\rangle$ such that:
 
 i) $\langle R; +, -, 0\rangle$ is a group.
 ii) $\langle R; \cdot, 1\rangle$ is a monoid.
