@@ -44,3 +44,58 @@ A ring 〈R; +, −, 0, ·, 1〉 is an algebra for which
 (iii) a(b + c) = (ab) + (ac) and (b + c)a = (ba) + (ca) for all a, b, c ∈ R (left and right distributive laws).
 A ring is called commutative if multiplication is commutative (ab = ba).
 20
+
+
+
+
+
+
+// TODO //
+
+
+To prove that ��=��ab=ba for all �,�∈�a,b∈R, we will use the given axioms:
+
+i) ⟨�;+,−,0⟩⟨R;+,−,0⟩ is a group. ii) ⟨�;⋅,1⟩⟨R;⋅,1⟩ is a monoid. iii) �(�+�)=��+��a(b+c)=ab+ac and (�+�)�=��+��(b+c)a=ba+ca for all �,�,�,∈�a,b,c,∈R.
+
+Let's proceed with the proof:
+
+Consider the expression (1+1)(�+�)(1+1)(a+b). We can simplify this expression using the distributive property:
+
+(1+1)(�+�)=1(�+�)+1(�+�)(1+1)(a+b)=1(a+b)+1(a+b)
+
+Now, using the distributive property again, we get:
+
+1(�+�)+1(�+�)=�+�+�+�1(a+b)+1(a+b)=a+b+a+b
+
+Combine like terms:
+
+�+�+�+�=(�+�)+(�+�)a+b+a+b=(a+a)+(b+b)
+
+Now, let's use the associativity property of addition in the group ⟨�;+,−,0⟩⟨R;+,−,0⟩:
+
+(�+�)+(�+�)=�+(�+�)+�(a+a)+(b+b)=a+(a+b)+b
+
+Now, apply the given distributive property �(�+�)=��+��a(b+c)=ab+ac:
+
+�+(�+�)+�=�+��+�a+(a+b)+b=a+ab+b
+
+Now, use the commutativity property of addition in the group ⟨�;+,−,0⟩⟨R;+,−,0⟩ (since �a and �b are elements of this group):
+
+�+��+�=�+�+��a+ab+b=a+b+ab
+
+Now, use the given distributive property (�+�)�=��+��(b+c)a=ba+ca:
+
+�+�+��=�+�+��a+b+ab=a+b+ba
+
+Finally, subtract �+�a+b from both sides:
+
+��=��ab=ba
+
+This completes the proof that ��=��ab=ba for all �,�∈�a,b∈R, and the algebra satisfies Definition 5.18 in the lecture notes.
+
+
+
+
+
+
+
