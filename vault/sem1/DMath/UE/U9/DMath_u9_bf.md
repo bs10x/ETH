@@ -16,6 +16,10 @@ Hint: consider (1 + 1)(a + b).
 
 $$
 \begin{align}
-(-a)\cdot b = & 0 + (-a)\cdot b \qquad \text{G2 von \langle R; \rangle}
+(-a) b &= 0 + (-a) b \qquad \text{G2 von \langle R; +, -, 0, $\cdot$, 1\rangle}\\
+& = a 0 + (-a) b \qquad\text{a0 = 0}\\
+& = a (-b + b) + (-a) b \qquad \text{G3 von ...}\\
+& = a (-b) + a b + (-a) b \qquad\text{Distributiv. von R.} \\
+& = a(-b) + (a+(-a))
 \end{align}
 $$
