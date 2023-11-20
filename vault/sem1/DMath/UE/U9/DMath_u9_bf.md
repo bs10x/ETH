@@ -11,3 +11,11 @@ Prove that such an algebra satisfies Definition 5.18 in the lecture notes. Each 
 Hint: consider (1 + 1)(a + b).
 
 
+
+
+
+$$
+\begin{align}
+(-a)\cdot b = & 0 + (-a)\cdot b \qquad \text{G2 von \langle R; \rangle}
+\end{align}
+$$
