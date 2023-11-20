@@ -1,5 +1,3 @@
-| * bf375cf vault backup: 2023-10-04 19:24:25 from MacBook
-| * 43a8ad9 vault backup: 2023-10-04 19:14:23 from MacBook
 | * 8ed4223 vault backup: 2023-09-27 18:36:11
 | * 5683c1f vault backup: 2023-09-27 18:16:11
 | * fc6f232 vault backup: 2023-09-27 18:05:20
