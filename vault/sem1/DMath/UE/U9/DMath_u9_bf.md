@@ -82,6 +82,12 @@ A ring $\langle R; +, -, 0, \cdot, 1\rangle$ is an algebra for which
 
 
 
+Lemma 5.17. For any ring $\langle R; +, -, 0, \cdot, 1\rangle$, and for all $a, b \in R$,
+(i) $0a = a0 = 0$
+(ii)$(−a)b = −(ab)$
+(iii) $(−a)(−b) = ab$
+(iv) If $R$ is non-trivial (i.e., if it has more than one element), then $1 \neq 0$
+
 
 
 
