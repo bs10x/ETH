@@ -11,6 +11,14 @@ Prove that such an algebra satisfies Definition 5.18 in the lecture notes. Each 
 Hint: consider (1 + 1)(a + b).
 
 
+$$
+\begin{align}
+ab &= (1+1)(a+b)
+&=
+\end{align}
+$$
+
+
 
 
 
