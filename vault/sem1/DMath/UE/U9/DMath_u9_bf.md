@@ -99,37 +99,36 @@ Lemma 5.17. For any ring $\langle R; +, -, 0, \cdot, 1\rangle$, and for all $a, 
 
 Let's proceed with the proof:
 
-Consider the expression (1+1)(�+�)(1+1)(a+b). We can simplify this expression using the distributive property:
+Consider the expression ((1+1)(a+b). We can simplify this expression using the distributive property:
 
-(1+1)(�+�)=1(�+�)+1(�+�)(1+1)(a+b)=1(a+b)+1(a+b)
+(1+1)(a+b)=1(a+b)+1(a+b)
 
 Now, using the distributive property again, we get:
 
-1(�+�)+1(�+�)=�+�+�+�1(a+b)+1(a+b)=a+b+a+b
+1(a+b)+1(a+b)=a+b+a+b
 
 Combine like terms:
 
-�+�+�+�=(�+�)+(�+�)a+b+a+b=(a+a)+(b+b)
+a+b+a+b=(a+a)+(b+b)
 
 Now, let's use the associativity property of addition in the group ⟨�;+,−,0⟩⟨R;+,−,0⟩:
 
-(�+�)+(�+�)=�+(�+�)+�(a+a)+(b+b)=a+(a+b)+b
+(a+a)+(b+b)=a+(a+b)+b
 
-Now, apply the given distributive property �(�+�)=��+��a(b+c)=ab+ac:
+Now, apply the given distributive property a(b+c)=ab+ac:
 
-�+(�+�)+�=�+��+�a+(a+b)+b=a+ab+b
+a+(a+b)+b=a+ab+b
 
 Now, use the commutativity property of addition in the group ⟨�;+,−,0⟩⟨R;+,−,0⟩ (since �a and �b are elements of this group):
 
-�+��+�=�+�+��a+ab+b=a+b+ab
+a+ab+b=a+b+ab
 
-Now, use the given distributive property (�+�)�=��+��(b+c)a=ba+ca:
+Now, use the given distributive property (b+c)a=ba+ca:
 
-�+�+��=�+�+��a+b+ab=a+b+ba
+a+b+ab=a+b+ba
 
-Finally, subtract �+�a+b from both sides:
-
-��=��ab=ba
+Finally, subtract a+b from both sides:
+ab=ba
 
 This completes the proof that ��=��ab=ba for all �,�∈�a,b∈R, and the algebra satisfies Definition 5.18 in the lecture notes.
 
