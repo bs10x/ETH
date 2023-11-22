@@ -142,6 +142,11 @@ This completes the proof that ab=ba for all a,b∈R, and the algebra satisfies D
 
 
 
+how can i go from: a+(a+b)+b to a+(ab)+b?
+
+i can insert neutral elements and split them up into their normal and inverse counterpark.
+
+
 
 
 
