@@ -40,6 +40,16 @@
             }
           },
           {
+            "id": "187f1dbadbcf3b78",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/UE/U9/DMath_w9_leon.pdf"
+              }
+            }
+          },
+          {
             "id": "d29dbbc45c7d1a0c",
             "type": "leaf",
             "state": {
@@ -48,16 +58,6 @@
                 "file": "sem1/DMath/UE/U9/DMath_u9_bf.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "187f1dbadbcf3b78",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/UE/U9/DMath_w9_leon.pdf"
               }
             }
           }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U9/DMath_w9_leon.pdf",
+                "file": "sem1/DMath/UE/U9/DMath_u9_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U9/DMath_w9_leon.pdf",
+                "file": "sem1/DMath/UE/U9/DMath_u9_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U9/DMath_w9_leon.pdf"
+                "file": "sem1/DMath/UE/U9/DMath_u9_bf.md"
               }
             }
           },
@@ -208,10 +208,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "d29dbbc45c7d1a0c",
   "lastOpenFiles": [
-    "sem1/DMath/UE/U9/DMath_u9_bf.md",
     "sem1/DMath/UE/U9/DMath_w9_leon.pdf",
+    "sem1/DMath/UE/U9/DMath_u9_bf.md",
     "sem1/DMath/lib/DMath_script.pdf",
     "var/test.md",
     "var/var.md",
