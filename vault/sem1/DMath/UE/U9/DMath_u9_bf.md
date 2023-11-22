@@ -30,7 +30,12 @@ $$
 
 $$
 \begin{align}
-
+x = y & \overset{\cdot}{\implies} \\
+& \overset{\cdot}{\implies} \\
+& \overset{\cdot}{\implies} \\
+& \overset{\cdot}{\implies} \\
+& \overset{\cdot}{\implies} \\
+& \overset{\cdot}{\implies} ab = ba\\
 \end{align}
 $$
 
