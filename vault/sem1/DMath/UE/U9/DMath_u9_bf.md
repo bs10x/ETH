@@ -30,9 +30,9 @@ $$
 
 
 
+$$
 
-
-
+$$
 
 
 
@@ -43,8 +43,15 @@ A ring $\langle R; +, -, 0, \cdot, 1\rangle$ is an algebra for which
 (ii) $\langle R; \cdot, 1\rangle$ is a monoid.
 (iii) $a(b + c) = (ab) + (ac)$ and $(b + c)a = (ba) + (ca)$ for all $a, b, c \in R$ (left and right distributive laws).
 
-(20) 
-A ring is called commutative if multiplication is commutative (ab = ba).
+(20) A ring is called commutative if multiplication is commutative $(ab = ba)$.
+
+
+
+
+
+
+
+
 
 
 
@@ -53,10 +60,6 @@ A ring is called commutative if multiplication is commutative (ab = ba).
 
 // TODO //
 
-
-To prove that ��=��ab=ba for all �,�∈�a,b∈R, we will use the given axioms:
-
-i) ⟨�;+,−,0⟩⟨R;+,−,0⟩ is a group. ii) ⟨�;⋅,1⟩⟨R;⋅,1⟩ is a monoid. iii) �(�+�)=��+��a(b+c)=ab+ac and (�+�)�=��+��(b+c)a=ba+ca for all �,�,�,∈�a,b,c,∈R.
 
 Let's proceed with the proof:
 
