@@ -11,9 +11,15 @@ Prove that such an algebra satisfies Definition 5.18 in the lecture notes. Each 
 Hint: consider (1 + 1)(a + b).
 
 
+
+## **Proof**:
+
+Let's consider the case $(1+1)(a+b)$. 
+
+
 $$
 \begin{align}
-ab &= (1+1)(a+b) \qquad\qquad\text{(iii)}\\
+(1+1)(a+b) &= (1+1)(a+b) \qquad\qquad\text{(iii)}\\
 &= 1(a+b) + 1(a+b) \\
 &= \\
 &= \\
@@ -33,8 +39,8 @@ $$
 x = y & \overset{\cdot}{\implies} \\
 & \overset{\cdot}{\implies} \\
 & \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} \\
+& \overset{\cdot}{\implies} a+ab+b=a+b+ab \\
+& \overset{\cdot}{\implies} a+b+ab=a+b+ba \qquad \text{subtract like terms (a+b)}\\
 & \overset{\cdot}{\implies} ab = ba\\
 \end{align}
 $$
@@ -119,7 +125,7 @@ Now, apply the given distributive property a(b+c)=ab+ac:
 
 a+(a+b)+b=a+ab+b
 
-Now, use the commutativity property of addition in the group ⟨�;+,−,0⟩⟨R;+,−,0⟩ (since �a and �b are elements of this group):
+Now, use the commutativity property of addition in the group ⟨R;+,−,0⟩ (since a and b are elements of this group):
 
 a+ab+b=a+b+ab
 
@@ -130,7 +136,7 @@ a+b+ab=a+b+ba
 Finally, subtract a+b from both sides:
 ab=ba
 
-This completes the proof that ��=��ab=ba for all �,�∈�a,b∈R, and the algebra satisfies Definition 5.18 in the lecture notes.
+This completes the proof that ab=ba for all a,b∈R, and the algebra satisfies Definition 5.18 in the lecture notes.
 
 
 
