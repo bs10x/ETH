@@ -13,8 +13,16 @@ Hint: consider (1 + 1)(a + b).
 
 $$
 \begin{align}
-ab &= (1+1)(a+b)
-&=
+ab &= (1+1)(a+b) \qquad\qquad\text{(iii)}\\
+&= 1(a+b) + 1(a+b) \\
+&= \\
+&= \\
+&= \\
+&= \\
+&= \\
+&= (a+b) (1+1)\\
+&= a(1+1) + b(1+1)\\
+&= ba
 \end{align}
 $$
 
