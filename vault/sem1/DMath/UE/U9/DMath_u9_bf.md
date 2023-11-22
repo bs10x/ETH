@@ -151,3 +151,17 @@ i can insert neutral elements and split them up into their normal and inverse co
 
 
 
+Now, apply the given distributive property a(b+c)=ab+ac:
+
+a+(a+b)+b=a+ab+b
+
+Now, use the commutativity property of addition in the group ⟨R;+,−,0⟩ (since a and b are elements of this group):
+
+a+ab+b=a+b+ab
+
+Now, use the given distributive property (b+c)a=ba+ca:
+
+a+b+ab=a+b+ba
+
+Finally, subtract a+b from both sides:
+ab=ba
