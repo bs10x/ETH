@@ -38,12 +38,13 @@ $$
 
 
 Definition 5.18.
-A ring 〈R; +, −, 0, ·, 1〉 is an algebra for which
-(i) 〈R; +, −, 0〉 is a commutative group.
-(ii) 〈R; ·, 1〉 is a monoid.
-(iii) a(b + c) = (ab) + (ac) and (b + c)a = (ba) + (ca) for all a, b, c ∈ R (left and right distributive laws).
+A ring $\langle R; +, -, 0, \cdot, 1\rangle$ is an algebra for which
+(i) $\langle R; +, -, 0\rangle$ is a commutative group.
+(ii) $\langle R; \cdot, 1\rangle$ is a monoid.
+(iii) $a(b + c) = (ab) + (ac)$ and $(b + c)a = (ba) + (ca)$ for all $a, b, c \in R$ (left and right distributive laws).
+
+(20) 
 A ring is called commutative if multiplication is commutative (ab = ba).
-20
 
 
 
