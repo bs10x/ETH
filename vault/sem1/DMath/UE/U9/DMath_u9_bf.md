@@ -38,18 +38,9 @@ $$
 \begin{align}
 (1+1)(a+b)=1(a+b)+1(a+b) & \overset{\cdot}{\implies} 1(a+b)+1(a+b)=a+b+a+b \\
 & \overset{\cdot}{\implies} a+b+a+b=(a+a)+(b+b) \\
-& \overset{\cdot}{\implies} (a+a)+(b+b)=a+(a+b)+b \\
-& \overset{\cdot}{\implies} a+(a+b)+b=a+ab+b \\
-& \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} a+(a+b)+b=a+ab+b \qquad\text{jj} \\
-& \overset{\cdot}{\implies} a+ab+b=a+b+ab \quad\text{commutative property of addition in the group $\langle R; +, −, 0\rangle$}\\
+& \overset{\cdot}{\implies} (a+a)+(b+b)=a+(a+b)+b \qquad \text{apply the distributive property a(b+c)=ab+ac, a=(), b=(), c=(0)}\\
+& \overset{\cdot}{\implies} a+(a+b)+b=a+ab+b \quad\text{commutative property of addition in the group $\langle R; +, −, 0\rangle$} \\
+& \overset{\cdot}{\implies} a+ab+b=a+b+ab \\
 & \overset{\cdot}{\implies} a+b+ab=a+b+ba \\
 & \overset{\cdot}{\implies} a+b+ab=a+b+ba \qquad \text{subtract like terms (a+b)}\\
 & \overset{\cdot}{\implies} ab = ba\\
