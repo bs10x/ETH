@@ -36,10 +36,10 @@ $$
 
 $$
 \begin{align}
-x = y & \overset{\cdot}{\implies} \\
+(1+1)(a+b)=1(a+b)+1(a+b) & \overset{\cdot}{\implies} 1(a+b)+1(a+b)=a+b+a+b \\
 & \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} \\
-& \overset{\cdot}{\implies} a+ab+b=a+b+ab \\
+& \overset{\cdot}{\implies} a+(a+b)+b=a+ab+b \qquad\text{jj} \\
+& \overset{\cdot}{\implies} a+ab+b=a+b+ab \qquad\text{commutative property of addition in the group $\langle R; +, −, 0\rangle$}\\
 & \overset{\cdot}{\implies} a+b+ab=a+b+ba \qquad \text{subtract like terms (a+b)}\\
 & \overset{\cdot}{\implies} ab = ba\\
 \end{align}
