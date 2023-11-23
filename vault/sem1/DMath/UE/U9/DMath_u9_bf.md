@@ -24,16 +24,21 @@ Let's consider the case $(1+1)(a+b)$.
 
 $$
 \begin{align}
-(1+1)(a+b)&=1(a+b)+1(a+b)\\
-&= a+b+a+b\\
+(1+1)(a+b)=1(a+b)+1(a+b) \qquad\text{left distributive law}\\
+= a+b+a+b\\
 \\
 \\
 \\
 
 
 
-(1+1)(a+b)&=a(1+1)+b(1+1)\\
-&= a+a+b+b\\
+(1+1)(a+b)=a(1+1)+b(1+1)\qquad\text{right distributive law}\\
+= a+a+b+b\\
+\\
+\\
+\\
+(1+1)(a+b)=(1+1)(a+b) \qquad\text{left and right distributive law} \\
+&\overset{\cdot}{\implies} 1(a+b) + 1(a)
 \end{align}
 $$
 
