@@ -25,9 +25,10 @@ Let's consider the case $(1+1)(a+b)$.
 $$
 \begin{align}
 
-(1+1)(a+b)=(1+1)(a+b) &\overset{\cdot}{\implies}  a(1+1) + b(1+1) = 1(a+b) + 1(a+b)
-&\text{left and right distributive law} \\
-&\overset{\cdot}{\implies} a + a + b + b = a + b + a + b &\text{left distributive law} \\
+(1+1)(a+b)=(1+1)(a+b) &\hspace{222pt}\text{left and right distributive law} \\
+&\overset{\cdot}{\implies}  (1+1)a + (1+1)b = 1(a+b) + 1(a+b) \hspace{200p}\text{left and right distributive law} \\
+
+&\overset{\cdot}{\implies} a + a + b + b = a + b + a + b  \\
 &\overset{\cdot}{\implies} a + b + b = b + a + b &\text{left cancellation law} \\
 &\overset{\cdot}{\implies} a + b = b + a &\text{right cancellation law} \\
 \square
