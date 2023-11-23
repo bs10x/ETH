@@ -25,10 +25,10 @@ Let's consider the case $(1+1)(a+b)$.
 $$
 \begin{align}
 
-(1+1)(a+b)=(1+1)(a+b) &\hspace{222pt}\text{left and right distributive law (iii)} \\
-&\overset{\cdot}{\implies}  (1+1)a + (1+1)b = 1(a+b) + 1(a+b) \hspace{18pt}\text{left and right distributive law (iii)} \\
-&\overset{\cdot}{\implies} a + a + b + b = a + b + a + b \hspace{69pt}\text{left cancellation law} \\
-&\overset{\cdot}{\implies} a + b + b = b + a + b \hspace{103pt}\text{right cancellation law}\\
+(1+1)(a+b)=(1+1)(a+b) &\hspace{222pt}\text{left and right distributive law (5.18.iii)} \\
+&\overset{\cdot}{\implies}  (1+1)a + (1+1)b = 1(a+b) + 1(a+b) \hspace{18pt}\text{left and right distributive law (5.18.iii)} \\
+&\overset{\cdot}{\implies} a + a + b + b = a + b + a + b \hspace{69pt}\text{left cancellation law(5.3..iii)} \\
+&\overset{\cdot}{\implies} a + b + b = b + a + b \hspace{103pt}\text{right cancellation law (5.3.iv)}\\
 &\overset{\cdot}{\implies} a + b = b + a \\
 &\quad\square
 \end{align}
@@ -39,13 +39,6 @@ $$
 We have proven that the operation $+$ on the algebra $\langle R; +, -, 0, \cdot, 1\rangle$ is commutative. The algebra is thus proven to be a ring.
 
 
-
-
-
-
-
-
-these are the axioms:
 
 
 Definition 5.18.
@@ -80,110 +73,4 @@ For a group $\langle G; \ast, \hat{\;},e \rangle$ we have for all $a, b, c \in G
 So does the equation $x \ast a = b$
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-___
-**DO NOT GRADE**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-$$
-\begin{align}
-(1+1)(a+b) &= (1+1)(a+b) \qquad\qquad\text{(iii)}\\
-&= 1(a+b) + 1(a+b) \\
-&= \\
-&= \\
-&= \\
-&= \\
-&= \\
-&= (a+b) (1+1)\\
-&= a(1+1) + b(1+1)\\
-&= ba
-\end{align}
-$$
-
-
-$$
-\begin{align}
-(1+1)(a+b)=1(a+b)+1(a+b) & \overset{\cdot}{\implies} 1(a+b)+1(a+b)=a+b+a+b \\
-& \overset{\cdot}{\implies} a+b+a+b=(a+a)+(b+b) \\
-& \overset{\cdot}{\implies} (a+a)+(b+b)=a+(a+b)+b \qquad \text{apply the distributive property $a(b+c)=ab+ac$, $a=(a)$, $b=(b)$, $c=(0)$, and (i): $a0=0$}\\
-& \overset{\cdot}{\implies} a+(a+b)+b=a+ab+b \quad\text{commutative property of addition in the group $\langle R; +, −, 0\rangle$} \\
-& \overset{\cdot}{\implies} a+ab+b=a+b+ab \quad \text{apply the distributive property (b+c)a=ba+ca}\\
-& \overset{\cdot}{\implies} a+b+ab=a+b+ba \qquad \text{subtract like terms (a+b)}\\
-& \overset{\cdot}{\implies} ab = ba\\
-\end{align}
-$$
-
-
-
-
-
-ab -> a=b+0, b=(a)
-ba + ca= ba + 0a
-
-
-$$
-\begin{align}
-(-a) b &= 0 + (-a) b \qquad \text{G2 von \langle R; +, -, 0, $\cdot$, 1\rangle}\\
-& = a 0 + (-a) b \qquad\text{a0 = 0}\\
-& = a (-b + b) + (-a) b \qquad \text{G3 von ...}\\
-& = a (-b) + a b + (-a) b \qquad\text{Distributiv. von R.} \\
-& = a(-b) + (a+(-a)) b \qquad \text{} \\
-& = a(-b) + 0b \qquad \text{} \\
-& = a(-b) + 0 \qquad \text{} \\
-& = a(-b) \\
-& \square
-\end{align}
-$$
-
-
-
-
-
-
-
-
-Consider an algebra $\langle R; +, -, 0, \cdot, 1\rangle$ such that:
-
-i) $\langle R; +, -, 0\rangle$ is a group.
-ii) $\langle R; \cdot, 1\rangle$ is a monoid.
-iii) $a(b + c) = ab + ac$ and $(b + c)a = ba + ca$ for all $a, b, c, \in R$.
-
-Prove that such an algebra satisfies this: "A ring is called commutative if multiplication is commutative $(ab = ba)$." Each step should consist of one or more applications of the given axioms, and the axioms used should be made explicit.
 
