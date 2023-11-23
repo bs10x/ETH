@@ -200,3 +200,21 @@ Lemma 5.3. For a group $\langle G; \ast, \hat{\,},e \rangle$ we have for all $a,
 (iii) Left cancellation law: a ∗ b = a ∗ c =⇒ b = c.
 (iv) Right cancellation law: b ∗ a = c ∗ a =⇒ b = c.
 (v) The equation a ∗ x = b has a unique solution x for any a and b. So does the equation x ∗ a = b.
+
+
+
+
+
+
+(1+1)(a+b)=1(a+b)+1(a+b)
+&= a+b+a+b
+
+
+
+(1+1)(a+b)=a(1+1)+b(1+1)
+&= a+a+b+b
+
+
+
+
+a+b+a+b=a+a+b+b
