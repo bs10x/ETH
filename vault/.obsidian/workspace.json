@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "ffa608da1f9a64b8",
@@ -79,8 +79,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d99ca6ce350b2d7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/lib/DMath_script.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,9 +238,9 @@
   },
   "active": "13e75cfe0c60755c",
   "lastOpenFiles": [
-    "sem1/DMath/UE/U9/DMath_U9_e.pdf",
     "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U9/DMath_u9_bf.md",
+    "sem1/DMath/UE/U9/DMath_U9_e.pdf",
     "sem1/DMath/UE/U9/DMath_w9_leon.pdf",
     "var/test.md",
     "var/var.md",

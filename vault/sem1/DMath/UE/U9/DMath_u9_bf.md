@@ -195,9 +195,9 @@ and:
 
 Lemma 5.3. For a group $\langle G; \ast, \hat{\,},e \rangle$ we have for all $a, b, c \in G$:
 (i) $\widehat{(\hat{a})}=a$
-(ii)̂ a ∗ b =̂ b ∗̂ a.
-(iii) Left cancellation law: a ∗ b = a ∗ c =⇒ b = c.
-(iv) Right cancellation law: b ∗ a = c ∗ a =⇒ b = c.
+(ii)$\widehat{a\ast b}=\hat{a}\ast\hat{b}$
+(iii) Left cancellation law: $a \ast b = a \ast c \implies b = c$
+(iv) Right cancellation law: $b ∗ a = c ∗ a =⇒ b = c$
 (v) The equation a ∗ x = b has a unique solution x for any a and b. So does the equation x ∗ a = b.
 
 
