@@ -25,51 +25,15 @@ Let's consider the case $(1+1)(a+b)$.
 $$
 \begin{align}
 
-(1+1)(a+b)=(1+1)(a+b) &\overset{\cdot}{\implies} 1(a+b) + 1(a+b) = a(1+1) + b(1+1)
+(1+1)(a+b)=(1+1)(a+b) &\overset{\cdot}{\implies}  a(1+1) + b(1+1) = 1(a+b) + 1(a+b)
 &\text{left and right distributive law} \\
-&\overset{\cdot}{\implies} a + b + a + b = a + a + b + b &\text{left distributive law} \\
-&\overset{\cdot}{\implies} b + a + b = a + b + b &\text{left cancellation law} \\
-&\overset{\cdot}{\implies} b + a = a + b &\text{right cancellation law} \\
-&\square
-\end{align}
-
-$$
-
-
-
-
-
-
-
-
-$$
-\begin{align}
-
-
-(1+1)(a+b)=1(a+b)+1(a+b) \qquad\text{left distributive law}\\
-= a+b+a+b\\
-\\
-\\
-\\
-
-
-
-(1+1)(a+b)=a(1+1)+b(1+1)\qquad\text{right distributive law}\\
-= a+a+b+b\\
-\\
-\\
-\\
-
-a+b+a+b&=a+a+b+b \qquad\text{left cancellation law} \\
-b+a+b&=a+b+b \qquad\text{right cancellation law} \\
-b+a&=a+b \\
+&\overset{\cdot}{\implies} a + a + b + b = a + b + a + b &\text{left distributive law} \\
+&\overset{\cdot}{\implies} a + b + b = b + a + b &\text{left cancellation law} \\
+&\overset{\cdot}{\implies} a + b = b + a &\text{right cancellation law} \\
 \square
 \end{align}
+
 $$
-
-
-
-
 
 
 
