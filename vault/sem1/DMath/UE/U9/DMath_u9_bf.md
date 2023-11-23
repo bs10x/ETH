@@ -214,9 +214,11 @@ Lemma 5.3. For a group $\langle G; \ast, \hat{\,},e \rangle$ we have for all $a,
 &= a+a+b+b
 
 
-
-
-a+b+a+b=a+a+b+b \text{left cancellation law}
-b+a+b=a+b+b \qquad\text{right cancellation law}
-b+a=a+b
+$$
+\begin{align}
+a+b+a+b&=a+a+b+b \qquad\text{left cancellation law} \\
+b+a+b&=a+b+b \qquad\text{right cancellation law} \\
+b+a&=a+b \\
 \square
+\end{align}
+$$
