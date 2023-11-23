@@ -180,4 +180,17 @@ i) $\langle R; +, -, 0\rangle$ is a group.
 ii) $\langle R; \cdot, 1\rangle$ is a monoid.
 iii) $a(b + c) = ab + ac$ and $(b + c)a = ba + ca$ for all $a, b, c, \in R$.
 
-Prove that such an algebra satisfies Definition 5.18 in the lecture notes. Each step should consist of one or more applications of the given axioms, and the axioms used should be made explicit.
+Prove that such an algebra satisfies this: "A ring is called commutative if multiplication is commutative $(ab = ba)$." Each step should consist of one or more applications of the given axioms, and the axioms used should be made explicit.
+
+these are the axioms:
+
+Lemma 5.17. For any ring $\langle R; +, -, 0, \cdot, 1\rangle$, and for all $a, b \in R$,
+(i) $0a = a0 = 0$
+(ii)$(−a)b = −(ab)$
+(iii) $(−a)(−b) = ab$
+(iv) If $R$ is non-trivial (i.e., if it has more than one element), then $1 \neq 0$
+
+
+and:
+
+Lemma 5.3. For a group $\langle G; \ast, \hat{\,},e \rangle$ we have for all $a, b, c \in G$: (i)̂ (̂a) = a. (ii)̂ a ∗ b =̂ b ∗̂ a. (iii) Left cancellation law: a ∗ b = a ∗ c =⇒ b = c. (iv) Right cancellation law: b ∗ a = c ∗ a =⇒ b = c. (v) The equation a ∗ x = b has a unique solution x for any a and b. So does the equation x ∗ a = b.
