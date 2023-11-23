@@ -20,6 +20,14 @@ Let's consider the case $(1+1)(a+b)$.
 
 
 
+
+
+
+
+
+
+
+
 these are the axioms:
 
 
@@ -79,6 +87,21 @@ b+a&=a+b \\
 \square
 \end{align}
 $$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
