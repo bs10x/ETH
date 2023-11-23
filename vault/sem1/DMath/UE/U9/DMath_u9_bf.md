@@ -17,20 +17,7 @@ Hint: consider (1 + 1)(a + b).
 Let's consider the case $(1+1)(a+b)$. 
 
 
-$$
-\begin{align}
-(1+1)(a+b) &= (1+1)(a+b) \qquad\qquad\text{(iii)}\\
-&= 1(a+b) + 1(a+b) \\
-&= \\
-&= \\
-&= \\
-&= \\
-&= \\
-&= (a+b) (1+1)\\
-&= a(1+1) + b(1+1)\\
-&= ba
-\end{align}
-$$
+
 
 
 
@@ -192,7 +179,6 @@ A ring $\langle R; +, -, 0, \cdot, 1\rangle$ is an algebra for which
 (iii) $a(b + c) = (ab) + (ac)$ and $(b + c)a = (ba) + (ca)$ for all $a, b, c \in R$ (left and right distributive laws).
 A ring is called commutative if multiplication is commutative (ab = ba)
 
-
 Lemma 5.17.
 For any ring $\langle R; +, -, 0, \cdot, 1\rangle$, and for all $a, b \in R$,
 (i) $0a = a0 = 0$
@@ -203,13 +189,22 @@ For any ring $\langle R; +, -, 0, \cdot, 1\rangle$, and for all $a, b \in R$,
 
 and:
 
+
+Definition 5.7.
+A group is an algebra $\langle G;\ast,\hat{\;},e\rangle$ satisfying the following axioms:
+G1 $\ast$ is associative.
+G2 $e$ is a neutral element: $a \ast e = e \ast a = a$ for all $a \in G$
+G3 Every $a \in G$ has an inverse element $\hat{a}$, i.e., $a \ast \hat{a} = \hat{a} \ast a = e$
+
+
 Lemma 5.3.
-For a group $\langle G; \ast, \hat{\,},e \rangle$ we have for all $a, b, c \in G$:
+For a group $\langle G; \ast, \hat{\;},e \rangle$ we have for all $a, b, c \in G$:
 (i) $\widehat{(\hat{a})}=a$
 (ii)$\widehat{a\ast b}=\hat{a}\ast\hat{b}$
 (iii) Left cancellation law: $a \ast b = a \ast c \implies b = c$
 (iv) Right cancellation law: $b \ast a = c \ast a \implies b = c$
-(v) The equation $a \ast x = b$ has a unique solution $x$ for any $a$ and $b$ So does the equation $x \ast a = b$
+(v) The equation $a \ast x = b$ has a unique solution $x$ for any $a$ and $b$
+So does the equation $x \ast a = b$
 
 
 
