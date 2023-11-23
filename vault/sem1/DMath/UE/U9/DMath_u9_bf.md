@@ -26,10 +26,10 @@ $$
 \begin{align}
 
 (1+1)(a+b)=(1+1)(a+b) &\hspace{222pt}\text{left and right distributive law (5.18.iii)} \\
-&\overset{\cdot}{\implies}  (1+1)a + (1+1)b = 1(a+b) + 1(a+b) \hspace{18pt}\text{left and right distributive law (5.18.iii)} \\
-&\overset{\cdot}{\implies} a + a + b + b = a + b + a + b \hspace{69pt}\text{left cancellation law(5.3..iii)} \\
-&\overset{\cdot}{\implies} a + b + b = b + a + b \hspace{103pt}\text{right cancellation law (5.3.iv)}\\
-&\overset{\cdot}{\implies} a + b = b + a \\
+&\overset{\cdot}{\iff}  (1+1)a + (1+1)b = 1(a+b) + 1(a+b) \hspace{18pt}\text{left and right distributive law (5.18.iii)} \\
+&\overset{\cdot}{\iff} a + a + b + b = a + b + a + b \hspace{69pt}\text{left cancellation law(5.3..iii)} \\
+&\overset{\cdot}{\iff} a + b + b = b + a + b \hspace{103pt}\text{right cancellation law (5.3.iv)}\\
+&\overset{\cdot}{\iff} a + b = b + a \\
 &\quad\square
 \end{align}
 
