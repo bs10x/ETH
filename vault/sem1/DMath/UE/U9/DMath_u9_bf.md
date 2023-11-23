@@ -22,6 +22,39 @@ Let's consider the case $(1+1)(a+b)$.
 
 
 
+$$
+\begin{align}
+(1+1)(a+b)&=1(a+b)+1(a+b)\\
+&= a+b+a+b\\
+\\
+\\
+\\
+
+
+
+(1+1)(a+b)&=a(1+1)+b(1+1)\\
+&= a+a+b+b\\
+\end{align}
+$$
+
+$$
+\begin{align}
+a+b+a+b&=a+a+b+b \qquad\text{left cancellation law} \\
+b+a+b&=a+b+b \qquad\text{right cancellation law} \\
+b+a&=a+b \\
+\square
+\end{align}
+$$
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -69,24 +102,6 @@ So does the equation $x \ast a = b$
 
 
 
-
-(1+1)(a+b)=1(a+b)+1(a+b)
-&= a+b+a+b
-
-
-
-(1+1)(a+b)=a(1+1)+b(1+1)
-&= a+a+b+b
-
-
-$$
-\begin{align}
-a+b+a+b&=a+a+b+b \qquad\text{left cancellation law} \\
-b+a+b&=a+b+b \qquad\text{right cancellation law} \\
-b+a&=a+b \\
-\square
-\end{align}
-$$
 
 
 
