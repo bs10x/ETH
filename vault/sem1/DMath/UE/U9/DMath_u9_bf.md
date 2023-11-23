@@ -25,19 +25,18 @@ Let's consider the case $(1+1)(a+b)$.
 $$
 \begin{align}
 
-(1+1)(a+b)=(1+1)(a+b) &\hspace{222pt}\text{left and right distributive law} \\
-&\overset{\cdot}{\implies}  (1+1)a + (1+1)b = 1(a+b) + 1(a+b) \hspace{18pt}\text{left and right distributive law} \\
+(1+1)(a+b)=(1+1)(a+b) &\hspace{222pt}\text{left and right distributive law (iii)} \\
+&\overset{\cdot}{\implies}  (1+1)a + (1+1)b = 1(a+b) + 1(a+b) \hspace{18pt}\text{left and right distributive law (iii)} \\
 &\overset{\cdot}{\implies} a + a + b + b = a + b + a + b \hspace{69pt}\text{left cancellation law} \\
 &\overset{\cdot}{\implies} a + b + b = b + a + b \hspace{103pt}\text{right cancellation law}\\
 &\overset{\cdot}{\implies} a + b = b + a \\
-\hspace{pt}\square
+&\quad\square
 \end{align}
 
 $$ 
 
 
-
-
+We have proven that the operation $+$ on the algebra $\langle R; +, -, 0, \cdot, 1\rangle$ is commutative. The algebra is thus proven to be a ring.
 
 
 
@@ -62,9 +61,6 @@ For any ring $\langle R; +, -, 0, \cdot, 1\rangle$, and for all $a, b \in R$,
 (ii)$(−a)b = −(ab)$
 (iii) $(−a)(−b) = ab$
 (iv) If $R$ is non-trivial (i.e., if it has more than one element), then $1 \neq 0$
-
-
-and:
 
 
 Definition 5.7.
