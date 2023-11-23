@@ -165,3 +165,19 @@ a+b+ab=a+b+ba
 
 Finally, subtract a+b from both sides:
 ab=ba
+
+
+
+
+
+
+
+___
+
+Consider an algebra $\langle R; +, -, 0, \cdot, 1\rangle$ such that:
+
+i) $\langle R; +, -, 0\rangle$ is a group.
+ii) $\langle R; \cdot, 1\rangle$ is a monoid.
+iii) $a(b + c) = ab + ac$ and $(b + c)a = ba + ca$ for all $a, b, c, \in R$.
+
+Prove that such an algebra satisfies Definition 5.18 in the lecture notes. Each step should consist of one or more applications of the given axioms, and the axioms used should be made explicit.
