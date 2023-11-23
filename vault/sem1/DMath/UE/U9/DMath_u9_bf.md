@@ -194,8 +194,7 @@ Lemma 5.17. For any ring $\langle R; +, -, 0, \cdot, 1\rangle$, and for all $a, 
 and:
 
 Lemma 5.3. For a group $\langle G; \ast, \hat{\,},e \rangle$ we have for all $a, b, c \in G$:
-(i)$\hat{(\hat{a})}$
-(̂a) = a.
+(i) $\widehat{(\hat{a})}=a$
 (ii)̂ a ∗ b =̂ b ∗̂ a.
 (iii) Left cancellation law: a ∗ b = a ∗ c =⇒ b = c.
 (iv) Right cancellation law: b ∗ a = c ∗ a =⇒ b = c.
@@ -217,4 +216,7 @@ Lemma 5.3. For a group $\langle G; \ast, \hat{\,},e \rangle$ we have for all $a,
 
 
 
-a+b+a+b=a+a+b+b
+a+b+a+b=a+a+b+b \text{left cancellation law}
+b+a+b=a+b+b \qquad\text{right cancellation law}
+b+a=a+b
+\square
