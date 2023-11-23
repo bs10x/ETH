@@ -193,4 +193,10 @@ Lemma 5.17. For any ring $\langle R; +, -, 0, \cdot, 1\rangle$, and for all $a, 
 
 and:
 
-Lemma 5.3. For a group $\langle G; \ast, \hat{\,},e \rangle$ we have for all $a, b, c \in G$: (i)̂ (̂a) = a. (ii)̂ a ∗ b =̂ b ∗̂ a. (iii) Left cancellation law: a ∗ b = a ∗ c =⇒ b = c. (iv) Right cancellation law: b ∗ a = c ∗ a =⇒ b = c. (v) The equation a ∗ x = b has a unique solution x for any a and b. So does the equation x ∗ a = b.
+Lemma 5.3. For a group $\langle G; \ast, \hat{\,},e \rangle$ we have for all $a, b, c \in G$:
+(i)$\hat{(\hat{a})}$
+(̂a) = a.
+(ii)̂ a ∗ b =̂ b ∗̂ a.
+(iii) Left cancellation law: a ∗ b = a ∗ c =⇒ b = c.
+(iv) Right cancellation law: b ∗ a = c ∗ a =⇒ b = c.
+(v) The equation a ∗ x = b has a unique solution x for any a and b. So does the equation x ∗ a = b.
