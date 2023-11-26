@@ -100,12 +100,18 @@ Thus we have a topological ordering where $v_1$​ is the first vertex, $v_n$​
 
 
 **Proof:**
-Assume, for the sake of contradiction, that there exists a directed path $P$ where ik​≥ik+1​ for some �k (i.e., the indices are not strictly increasing).
+Assume, for the sake of contradiction, that there exists a directed path $P$ where $i_k​\geq i_k+1$​ for some $k$ (i.e., the indices are not strictly increasing).
 
-Consider the first occurrence of $i_k​\geq i_{k+1}$​ in the path. This means that there is an edge from ���vik​​ to ���+1vik+1​​, creating a subpath ���,���+1,…,���vik​​,vik+1​​,…,vil​​. Since ��≥��+1ik​≥ik+1​, this subpath forms a cycle.
+Consider the first occurrence of $i_k​\geq i_{k+1}$​ in the path. This means that there is an edge from $v_{i_k}​​$ to $v_{i_k+1​}$​, creating a subpath $v_{i_k}​​,\ v_{ik+1}​​,\ \dots,\ v_{i_l}​$​. Since $i_k​\geq i_{k+1}$​, this subpath forms a cycle.
 
-However, this contradicts the assumption that the graph is a directed acyclic graph (DAG). In a DAG, there cannot be any cycles. Therefore, our assumption that there exists ��≥��+1ik​≥ik+1​ is false.
+However, this contradicts the assumption that the graph is a directed acyclic graph (DAG). In a DAG, there cannot be any cycles. Therefore, our assumption that there exists $i_k​\geq i_{k+1}$​ is false.
 
-Since �0≥�1i0​≥i1​ is false, �1≥�2i1​≥i2​ is false, and so on, it follows that �0<�1<⋯<��i0​<i1​<⋯<il​.
+Since $i_0\geq i_1$​ is false, $i_1​≥i_2$​ is false, and so on, it follows that $i_0​<i_1​<\dots<i_l$​.
 
-Therefore, for any directed �1−��v1​−vn​-path �P, the indices of the vertices along the path are strictly increasing.
+Therefore, for any directed $v_1​−v_n​$-path $P$, the indices of the vertices along the path are strictly increasing.
+
+
+
+
+(c)
+Describe a bottom-up dynamic programming algorithm that, given a graph G with the property that v1, . . . , vn is a topological sorting, returns the number of v1-vn paths in G in O(|V | + |E|) time. You can assume that the graph is provided to you as a pair (n, Adj) of the integer n = |V | and the adjacency lists Adj. Your algorithm can access Adj[u], which is a list of vertices to which u has a direct edge, in constant time. Formally, Adj[u] := {v ∈ V | (u, v) ∈ E}. In your solution, address the following aspects: 1. Dimensions of the DP table: What are the dimensions of the DP table? 2. Subproblems: What is the meaning of each entry? 3. Recursion: How can an entry of the table be computed from previous entries? Justify why your recurrence relation is correct. Specify the base cases of the recursion, i.e., the cases that do not depend on others. 4. Calculation order: In which order can entries be computed so that values needed for each entry have been determined in previous steps? 5. Extracting the solution: How can the solution be extracted once the table has been filled? 6. Running time: What is the running time of your solution? Hint: Define the entry of the DP table as DP [i] = number of paths in G from vi to vn
