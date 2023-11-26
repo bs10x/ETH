@@ -76,3 +76,16 @@ Therefore, the given graph has a topological sorting.
 
 
 ## 9.4
+
+Let $G = (V, E)$ be a directed graph without directed cycles (i.e., a directed acyclic graph or short DAG). Assume that $V = {v1, . . . , vn}$ $(\text{for} n = |V | \in N)$. Further assume that $v_1$ is a source and $v_n$ is a sink. The goal of this exercise is to find the number of paths from $v_1$ to $v_n$.
+
+(a) Prove that there exists a topological sorting of G that has $v_1$ as first and $v_n$ as last vertex.
+
+**Proof:**
+To prove that there exists a topological sorting of $G$ that has $v_1$​ as the first vertex and $v_n$​ as the last vertex, we can use the properties of a directed acyclic graph (DAG) and the fact that $v_1$​ is a source and $v_n$​ is a sink.
+
+Since $G$ is a DAG, it has a topological ordering. Let's consider a topological ordering ��(1),��(2),…,��(�)vπ(1)​,vπ(2)​,…,vπ(n)​, where �(�)π(i) represents the position of vertex ��vi​ in the topological ordering.
+
+Since �1v1​ is a source, it has no incoming edges. Therefore, in the topological ordering, �1v1​ must come before any vertex ��vi​ where �>1i>1. In other words, �(1)<�(�)π(1)<π(i) for all �>1i>1.
+
+Similarly, since ��vn​ is a sink, it has no outgoing edges. Therefore, in the topological ordering, ��vn​ must come after any vertex ��vi​ where �<�i<n. In other words, �(�)<�(�)π(i)<π(n) for all �<�i<n.
