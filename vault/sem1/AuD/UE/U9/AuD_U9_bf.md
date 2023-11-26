@@ -15,6 +15,8 @@ This statement is true. Consider any directed graph G = (V, E) where every verte
 The correctness of this statement depends on the nature of the graph. Let's consider the case where 
 
 ```mermaid
-graph TD
-a -> b
+graph TD;
+v0-->v1;
+v1-->v2
+v2-->vl
 ```
