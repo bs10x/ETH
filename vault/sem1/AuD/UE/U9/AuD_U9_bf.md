@@ -21,7 +21,21 @@ ___
 
 (b) The following graph has a topological sorting. If so, give a topological sorting; if not, prove why no topological sorting can exist.
 
-A 
+
+```mermaid
+graph
+A-->B;
+B;
+C-->B;
+D-->A;
+A-->B;
+E-->B;
+E-->F;
+F-->I;
+I-->B;
+F-->I;
+I-->B;
+F-->H;
 
 
 
