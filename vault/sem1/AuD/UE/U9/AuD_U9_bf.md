@@ -12,5 +12,9 @@ This statement is true. Consider any directed graph G = (V, E) where every verte
 (b) For a longest directed path $P : v_0, \dots , v_l$ in $G$, the endpoint has to be a sink.
 
 **Proof/Counterexample:**
-The correctness of this statement depends on the nature of the graph. Let's consider the case where
+The correctness of this statement depends on the nature of the graph. Let's consider the case where 
 
+```mermaid
+graph TD
+a -> b
+```
