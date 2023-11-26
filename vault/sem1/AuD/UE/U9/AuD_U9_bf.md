@@ -11,12 +11,11 @@ This statement is true. Consider any directed graph G = (V, E) where every verte
 
 (b) For a longest directed path $P : v_0, \dots , v_l$ in $G$, the endpoint has to be a sink.
 
-**Proof/Counterexample:**
-The correctness of this statement depends on the nature of the graph. Let's consider the case where $G$
+**Proof:**
+This statement is true. Let's assume, for the sake of contradiction, that the longest directed path P has an endpoint vₗ that is not a sink. Since vₗ is not a sink, it must have an outgoing edge. However, this would contradict the maximality of the path P because if we add the outgoing edge from vₗ to the path, we would obtain a longer path, which contradicts the assumption that P is the longest path. Therefore, the endpoint vₗ must be a sink.
 
-```mermaid
-graph TD;
-v0-->v1;
-v1-->v2
-v2-->vl
-```
+This completes the proof, demonstrating that in a directed graph, the endpoint of the longest directed path must be a sink.
+
+
+
+## 9.4
