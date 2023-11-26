@@ -86,7 +86,7 @@ To prove that there exists a topological sorting of $G$ that has $v_1$​ as the
 
 Since $G$ is a DAG, it has a topological ordering. Let's consider a topological ordering $v_{\pi(1)},\ v_{\pi(2)},\ v_{\pi(3)},,\ v_{\pi(4)},\ v_{\pi(n)}$, where $\pi(i)$ represents the position of vertex $v_i$​ in the topological ordering.
 
+Since $v_{1}$ is a source, it has no incoming edges. Therefore, in the topological ordering, $v_{1}$  must come before any vertex $v_{i}$ ​where $i>1$. In other words, $\pi(1)<\pi(n)$ for all $i>1$.
 
-Since $v_{\pi(1)}$ is a source, it has no incoming edges. Therefore, in the topological ordering, $v_{\pi(1)}$  must come before any vertex $v_{i}$ ​where $i>n$. In other words, �(1)<�(�)π(1)<π(i) for all �>1i>1.
+Similarly, since $v_n$​ is a sink, it has no outgoing edges. Therefore, in the topological ordering, $v_n$​ must come after any vertex $v_i$​ where $i<n$. In other words, $\pi(i)<\pi(n)$ for all $i<n$.
 
-Similarly, since ��vn​ is a sink, it has no outgoing edges. Therefore, in the topological ordering, ��vn​ must come after any vertex ��vi​ where �<�i<n. In other words, �(�)<�(�)π(i)<π(n) for all �<�i<n.
