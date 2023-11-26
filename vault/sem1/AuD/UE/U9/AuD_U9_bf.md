@@ -92,4 +92,9 @@ Similarly, since $v_n$​ is a sink, it has no outgoing edges. Therefore, in the
 
 Now, let's consider the vertices between $v_1$ and $v_n$, i.e. $v_{\pi(2)},\ v_{\pi(3)},\ v_{\pi(4)}, v_{\pi(n-1)},$ Since $G$ is a DAG, there are no cycles, so there must be a directed path from $v_1$ to $v_n$ that goes through these intermediate vertices. Therefore, in the topological ordering, $v_1$ comes before $v_{\pi(2)}$, which comes before $v_{\pi(3)}$, and so on, until $v_{\pi(n-1)}$, which comes before $v_{n}$.
 
-Thus we have a topological ordering where $v_1$​ is the first vertex, $v_n$​ is the last vertex, and the vertices in between are ordered according to the topological ordering. This proves the existence of such a topological sorting for �G.
+Thus we have a topological ordering where $v_1$​ is the first vertex, $v_n$​ is the last vertex, and the vertices in between are ordered according to the topological ordering. This proves the existence of such a topological sorting for $G$.
+
+
+
+(b)
+
