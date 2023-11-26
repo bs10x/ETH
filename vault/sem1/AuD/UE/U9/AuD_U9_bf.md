@@ -99,3 +99,14 @@ Thus we have a topological ordering where $v_1$​ is the first vertex, $v_n$​
 (b) Prove that for any directed $v_1-v_n$-path $P : v_1 = v_{i_0} , v_{i_1} , \dots , v_{i_l} = v_n$ we have $i_0 < i_1 < \dots < i_l$.
 
 
+**Proof:**
+
+Assume, for the sake of contradiction, that there exists a directed path $P$ where ��≥��+1ik​≥ik+1​ for some �k (i.e., the indices are not strictly increasing).
+
+Consider the first occurrence of ��≥��+1ik​≥ik+1​ in the path. This means that there is an edge from ���vik​​ to ���+1vik+1​​, creating a subpath ���,���+1,…,���vik​​,vik+1​​,…,vil​​. Since ��≥��+1ik​≥ik+1​, this subpath forms a cycle.
+
+However, this contradicts the assumption that the graph is a directed acyclic graph (DAG). In a DAG, there cannot be any cycles. Therefore, our assumption that there exists ��≥��+1ik​≥ik+1​ is false.
+
+Since �0≥�1i0​≥i1​ is false, �1≥�2i1​≥i2​ is false, and so on, it follows that �0<�1<⋯<��i0​<i1​<⋯<il​.
+
+Therefore, for any directed �1−��v1​−vn​-path �P, the indices of the vertices along the path are strictly increasing.
