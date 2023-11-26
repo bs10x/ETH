@@ -46,4 +46,33 @@ I-->B;
 
 
 ```
+
+
+To find a topological sorting, we can use the following algorithm:
+
+1. Identify any vertex with in-degree 0 (a vertex with no incoming edges) and add it to the sorting.
+2. Remove the chosen vertex and its outgoing edges from the graph.
+3. Repeat steps 1-2 until all vertices are in the sorting.
+
+If we successfully perform these steps, we have a topological sorting. If at any point no vertex with in-degree 0 exists, and there are still vertices remaining in the graph, then no topological sorting is possible.
+
+Let's apply this algorithm to the given graph:
+
+1. Choose G (in-degree 0), remove G and its outgoing edges.
+2. Choose E (in-degree 0), remove E and its outgoing edges.
+3. Choose C (in-degree 0), remove C and its outgoing edges.
+4. Choose D (in-degree 0), remove D and its outgoing edges.
+5. Choose A (in-degree 0), remove A and its outgoing edges.
+6. Choose H (in-degree 0), remove H and its outgoing edges.
+7. Choose F (in-degree 0), remove F and its outgoing edges.
+8. Choose I (in-degree 0), remove I and its outgoing edges.
+9. Choose B (in-degree 0), remove B and its outgoing edges.
+
+The resulting topological sorting is: G, E, C, D, A, H, F, I, B.
+
+Therefore, the given graph has a topological sorting.
+
+
+
+
 ## 9.4
