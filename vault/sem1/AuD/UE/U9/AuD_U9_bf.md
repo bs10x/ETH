@@ -100,10 +100,9 @@ Thus we have a topological ordering where $v_1$​ is the first vertex, $v_n$​
 
 
 **Proof:**
+Assume, for the sake of contradiction, that there exists a directed path $P$ where ik​≥ik+1​ for some �k (i.e., the indices are not strictly increasing).
 
-Assume, for the sake of contradiction, that there exists a directed path $P$ where ��≥��+1ik​≥ik+1​ for some �k (i.e., the indices are not strictly increasing).
-
-Consider the first occurrence of ��≥��+1ik​≥ik+1​ in the path. This means that there is an edge from ���vik​​ to ���+1vik+1​​, creating a subpath ���,���+1,…,���vik​​,vik+1​​,…,vil​​. Since ��≥��+1ik​≥ik+1​, this subpath forms a cycle.
+Consider the first occurrence of $i_k​\geq i_{k+1}$​ in the path. This means that there is an edge from ���vik​​ to ���+1vik+1​​, creating a subpath ���,���+1,…,���vik​​,vik+1​​,…,vil​​. Since ��≥��+1ik​≥ik+1​, this subpath forms a cycle.
 
 However, this contradicts the assumption that the graph is a directed acyclic graph (DAG). In a DAG, there cannot be any cycles. Therefore, our assumption that there exists ��≥��+1ik​≥ik+1​ is false.
 
