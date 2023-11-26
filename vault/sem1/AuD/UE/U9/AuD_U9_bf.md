@@ -96,5 +96,6 @@ Thus we have a topological ordering where $v_1$​ is the first vertex, $v_n$​
 
 
 
-(b)
+(b) Prove that for any directed $v_1-v_n$-path $P : v_1 = v_{i_0} , v_{i_1} , \dots , v_{i_l} = v_n$ we have $i_0 < i_1 < \dots < i_l$.
+
 
