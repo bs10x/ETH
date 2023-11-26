@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/UE/U9/AuD_U9_e.pdf",
+                "file": "sem1/AuD/UE/U9/AuD_U9_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/UE/U9/AuD_U9_e.pdf",
+                "file": "sem1/AuD/UE/U9/AuD_U9_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/UE/U9/AuD_U9_e.pdf"
+                "file": "sem1/AuD/UE/U9/AuD_U9_bf.md"
               }
             }
           },
@@ -234,8 +234,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2020998adb8c890",
+  "active": "a1d31b4cde9a313a",
   "lastOpenFiles": [
+    "sem1/AuD/UE/U9/AuD_U9_e.pdf",
     "sem1/AuD/UE/U9/AuD_U9_bf.md",
     "var/test.md",
     "sem1/DMath/UE/U9/DMath_u9_bf.md",
@@ -245,7 +246,6 @@
     "sem1/Test+2.pdf",
     "sem1/DMath/UE/U9/DMath_w9_leon.pdf",
     "var/var.md",
-    "sem1/AuD/UE/U9/AuD_U9_e.pdf",
     "sem1/AuD/UE/U9",
     "sem1/DMath/UE/U9",
     "var/sem1_schedule.jpg",
@@ -272,7 +272,6 @@
     "sem1/LinAlg/VRL/V21_.md",
     "sem1/LinAlg/VRL/V20_.md",
     "sem1/LinAlg/VRL/V19_.md",
-    "sem1/LinAlg/VRL/V18_.md",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
   ]
