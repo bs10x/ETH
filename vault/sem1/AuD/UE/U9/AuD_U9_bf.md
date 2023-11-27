@@ -179,3 +179,75 @@ ___
 
 Let $G = (V, E)$ be a directed graph with n vertices and m edges. We say two distinct vertices $v, w \in V$ are strongly connected if there exists both a directed path from $v$ to $w$, and from $w$ to $v$. Describe an algorithm which finds a pair $v, w \in V$ of strongly connected vertices in $G$, or decides that no such pair exists. The runtime of your algorithm should be at most $O(n + m)$. You are provided with the number of vertices $n$, and the adjacency list $Adj$ of $G$.
 Hint: Use DFS as a subroutine
+
+
+**Solution:**
+
+1. **Compute the Reverse Graph:**
+   - Create a new graph $G_{\text{rev}}$ with the same vertices as $G$ but with reversed edges (directions inverted). For each edge $(u, v)$ in $G$, add the edge $(v, u)$ to $G_{\text{rev}}$.
+
+2. **Run DFS on $G_{\text{rev}}$ to Compute Finishing Times:**
+   - Perform a DFS on $G_{\text{rev}}$ to compute finishing times for each vertex. This is typically done by assigning a timestamp to each vertex when it finishes exploration in the DFS. Sort the vertices based on their finishing times in decreasing order.
+
+3. **Run DFS on $G$ to Identify SCCs:**
+   - Starting from the vertex with the highest finishing time obtained in the previous step, run DFS on $G$ in the order of decreasing finishing times.
+   - Each DFS call from an unvisited vertex in this step identifies a new strongly connected component.
+
+4. **Identify a Pair of Vertices in the Same SCC:**
+   - During the DFS in step 3, check for the existence of a back edge (an edge that goes back to a vertex already in the current DFS call stack). If such a back edge is found, the vertices involved in the back edge are in the same SCC.
+   - Output the pair of vertices involved in the back edge as a strongly connected pair.
+
+This algorithm ensures that the vertices involved in a back edge during the DFS on $G$ are strongly connected. The runtime of the algorithm is $O(n + m)$, where $n$ is the number of vertices, and $m$ is the number of edges.
+
+Here's a Python-like pseudocode for the algorithm:
+
+```python
+def kosaraju_algorithm(n, Adj):
+    def dfs(graph, vertex, visited, stack):
+        visited[vertex] = True
+        for neighbor in graph[vertex]:
+            if not visited[neighbor]:
+                dfs(graph, neighbor, visited, stack)
+        stack.append(vertex)
+
+    def dfs_scc(graph, vertex, visited, scc):
+        visited[vertex] = True
+        scc.append(vertex)
+        for neighbor in graph[vertex]:
+            if not visited[neighbor]:
+                dfs_scc(graph, neighbor, visited, scc)
+
+    # Step 1: Compute the Reverse Graph
+    G_rev = {i: [] for i in range(1, n + 1)}
+    for i in range(1, n + 1):
+        for neighbor in Adj[i]:
+            G_rev[neighbor].append(i)
+
+    # Step 2: Run DFS on G_rev to Compute Finishing Times
+    visited = [False] * (n + 1)
+    stack = []
+    for i in range(1, n + 1):
+        if not visited[i]:
+            dfs(G_rev, i, visited, stack)
+
+    # Step 3: Run DFS on G to Identify SCCs
+    visited = [False] * (n + 1)
+    strongly_connected_pairs = []
+    while stack:
+        vertex = stack.pop()
+        if not visited[vertex]:
+            scc = []
+            dfs_scc(Adj, vertex, visited, scc)
+            if len(scc) > 1:
+                strongly_connected_pairs.append((scc[0], scc[1]))
+
+    return strongly_connected_pairs
+
+# Example usage:
+n = 5
+Adj = {1: [2], 2: [3], 3: [1, 4], 4: [5], 5: [3]}
+result = kosaraju_algorithm(n, Adj)
+print(result)
+```
+
+This pseudocode demonstrates the essential steps of Kosaraju's algorithm to find strongly connected pairs in a directed graph.
