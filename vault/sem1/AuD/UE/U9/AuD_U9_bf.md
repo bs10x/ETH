@@ -3,14 +3,16 @@
 
 ## 9.2
 
-(a) If for every vertex $v \in V$ its in-degree $deg_{in}(v)$ is even, then $|E|$ is even.
+(a)
+If for every vertex $v \in V$ its in-degree $deg_{in}(v)$ is even, then $|E|$ is even.
 
 **Proof:**
 This statement is true. Consider any directed graph G = (V, E) where every vertex v has an even in-degree. We can count the number of edges by summing up the in-degrees of all vertices because each edge contributes to the in-degree of one vertex. Since every in-degree is even, the sum of all in-degrees is even. This implies that the number of edges |E| is also even.
 
 ___
 
-(b) For a longest directed path $P : v_0, \dots , v_l$ in $G$, the endpoint has to be a sink.
+(b) 
+For a longest directed path $P : v_0, \dots , v_l$ in $G$, the endpoint has to be a sink.
 
 **Proof:**
 This statement is true. Let's assume, for the sake of contradiction, that the longest directed path P has an endpoint vₗ that is not a sink. Since vₗ is not a sink, it must have an outgoing edge. However, this would contradict the maximality of the path P because if we add the outgoing edge from vₗ to the path, we would obtain a longer path, which contradicts the assumption that P is the longest path. Therefore, the endpoint vₗ must be a sink.
@@ -19,7 +21,8 @@ This completes the proof, demonstrating that in a directed graph, the endpoint o
 
 ___
 
-(b) The following graph has a topological sorting. If so, give a topological sorting; if not, prove why no topological sorting can exist.
+(b)
+The following graph has a topological sorting. If so, give a topological sorting; if not, prove why no topological sorting can exist.
 
 ```mermaid
 graph TD
@@ -72,14 +75,14 @@ The resulting topological sorting is: G, E, C, D, A, H, F, I, B.
 
 Therefore, the given graph has a topological sorting.
 
-
-
+___
 
 ## 9.4
 
 Let $G = (V, E)$ be a directed graph without directed cycles (i.e., a directed acyclic graph or short DAG). Assume that $V = {v1, . . . , vn}$ $(\text{for} n = |V | \in N)$. Further assume that $v_1$ is a source and $v_n$ is a sink. The goal of this exercise is to find the number of paths from $v_1$ to $v_n$.
 
-(a) Prove that there exists a topological sorting of G that has $v_1$ as first and $v_n$ as last vertex.
+(a)
+Prove that there exists a topological sorting of G that has $v_1$ as first and $v_n$ as last vertex.
 
 **Proof:**
 To prove that there exists a topological sorting of $G$ that has $v_1$​ as the first vertex and $v_n$​ as the last vertex, we can use the properties of a directed acyclic graph (DAG) and the fact that $v_1$​ is a source and $v_n$​ is a sink.
@@ -94,9 +97,10 @@ Now, let's consider the vertices between $v_1$ and $v_n$, i.e. $v_{\pi(2)},\ v_{
 
 Thus we have a topological ordering where $v_1$​ is the first vertex, $v_n$​ is the last vertex, and the vertices in between are ordered according to the topological ordering. This proves the existence of such a topological sorting for $G$.
 
+___
 
-
-(b) Prove that for any directed $v_1-v_n$-path $P : v_1 = v_{i_0} , v_{i_1} , \dots , v_{i_l} = v_n$ we have $i_0 < i_1 < \dots < i_l$.
+(b)
+Prove that for any directed $v_1-v_n$-path $P : v_1 = v_{i_0} , v_{i_1} , \dots , v_{i_l} = v_n$ we have $i_0 < i_1 < \dots < i_l$.
 
 
 **Proof:**
@@ -110,8 +114,7 @@ Since $i_0\geq i_1$​ is false, $i_1​≥i_2$​ is false, and so on, it follo
 
 Therefore, for any directed $v_1​−v_n​$-path $P$, the indices of the vertices along the path are strictly increasing.
 
-
-
+___
 
 (c)
 Describe a bottom-up dynamic programming algorithm that, given a graph G with the property that v1, . . . , vn is a topological sorting, returns the number of v1-vn paths in G in O(|V | + |E|) time. You can assume that the graph is provided to you as a pair (n, Adj) of the integer n = |V | and the adjacency lists Adj. Your algorithm can access Adj[u], which is a list of vertices to which u has a direct edge, in constant time. Formally, Adj[u] := {v ∈ V | (u, v) ∈ E}.
@@ -148,7 +151,7 @@ We fill in the DP table in a bottom-up manner, starting from the last vertex $(v
 The solution is given by $DP[1]$, which represents the number of paths from $(v_1)$ to $(v_n)$.
 
 **6. Running Time:**
-The running time of the solution is \(O(|V| + |E|)\) since we visit each vertex once and each edge once while filling in the DP table.
+The running time of the solution is $O(|V| + |E|)$ since we visit each vertex once and each edge once while filling in the DP table.
 
 Here's the Python code for the algorithm:
 
@@ -167,4 +170,12 @@ def count_paths(n, Adj):
     return DP[1]  # Number of paths from v1 to vn
 ```
 
-In this code, `Adj` is the adjacency list representation of the graph, where `Adj[i]` is the list of vertices to which \(v_i\) has a direct edge.
+In this code, `Adj` is the adjacency list representation of the graph, where `Adj[i]` is the list of vertices to which $(v_i)$ has a direct edge.
+
+___
+
+
+## 9.5
+
+Let $G = (V, E)$ be a directed graph with n vertices and m edges. We say two distinct vertices $v, w \in V$ are strongly connected if there exists both a directed path from $v$ to $w$, and from $w$ to $v$. Describe an algorithm which finds a pair $v, w \in V$ of strongly connected vertices in $G$, or decides that no such pair exists. The runtime of your algorithm should be at most $O(n + m)$. You are provided with the number of vertices $n$, and the adjacency list $Adj$ of $G$.
+Hint: Use DFS as a subroutine
