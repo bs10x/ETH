@@ -1,5 +1,5 @@
 ---
-"course:": "[[DMath]]"
+"course:": "[[sem1/DMath/lib/DMath]]"
 "exercises:": "[[DMath_U7_e.pdf]]"
 "hand-in:": "[[DMath_U7_bf.pdf]]"
 "solutions:": "[[DMath_U7_s.pdf]]"
