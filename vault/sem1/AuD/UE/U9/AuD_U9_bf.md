@@ -114,4 +114,58 @@ Therefore, for any directed $v_1​−v_n​$-path $P$, the indices of the verti
 
 
 (c)
-Describe a bottom-up dynamic programming algorithm that, given a graph G with the property that v1, . . . , vn is a topological sorting, returns the number of v1-vn paths in G in O(|V | + |E|) time. You can assume that the graph is provided to you as a pair (n, Adj) of the integer n = |V | and the adjacency lists Adj. Your algorithm can access Adj[u], which is a list of vertices to which u has a direct edge, in constant time. Formally, Adj[u] := {v ∈ V | (u, v) ∈ E}. In your solution, address the following aspects: 1. Dimensions of the DP table: What are the dimensions of the DP table? 2. Subproblems: What is the meaning of each entry? 3. Recursion: How can an entry of the table be computed from previous entries? Justify why your recurrence relation is correct. Specify the base cases of the recursion, i.e., the cases that do not depend on others. 4. Calculation order: In which order can entries be computed so that values needed for each entry have been determined in previous steps? 5. Extracting the solution: How can the solution be extracted once the table has been filled? 6. Running time: What is the running time of your solution? Hint: Define the entry of the DP table as DP [i] = number of paths in G from vi to vn
+Describe a bottom-up dynamic programming algorithm that, given a graph G with the property that v1, . . . , vn is a topological sorting, returns the number of v1-vn paths in G in O(|V | + |E|) time. You can assume that the graph is provided to you as a pair (n, Adj) of the integer n = |V | and the adjacency lists Adj. Your algorithm can access Adj[u], which is a list of vertices to which u has a direct edge, in constant time. Formally, Adj[u] := {v ∈ V | (u, v) ∈ E}.
+
+In your solution, address the following aspects:
+1. Dimensions of the DP table: What are the dimensions of the DP table?
+2. Subproblems: What is the meaning of each entry?
+3. Recursion: How can an entry of the table be computed from previous entries? Justify why your recurrence relation is correct. Specify the base cases of the recursion, i.e., the cases that do not depend on others.
+4. Calculation order: In which order can entries be computed so that values needed for each entry have been determined in previous steps?
+5. Extracting the solution: How can the solution be extracted once the table has been filled?
+6. Running time: What is the running time of your solution? Hint: Define the entry of the DP table as DP [i] = number of paths in G from vi to vn
+
+
+
+To solve this problem using bottom-up dynamic programming, we can follow these steps:
+
+**1. Dimensions of the DP Table:**
+The DP table will be a 1D array, DP, of size \(n+1\) where \(n = |V|\). Each entry DP[i] represents the number of paths from vertex \(v_i\) to \(v_n\) in the graph.
+
+**2. Subproblems:**
+The meaning of each entry DP[i] is the number of paths from vertex \(v_i\) to \(v_n\).
+
+**3. Recursion:**
+The recurrence relation for computing DP[i] from previous entries is as follows:
+\[ DP[i] = \sum_{j \in \text{Adj}[i]} DP[j] \]
+This means that the number of paths from \(v_i\) to \(v_n\) is the sum of the number of paths from each vertex \(j\) in the adjacency list of \(v_i\) to \(v_n\).
+
+**Base Cases:**
+\[ DP[n] = 1 \] because there is only one path from \(v_n\) to \(v_n\), which is the vertex itself.
+
+**4. Calculation Order:**
+We fill in the DP table in a bottom-up manner, starting from the last vertex \(v_n\) and moving towards the first vertex \(v_1\). This ensures that when we calculate DP[i], all the necessary values DP[j] for \(j \in \text{Adj}[i]\) have already been computed.
+
+**5. Extracting the Solution:**
+The solution is given by DP[1], which represents the number of paths from \(v_1\) to \(v_n\).
+
+**6. Running Time:**
+The running time of the solution is \(O(|V| + |E|)\) since we visit each vertex once and each edge once while filling in the DP table.
+
+Here's the Python code for the algorithm:
+
+```python
+def count_paths(n, Adj):
+    DP = [0] * (n + 1)
+
+    # Base case
+    DP[n] = 1
+
+    # Bottom-up calculation
+    for i in range(n - 1, 0, -1):
+        for j in Adj[i]:
+            DP[i] += DP[j]
+
+    return DP[1]  # Number of paths from v1 to vn
+```
+
+In this code, `Adj` is the adjacency list representation of the graph, where `Adj[i]` is the list of vertices to which \(v_i\) has a direct edge.
