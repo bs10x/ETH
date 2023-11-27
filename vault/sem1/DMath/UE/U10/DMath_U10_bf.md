@@ -23,3 +23,9 @@ ___
 
 (c) Write $a(y) = (2x+3)y^2 +(2x+1)y +1 \in F [y]$ as a  product of irreducible polynomials.
 Hint: $2x + 1 \equiv_{x2+4x+1} 2(x + 3) \in \mathbb{Z}_5[x]$.
+
+
+
+deg(polynom) = 1 => irreduzibel
+
+
