@@ -125,28 +125,27 @@ In your solution, address the following aspects:
 6. Running time: What is the running time of your solution? Hint: Define the entry of the DP table as DP [i] = number of paths in G from vi to vn
 
 
-
-To solve this problem using bottom-up dynamic programming, we can follow these steps:
+**Solution:**
 
 **1. Dimensions of the DP Table:**
-The DP table will be a 1D array, DP, of size \(n+1\) where \(n = |V|\). Each entry DP[i] represents the number of paths from vertex \(v_i\) to \(v_n\) in the graph.
+The DP table will be a 1D array, DP, of size $(n+1)$ where $(n = |V|)$. 
 
 **2. Subproblems:**
-The meaning of each entry DP[i] is the number of paths from vertex \(v_i\) to \(v_n\).
+Each entry $DP[i]$ represents the number of paths from vertex $(v_i)$ to $(v_n)$ in the graph.
 
 **3. Recursion:**
-The recurrence relation for computing DP[i] from previous entries is as follows:
-\[ DP[i] = \sum_{j \in \text{Adj}[i]} DP[j] \]
-This means that the number of paths from \(v_i\) to \(v_n\) is the sum of the number of paths from each vertex \(j\) in the adjacency list of \(v_i\) to \(v_n\).
+The recurrence relation for computing $DP[i]$ from previous entries is as follows:
+$DP[i] = \sum_{j \in \text{Adj}[i]} DP[j]$
+This means that the number of paths from $(v_i)$ to $(v_n)$ is the sum of the number of paths from each vertex $j$ in the adjacency list of $(v_i)$ to $(v_n)$.
 
 **Base Cases:**
-\[ DP[n] = 1 \] because there is only one path from \(v_n\) to \(v_n\), which is the vertex itself.
+$DP[n] = 1$ because there is only one path from $(v_n)$ to $(v_n)$, which is the vertex itself.
 
 **4. Calculation Order:**
-We fill in the DP table in a bottom-up manner, starting from the last vertex \(v_n\) and moving towards the first vertex \(v_1\). This ensures that when we calculate DP[i], all the necessary values DP[j] for \(j \in \text{Adj}[i]\) have already been computed.
+We fill in the DP table in a bottom-up manner, starting from the last vertex $(v_n)$ and moving towards the first vertex $(v_1)$. This ensures that when we calculate $DP[i]$, all the necessary values $DP[j]$ for $(j \in \text{Adj}[i])$ have already been computed.
 
 **5. Extracting the Solution:**
-The solution is given by DP[1], which represents the number of paths from \(v_1\) to \(v_n\).
+The solution is given by $DP[1]$, which represents the number of paths from $(v_1)$ to $(v_n)$.
 
 **6. Running Time:**
 The running time of the solution is \(O(|V| + |E|)\) since we visit each vertex once and each edge once while filling in the DP table.
