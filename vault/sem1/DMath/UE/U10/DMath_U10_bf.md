@@ -44,7 +44,7 @@ Since $F$ is a field, $a(x)$ has an inverse, and therefore, $a(x)$ cannot be the
 
 By the division algorithm for polynomials, any polynomial $a(x)$ can be written as $a(x)=q(x)(x^2+4x+1)+r(x)$, where $q(x)$ is the quotient and $r(x)$ is the remainder. The degree of $r(x)$ must be less than the degree of $x^2+4x+1$.
 
-Now $r(x)$ can be expressed as $r(x)=(x+3)^n$ for some $n$ because $x+3$ is a linear factor of $x^2+4x+1$. Therefore, every nonzero element in �F can be expressed as a power of �+3x+3.
+Now $r(x)$ can be expressed as $r(x)=(x+3)^n$ for some $n$ because $x+3$ is a linear factor of $x^2+4x+1$. Therefore, every nonzero element in $F$ can be expressed as a power of $x+3$.
 
 ### Step 2: Every element in ⟨�+3⟩⟨x+3⟩ is a unit in �F.
 
