@@ -14,8 +14,11 @@ $\mathbb{Z}_5 =\{0, 1, 2, 3, 4\}$
 
 $$
 \begin{align}
+&x= 0 \implies 0^2 + 4(0) + 1 \not\equiv_5 0 \\
 &x = 1 \implies 1^2 + 4(1) + 1 \not\equiv_5 0 \\
-&x= 2 \implies 2^2 + 4(2) + 1 \not\equiv
+&x= 2 \implies 2^2 + 4(2) + 1 \not\equiv_5 0 \\
+&x= 3 \implies 3^2 + 4(3) + 1 \not\equiv_5 0 \\
+&x= 4 \implies 4^2 + 4(4) + 1 \not\equiv_5 0 \\
 \end{align}
 $$
 ___
