@@ -2,7 +2,7 @@
 
 ## 10.5
 
-Let $F = \mathbb{Z}_5[x]_{x2+4x+1}$
+Let $F = \mathbb{Z}_5[x]_{x^2+4x+1}$
 
 
 
