@@ -10,8 +10,13 @@ Let $F = \mathbb{Z}_5[x]_{x^2+4x+1}$
 $\mathbb{Z}_5$ is a field, since $5$ is prime. (Theorem 5.23.)   
 Now, since we have shown $\mathbb{Z}_5$ to be a field, it remains to show that the polynomial $x^2 +4x +1$ on $\mathbb{Z}_5$ is irreducible (Theorem 5.37.).
 
+$\mathbb{Z}_5 =\{0, 1, 2, 3, 4\}$
 
-
+$$
+\begin{align}
+x = 1 \implies 1^2 + 4(1) + 1 \not\equiv_5 0 
+\end{align}
+$$
 ___
 
 
