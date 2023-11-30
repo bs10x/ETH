@@ -8,10 +8,10 @@ Let $F = \mathbb{Z}_5[x]_{x^2+4x+1}$
 
 **Proof:**
 $\mathbb{Z}_5$ is a field, since $5$ is prime. (Theorem 5.23.)   
-Now, since we have shown $\mathbb{Z}_5$ to be a field, it remains to show that the polynomial $x^2 +4x +1$ on $\mathbb{Z}_5$ is irreducible (Theorem 5.37.). To do this, we must prove that $x^2 +4x +1$ 
-
-$\mathbb{Z}_5 =\{0, 1, 2, 3, 4\}$
-
+Now, since we have shown $\mathbb{Z}_5$ to be a field, it remains to show that the polynomial $x^2 +4x +1$ on $\mathbb{Z}_5$ is irreducible (Theorem 5.37.). To do this, we must prove that $x^2 +4x +1$ has no roots in $\mathbb{Z}_5$. 
+Since
+$$\mathbb{Z}_5 =\{0, 1, 2, 3, 4\}$$
+we do this:
 $$
 \begin{align}
 &x= 0 \implies 0^2 + 4(0) + 1 \not\equiv_5 0 \\
@@ -21,6 +21,8 @@ $$
 &x= 4 \implies 4^2 + 4(4) + 1 \not\equiv_5 0 \\
 \end{align}
 $$
+which concludes the proof.
+$\square$
 ___
 
 
