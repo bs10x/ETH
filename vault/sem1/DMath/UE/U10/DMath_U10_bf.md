@@ -69,17 +69,20 @@ Write \( a(y) = (2x+3)y^2 + (2x+1)y + 1 \) in \( F[y] \) as a product of irreduc
 
 Hint: \( 2x + 1 \equiv_{x^2+4x+1} 2(x + 3) \in \mathbb{Z}_5[x] \).
 
-The given polynomial is
-\[ a(y) = (2x+3)y^2 + (2x+1)y + 1 \]
 
-Using the hint, we substitute \( 2x + 1 \) with \( 2(x + 3) \):
-\[ a(y) = (2(x+3))y^2 + (2(x+3))y + 1 \]
 
-Factoring out the common factor \( 2(x+3) \):
-\[ a(y) = 2(x+3)(y^2 + y) + 1 \]
+The given polynomial is $a(y) = (2x+3)y^2 + (2x+1)y + 1$
 
-Factoring the quadratic \( y^2 + y \) over \( \mathbb{Z}_5 \):
-\[ y^2 + y = y(y+1) \]
+Using the hint, we substitute $( 2x + 1 )$ with $( 2(x + 3) )$:
+
+$a(y) = (2(x+3))y^2 + (2(x+3))y + 1$
+
+Factoring out the common factor $( 2(x+3) )$:
+
+$a(y) = 2(x+3)(y^2 + y) + 1$
+
+Factoring the quadratic $( y^2 + y )$ over $\mathbb{Z}_5$:
+\[ y^2 + y = y(y+1)$
 
 Substituting this back into the expression:
 \[ a(y) = 2(x+3)y(y+1) + 1 \]
