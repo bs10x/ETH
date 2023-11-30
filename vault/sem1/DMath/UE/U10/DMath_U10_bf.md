@@ -8,6 +8,8 @@ Let $F = \mathbb{Z}_5[x]_{x2+4x+1}$
 
 (a) Prove that $F$ is a field.
 
+
+
 Theorem 5.23. 
 theorem 5.3.7.
 
