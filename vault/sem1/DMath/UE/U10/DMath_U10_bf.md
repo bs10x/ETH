@@ -21,12 +21,22 @@ $$
 &x= 4 \implies 4^2 + 4(4) + 1 \not\equiv_5 0 \\
 \end{align}
 $$
-which concludes the proof.
+which concludes the proof, as the polynomial $x^2 + 4x + 1$ is congruent to zero over no element in the field $\mathbb{Z}$.
 $\square$
 ___
 
 
-(b) $F^* = \langle x + 3 \rangle$
+(b) Prove that $F^* = \langle x + 3 \rangle$
+
+
+
+I have the following field:
+$F = \mathbb{Z}_5[x]_{x^2+4x+1}$
+and i need to prove that $F^* = \langle x + 3 \rangle$
+how can i do that?
+
+
+
 
 $|F^*| = |F \backslash \{0\} | = 5^2 -1 =24$
 ...
