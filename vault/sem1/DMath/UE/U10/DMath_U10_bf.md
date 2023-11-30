@@ -14,7 +14,8 @@ $\mathbb{Z}_5 =\{0, 1, 2, 3, 4\}$
 
 $$
 \begin{align}
-x = 1 \implies 1^2 + 4(1) + 1 \not\equiv_5 0 
+&x = 1 \implies 1^2 + 4(1) + 1 \not\equiv_5 0 \\
+&x= 2 \implies 2^2 + 4(2) + 1 \not\equiv
 \end{align}
 $$
 ___
