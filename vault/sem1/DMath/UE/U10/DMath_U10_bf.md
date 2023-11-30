@@ -40,11 +40,11 @@ Every nonzero element in $F$ can be expressed as a power of $x+3$.
 
 Let $a(x)$ be a nonzero element in $F$, meaning $a(x)$ is a nonzero polynomial in $\mathbb{Z}_5​[x]_{x^2+4x+1}$. We want to show that $a(x)$ can be expressed as $(x+3)^n$ for some $n$.
 
-Since $F$ is a field, �(�)a(x) has an inverse, and therefore, �(�)a(x) cannot be the zero polynomial. Also, �2+4�+1x2+4x+1 is irreducible over �5Z5​.
+Since $F$ is a field, $a(x)$ has an inverse, and therefore, $a(x)$ cannot be the zero polynomial. Also, $x^2+4x+1$ is irreducible over $\mathbb{Z}_5$​.
 
-By the division algorithm for polynomials, any polynomial �(�)a(x) can be written as �(�)=�(�)(�2+4�+1)+�(�)a(x)=q(x)(x2+4x+1)+r(x), where �(�)q(x) is the quotient and �(�)r(x) is the remainder. The degree of �(�)r(x) must be less than the degree of �2+4�+1x2+4x+1.
+By the division algorithm for polynomials, any polynomial $a(x)$ can be written as $a(x)=q(x)(x^2+4x+1)+r(x)$, where $q(x)$ is the quotient and $r(x)$ is the remainder. The degree of $r(x)$ must be less than the degree of $x^2+4x+1$.
 
-Now, �(�)r(x) can be expressed as �(�)=(�+3)�r(x)=(x+3)n for some �n because �+3x+3 is a linear factor of �2+4�+1x2+4x+1. Therefore, every nonzero element in �F can be expressed as a power of �+3x+3.
+Now $r(x)$ can be expressed as $r(x)=(x+3)^n$ for some $n$ because $x+3$ is a linear factor of $x^2+4x+1$. Therefore, every nonzero element in �F can be expressed as a power of �+3x+3.
 
 ### Step 2: Every element in ⟨�+3⟩⟨x+3⟩ is a unit in �F.
 
