@@ -28,12 +28,39 @@ ___
 
 (b) Prove that $F^* = \langle x + 3 \rangle$
 
+**Proof:**
+To prove that $F^∗=\langle x+3\rangle$, we need to show two things:
+
+1. Every nonzero element in $F$ can be expressed as a power of $x+3$.
+2. Every element in $\langle x+3\rangle$ is a unit in $F$.
 
 
-I have the following field:
-$F = \mathbb{Z}_5[x]_{x^2+4x+1}$
-and i need to prove that $F^* = \langle x + 3 \rangle$
-how can i do that?
+1:
+Every nonzero element in $F$ can be expressed as a power of $x+3$.
+
+Let $a(x)$ be a nonzero element in $F$, meaning $a(x)$ is a nonzero polynomial in $\mathbb{Z}_5​[x]_{x^2+4x+1}$. We want to show that $a(x)$ can be expressed as $(x+3)^n$ for some $n$.
+
+Since $F$ is a field, �(�)a(x) has an inverse, and therefore, �(�)a(x) cannot be the zero polynomial. Also, �2+4�+1x2+4x+1 is irreducible over �5Z5​.
+
+By the division algorithm for polynomials, any polynomial �(�)a(x) can be written as �(�)=�(�)(�2+4�+1)+�(�)a(x)=q(x)(x2+4x+1)+r(x), where �(�)q(x) is the quotient and �(�)r(x) is the remainder. The degree of �(�)r(x) must be less than the degree of �2+4�+1x2+4x+1.
+
+Now, �(�)r(x) can be expressed as �(�)=(�+3)�r(x)=(x+3)n for some �n because �+3x+3 is a linear factor of �2+4�+1x2+4x+1. Therefore, every nonzero element in �F can be expressed as a power of �+3x+3.
+
+### Step 2: Every element in ⟨�+3⟩⟨x+3⟩ is a unit in �F.
+
+The ideal ⟨�+3⟩⟨x+3⟩ consists of all multiples of �+3x+3 in �F. To show that every element in this ideal is a unit in �F, you need to show that each nonzero element has a multiplicative inverse.
+
+Take an arbitrary nonzero element �(�)b(x) in ⟨�+3⟩⟨x+3⟩. Then, �(�)=�(�)(�+3)b(x)=c(x)(x+3) for some �(�)c(x) in �F.
+
+Since �+3x+3 is a linear factor of �2+4�+1x2+4x+1, �+3x+3 is not the zero polynomial in �F. Therefore, �(�)≠0c(x)=0 (otherwise �(�)=0b(x)=0, which is not possible).
+
+Now, find the inverse of �+3x+3 in �F. You've shown in Step 1 that every nonzero element in �F can be expressed as a power of �+3x+3. Therefore, you can express the inverse of �+3x+3 as (�+3)−1=�(�)(x+3)−1=d(x) for some �(�)d(x) in �F.
+
+Now, the product �(�)�(�)b(x)d(x) is in ⟨�+3⟩⟨x+3⟩ and equals �(�)(�+3)�(�)=�(�)c(x)(x+3)d(x)=c(x) because (�+3)�(�)=1(x+3)d(x)=1 (the inverse property). Thus, �(�)�(�)=�(�)b(x)d(x)=c(x), which means �(�)b(x) has an inverse in �F.
+
+This shows that every element in ⟨�+3⟩⟨x+3⟩ is a unit in �F.
+
+Combining both steps, you have shown that �∗=⟨�+3⟩F∗=⟨x+3⟩.
 
 
 
