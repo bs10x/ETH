@@ -69,3 +69,7 @@ So, the irreducible factorization of $a(y)$  $F[y]$ is:
 $a(y) = (2(x+3)) \cdot y \cdot (y+1) + 1$
 
 The irreducible polynomials are  $2(x+3)$, $y$, and $y+1$.
+$\square$
+
+___
+
