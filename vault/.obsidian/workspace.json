@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/EProg/lib/EProg_sx.pdf",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/EProg/lib/EProg_sx.pdf",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/EProg/lib/EProg_sx.pdf"
+                "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
           },
@@ -235,8 +235,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f82d9e3124e32a3f",
+  "active": "21e0f1e60bda2fdb",
   "lastOpenFiles": [
+    "sem1/EProg/lib/EProg_sx.pdf",
     "sem1/DMath/UE/U10/DMath_U10_bf.md",
     "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U10/DMath_U10_e.pdf",
