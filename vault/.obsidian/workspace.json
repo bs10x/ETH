@@ -84,16 +84,18 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem1/EProg/lib/EProg_sx.pdf"
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
               }
             }
           },
           {
-            "id": "abd9ebabbd1718e0",
+            "id": "0646ae54e7eae42b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem1/EProg/lib/EProg_sx.pdf"
+              }
             }
           }
         ],
@@ -147,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -164,6 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/EProg/lib/EProg_sx.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/EProg/lib/EProg_sx.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +204,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/EProg/lib/EProg_sx.pdf"
+              }
             }
           },
           {
@@ -239,8 +244,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abd9ebabbd1718e0",
+  "active": "0646ae54e7eae42b",
   "lastOpenFiles": [
+    "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/EProg/lib/EProg_sx.pdf",
     "sem1/DMath/UE/U10/DMath_U10_bf.md",
     "sem1/DMath/lib/DMath_script.pdf",
