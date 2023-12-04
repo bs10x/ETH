@@ -14,3 +14,5 @@ b) If $\Sigma$ is complete, then $\overline{\Sigma}$ is sound.
 
 
 
+Definition 6.22.
+A calculus $K$ is *sound* if for every set $M$ of formulas and every formula $F$
