@@ -24,7 +24,12 @@ $$
 
 
 
-$$\Sigma \text{ is sound} \implies \nexists  s \in \mathcal{S}\ |\ \tau(s) = 0\ and\ \exists p \in \mathcal{P}\ |\ \phi(s, p)=1
+$$
+\begin{align}
+\Sigma \text{ is sound} \implies  \forall s \in \mathcal{S}\ | \ \overline{\tau}(s) = 1, \ \exists p \in \mathcal{P}\ |\ \overline{\phi}(s, p) = 1 \\
+
+\text{if for all s in S and p in P, tau(s) = implies phi(s, p) }
+\end{align}
 $$
 
 
