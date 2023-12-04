@@ -15,4 +15,11 @@ b) If $\Sigma$ is complete, then $\overline{\Sigma}$ is sound.
 
 
 Definition 6.22.
-A calculus $K$ is *sound* if for every set $M$ of formulas and every formula $F$
+A calculus $K$ is *sound* if for every set $M$ of formulas and every formula $F$, if $F$ can be derived from $M$ then $F$ is also a logical consequence of $M$:
+$$
+M \vdash_K \implies M \models F, \\
+$$
+and $Kä is *complete* if for every $M$ and $F$, if $F$ is a logical consequence of $M$, then $F$ can also be derived from $M$: 
+$$
+$$
+
