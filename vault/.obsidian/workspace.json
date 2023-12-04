@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "aa07c86f4aed12e4",
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DMath_U11_bf.md",
+                "file": "sem1/DMath/UE/U10/DMath_U10_e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DMath_U11_bf.md",
+                "file": "sem1/DMath/UE/U10/DMath_U10_e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DMath_U11_bf.md"
+                "file": "sem1/DMath/UE/U10/DMath_U10_e.pdf"
               }
             }
           },
@@ -265,10 +265,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea72fcbfb3d50dc5",
+  "active": "97ba0248b3938ab8",
   "lastOpenFiles": [
-    "sem1/DMath/lib/DMath_script.pdf",
     "DMath_U11_bf.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/EProg/lib/EProg_sx.pdf",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/DMath/UE/U10/DMath_U10_bf.md",
