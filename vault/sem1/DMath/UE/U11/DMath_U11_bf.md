@@ -14,6 +14,12 @@ b) If $\Sigma$ is complete, then $\overline{\Sigma}$ is sound.
 
 
 
+$$sound \implies \nexists s \in \mathcal{S} | \tau(s) = 0\ and\ \exists p \in \mathcal{P} |\phi(s, p)=1
+$$
+$$
+complete \implies \forall s \in \mathcal{S} | \tau(s) = 1 \exists 
+$$
+
 
 Definition 6.22.
 A calculus $K$ is *sound* if for every set $M$ of formulas and every formula $F$, if $F$ can be derived from $M$ then $F$ is also a logical consequence of $M$:
