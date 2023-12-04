@@ -14,11 +14,31 @@ b) If $\Sigma$ is complete, then $\overline{\Sigma}$ is sound.
 
 
 
-$$sound \implies \nexists s \in \mathcal{S} | \tau(s) = 0\ and\ \exists p \in \mathcal{P} |\phi(s, p)=1
+$$sound \implies \nexists  s \in \mathcal{S}\ |\ \tau(s) = 0\ and\ \exists p \in \mathcal{P}\ |\ \phi(s, p)=1
 $$
 $$
-complete \implies \forall s \in \mathcal{S} | \tau(s) = 1 \exists 
+complete \implies \forall s \in \mathcal{S}\ | \ \tau(s) = 1, \ \exists p \in \mathcal{P}\ |\ \phi(s, p) = 1
 $$
+
+
+
+
+
+$$\Sigma \text{ is sound} \implies \nexists  s \in \mathcal{S}\ |\ \tau(s) = 0\ and\ \exists p \in \mathcal{P}\ |\ \phi(s, p)=1
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Definition 6.22.
