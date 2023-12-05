@@ -72,9 +72,15 @@ If $\Sigma$ is complete that means
 
 which is the same as to say
 
-"there is no statement $s \in \mathcal S$ such that $\tau (s)=1$ for which there doesn't exist a $p \in \mathcal P$  such that $\phi(s, p)=0$"
+"there is no statement $s \in \mathcal S$ such that $\tau (s)=1$ for which there doesn't exist a $p \in \mathcal P$  such that $\phi(s, p)=1"
+
+which is the same as saying
+
+"there is no pair ($s \in \mathcal S, p \in \mathcal P)$ such that $\tau(s)=1$ and $\phi(s, p) =0$"
 
 
+
+"there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\overline \tau(s) = 0$ and $\overline \phi (s,p) = 1$".
 
 
 
