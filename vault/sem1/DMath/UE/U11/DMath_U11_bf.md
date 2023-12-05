@@ -41,7 +41,9 @@ $$
 
 
 
-
+$$
+\forall (s \in \mathcal{S}) | \exists \implies
+$$
 
 
 
