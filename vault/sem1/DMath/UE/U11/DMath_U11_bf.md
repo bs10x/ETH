@@ -68,7 +68,34 @@ $\square$
 
 If $\Sigma$ is complete that means
 
-"for all true statements there exists a proof such that the verification function returns true."
+"for all statements $s\in \mathcal S$ that are true, ($\tau(s)=1$ there exists a proof $p \in \mathcal P$ such that $\phi(s, p) = 1$."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
