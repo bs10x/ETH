@@ -52,11 +52,12 @@ Which is the same as to say that
 
 "there does not exist an $s \in \mathcal S$ with $\overline \tau (s) = 1$ such that there exists a $p \in \mathcal P$ with $\overline \phi (s, p) =0$"
 
+Since $\overline \tau (s)$ and $\overline \phi (s, p)$ in $\overline \Sigma$ are, per definition the opposite of $\tau(s)$ and $\phi(s,p)$ in $\Sigma$.
 
+Which is to say that
 
+"for all $s \in \mathcal S$ with $\tau(s) = 1$ there exists a $p \in \mathcal P$ such that $\phi"
 
-
-Since $\overline \tau (s)$ and $\overline \phi (s, p)$ in $\overline \Sigma$ are, per definition the inverse of the the bit $b \in \{0, 1\}$ in $\Sigma$, where $b= \phi(s,p)$ or $b = \tau(s)$.
 
 All this essentially tells us, that if $\Sigma$ is sound, there is no $s \in \mathcal S$ in $\overline \Sigma$ for which $\overline \tau(s) =1$ and $\overline \phi (s,p) = 0$.
 
