@@ -33,7 +33,19 @@ Let's tackle a) first.
 A Proof System is sound if no false statement has a proof, i.e. for all statements for which there exists a proof such that the verification function returns true, the statement must be true.
 
 **Definition 6.3.**
-A Proof System is complete if every true statement has a proof, i.e. for all statements for which there exists a proof such that the verification function returns true, the statement must be true.
+A Proof System is complete if every true statement has a proof, i.e. for all true statements there exists a proof such that the verification function returns true.
+
+
+
+
+
+
+If $\Sigma$ is sound, meaning for all statements $s \in \mathcal S$ for which there exists $p \in \mathcal P$ such that $\phi(s,p) = 1$ we have $\tau(s)=1$ 
+
+
+
+
+
 
 
 
