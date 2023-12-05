@@ -78,6 +78,9 @@ which is the same as to say
 
 
 
+for all statements $s \in \mathcal S$ such that $\overline \tau(s) = 0$ there exists a proof
+
+
 "there is no statement $s \in \mathcal S$ such that $\tau (s)=1$ for which there doesn't exist a $p \in \mathcal P$  such that $\phi(s, p)=1$"
 
 which is the same as saying
