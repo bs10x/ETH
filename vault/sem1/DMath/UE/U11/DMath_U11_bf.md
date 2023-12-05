@@ -64,9 +64,15 @@ $\square$
 
 If $\Sigma$ is complete that means
 
-"for all statements $s\in \mathcal S$ that are true, i.e. $\tau(s)=1$ there exists a proof $p \in \mathcal P$ such that $\phi(s, p) = 1$."
+"for all statements $s\in \mathcal S$ with $\tau(s)=1$ there exists a proof $p \in \mathcal P$ such that $\phi(s, p) = 1$."
 
 which is the same as to say
+
+
+
+
+
+
 
 "for all statements $s \in \mathcal S$ such that $\tau (s)= 1$ there exists a proof $p \in \mathcal P$ such that $\phi(s, p)= 1$"
 
@@ -84,14 +90,11 @@ which is the same as saying
 
 
 //
-"there is no pair ($s \in \mathcal S, p \in \mathcal P)$ such that $\tau(s)=1$ and $\phi(s, p) =0$"
-
-
 
 
 in the end ->
 
-"for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$",
+"for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\overline \phi(s,p) = 1$ we have $\overline \tau(s)=1$",
 
 
 "there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\overline \tau(s) = 0$ and $\overline \phi (s,p) = 1$".
