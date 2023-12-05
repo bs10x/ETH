@@ -76,9 +76,16 @@ which is the same as to say
 
 which is the same as saying
 
+
+
+
+//
 "there is no pair ($s \in \mathcal S, p \in \mathcal P)$ such that $\tau(s)=1$ and $\phi(s, p) =0$"
 
 
+
+
+in the end ->
 
 "there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\overline \tau(s) = 0$ and $\overline \phi (s,p) = 1$".
 
