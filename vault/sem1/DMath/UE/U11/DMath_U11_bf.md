@@ -54,11 +54,19 @@ Which is the same as to say that
 
 
 
+
+
+Since $\overline \tau (s)$ and $\overline \phi (s, p)$ in $\overline \Sigma$ are, per definition the inverse of the the bit $b \in \{0, 1\}$ in $\Sigma$, where $b= \phi(s,p)$ or $b = \tau(s)$.
+
+All this essentially tells us, that if $\Sigma$ is sound, there is no $s \in \mathcal S$ in $\overline \Sigma$ for which $\overline \tau(s) =1$ and $\overline \phi (s,p) = 0$.
+
+
+
 //?
 "there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\tau(s) = 0$ and $\phi (s,p) = 1$".
 
-Since $\overline \tau (s)$ and $\overline \phi (s, p)$ in $\overline \Sigma$ are, per definition the inverse of the the bit $b \in \{0, 1\}$ in $\Sigma$, where $b= \phi(s,p)$ or $b = \tau(s)$.
-All this essentially tells us, that if $\Sigma$ is sound, there is no pair $(s \in \mathcal S, p \in \mathcal P)$ in $\overline \Sigma$ for which $\overline \tau(s) =1$ and $\overline \phi (s,p) = 0$.
+
+
 
 That is the same as to say that
 
