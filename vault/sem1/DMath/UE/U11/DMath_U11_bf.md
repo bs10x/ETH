@@ -1,7 +1,7 @@
 
 
 ## 11.4
-let $\Sigma = (\mathcal{S}, \mathcal{P}, \tau, \phi)$ be a proof system. Consider the proof system. $\overline{\Sigma} = (\mathcal{S},\mathcal{P},\overline{\tau},\overline{\phi})$, where for all $s\in\mathcal{S}$ and $p \in \mathcal{P}$ we define
+Let $\Sigma = (\mathcal{S}, \mathcal{P}, \tau, \phi)$ be a proof system. Consider the proof system. $\overline{\Sigma} = (\mathcal{S},\mathcal{P},\overline{\tau},\overline{\phi})$, where for all $s\in\mathcal{S}$ and $p \in \mathcal{P}$ we define
 $$
 \begin{align}
 \overline{\tau}(s) = 1 &\iff \tau(s) = 0, \\
@@ -15,8 +15,6 @@ b) If $\Sigma$ is complete, then $\overline{\Sigma}$ is sound.
 
 
 
-
-
 Through tertium non datur we can assume;
 $$
 \begin{align}
@@ -24,9 +22,6 @@ $$
 \overline{\phi}(s, p) = 0 &\iff \phi(s, p) = 1. \\
 \end{align}
 $$
-
-
-Let's tackle a) first. 
 
 
 **Definition 6.2.**
@@ -77,8 +72,6 @@ which is the same as to say
 
 
 
-
-
 for all statements $s \in \mathcal S$ such that $\overline \tau(s) = 0$ there exists a proof $p \in \mathcal P$ such that $\overline \phi (s, p)=0$ 
 
 
@@ -97,6 +90,9 @@ which is the same as saying
 
 
 in the end ->
+
+"for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$",
+
 
 "there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\overline \tau(s) = 0$ and $\overline \phi (s,p) = 1$".
 
