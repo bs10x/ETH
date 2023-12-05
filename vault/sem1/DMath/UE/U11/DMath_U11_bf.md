@@ -50,7 +50,9 @@ which is the same as to say that
 
 Which is the same as to say that 
 
-"there does not"
+"there does not exist an $s \in \mathcal S$ with $\overline \tau (s) = 1$ such that there exists a $p \in \mathcal P$ with $\overline \phi (s, p) =0$"
+
+
 
 //?
 "there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\tau(s) = 0$ and $\phi (s,p) = 1$".
