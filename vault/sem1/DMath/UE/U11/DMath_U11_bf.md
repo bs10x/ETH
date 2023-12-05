@@ -71,13 +71,6 @@ which is the same as to say
 
 
 
-
-
-
-"for all statements $s \in \mathcal S$ such that $\tau (s)= 1$ there exists a proof $p \in \mathcal P$ such that $\phi(s, p)= 1$"
-
-
-
 "for all statements $s \in \mathcal S$ such that $\overline \tau(s) = 0$ there exists a proof $p \in \mathcal P$ such that $\overline \phi (s, p)=0$" 
 
 
