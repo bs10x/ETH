@@ -48,11 +48,13 @@ which is the same as to say that
 
 "there does not exist an $s \in \mathcal S$ with $\tau(s) = 0$ such that there exists a $p \in \mathcal P$ such that $\phi(s, p) =1$".
 
-"there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\tau(s) = 0$ and $\phi (s,p) = 1$"
+Which is the same as to say that 
 
-since $\overline \tau (s)$
+"there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\tau(s) = 0$ and $\phi (s,p) = 1$".
 
-must mean that for 
+Since $\overline \tau (s)$ and $\overline \phi (s, p)$ in $\overline \Sigma$ are, per definition the inverse of the the bit $b \in \{0, 1\}$, where $b= \phi(s,p)$ or $b = \tau(s)$
+
+must mean that for
 
 
 
