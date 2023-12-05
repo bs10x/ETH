@@ -68,7 +68,7 @@ $\square$
 
 If $\Sigma$ is complete that means
 
-"for all statements $s\in \mathcal S$ that are true, ($\tau(s)=1$ there exists a proof $p \in \mathcal P$ such that $\phi(s, p) = 1$."
+"for all statements $s\in \mathcal S$ that are true, (i.e. $\tau(s)=1$) there exists a proof $p \in \mathcal P$ such that $\phi(s, p) = 1$."
 
 which is the same as to say
 
