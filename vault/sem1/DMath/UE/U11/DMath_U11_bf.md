@@ -42,7 +42,7 @@ A Proof System is complete if every true statement has a proof, i.e. for all tru
 
 If $\Sigma$ is sound that means
 
-"for all statements $s \in \mathcal S$ for which there exists $p \in \mathcal P$ such that $\phi(s,p) = 1$ we have $\tau(s)=1$",
+"for all statements $s \in \mathcal S$ for which there exists $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$",
 
 which is the same as to say that
 
@@ -76,7 +76,7 @@ which is the same as to say
 
 
 
-"there is no statement $s \in \mathcal S$ such that $\tau (s)=1$ for which there doesn't exist a $p \in \mathcal P$  such that $\phi(s, p)=1"
+"there is no statement $s \in \mathcal S$ such that $\tau (s)=1$ for which there doesn't exist a $p \in \mathcal P$  such that $\phi(s, p)=1$"
 
 which is the same as saying
 
