@@ -29,8 +29,11 @@ $$
 Let's tackle a) first. 
 
 
+**Definition 6.2.**
+A Proof System is sound if no false statement has a proof, i.e. for all statements for which there exists a proof such that the verification function returns true, the statement must be true.
 
-
+**Definition 6.3.**
+A Proof System is complete if every true statement has a proof, i.e. for all statements for which there exists a proof such that the verification function returns true, the statement must be true.
 
 
 
