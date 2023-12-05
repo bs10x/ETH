@@ -16,6 +16,25 @@ b) If $\Sigma$ is complete, then $\overline{\Sigma}$ is sound.
 
 
 
+
+Through tertium non datur we can assume;
+$$
+\begin{align}
+\overline{\tau}(s) = 0 &\iff \tau(s) = 1, \\
+\overline{\phi}(s, p) = 0 &\iff \phi(s, p) = 1. \\
+\end{align}
+$$
+
+
+Let's tackle a) first. 
+
+
+
+
+
+
+
+
 $$sound \implies \nexists  s \in \mathcal{S}\ |\ \tau(s) = 0\ and\ \exists p \in \mathcal{P}\ |\ \phi(s, p)=1
 $$
 $$
