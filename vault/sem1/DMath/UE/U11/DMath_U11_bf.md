@@ -70,7 +70,9 @@ If $\Sigma$ is complete that means
 
 "for all statements $s\in \mathcal S$ that are true, ($\tau(s)=1$ there exists a proof $p \in \mathcal P$ such that $\phi(s, p) = 1$."
 
+which is the same as to say
 
+"there is no statement $s \in \mathcal S$ such that $\tau (s)=1$ for which there doesn't exist a $p \in \mathcal P$  such that $\phi(s, p)=0$"
 
 
 
