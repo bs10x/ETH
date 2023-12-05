@@ -50,6 +50,8 @@ which is the same as to say that
 
 "there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\tau(s) = 0$ and $\phi (s,p) = 1$"
 
+since $\overline \tau (s)$
+
 must mean that for 
 
 
