@@ -33,7 +33,7 @@ Let's tackle a) first.
 A Proof System is sound if no false statement has a proof, i.e. for all statements for which there exists a proof $p \in \mathcal P$ such that the verification function returns true $\phi(s, p)=1$, the statement must be true $\tau(s)=1$.
 
 **Definition 6.3.**
-A Proof System is complete if every true statement has a proof, i.e. for all true statements there exists a proof such that the verification function returns true.
+A Proof System is complete if every true statement has a proof, i.e. for all statements $s \in \mathcal S$ that are true, there exists a proof $p\in \mathcal P$ such that the verification function returns true $\phi(s,p) =1$.
 
 
 
@@ -42,13 +42,15 @@ A Proof System is complete if every true statement has a proof, i.e. for all tru
 
 If $\Sigma$ is sound that means
 
-"for all statements $s \in \mathcal S$ for which there exists $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$",
+"for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$",
 
 which is the same as to say that
 
-"there does not exist an $s \in \mathcal S$ with $\tau(s) = 0$ such that there exists a $p \in \mathcal P$ such that $\phi(s, p) =1$".
+"there does not exist an $s \in \mathcal S$ with $\tau(s) = 0$ such that there exists a $p \in \mathcal P$ with $\phi(s, p) =1$".
 
 Which is the same as to say that 
+
+"there does not"
 
 //?
 "there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\tau(s) = 0$ and $\phi (s,p) = 1$".
