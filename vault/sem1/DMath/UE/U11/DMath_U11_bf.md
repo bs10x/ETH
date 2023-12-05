@@ -42,8 +42,11 @@ $$
 
 
 $$
-\forall (s \in \mathcal{S}) \ |\ \exists (p \in \mathcal{P}), (\phi(s, p) = 1) \implies 
-$$
+\begin{align}
+&\text{The proof System }\Pi = (\mathcal S, \mathcal P, \tau, \phi) \text{ is sound if} \\
+&\forall (s \in \mathcal{S}) \ |\ \exists (p \in \mathcal{P}), (\phi(s, p) = 1) \implies \tau(s) = 1
+\end{align}
+$$ 
 
 
 
