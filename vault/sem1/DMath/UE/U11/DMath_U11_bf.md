@@ -38,7 +38,7 @@ A Proof System is complete if every true statement has a proof, i.e. for all tru
 
 
 
-
+## a)
 
 If $\Sigma$ is sound that means
 
@@ -57,10 +57,18 @@ All this essentially tells us, that if $\Sigma$ is sound, there is no pair $(s \
 
 That is the same as to say that
 
-"there is no statement $s \in \mathcal S$  that is also true, i.e. $\overline \tau(s)= 1$ for which there exists no $p \in \mathcal P$"
+"there is no statement $s \in \mathcal S$  that is also true (i.e. $\overline \tau(s)= 1$) for which there exists no $p \in \mathcal P$ such that $\overline \phi (s,p) =0$."
 
-must mean that for
+So all true statements in $\overline \Sigma$ have a proof $p \in \mathcal P$ for which $\overline \phi(s, p)= 1$. Thus, if $\Sigma$ is sound $\overline \Sigma$ is complete.
+$\square$
 
+
+
+## b)
+
+If $\Sigma$ is complete that means
+
+"for all true statements there exists a proof such that the verification function returns true."
 
 
 
