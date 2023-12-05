@@ -42,7 +42,7 @@ $$
 
 
 $$
-\forall (s \in \mathcal{S}) | \exists \implies
+\forall (s \in \mathcal{S}) \ |\ \exists (p \in \mathcal{P}), (\phi(s, p) = 1) \implies 
 $$
 
 
