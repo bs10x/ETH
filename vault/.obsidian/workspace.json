@@ -6,7 +6,7 @@
       {
         "id": "90253d8242356a1c",
         "type": "tabs",
-        "dimension": 53.81471389645777,
+        "dimension": 36.51226158038147,
         "children": [
           {
             "id": "ad3cf7794a56cad8",
@@ -47,12 +47,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "aa07c86f4aed12e4",
         "type": "tabs",
-        "dimension": 46.18528610354223,
+        "dimension": 63.48773841961853,
         "children": [
           {
             "id": "e0dff288b7984fdb",
@@ -166,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/UE/U11/DMath_U11_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/UE/U11/DMath_U11_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/UE/U11/DMath_U11_bf.md"
+              }
             }
           },
           {
@@ -241,10 +245,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9bda9977075ec78f",
+  "active": "ea72fcbfb3d50dc5",
   "lastOpenFiles": [
-    "sem1/DMath/UE/U11/DMath_U11_bf.md",
     "sem1/DMath/lib/DMath_script.pdf",
+    "sem1/DMath/UE/U11/DMath_U11_bf.md",
     "sem1/DMath/UE/U11/DMath_U11_leon.pdf",
     "sem1/test1.txt",
     "sem1/EProg/lib/EProg_sx.pdf",
