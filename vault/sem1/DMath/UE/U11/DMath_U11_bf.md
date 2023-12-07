@@ -89,10 +89,31 @@ ___
 
 Let's disprove with a counterexample:
 
->Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{1\}$, $\mathcal P = \{0,1\}$, $\tau(1)=1$ and $\phi(1,0)= 0, \ \phi(1,1)= 1$.
+>Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0,1\}$, $\mathcal P = \{0,1\}$, $\tau(1)=1$ and $\phi(1,0)= 0, \ \phi(1,1)= 1$.
 
 This gives us
 
 >$\overline\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{1\}$, $\mathcal P = \{0,1\}$, $\overline\tau(1)=0$ and $\overline\phi(1,0)= 1, \ \overline\phi(1,1)= 0$.
 
-As we can clearly see, $\Sigma$ is sound (per definition of sound) but $\overline\Sigma$ is not complete (since not every true statement  
+As we can clearly see, $\Sigma$ is sound (per definition of sound) but $\overline\Sigma$ is not complete (since not every true statement 
+
+
+
+
+T0 = 0
+T1 = 1
+
+phi(0, 0) = 0
+phi(0, 1) = 0
+phi(1, 0) = 0
+phi(1, 1) = 1
+
+
+
+T-0 = 1
+T-1 = 0
+
+phi-(0, 0) = 1
+phi-(0, 1) = 1
+phi-(1, 0) = 1
+phi-(1, 1) = 0
