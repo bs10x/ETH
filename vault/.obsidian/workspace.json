@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "9bda9977075ec78f",
+            "id": "9855d0a519c01d2d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "aa07c86f4aed12e4",
@@ -166,7 +166,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U11/DMath_U11_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U11/DMath_U11_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/DMath/UE/U11/DMath_U11_bf.md"
-              }
+              "state": {}
             }
           },
           {
@@ -245,11 +241,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea72fcbfb3d50dc5",
+  "active": "9855d0a519c01d2d",
   "lastOpenFiles": [
-    "sem1/DMath/lib/DMath_script.pdf",
-    "sem1/DMath/UE/U11/DMath_U11_bf.md",
     "sem1/DMath/UE/U11/DMath_U11_leon.pdf",
+    "sem1/DMath/UE/U11/DMath_U11_bf.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/test1.txt",
     "sem1/EProg/lib/EProg_sx.pdf",
     "Untitled.md",
