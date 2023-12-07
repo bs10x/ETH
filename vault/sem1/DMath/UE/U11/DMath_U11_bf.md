@@ -60,11 +60,13 @@ So all true statements in $\overline \Sigma$ have a proof $p \in \mathcal P$ for
 
 ___
 
-If we were to consider $\mathcal S$ and $\mathcal P$ to be allowed to be the empty set, the implication could be disproven by contradiction as follows:
+If we consider $\mathcal S$ and $\mathcal P$ to possibly be the empty set, the implication could be disproven by contradiction as follows:
 
 > Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0 \}$, $\mathcal P = \varnothing$, $\tau(0)=0$ and $\phi : \mathcal S \times \mathcal P \rightarrow \{0,1\}$ (Definition of cartesian product between set and empty set implies $\mathcal S \times \varnothing = \varnothing$)
 
-$\Sigma$ is sound, as there is no $s \in \mathcal S$ such that $\tau(s)=1$ (Definition of Sound). Since, for the impli
+>Let $\overline \Sigma = \{\mathcal S, \mathcal P, \overline\tau, \overline\phi\}$ where $\mathcal S = \{0 \}$, $\mathcal P = \varnothing$, $\overline\tau(0)=1$ and $\overline\phi : \mathcal S \times \mathcal P \rightarrow \{0,1\}$ 
+
+$\Sigma$ is sound, as there is no $s \in \mathcal S$ such that $\tau(s)=1$ (Definition of Sound). Let's assume, for the sake of contradiction, that the implication holds, i.e. for all $\overline\tau(s)= 1$ there exists a $p \in \mathcal P$ such that $\overline\phi(s, p) = 1$. We thus arrive at a contradiction however, as  we defined $\mathcal P = \varnothing$. Thus there exists no $p \in \mathcal P$ such that  
  
 $\square$
 
