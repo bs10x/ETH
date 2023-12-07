@@ -58,9 +58,13 @@ All this essentially tells us, that if $\Sigma$ is sound, there is no $s \in \ma
 
 So all true statements in $\overline \Sigma$ have a proof $p \in \mathcal P$ for which $\overline \phi(s, p)= 1$. Thus, if $\Sigma$ is sound $\overline \Sigma$ is complete.
 
-If we were to consider $\mathcal S$ and $\mathcal P$ to be allowed to be the empty set, the implication could be disproven as follows:
+___
 
-> Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{}
+If we were to consider $\mathcal S$ and $\mathcal P$ to be allowed to be the empty set, the implication could be disproven by contradiction as follows:
+
+> Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0 \}$, $\mathcal P = \varnothing$, $\tau(0)=0$ and $\phi : \mathcal S \times \mathcal P \rightarrow \{0,1\}$ (Definition of cartesian product between set and empty set implies $\mathcal S \times \varnothing = \varnothing$)
+
+$\Sigma$ is sound, as there is no $s \in \mathcal S$ such that $\tau(s)=1$ (Definition of Sound). Since, for the impli
  
 $\square$
 
