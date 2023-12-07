@@ -4,90 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90253d8242356a1c",
-        "type": "tabs",
-        "dimension": 36.51226158038147,
-        "children": [
-          {
-            "id": "ad3cf7794a56cad8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "21e0f1e60bda2fdb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
-              }
-            }
-          },
-          {
-            "id": "8730bed78f808e39",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/UE/U11/DMath_U11_leon.pdf"
-              }
-            }
-          },
-          {
-            "id": "9855d0a519c01d2d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "aa07c86f4aed12e4",
         "type": "tabs",
-        "dimension": 63.48773841961852,
         "children": [
           {
-            "id": "e0dff288b7984fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/UE/U10/DMath_U10_bf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f82d9e3124e32a3f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
-              }
-            }
-          },
-          {
-            "id": "0646ae54e7eae42b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/EProg/lib/EProg_sx.pdf"
-              }
-            }
-          },
-          {
-            "id": "ea72fcbfb3d50dc5",
+            "id": "e582274e1d8708ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/UE/U11/DMath_U11_bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/UE/U11/DMath_U11_bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/UE/U11/DMath_U11_bf.md"
+              }
             }
           },
           {
@@ -241,13 +165,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9855d0a519c01d2d",
+  "active": "e582274e1d8708ea",
   "lastOpenFiles": [
-    "sem1/DMath/UE/U11/DMath_U11_leon.pdf",
+    "sem1/EProg/lib/EProg_sx.pdf",
     "sem1/DMath/UE/U11/DMath_U11_bf.md",
+    "sem1/DMath/UE/U11/DMath_U11_leon.pdf",
     "sem1/DMath/lib/DMath_script.pdf",
     "sem1/test1.txt",
-    "sem1/EProg/lib/EProg_sx.pdf",
     "Untitled.md",
     "sem1/DMath/UE/U10/DMath_U10_e.pdf",
     "sem1/DMath/UE/U10/DMath_U10_bf.md",
