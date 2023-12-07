@@ -23,11 +23,10 @@ $$
 \end{align}
 $$
 
-
-**Definition 6.2.**
+>[!example] **Definition 6.2.**
 A Proof System is sound if no false statement has a proof, i.e. for all statements for which there exists a proof $p \in \mathcal P$ such that the verification function returns true $\phi(s, p)=1$, the statement must be true $\tau(s)=1$.
 
-**Definition 6.3.**
+>[!example] **Definition 6.3.**
 A Proof System is complete if every true statement has a proof, i.e. for all statements $s \in \mathcal S$ that are true, there exists a proof $p\in \mathcal P$ such that the verification function returns true $\phi(s,p) =1$.
 
 
