@@ -34,6 +34,8 @@ A Proof System is complete if every true statement has a proof, i.e. for all sta
 
 ## a)
 
+For the scope of this exercise, we assume that $\mathcal S \neq \varnothing$ and $\mathcal P \neq \varnothing$.
+
 If $\Sigma$ is sound that means
 
 "for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$",
@@ -61,6 +63,9 @@ $\square$
 ___
 
 ## b)
+
+For the scope of this exercise we again assume that $\mathcal S \neq \varnothing$ and $\mathcal P \neq \varnothing$.
+
 
 If $\Sigma$ is complete that means
 
