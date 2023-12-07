@@ -85,29 +85,14 @@ which (per definition) is the same as to say
 
 Which gives us no further information on the soundness of the proof system $\overline\Sigma$, as all we know is that for all false statements there exists a proof, such that the verification of that statement with that proof is false.
 
+___
+
 Let's disprove with a counterexample:
 
->Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi}
+>Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{1\}$, $\mathcal P = \{0,1\}$, $\tau(1)=1$ and $\phi(1,0)= 0, \ \phi(1,1)= 1$.
 
+This gives us
 
+>$\overline\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{1\}$, $\mathcal P = \{0,1\}$, $\overline\tau(1)=0$ and $\overline\phi(1,0)= 1, \ \overline\phi(1,1)= 0$.
 
-
-"there is no statement $s \in \mathcal S$ such that $\tau (s)=1$ for which there doesn't exist a $p \in \mathcal P$  such that $\phi(s, p)=1$"
-
-which is the same as saying
-
-
-
-
-//
-
-
-in the end ->
-
-"for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\overline \phi(s,p) = 1$ we have $\overline \tau(s)=1$",
-
-
-"there exists no pair $(s \in \mathcal S, p \in \mathcal P)$ such that $\overline \tau(s) = 0$ and $\overline \phi (s,p) = 1$".
-
-
-
+As we can clearly see, $\Sigma$ is sound (per definition of sound) but $\overline\Sigma$ is not complete (since not every true statement  
