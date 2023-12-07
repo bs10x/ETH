@@ -59,6 +59,7 @@ So all true statements in $\overline \Sigma$ have a proof $p \in \mathcal P$ for
 $\square$
 
 
+___
 
 ## b)
 
