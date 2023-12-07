@@ -38,18 +38,22 @@ For the scope of this exercise, we assume that $\mathcal S \neq \varnothing$ and
 
 
 If $\Sigma$ is sound that means
->"for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$",
+
+"for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$",
+
 which is the same as to say that
->"there does not exist an $s \in \mathcal S$ with $\tau(s) = 0$ such that there exists a $p \in \mathcal P$ with $\phi(s, p) =1$".
+
+"there does not exist an $s \in \mathcal S$ with $\tau(s) = 0$ such that there exists a $p \in \mathcal P$ with $\phi(s, p) =1$".
+
 Which is the same as to say that 
 
->"there does not exist an $s \in \mathcal S$ with $\overline \tau (s) = 1$ such that there exists a $p \in \mathcal P$ with $\overline \phi (s, p) =0$"
+"there does not exist an $s \in \mathcal S$ with $\overline \tau (s) = 1$ such that there exists a $p \in \mathcal P$ with $\overline \phi (s, p) =0$"
 
 Since $\overline \tau (s)$ and $\overline \phi (s, p)$ in $\overline \Sigma$ are, per definition the opposite of $\tau(s)$ and $\phi(s,p)$ in $\Sigma$.
 
 Which is to say that
 
->"for all $s \in \mathcal S$ with $\overline \tau(s) = 1$ there exists a $p \in \mathcal P$ such that $\overline \phi(s,p) = 1$"
+"for all $s \in \mathcal S$ with $\overline \tau(s) = 1$ there exists a $p \in \mathcal P$ such that $\overline \phi(s,p) = 1$"
 
 All this essentially tells us, that if $\Sigma$ is sound, there is no $s \in \mathcal S$ in $\overline \Sigma$ for which $\overline \tau(s) =1$ and $\overline \phi (s,p) = 0$.
 
@@ -59,7 +63,8 @@ ___
 
 If we consider $\mathcal S$ and $\mathcal P$ to possibly be the empty set, the implication could be disproven by contradiction as follows:
 
-> Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0 \}$, $\mathcal P = \varnothing$, $\tau(0)=0$ and $\phi : \mathcal S \times \mathcal P \rightarrow \{0,1\}$ (Definition of cartesian product between set and empty set implies $\mathcal S \times \varnothing = \varnothing$)
+>[!done] Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$
+>where $\mathcal S = \{0 \}$, $\mathcal P = \varnothing$, $\tau(0)=0$ and $\phi : \mathcal S \times \mathcal P \rightarrow \{0,1\}$ (Definition of cartesian product between set and empty set implies $\mathcal S \times \varnothing = \varnothing$)
 
 >Let $\overline \Sigma = \{\mathcal S, \mathcal P, \overline\tau, \overline\phi\}$ where $\mathcal S = \{0 \}$, $\mathcal P = \varnothing$, $\overline\tau(0)=1$ and $\overline\phi : \mathcal S \times \mathcal P \rightarrow \{0,1\}$ 
 
@@ -95,24 +100,6 @@ This gives us
 
 >$\overline\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{1\}$, $\mathcal P = \{0,1\}$, $\overline\tau(1)=0$ and $\overline\phi(1,0)= 1, \ \overline\phi(1,1)= 0$.
 
-As we can clearly see, $\Sigma$ is complete (per definition of complete) but $\overline\Sigma$ is not sound (since there exist a $s \in \mathcal S$ such that $\overline\tau(s) =0$ but $\overline\phi (s, p)=1$, i.e. a false statement has a proof.
+As we can clearly see, $\Sigma$ is complete (per definition of complete) but $\overline\Sigma$ is not sound (since there exist a $s \in \mathcal S$ such that $\overline\tau(s) =0$ but $\overline\phi (s, p)=1$, i.e. a false statement has a proof).
 
-
-
-T0 = 0
-T1 = 1
-
-phi(0, 0) = 0
-phi(0, 1) = 0
-phi(1, 0) = 0
-phi(1, 1) = 1
-
-
-
-T-0 = 1
-T-1 = 0
-
-phi-(0, 0) = 1
-phi-(0, 1) = 1
-phi-(1, 0) = 1
-phi-(1, 1) = 0
+$\square$
