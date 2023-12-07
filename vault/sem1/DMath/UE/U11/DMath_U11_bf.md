@@ -30,23 +30,16 @@ A Proof System is sound if no false statement has a proof, i.e. for all statemen
 A Proof System is complete if every true statement has a proof, i.e. for all statements $s \in \mathcal S$ that are true, there exists a proof $p\in \mathcal P$ such that the verification function returns true $\phi(s,p) =1$.
 
 
-
-
 ## a)
 
 For the scope of this exercise, we assume that $\mathcal S \neq \varnothing$ and $\mathcal P \neq \varnothing$.
 
 
-If $\Sigma$ is sound that means "for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$",
-which is the same as to say that "there does not exist an $s \in \mathcal S$ with $\tau(s) = 0$ such that there exists a $p \in \mathcal P$ with $\phi(s, p) =1$".
+If $\Sigma$ is sound that means "for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$", which is the same as to say that "there does not exist an $s \in \mathcal S$ with $\tau(s) = 0$ such that there exists a $p \in \mathcal P$ with $\phi(s, p) =1$".
 
-Which is the same as to say that "there does not exist an $s \in \mathcal S$ with $\overline \tau (s) = 1$ such that there exists a $p \in \mathcal P$ with $\overline \phi (s, p) =0$".
+Which is the same as to say that "there does not exist an $s \in \mathcal S$ with $\overline \tau (s) = 1$ such that there exists a $p \in \mathcal P$ with $\overline \phi (s, p) =0$". Since $\overline \tau (s)$ and $\overline \phi (s, p)$ in $\overline \Sigma$ are, per definition the opposite of $\tau(s)$ and $\phi(s,p)$ in $\Sigma$.
 
-Since $\overline \tau (s)$ and $\overline \phi (s, p)$ in $\overline \Sigma$ are, per definition the opposite of $\tau(s)$ and $\phi(s,p)$ in $\Sigma$.
-
-Which is to say that "for all $s \in \mathcal S$ with $\overline \tau(s) = 1$ there exists a $p \in \mathcal P$ such that $\overline \phi(s,p) = 1$".
-
-All this essentially tells us, that if $\Sigma$ is sound, there is no $s \in \mathcal S$ in $\overline \Sigma$ for which $\overline \tau(s) =1$ and $\overline \phi (s,p) = 0$.
+Which is to say that "for all $s \in \mathcal S$ with $\overline \tau(s) = 1$ there exists a $p \in \mathcal P$ such that $\overline \phi(s,p) = 1$". All this essentially tells us, that if $\Sigma$ is sound, there is no $s \in \mathcal S$ in $\overline \Sigma$ for which $\overline \tau(s) =1$ and $\overline \phi (s,p) = 0$.
 
 So all true statements in $\overline \Sigma$ have a proof $p \in \mathcal P$ for which $\overline \phi(s, p)= 1$. Thus, if $\Sigma$ is sound $\overline \Sigma$ is complete (if we assume $\mathcal S, \mathcal P \neq \varnothing$).
 $\square$
