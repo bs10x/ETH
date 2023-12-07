@@ -36,14 +36,11 @@ A Proof System is complete if every true statement has a proof, i.e. for all sta
 
 For the scope of this exercise, we assume that $\mathcal S \neq \varnothing$ and $\mathcal P \neq \varnothing$.
 
+
 If $\Sigma$ is sound that means
-
 >"for all statements $s \in \mathcal S$ for which there exists a $p \in \mathcal P$ with $\phi(s,p) = 1$ we have $\tau(s)=1$",
-
 which is the same as to say that
-
 >"there does not exist an $s \in \mathcal S$ with $\tau(s) = 0$ such that there exists a $p \in \mathcal P$ with $\phi(s, p) =1$".
-
 Which is the same as to say that 
 
 >"there does not exist an $s \in \mathcal S$ with $\overline \tau (s) = 1$ such that there exists a $p \in \mathcal P$ with $\overline \phi (s, p) =0$"
@@ -56,7 +53,7 @@ Which is to say that
 
 All this essentially tells us, that if $\Sigma$ is sound, there is no $s \in \mathcal S$ in $\overline \Sigma$ for which $\overline \tau(s) =1$ and $\overline \phi (s,p) = 0$.
 
-So all true statements in $\overline \Sigma$ have a proof $p \in \mathcal P$ for which $\overline \phi(s, p)= 1$. Thus, if $\Sigma$ is sound $\overline \Sigma$ is complete.
+So all true statements in $\overline \Sigma$ have a proof $p \in \mathcal P$ for which $\overline \phi(s, p)= 1$. Thus, if $\Sigma$ is sound $\overline \Sigma$ is complete (if we assume $\mathcal S, \mathcal P \neq \varnothing$).
 
 ___
 
@@ -66,7 +63,7 @@ If we consider $\mathcal S$ and $\mathcal P$ to possibly be the empty set, the i
 
 >Let $\overline \Sigma = \{\mathcal S, \mathcal P, \overline\tau, \overline\phi\}$ where $\mathcal S = \{0 \}$, $\mathcal P = \varnothing$, $\overline\tau(0)=1$ and $\overline\phi : \mathcal S \times \mathcal P \rightarrow \{0,1\}$ 
 
-$\Sigma$ is sound, as there is no $s \in \mathcal S$ such that $\tau(s)=1$ (Definition of Sound). Let's assume, for the sake of contradiction, that the implication holds, i.e. for all $\overline\tau(s)= 1$ there exists a $p \in \mathcal P$ such that $\overline\phi(s, p) = 1$. We thus arrive at a contradiction however, as  we defined $\mathcal P = \varnothing$. Thus there exists no $p \in \mathcal P$ such that  
+$\Sigma$ is sound, as there is no $s \in \mathcal S$ such that $\tau(s)=1$ (Definition of Sound). Let's assume, for the sake of contradiction, that the implication holds, i.e. for all $\overline\tau(s)= 1$ there exists a $p \in \mathcal P$ such that $\overline\phi(s, p) = 1$. However, we arrive at a contradiction, as we defined $\mathcal P = \varnothing$. Thus there exists no $p \in \mathcal P$ such that $\overline\phi(s, p)= 1$ if we consider $\mathcal P$ to be the empty set. 
  
 $\square$
 
@@ -80,14 +77,14 @@ For the scope of this exercise we again assume that $\mathcal S \neq \varnothing
 
 If $\Sigma$ is complete that means
 
-"for all statements $s\in \mathcal S$ with $\tau(s)=1$ there exists a proof $p \in \mathcal P$ such that $\phi(s, p) = 1$."
+>"for all statements $s\in \mathcal S$ with $\tau(s)=1$ there exists a proof $p \in \mathcal P$ such that $\phi(s, p) = 1$."
 
-which is the same as to say
+which (per definition) is the same as to say
+
+>"for all statements $s \in \mathcal S$ with $\overline \tau(s) = 0$ there exists a proof $p \in \mathcal P$ such that $\overline \phi (s, p)=0$" 
 
 
 
-
-"for all statements $s \in \mathcal S$ such that $\overline \tau(s) = 0$ there exists a proof $p \in \mathcal P$ such that $\overline \phi (s, p)=0$" 
 
 
 
