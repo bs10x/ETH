@@ -23,7 +23,7 @@ $$
 \end{align}
 $$
 
->[!cite] **Definition 6.2.**
+>[!quote] **Definition 6.2.**
 A Proof System is sound if no false statement has a proof, i.e. for all statements for which there exists a proof $p \in \mathcal P$ such that the verification function returns true $\phi(s, p)=1$, the statement must be true $\tau(s)=1$.
 
 >[!cite] **Definition 6.3.**
