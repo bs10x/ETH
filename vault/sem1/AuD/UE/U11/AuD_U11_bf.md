@@ -40,7 +40,7 @@ G-->H
 A
 A(C, F, G)
 C(D, E, G, H), F(), G(B, H)
-B(), D(E)
+B(), D(), E(), G(), H() 
 
 
 
