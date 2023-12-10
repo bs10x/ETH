@@ -56,18 +56,29 @@ ___
 
 ## d)
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
+
+A) enter: 1, leave: 2
+C) enter: 3, leave: 6
+F) enter: 4, leave: 10
+G) enter: 5, leave: 12
+D) enter: 7, leave: 13
+E) enter: 8, leave: 14
+H) enter: 9, leave: 15
+B) enter: 11, leave: 16
+
+
+1 A
+2 A
+3 C
+4 F, C
+5 F, G, C
+6 F, G, C
+7 F, G,
+8 F, G,
+9 F, G,
+10 F, G,
+11 G, B
+12 G,
 13
 14
 15
