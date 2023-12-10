@@ -21,8 +21,7 @@ graph TD;
 ```
 
 ## 11.1
-## a)
-
+#### a)
 A) enter: 1, leave: 2
 C) enter: 3, leave: 6
 F) enter: 4, leave: 10
@@ -33,9 +32,7 @@ H) enter: 9, leave: 15
 B) enter: 11, leave: 16
 
 ___
-
-## b)
-
+#### b)
 A->B: 2
 A->C: 1
 A->D: 2
@@ -46,27 +43,12 @@ A->H: 2
 A->I: $\infty$
 
 ___
-
-## c)
-
+#### c)
 ACFGDEHB
 ACFGDEHB
 
 ___
-
-## d)
-
-
-A) enter: 1, leave: 2
-C) enter: 3, leave: 6
-F) enter: 4, leave: 10
-G) enter: 5, leave: 12
-D) enter: 7, leave: 13
-E) enter: 8, leave: 14
-H) enter: 9, leave: 15
-B) enter: 11, leave: 16
-
-
+#### d)
 1 A
 2 A
 3 C
@@ -88,7 +70,6 @@ B) enter: 11, leave: 16
 
 ___
 
-
-
 ## 11.2
 
+#### a)
