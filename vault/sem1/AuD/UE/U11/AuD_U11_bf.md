@@ -23,6 +23,5 @@ graph TD;
 
 
 
-$$
-\begin{tikzpicture
-$$
+b)
+A->
