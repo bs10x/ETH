@@ -12,15 +12,17 @@ graph TD;
 	C-->H;
 	D-->E;
 	E-->B;
+	F;
+	G-->B;
 	G-->H;
 	H-->B;
 	I-->B;
-	I-->G;
-	I-->C;	
+	I-->C;
+	I-->G;	
 ```
 
 
 
 $$
-
+\begin{tikzpicture
 $$
