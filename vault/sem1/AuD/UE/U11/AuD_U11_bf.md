@@ -21,7 +21,7 @@ graph TD;
 ```
 
 
-a)
+## a)
 
 A) enter: 1, leave: 2
 C) enter: 3, leave: 6
@@ -32,11 +32,10 @@ E) enter: 8, leave: 14
 H) enter: 9, leave: 15
 B) enter: 11, leave: 16
 
+___
 
+## b)
 
-
-
-b)
 A->B: 2
 A->C: 1
 A->D: 2
@@ -46,4 +45,8 @@ A->G: 1
 A->H: 2
 A->I: $\infty$
 
+___
 
+## c)
+
+ACFG
