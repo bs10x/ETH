@@ -22,35 +22,17 @@ graph TD;
 
 
 a)
-A-->C
-A-->F
-A-->G
-C-->D
-C-->E
-C-->G
-C-->H
-G-->B
-G-->H
 
-D-->E
-E-->B
-G-->H
+A) enter: 1, leave: 2
+C) enter: 3, leave: 6
+F) enter: 4, leave: 10
+G) enter: 5, leave: 12
+D) enter: 7, leave: 13
+E) enter: 8, leave: 14
+H) enter: 9, leave: 15
+B) enter: 11, leave: 16
 
 
-A
-A(C, F, G)
-C(D, E, G, H), F(), G(B, H)
-B(), D(), E(), G(), H() 
-
-
-A: e1, l2
-C: e3, l6
-F: e4, l10
-G: e5, l12
-D: e7, l13
-E: e8, l14
-H: e9, l15
-B: e11,
 
 
 
