@@ -24,12 +24,24 @@ graph TD;
 a)
 A-->C
 A-->F
+A-->G
 C-->D
 C-->E
 C-->G
 C-->H
+G-->B
+G-->H
+
 D-->E
 E-->B
+G-->H
+
+
+A
+A(C, F, G)
+C(D, E, G, H), F(), G(B, H)
+B(), D(E)
+
 
 
 
