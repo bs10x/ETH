@@ -6,6 +6,7 @@
       {
         "id": "cab8513af29bf8ed",
         "type": "tabs",
+        "dimension": 43.392370572207085,
         "children": [
           {
             "id": "14f040adf0204453",
@@ -32,6 +33,7 @@
       {
         "id": "dab409f03b0af413",
         "type": "tabs",
+        "dimension": 56.607629427792915,
         "children": [
           {
             "id": "ce457e380a111f0e",
@@ -194,8 +196,8 @@
   "active": "ce457e380a111f0e",
   "lastOpenFiles": [
     "sem1/AuD/UE/U11/AuD_U11_e.pdf",
-    "sem1/AuD/VRL/V11_.md",
     "sem1/AuD/UE/U11/AuD_U11_bf.md",
+    "sem1/AuD/VRL/V11_.md",
     "sem1/AuD/lib/AuD_script.pdf",
     "Untitled.md",
     "sem1/AuD/UE/U11",
