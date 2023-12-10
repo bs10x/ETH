@@ -41,8 +41,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "dab409f03b0af413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81c28340b8cb519b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/AuD/UE/U11/AuD_U11_bf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce457e380a111f0e",
+  "active": "81c28340b8cb519b",
   "lastOpenFiles": [
     "sem1/AuD/UE/U11/AuD_U11_e.pdf",
     "sem1/AuD/UE/U11/AuD_U11_bf.md",
