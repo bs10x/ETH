@@ -1,5 +1,5 @@
 
-
+	
 ```mermaid
 graph TD;
 	A-->C;
@@ -21,6 +21,9 @@ graph TD;
 	I-->G;	
 ```
 
+
+a)
+start at vertex A 
 
 
 b)
