@@ -49,4 +49,12 @@ ___
 
 ## c)
 
-ACFG
+ACFGDEHB
+
+ACFGDEHB
+
+___
+
+## d)
+
+
