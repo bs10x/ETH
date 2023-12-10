@@ -11,11 +11,38 @@
             "id": "14f040adf0204453",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem1/AuD/UE/U11/AuD_U11_e.pdf"
+              }
+            }
+          },
+          {
+            "id": "ce457e380a111f0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/AuD/UE/U11/AuD_U11_bf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cba00e1f7ac757f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/AuD/VRL/V11_.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/AuD/VRL/V11_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/AuD/VRL/V11_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "sem1/AuD/VRL/V11_.md"
               }
             }
           },
@@ -158,9 +187,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "cba00e1f7ac757f6",
   "lastOpenFiles": [
+    "sem1/AuD/UE/U11/AuD_U11_e.pdf",
+    "sem1/AuD/UE/U11/AuD_U11_bf.md",
     "Untitled.md",
+    "sem1/AuD/UE/U11",
     "sem1/DMath/UE/U11/DMath_U11_bf.md",
     "sem1/EProg/lib/EProg_sx.pdf",
     "sem1/DMath/UE/U11/DMath_U11_leon.pdf",
@@ -172,8 +204,6 @@
     "sem1/DMath/UE/U11",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
-    "sem1/DMath/UE/U8/DMath_U8_bf.pdf",
-    "sem1/DMath/UE/U6/DMath_u6_bf.pdf",
     "sem1/DMath/UE/U9/DMath_u9_bf.md",
     "sem1/AuD/UE/U9/AuD_U9_bf.md",
     "var/test.md",
@@ -195,7 +225,6 @@
     "sem1/LinAlg/VRL/V26_.md",
     "sem1/LinAlg/VRL/V25_.md",
     "sem1/LinAlg/VRL/V24_.md",
-    "sem1/LinAlg/VRL/V23_.md",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
   ]
