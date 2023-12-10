@@ -1,5 +1,4 @@
 
-	
 ```mermaid
 graph TD;
 	A-->C;
@@ -23,7 +22,16 @@ graph TD;
 
 
 a)
-start at vertex A 
+A-->C
+A-->F
+C-->D
+C-->E
+C-->G
+C-->H
+D-->E
+E-->B
+
+
 
 
 b)
