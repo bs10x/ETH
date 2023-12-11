@@ -26,21 +26,9 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2d892277a19b51d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tmp(kenji-AuD_11).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmp(kenji-AuD_11).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmp(kenji-AuD_11).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tmp(kenji-AuD_11).md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +170,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d892277a19b51d4",
+  "active": "de437ccb3077ac0b",
   "lastOpenFiles": [
     "tmp(kenji-AuD_11).md",
     "sem1/AuD/UE/U11/AuD_U11_bf.md",
