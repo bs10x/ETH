@@ -25,10 +25,12 @@ if there exists a bijection from the set of all elements in U such that the form
 
 it's important to note that this bijection doesn't mean the two sets are the same size, example $\mathbb N \sim \mathbb Q$ but they aren't the same size.
 
-geschriebenes und verwenden, bei applikation von semantik regeln.
+geschriebenes "und" verwenden, bei applikation von semantik regeln.
 
 
 rough idea:
 a) true
 b) true
 c) idk, maybe true?
+
+widerspruch, interpretation erfinden die aussage wahr macht und zur kontradiktion führt
