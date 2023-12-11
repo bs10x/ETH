@@ -4,36 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "cab8513af29bf8ed",
-        "type": "tabs",
-        "dimension": 46.38964577656676,
-        "children": [
-          {
-            "id": "14f040adf0204453",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/AuD/UE/U11/AuD_U11_e.pdf"
-              }
-            }
-          },
-          {
-            "id": "46a9a07df85f872a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/AuD/lib/AuD_script.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "dab409f03b0af413",
         "type": "tabs",
-        "dimension": 53.61035422343324,
         "children": [
           {
             "id": "ce457e380a111f0e",
@@ -46,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de437ccb3077ac0b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d892277a19b51d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tmp(kenji-AuD_11).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/UE/U11/AuD_U11_bf.md",
+                "file": "tmp(kenji-AuD_11).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/UE/U11/AuD_U11_bf.md",
+                "file": "tmp(kenji-AuD_11).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/UE/U11/AuD_U11_bf.md"
+                "file": "tmp(kenji-AuD_11).md"
               }
             }
           },
@@ -193,13 +186,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce457e380a111f0e",
+  "active": "2d892277a19b51d4",
   "lastOpenFiles": [
-    "sem1/AuD/UE/U11/AuD_U11_e.pdf",
+    "tmp(kenji-AuD_11).md",
     "sem1/AuD/UE/U11/AuD_U11_bf.md",
+    "sem1/AuD/UE/U11/AuD_U11_e.pdf",
     "sem1/AuD/VRL/V11_.md",
     "sem1/AuD/lib/AuD_script.pdf",
-    "Untitled.md",
     "sem1/AuD/UE/U11",
     "sem1/DMath/UE/U11/DMath_U11_bf.md",
     "sem1/EProg/lib/EProg_sx.pdf",
