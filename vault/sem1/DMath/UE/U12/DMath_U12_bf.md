@@ -8,4 +8,4 @@ We extend predicate logic with a new quantifier $\bigcirc$ (read: for many) as f
 
 Using the semantics of predicate logic extended in this way, prove or disprove the follow- ing statements, where F is an arbitrary formula.
 
-**a)** The formula (©x F ) ∧ (©x ¬F ) is unsatisfiable.
+**a)** The formula $(\bigcirc x F)\wedge (\bigcirc x \not F)$ (©x F ) ∧ (©x ¬F ) is unsatisfiable.
