@@ -8,4 +8,8 @@ We extend predicate logic with a new quantifier $\bigcirc$ (read: for many) as f
 
 Using the semantics of predicate logic extended in this way, prove or disprove the follow- ing statements, where F is an arbitrary formula.
 
-**a)** The formula $(\bigcirc x F)\wedge (\bigcirc x \not F)$ (©x F ) ∧ (©x ¬F ) is unsatisfiable.
+**a)** The formula $(\bigcirc x F)\wedge (\bigcirc x \lnot F)$ is unsatisfiable.
+**b)** $\bigcirc x F \models \exists x F$
+**c)** $\forall x \bigcirc y F \models \bigcirc y \forall x F$
+
+**Expectation:** If the statement is true, your proof should use the definitions of the semantics. In each step, at most one definition (e.g., the semantics of $\bigcirc$) should be applied. If the statement is not true, you should provide a counterexample: make sure to define everything needed for a suitable interpretation.
