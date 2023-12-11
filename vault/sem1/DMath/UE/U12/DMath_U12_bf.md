@@ -34,3 +34,5 @@ b) true
 c) idk, maybe true?
 
 widerspruch, interpretation erfinden die aussage wahr macht und zur kontradiktion führt
+
+models beweisen: eine interpretation die für beide seiten passend ist und ein model ist für linke seite und zeigen, dass diese interpretation auch ein model ist für die rechte seite
