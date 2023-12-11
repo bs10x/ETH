@@ -9,7 +9,9 @@ E[] <-- {(i1, j1, b1, L1), ... (im, jm, bm, Lm)}
 F[] <-- {(i1, j1, b1=0, L1), ... (if, jf, bf=0, Lf)}
 
 // populate the set of unblocked roads
-for(int y =)
+for(int y = 1; y <= m; y++) {
+
+}
 
 int x <-- 1
 X <-- T[x]
