@@ -52,25 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "3dbc956e3ab2fe06",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "56f08982a3c10752",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/UE/U12/DMath_U12_bf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,11 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56f08982a3c10752",
+  "active": "0f6fc2f819132696",
   "lastOpenFiles": [
     "sem1/DMath/UE/U12/DMath_U12_e.pdf",
-    "sem1/DMath/UE/U12/DMath_U12_bf.md",
     "sem1/DMath/lib/DMath_script.pdf",
+    "sem1/DMath/UE/U12/DMath_U12_bf.md",
     "sem1/DMath/UE/U12",
     "tmp(kenji-AuD_11).md",
     "sem1/AuD/UE/U11/AuD_U11_bf.md",
