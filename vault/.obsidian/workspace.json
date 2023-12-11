@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -176,8 +175,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de437ccb3077ac0b",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem1/DMath/UE/U12/DMath_U12_e.pdf",
+    "sem1/DMath/UE/U12",
     "tmp(kenji-AuD_11).md",
     "sem1/AuD/UE/U11/AuD_U11_bf.md",
     "sem1/AuD/UE/U11/AuD_U11_e.pdf",
@@ -192,7 +193,6 @@
     "sem1/DMath/UE/U10/DMath_U10_e.pdf",
     "sem1/DMath/UE/U10/DMath_U10_bf.md",
     "sem1/DMath/UE/U7/DMath_U7_bf.pdf",
-    "sem1/DMath/UE/U11",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
     "sem1/DMath/UE/U9/DMath_u9_bf.md",
     "sem1/AuD/UE/U9/AuD_U9_bf.md",
