@@ -18,9 +18,17 @@ Using the semantics of predicate logic extended in this way, prove or disprove t
 
 ___
 
-
+a)
 $\mathcal A(\bigcirc x_i F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$
 -->
 if there exists a bijection from the set of all elements in U such that the formula is true, to the set of all elements, the formula is true.
 
 it's important to note that this bijection doesn't mean the two sets are the same size, example $\mathbb N \sim \mathbb Q$ but they aren't the same size.
+
+geschriebenes und verwenden, bei applikation von semantik regeln.
+
+
+rough idea:
+a) true
+b) true
+c) idk, maybe true?
