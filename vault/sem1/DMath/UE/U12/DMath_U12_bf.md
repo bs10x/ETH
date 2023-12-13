@@ -24,9 +24,19 @@ Disproven by counterexample. We want to show that there exists an interpretation
 
 Let $U^{\mathcal A} = \mathbb N$, thus $|U^{\mathcal A}| = \infty$. Let $F^{\mathcal A}$ be the "evenness" predicate, i.e. $F^{\mathcal A}(x_1^{\mathcal A}) \equiv \exists x_2^{\mathcal A} (x_1^{\mathcal A} = 2 \cdot  x_2^{\mathcal A})$. 
 
-Since $\mathcal A(\bigcirc x_i F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$ and 
+This:
 
-$\{u, v \in U^{\mathcal A}\ | \ \mathcal A_{[x_1\rightarrow u][x_2 \rightarrow v]} (\exists v (u = 2 \cdot  v)=1\}\sim U^{\mathcal A}$, i.e. there exists a set of elements 
+$\mathcal A(\bigcirc x_i F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$
+
+holds for our chosen interpretation, as well as does this:
+
+$\mathcal A(\bigcirc x_i \lnot F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (\lnot F)=1\}\sim U^{\mathcal A}$
+
+In words;
+"There exist a set of elements in "
+
+
+$\{u, v \in U^{\mathcal A}\ | \ \mathcal A_{[x_1\rightarrow u][x_2 \rightarrow v]} (\exists v (u = 2 \cdot  v)=1\}\sim U^{\mathcal A}$, i.e. there exists a set of element
 
 $\{u, v \in U^{\mathcal A}\ | \ \mathcal A_{[x_1\rightarrow u][x_2 \rightarrow v]} (\not\exists v (u = 2 \cdot  v)=1\}\sim U^{\mathcal A}$ 
 
@@ -43,9 +53,19 @@ $\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mat
 
 
 
+___
+
+**b)** $\bigcirc x F \models \exists x F$
+
+We proof this as follows:
 
 
+proof
 
+___
+
+
+**c)** $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F \models \bigcirc y \forall x F$
 
 
 
