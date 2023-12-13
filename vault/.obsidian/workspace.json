@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U12/DMath_U12_bf.md",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U12/DMath_U12_bf.md",
+                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U12/DMath_U12_bf.md"
+                "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
           },
@@ -210,10 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f6fc2f819132696",
+  "active": "de437ccb3077ac0b",
   "lastOpenFiles": [
-    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U12/DMath_U12_bf.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U12/DMath_U12_e.pdf",
     "sem1/DMath/UE/U11/DMath_U11_bf.md",
     "sem1/DMath/UE/U12",
