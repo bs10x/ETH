@@ -38,32 +38,16 @@ In words;
 
 There exist a set of elements in $U^{\mathcal A}$ that make $F$ false, equinumerous to  $U^{\mathcal A}$. Or, there are infinitely many natural numbers that are odd, as there are infinitely many natural numbers" "
 
-This gives us $\mathcal A((\bigcirc x_1 F)\wedge (\bigcirc x_2 \lnot F) = 1)$ for our chosen interpretation $\mathcal A}
+This gives us $\mathcal A((\bigcirc x_1 F)\wedge (\bigcirc x_2 \lnot F) = 1)$ for our chosen interpretation $\mathcal A$, making the formula satisfiable.
 
-
-
-
-$\{u, v \in U^{\mathcal A}\ | \ \mathcal A_{[x_1\rightarrow u][x_2 \rightarrow v]} (\exists v (u = 2 \cdot  v)=1\}\sim U^{\mathcal A}$, i.e. there exists a set of element
-
-$\{u, v \in U^{\mathcal A}\ | \ \mathcal A_{[x_1\rightarrow u][x_2 \rightarrow v]} (\not\exists v (u = 2 \cdot  v)=1\}\sim U^{\mathcal A}$ 
-
-
-
-
-Since, for the predicate $F$ we chose (the evenness predicate) there exist both an infinite set of elements $u \in U^{\mathcal A}$ such that make it is true or false.
-
-We write this like so;
-$\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$
-
-
-
-
-
+$\square$
 ___
 
 **b)** $\bigcirc x F \models \exists x F$
 
 We proof this as follows:
+
+U^s can't be empty
 
 
 proof
@@ -72,6 +56,13 @@ ___
 
 
 **c)** $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F \models \bigcirc y \forall x F$
+
+
+
+forall, equinumerous not equal equinumerous many (infinite) forall
+
+
+F = x > y
 
 
 
