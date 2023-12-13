@@ -24,7 +24,12 @@ Disproven by counterexample. We want to show that there exists an interpretation
 
 Let $U^{\mathcal A} = \mathbb N$, thus $|U^{\mathcal A}| = \infty$. Let $F^{\mathcal A}$ be the "evenness" predicate, i.e. $F^{\mathcal A}(x_1^{\mathcal A}) \equiv \exists x_2^{\mathcal A} (x_1^{\mathcal A} = 2 \cdot  x_2^{\mathcal A})$. 
 
-Since $\mathcal A(\bigcirc x_i F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$, i.e. "for many" $x_i^{\mathcal A}$ a formula $F^{\mathcal A}$ is true, if the set of $x^{\mathcal A}_i$ that makes the formula $F^{\mathcal A}$ true is equinumerous to the set of elements $U^{\mathcal A}$.
+Since $\mathcal A(\bigcirc x_i F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$ and $\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$ 
+
+
+
+
+, i.e. "for many" $x_i^{\mathcal A}$ a formula $F^{\mathcal A}$ is true, if the set of $x^{\mathcal A}_i$ that makes the formula $F^{\mathcal A}$ true is equinumerous to the set of elements $U^{\mathcal A}$.
 
 Since, for the predicate $F$ we chose (the evenness predicate) there exist both an infinite set of elements $u \in U^{\mathcal A}$ such that make it is true or false.
 
