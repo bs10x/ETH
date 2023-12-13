@@ -20,9 +20,18 @@ ___
 
 a) The formula $(\bigcirc x F)\wedge (\bigcirc x \lnot F)$ is unsatisfiable.
 
-Disproven by counterexample. We want to show that there exists an interpretation $\mathcal A$ such that $(\bigcirc x_1^{\mathcal A} F^{\mathcal A}) \land (\bigcirc x_2^{\mathcal A} \lnot F^{\mathcal A})=1$.
+Disproven by counterexample. We want to show that there exists an interpretation $\mathcal A$ such that $(\bigcirc x_1^{\mathcal A} F^{\mathcal A}) \land (\bigcirc x_2^{\mathcal A} \lnot F^{\mathcal A})=1$, making the formula satisfiable.
 
-Let $U^{\mathcal A} = \mathbb N$, thus $|U^{\mathcal A}| = \infty$. Let $F^{\mathcal A}$ be the "evenness" predicate, i.e. $F^{\mathcal A}(x_1^{\mathcal A}) \equiv \exists x_2^{\mathcal A} (x_1^{\mathcal A} = 2 \cdot  x_2^{\mathcal A})$. Since $\mathcal A(\bigcirc x_i F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$, i.e. "for many" $x$ of a formula $F$ is true, if the set of $x^{\mathcal A}_i$ that makes the formula $F^{\mathcal A}$ true is equinumerous to the set of elements $U^{\mathcal A}$. Since, for the predicate $P$ we chose (the evenness predicate) there exist both an infinite set of elements $u \in U^{\mathcal A}$ that make it true and false.
+Let $U^{\mathcal A} = \mathbb N$, thus $|U^{\mathcal A}| = \infty$. Let $F^{\mathcal A}$ be the "evenness" predicate, i.e. $F^{\mathcal A}(x_1^{\mathcal A}) \equiv \exists x_2^{\mathcal A} (x_1^{\mathcal A} = 2 \cdot  x_2^{\mathcal A})$. 
+
+Since $\mathcal A(\bigcirc x_i F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$, i.e. "for many" $x_i^{\mathcal A}$ a formula $F^{\mathcal A}$ is true, if the set of $x^{\mathcal A}_i$ that makes the formula $F^{\mathcal A}$ true is equinumerous to the set of elements $U^{\mathcal A}$.
+
+Since, for the predicate $F$ we chose (the evenness predicate) there exist both an infinite set of elements $u \in U^{\mathcal A}$ such that make it is true or false.
+
+We write this like so;
+$\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$
+
+
 
 
 
