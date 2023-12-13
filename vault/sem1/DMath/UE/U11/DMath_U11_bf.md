@@ -72,7 +72,7 @@ ___
 
 Let's disprove the implication with a counterexample:
 
->Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0,1\}$, $\mathcal P = \{0,1\}$, $\tau(1)=1, \tau(0)=0$ and $\phi(1,0)= 0, \ \phi(1,1)= 1, \ \phi(0,0)=0, \ \phi(0,1)=0$.
+>Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0,1\}$, $\mathcal P = \{0,1\}$, $\tau(1)=1, \ \tau(0)=0$ and $\phi(1,0)= 0, \ \phi(1,1)= 1, \ \phi(0,0)=0, \ \phi(0,1)=0$.
 >
 >Let $\overline\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0, 1\}$, $\mathcal P = \{0,1\}$, $\overline\tau(1)=0$ and $\overline\phi(1,0)= 1, \ \overline\phi(1,1)= 0$.
 
