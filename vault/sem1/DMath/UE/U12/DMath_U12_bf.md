@@ -33,7 +33,14 @@ holds for our chosen interpretation, as well as does this:
 $\mathcal A(\bigcirc x_i \lnot F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (\lnot F)=1\}\sim U^{\mathcal A}$
 
 In words;
-"There exist a set of elements in "
+
+"There exist a set of elements in $U^{\mathcal A}$ that make $F$ true, equinumerous to  $U^{\mathcal A}$. Or, there are infinitely many natural numbers that are even, as there are infinitely many natural numbers" and
+
+There exist a set of elements in $U^{\mathcal A}$ that make $F$ false, equinumerous to  $U^{\mathcal A}$. Or, there are infinitely many natural numbers that are odd, as there are infinitely many natural numbers" "
+
+This gives us $\mathcal A((\bigcirc x_1 F)\wedge (\bigcirc x_2 \lnot F) = 1)$ for our chosen interpretation $\mathcal A}
+
+
 
 
 $\{u, v \in U^{\mathcal A}\ | \ \mathcal A_{[x_1\rightarrow u][x_2 \rightarrow v]} (\exists v (u = 2 \cdot  v)=1\}\sim U^{\mathcal A}$, i.e. there exists a set of element
@@ -42,7 +49,6 @@ $\{u, v \in U^{\mathcal A}\ | \ \mathcal A_{[x_1\rightarrow u][x_2 \rightarrow v
 
 
 
-, i.e. "for many" $x_i^{\mathcal A}$ a formula $F^{\mathcal A}$ is true, if the set of $x^{\mathcal A}_i$ that makes the formula $F^{\mathcal A}$ true is equinumerous to the set of elements $U^{\mathcal A}$.
 
 Since, for the predicate $F$ we chose (the evenness predicate) there exist both an infinite set of elements $u \in U^{\mathcal A}$ such that make it is true or false.
 
