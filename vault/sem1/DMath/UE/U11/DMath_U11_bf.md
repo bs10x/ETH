@@ -74,7 +74,7 @@ Let's disprove the implication with a counterexample:
 
 >Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0,1\}$, $\mathcal P = \{0,1\}$, $\tau(1)=1, \ \tau(0)=0$ and $\phi(1,0)= 0, \ \phi(1,1)= 1, \ \phi(0,0)=0, \ \phi(0,1)=0$.
 >
->Let $\overline\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0, 1\}$, $\mathcal P = \{0,1\}$, $\overline\tau(1)=0$ and $\overline\phi(1,0)= 1, \ \overline\phi(1,1)= 0$.
+>Let $\overline\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0, 1\}$, $\mathcal P = \{0,1\}$, $\overline\tau(1)=0, \ \overline\tau (0)=1$ and $\overline\phi(1,0)= 1, \ \overline\phi(1,1)= 0$.
 
 As we can clearly see, $\Sigma$ is complete (per definition of complete) but $\overline\Sigma$ is not sound (since there exist a $s \in \mathcal S$ such that $\overline\tau(s) =0$ but $\overline\phi (s, p)=1$, i.e. a false statement has a proof). The implication is thus disproven by counterexample.
 
