@@ -14,8 +14,6 @@ Using the semantics of predicate logic extended in this way, prove or disprove t
 
 **Expectation:** If the statement is true, your proof should use the definitions of the semantics. In each step, at most one definition (e.g., the semantics of $\bigcirc$) should be applied. If the statement is not true, you should provide a counterexample: make sure to define everything needed for a suitable interpretation.
 
-
-
 ___
 
 a) The formula $(\bigcirc x F)\wedge (\bigcirc x \lnot F)$ is unsatisfiable.
@@ -30,8 +28,6 @@ Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formu
 - Let $\psi = \{P^\mathcal A(x) = 1 \iff x\equiv_2 0, \ \text{i.e.} \ P^\mathcal A (x) = 1 \ \text{if and only if x is even}\}$
 - Let $\xi = \varnothing$ (there are no free variables in our formula)
  
-
-
 $$\begin{align}
 & \mathcal{A}((\bigcirc x F\land (\bigcirc x \lnot F)\\
 
@@ -54,52 +50,21 @@ $$\begin{align}
 \end{align}
 $$
 
-
 All that remains is to show is that ${\{u\in \mathbb{N} \mid \text{u is even})\}\sim\mathbb{N}}$ and ${\{u\in \mathbb{N} \mid \text{u is not even}\}\sim\mathbb{N}}$.
 
 We define two sets $S =\{u\in\mathbb{N}\mid u \text{ is even}\}$ and $T=\{u\in\mathbb{N}\mid u \text{ is not even}\}$ and construct a bijection between them and $\mathbb N^*$ 
 Let $f : \mathbb N \rightarrow S$ be defined as $f(x)= 2\cdot x$. It's easy to see that, for every $x \in \mathbb N, f(x) \in S$.
-Let $g : \mathbb N \rightarrow T$ be defined as $g(x) = 2\cdot x + 1$. 
+Let $g : \mathbb N \rightarrow T$ be defined as $g(x) = 2\cdot x + 1$. Since, for every $x\in\mathbb N, f(x)\in T$ as $f(x) \equiv_21$ for all $x\in\mathbb N$.
 
-___
-#### Proof of (2) → Example 3.57
-
-$T = \{x\in\mathbb{N} \mid x \text{ is not even}\}\sim S \sim \mathbb{N} = U^\mathcal{A}$
-
-This again holds true, as there exists a bijection $f: S\to T$
-We define $f(x)$ for an arbitrary $x$ in $\mathbb{N}$ as one less than the value of $x$.
-$(f(x) = x - 1)$
-We can see that $x \in T, f(x)\in T$ as $x-1$ for an *even* number will always be *odd*.
-$T\sim\mathbb{N}$ holds because of transitivity of the *equinumerous relation*.[^1]
-___
-
-
-
-
-
-
-Let $U^{\mathcal A} = \mathbb N$, thus $|U^{\mathcal A}| = \infty$. Let $F^{\mathcal A}$ be a formula defined to apply the "evenness" predicate on $x$, i.e. $F^{\mathcal A}(x_1^{\mathcal A}) \equiv \exists x_2^{\mathcal A} (x_1^{\mathcal A} = 2 \cdot  x_2^{\mathcal A})$. 
-
-This:
-
-$\mathcal A(\bigcirc x_i F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^{\mathcal A}$
-
-holds for our chosen interpretation, as well as does this:
-
-$\mathcal A(\bigcirc x_i \lnot F) =1 \iff \{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (\lnot F)=1\}\sim U^{\mathcal A}$
-
-In words;
-
-"There exist a set of elements in $U^{\mathcal A}$ that make $F$ true, equinumerous to  $U^{\mathcal A}$. Or, there are infinitely many natural numbers that are even, as there are infinitely many natural numbers" and
-
-There exist a set of elements in $U^{\mathcal A}$ that make $F$ false, equinumerous to  $U^{\mathcal A}$. Or, there are infinitely many natural numbers that are odd, as there are infinitely many natural numbers" "
-
-This gives us $\mathcal A((\bigcirc x_1 F)\wedge (\bigcirc x_2 \lnot F))=1$ for our chosen interpretation $\mathcal A$, making the formula satisfiable.
-
+Thus both parts are satisfiable under some interpretation $\mathcal A$, disproving the statement.
 $\square$
+
 ___
 
 **b)** $\bigcirc x F \models \exists x F$
+
+
+
 
 We proof this by showing that any interpretation that's suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$.
 
@@ -114,88 +79,13 @@ An interpretation or structure is a tuple $\mathcal A = (U, \phi, \psi, \xi)$ wh
 - $U$ is a non empty *universe*
 - ...
 
-$\square$
-___
-
-
-**c)** $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F \models \bigcirc y \forall x F$
-
-
-
-$F \overset{def.}{=} x<y$ 
-
-i.e.
-LHS: für alle zahlen $x$, gibt es unendlich viele (equinumerous to $\mathbb N$) zahlen $y$ die grösser sind
-RHS: für unendlich viele zahlen $y$, sind alle zahlen $x$ grösser
 
 
 
 
 
 
-___
 
-
-## 12.5
-### (a)
-We will disprove that $(\bigcirc x F)\land (\bigcirc x \lnot F)$ is *unsatisfiable*
-
-Let $\mathcal{A}$ be a suitable interpretation for the formula
-$$(\bigcirc x F)\land (\bigcirc x \lnot F)$$
-Let $F$ be the following formula:
-$$P(x)$$
-
-We define $\mathcal{A}=(U,\phi,\psi,\xi)$ where:
-1. {i} $U^\mathcal{A}=\mathbb{N}_{\setminus\{0\}}$
-2. $\phi = \varnothing$ (as there is no *functions* in our formula **Def. 6.35**)
-3. $\psi = \{P^\mathcal{A}(x)=1$ **iff** $x$ is *even* $(x\equiv_2 0) \}$
-4. $\xi=\varnothing$ (as there is no *free* variable in our formula **Def. 6.35**)
-___
-Now evaluating our *suitable interpretation* of the formula:
-$$\begin{align}
-&\mathcal{A}((\bigcirc x P(x))\land (\bigcirc x \lnot P(x)))\\
-
-\implies &\mathcal{A}((\bigcirc x P(x))) \enspace and\enspace \mathcal{A}((\bigcirc x \lnot P(x))) & (\text{Semantics of $\land$ Definition 6.24})\\
-
-\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and \enspace\bigcirc x\lnot P(x) & (\text{semantics of $\bigcirc x_i$})\\
-
-\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(\lnot P(x)) = 1\}\sim\mathbb{N} & (\text{semantics of $\bigcirc x_i$})\\
-
-\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(\lnot P(u) = 1)\}\sim\mathbb{N} & ([x\to u])\\
-
-\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 0)\}\sim\mathbb{N} & (\text{semantics of $\lnot$})\\
-
-\implies&\{u\in U^\mathcal{A} \mid \text{$u$ is even})\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \text{$u$ is not even}\}\sim\mathbb{N} & (\text{interpretation of $P^\mathcal{A}(x)$})\\
-
-\implies&\underbrace{\{u\in \mathbb{N} \mid \text{$u$ is even})\}\sim\mathbb{N}}_1 \enspace and\enspace\underbrace{\{u\in \mathbb{N} \mid \text{$u$ is not even}\}\sim\mathbb{N}}_2 & (\text{interpretation of $U^\mathcal{A}$})\\
-
-\end{align}
-$$
-As $(1)$ and $(2)$ hold true (Proof below), the whole formula is true. This shows that the given formula is *satisfiable* and disproves statement given at [[#(a)]].
-$$
-\:\:\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \square
-$$
-___
-#### Proof of (1)
-$S = \{x\in\mathbb{N}\mid x \text{ is even}\}\sim \mathbb{N} = U^\mathcal{A}$
-
-This holds true, as there exists a bijection $f:\mathbb{N}\to S$
-
-We define $f(x)$ for an arbitrary $x$ in $\mathbb{N}$ as twice the value of $x$.
-$(f(x) = 2\cdot x)$
-We can see that $x\in\mathbb{N}, f(x)\in S$ as $2\cdot x$ will always be *even*. 
-
-___
-#### Proof of (2) → Example 3.57
-
-$T = \{x\in\mathbb{N} \mid x \text{ is not even}\}\sim S \sim \mathbb{N} = U^\mathcal{A}$
-
-This again holds true, as there exists a bijection $f: S\to T$
-We define $f(x)$ for an arbitrary $x$ in $\mathbb{N}$ as one less than the value of $x$.
-$(f(x) = x - 1)$
-We can see that $x \in T, f(x)\in T$ as $x-1$ for an *even* number will always be *odd*.
-$T\sim\mathbb{N}$ holds because of transitivity of the *equinumerous relation*.[^1]
-___
 
 
 
@@ -220,6 +110,42 @@ This shows that $\bigcirc_xF\models\exists x F$ for any *suitable interpretation
 $$
 \:\:\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \square
 $$
+
+
+
+
+$\square$
+___
+
+
+**c)** $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F \models \bigcirc y \forall x F$
+
+
+
+$F \overset{def.}{=} x<y$ 
+
+i.e.
+LHS: für alle zahlen $x$, gibt es unendlich viele (equinumerous to $\mathbb N$) zahlen $y$ die grösser sind
+RHS: für unendlich viele zahlen $y$, sind alle zahlen $x$ grösser
+
+
+
+
+
+
+___
+
+
+
+
+
+
+
+
+
+
+
+
 ### (c)
 
 We will disprove the following statement $\forall x\bigcirc y F\models\bigcirc y\forall x F$.
