@@ -45,9 +45,7 @@ ___
 
 **b)** $\bigcirc x F \models \exists x F$
 
-We proof this by showing that any interpretation that suitable to both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$. 
-
-
+We proof this by showing that any interpretation that's suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$. Since any $U^\mathcal A$ that is a model for the LHS is equinumerous cannot be empty, 
 
 **Definition 6.34.**
 An interpretation or structure is a tuple $\mathcal A = (U, \phi, \psi, \xi)$ where
@@ -62,19 +60,16 @@ ___
 
 
 
+$F \overset{def.}{=} x>y$ 
+
+
+
+
+
+
+
+
 forall, equinumerous not equal equinumerous many (infinite) forall
-
-
-F = x > y
-
-
-$F \over
-
-
-
-
-
-
 
 
 
