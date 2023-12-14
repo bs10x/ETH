@@ -29,7 +29,7 @@ Let $F$ be the formula $P(x)$
 Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formula.
 - Let $U^\mathcal A= \mathbb N^*$
 - Let $\phi = \varnothing$
-- Let $\psi = \{P^\mathcal A(x) = 1 \iff x\equiv_2 0, \ \text{i.e.} \ P A(x) = 1 \ \text{if and only if x is even}\}$
+- Let $\psi = \{P^\mathcal A(x) = 1 \iff x\equiv_2 0, \ \text{i.e.} \ P^\mathcal A (x) = 1 \ \text{if and only if x is even}\}$
 - Let $\xi = \varnothing$
  
 
@@ -47,7 +47,7 @@ $$\begin{align}
 
 \overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(\lnot P(u) = 1)\}\sim\mathbb{N} & ([x\to u])\\
 
-\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 0)\}\sim\mathbb{N} & (\text{semantics of $\lnot$})\\
+\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 0)\}\sim\mathbb{N} & (\text{semantics of $\lnot$})\\\\
 
 \overset\cdot\implies&\{u\in U^\mathcal{A} \mid \text{$u$ is even})\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \text{$u$ is not even}\}\sim\mathbb{N} & (\text{interpretation of $P^\mathcal{A}(x)$})\\
 
@@ -55,6 +55,36 @@ $$\begin{align}
 
 \end{align}
 $$
+
+
+
+
+
+
+
+#### Proof of (1)
+$S = \{x\in\mathbb{N}\mid x \text{ is even}\}\sim \mathbb{N} = U^\mathcal{A}$
+
+This holds true, as there exists a bijection $f:\mathbb{N}\to S$
+
+We define $f(x)$ for an arbitrary $x$ in $\mathbb{N}$ as twice the value of $x$.
+$(f(x) = 2\cdot x)$
+We can see that $x\in\mathbb{N}, f(x)\in S$ as $2\cdot x$ will always be *even*. 
+
+___
+#### Proof of (2) → Example 3.57
+
+$T = \{x\in\mathbb{N} \mid x \text{ is not even}\}\sim S \sim \mathbb{N} = U^\mathcal{A}$
+
+This again holds true, as there exists a bijection $f: S\to T$
+We define $f(x)$ for an arbitrary $x$ in $\mathbb{N}$ as one less than the value of $x$.
+$(f(x) = x - 1)$
+We can see that $x \in T, f(x)\in T$ as $x-1$ for an *even* number will always be *odd*.
+$T\sim\mathbb{N}$ holds because of transitivity of the *equinumerous relation*.[^1]
+___
+
+
+
 
 
 
