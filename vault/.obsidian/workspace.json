@@ -60,9 +60,21 @@
                 "file": "sem1/AuD/lib/AuD_script.pdf"
               }
             }
+          },
+          {
+            "id": "7fd1faad508518f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/VRL/V03_predicates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -112,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -129,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/UE/U12/DMath_U12_bf.md",
+                "file": "sem1/DMath/VRL/V03_predicates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/UE/U12/DMath_U12_bf.md",
+                "file": "sem1/DMath/VRL/V03_predicates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/DMath/UE/U12/DMath_U12_bf.md"
+                "file": "sem1/DMath/VRL/V03_predicates.md"
               }
             }
           },
@@ -208,10 +219,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f6fc2f819132696",
+  "active": "7fd1faad508518f0",
   "lastOpenFiles": [
-    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U12/DMath_U12_bf.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/U12/DMath_U12_e.pdf",
     "sem1/DMath/UE/U11/DMath_U11_bf.md",
     "sem1/DMath/VRL/V01_mathematical propositions.md",
