@@ -33,7 +33,7 @@ Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formu
 - Let $\xi = \varnothing$
  
 
-
+$\mathcal{A}((\bigcirc x P(x))\land (\bigcirc x \lnot P(x)))$
 
 
 Let $U^{\mathcal A} = \mathbb N$, thus $|U^{\mathcal A}| = \infty$. Let $F^{\mathcal A}$ be a formula defined to apply the "evenness" predicate on $x$, i.e. $F^{\mathcal A}(x_1^{\mathcal A}) \equiv \exists x_2^{\mathcal A} (x_1^{\mathcal A} = 2 \cdot  x_2^{\mathcal A})$. 
