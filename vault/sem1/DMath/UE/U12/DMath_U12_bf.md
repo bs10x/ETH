@@ -38,7 +38,7 @@ In words;
 
 There exist a set of elements in $U^{\mathcal A}$ that make $F$ false, equinumerous to  $U^{\mathcal A}$. Or, there are infinitely many natural numbers that are odd, as there are infinitely many natural numbers" "
 
-This gives us $\mathcal A((\bigcirc x_1 F)\wedge (\bigcirc x_2 \lnot F) = 1)$ for our chosen interpretation $\mathcal A$, making the formula satisfiable.
+This gives us $\mathcal A((\bigcirc x_1 F)\wedge (\bigcirc x_2 \lnot F))=1$ for our chosen interpretation $\mathcal A$, making the formula satisfiable.
 
 $\square$
 ___
