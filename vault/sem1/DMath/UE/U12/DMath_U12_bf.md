@@ -28,9 +28,9 @@ Let $F$ be the formula $P(x)$
 
 Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formula.
 - Let $U^\mathcal A= \mathbb N^*$
-- Let $\phi = \varnothing$
+- Let $\phi = \varnothing$ (there are no functions in our formula)
 - Let $\psi = \{P^\mathcal A(x) = 1 \iff x\equiv_2 0, \ \text{i.e.} \ P^\mathcal A (x) = 1 \ \text{if and only if x is even}\}$
-- Let $\xi = \varnothing$
+- Let $\xi = \varnothing$ (there are no free variables in our formula)
  
 
 
