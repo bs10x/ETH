@@ -29,11 +29,36 @@ Let $F$ be the formula $P(x)$
 Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formula.
 - Let $U^\mathcal A= \mathbb N^*$
 - Let $\phi = \varnothing$
-- Let $\psi = \{P^\mathcal A(x) = 1 \iff x\equiv_2 0\}$
+- Let $\psi = \{P^\mathcal A(x) = 1 \iff x\equiv_2 0, \ \text{i.e.} \ P A(x) = 1 \ \text{if and only if x is even}\}$
 - Let $\xi = \varnothing$
  
 
 $\mathcal{A}((\bigcirc x P(x))\land (\bigcirc x \lnot P(x)))$
+
+
+
+
+
+$$\begin{align}
+&\mathcal{A}((\bigcirc x P(x))\land (\bigcirc x \lnot P(x)))\\
+
+\implies &\mathcal{A}((\bigcirc x P(x))) \enspace and\enspace \mathcal{A}((\bigcirc x \lnot P(x))) & (\text{Semantics of $\land$ Definition 6.24})\\
+
+\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and \enspace\bigcirc x\lnot P(x) & (\text{semantics of $\bigcirc x_i$})\\
+
+\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(\lnot P(x)) = 1\}\sim\mathbb{N} & (\text{semantics of $\bigcirc x_i$})\\
+
+\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(\lnot P(u) = 1)\}\sim\mathbb{N} & ([x\to u])\\
+
+\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 0)\}\sim\mathbb{N} & (\text{semantics of $\lnot$})\\
+
+\implies&\{u\in U^\mathcal{A} \mid \text{$u$ is even})\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \text{$u$ is not even}\}\sim\mathbb{N} & (\text{interpretation of $P^\mathcal{A}(x)$})\\
+
+\implies&\underbrace{\{u\in \mathbb{N} \mid \text{$u$ is even})\}\sim\mathbb{N}}_1 \enspace and\enspace\underbrace{\{u\in \mathbb{N} \mid \text{$u$ is not even}\}\sim\mathbb{N}}_2 & (\text{interpretation of $U^\mathcal{A}$})\\
+
+\end{align}
+$$
+
 
 
 Let $U^{\mathcal A} = \mathbb N$, thus $|U^{\mathcal A}| = \infty$. Let $F^{\mathcal A}$ be a formula defined to apply the "evenness" predicate on $x$, i.e. $F^{\mathcal A}(x_1^{\mathcal A}) \equiv \exists x_2^{\mathcal A} (x_1^{\mathcal A} = 2 \cdot  x_2^{\mathcal A})$. 
