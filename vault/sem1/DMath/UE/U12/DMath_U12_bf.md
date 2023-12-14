@@ -22,6 +22,8 @@ a) The formula $(\bigcirc x F)\wedge (\bigcirc x \lnot F)$ is unsatisfiable.
 
 Disproven by counterexample. We want to show that there exists an interpretation $\mathcal A$ such that $(\bigcirc x_1^{\mathcal A} F^{\mathcal A}) \land (\bigcirc x_2^{\mathcal A} \lnot F^{\mathcal A})=1$, making the formula satisfiable.
 
+
+
 Let $U^{\mathcal A} = \mathbb N$, thus $|U^{\mathcal A}| = \infty$. Let $F^{\mathcal A}$ be a formula defined to apply the "evenness" predicate on $x$, i.e. $F^{\mathcal A}(x_1^{\mathcal A}) \equiv \exists x_2^{\mathcal A} (x_1^{\mathcal A} = 2 \cdot  x_2^{\mathcal A})$. 
 
 This:
@@ -74,6 +76,128 @@ RHS: für unendlich viele zahlen $y$, sind alle zahlen $x$ grösser
 
 
 
+
+
+
+___
+
+
+## 12.5
+### (a)
+We will disprove that $(\bigcirc x F)\land (\bigcirc x \lnot F)$ is *unsatisfiable*
+
+Let $\mathcal{A}$ be a suitable interpretation for the formula
+$$(\bigcirc x F)\land (\bigcirc x \lnot F)$$
+Let $F$ be the following formula:
+$$P(x)$$
+
+We define $\mathcal{A}=(U,\phi,\psi,\xi)$ where:
+1. {i} $U^\mathcal{A}=\mathbb{N}_{\setminus\{0\}}$
+2. $\phi = \varnothing$ (as there is no *functions* in our formula **Def. 6.35**)
+3. $\psi = \{P^\mathcal{A}(x)=1$ **iff** $x$ is *even* $(x\equiv_2 0) \}$
+4. $\xi=\varnothing$ (as there is no *free* variable in our formula **Def. 6.35**)
+___
+Now evaluating our *suitable interpretation* of the formula:
+$$\begin{align}
+&\mathcal{A}((\bigcirc x P(x))\land (\bigcirc x \lnot P(x)))\\
+
+\implies &\mathcal{A}((\bigcirc x P(x))) \enspace and\enspace \mathcal{A}((\bigcirc x \lnot P(x))) & (\text{Semantics of $\land$ Definition 6.24})\\
+
+\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and \enspace\bigcirc x\lnot P(x) & (\text{semantics of $\bigcirc x_i$})\\
+
+\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(\lnot P(x)) = 1\}\sim\mathbb{N} & (\text{semantics of $\bigcirc x_i$})\\
+
+\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(\lnot P(u) = 1)\}\sim\mathbb{N} & ([x\to u])\\
+
+\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 0)\}\sim\mathbb{N} & (\text{semantics of $\lnot$})\\
+
+\implies&\{u\in U^\mathcal{A} \mid \text{$u$ is even})\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \text{$u$ is not even}\}\sim\mathbb{N} & (\text{interpretation of $P^\mathcal{A}(x)$})\\
+
+\implies&\underbrace{\{u\in \mathbb{N} \mid \text{$u$ is even})\}\sim\mathbb{N}}_1 \enspace and\enspace\underbrace{\{u\in \mathbb{N} \mid \text{$u$ is not even}\}\sim\mathbb{N}}_2 & (\text{interpretation of $U^\mathcal{A}$})\\
+
+\end{align}
+$$
+As $(1)$ and $(2)$ hold true (Proof below), the whole formula is true. This shows that the given formula is *satisfiable* and disproves statement given at [[#(a)]].
+$$
+\:\:\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \square
+$$
+___
+#### Proof of (1)
+$S = \{x\in\mathbb{N}\mid x \text{ is even}\}\sim \mathbb{N} = U^\mathcal{A}$
+
+This holds true, as there exists a bijection $f:\mathbb{N}\to S$
+
+We define $f(x)$ for an arbitrary $x$ in $\mathbb{N}$ as twice the value of $x$.
+$(f(x) = 2\cdot x)$
+We can see that $x\in\mathbb{N}, f(x)\in S$ as $2\cdot x$ will always be *even*. 
+
+___
+#### Proof of (2) → Example 3.57
+
+$T = \{x\in\mathbb{N} \mid x \text{ is not even}\}\sim S \sim \mathbb{N} = U^\mathcal{A}$
+
+This again holds true, as there exists a bijection $f: S\to T$
+We define $f(x)$ for an arbitrary $x$ in $\mathbb{N}$ as one less than the value of $x$.
+$(f(x) = x - 1)$
+We can see that $x \in T, f(x)\in T$ as $x-1$ for an *even* number will always be *odd*.
+$T\sim\mathbb{N}$ holds because of transitivity of the *equinumerous relation*.[^1]
+___
+
+
+
+### (b)
+We will prove, that this statement holds *true*.
+$$\bigcirc_xF\models\exists x F$$
+It suffices to show, that $\mathcal{A}(\exists xF)=1$ if $\mathcal{A}(\bigcirc xF)=1$ for any *suitable* $\mathcal{A}$.
+
+Let's assume $\mathcal{A}(\bigcirc xF)=1$.
+
+$$
+\begin{align}
+&\mathcal{A}(\bigcirc xF)=1\\
+\implies&\{u\in U^\mathcal{A}\mid\mathcal{A}_{[x\to u]}(F)=1\}\sim U^\mathcal{A} & (\text{Semantics of $\bigcirc x_i$})(1)\\
+&U^\mathcal{A}\text{ has has more than 0 elements} &(\text{Definition 6.34 $U\neq\varnothing$})(2)\\
+(1)(2)\implies & \{u\in U^\mathcal{A}\mid\mathcal{A}_{[x\to u]}(F)=1\}\text{ has more than 0 elements}\\
+\implies & \mathcal{A}_{[x\to u]}(F)=1\text{ for atleast 1 element} & (\text{trivial})\\
+\implies & \mathcal{A}(\exists xF)=1 & (\text{Definition 6.36 $\mathcal{A}(\exists x F)$})\\
+\end{align}
+$$
+This shows that $\bigcirc_xF\models\exists x F$ for any *suitable interpretation*.
+$$
+\:\:\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \square
+$$
+### (c)
+
+We will disprove the following statement $\forall x\bigcirc y F\models\bigcirc y\forall x F$.
+
+Let $F$ be the following formula:
+$$P(x, y)$$
+
+We define $\mathcal{A}=(U,\phi,\psi,\xi)$ where:
+1. {i} $U^\mathcal{A}=\mathbb{N}_{\setminus\{0\}}$
+2. $\phi = \varnothing$ (as there is no *functions* in our formula **Def. 6.35**)
+3. $\psi = \{P^\mathcal{A}(x, y)=1$ **iff** $y$ is *greater* than $x$ $(y>x)\}$
+4. $\xi=\varnothing$ (as there is no *free* variable in our formula **Def. 6.35**)
+___
+Now evaluating our *suitable interpretation* of the first part of the formula:
+§
+___
+$$\begin{align}
+
+&\mathcal{A}(\forall x\bigcirc y P(x,y))\models\mathcal{A}(\bigcirc y\forall x P(x,y))\\
+
+\implies & \mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \mathcal{A}(\bigcirc y\forall x P(x,y)) & (\text{Definition 6.36 ($\forall x F$)})\\
+
+\implies & \mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[x\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{semantics of ($\bigcirc x F$)})\\
+
+\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to u]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{semantics of ($\bigcirc x F$)})\\
+
+\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to u]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\mathcal{A}_{[x\to u]} (P(x,y))=1 \text{ for all $u\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} & (\text{Definition 6.36 ($\forall x F$)})\\
+
+\end{align}$$
+
+
+[^1] *$\sim$ is an equivalence relation* **Lemma 3.15 (i)**, *equivalence relations are transitive* **Def. 3.19** and *definition of transitivity* **Def. 3.17**.
 
 
 
