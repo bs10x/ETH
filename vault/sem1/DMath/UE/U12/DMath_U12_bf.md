@@ -83,42 +83,23 @@ ___
 
 **c)** $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F \models \bigcirc y \forall x F$
 
+We will disprove this statement with a counterexample.
+
+Let $F$ be the formula $P(x,y)$
+
+Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formula.
+- Let $U^\mathcal A= \mathbb N^*$
+- Let $\phi = \varnothing$ (there are no functions in our formula)
+- Let $\psi = \{P^\mathcal A(x) = 1 \iff y>x, \ \text{i.e.} \ P^\mathcal A (x) = 1 \ \text{if and only if y is greater than x}\}$
+- Let $\xi = \varnothing$ (there are no free variables in our formula)
 
 
-$F \overset{def.}{=} x<y$ 
 
 i.e.
 LHS: für alle zahlen $x$, gibt es unendlich viele (equinumerous to $\mathbb N$) zahlen $y$ die grösser sind
 RHS: für unendlich viele zahlen $y$, sind alle zahlen $x$ grösser
 
 
-
-
-
-
-___
-
-
-
-
-
-
-
-### (c)
-
-We will disprove the following statement $\forall x\bigcirc y F\models\bigcirc y\forall x F$.
-
-Let $F$ be the following formula:
-$$P(x, y)$$
-
-We define $\mathcal{A}=(U,\phi,\psi,\xi)$ where:
-1. {i} $U^\mathcal{A}=\mathbb{N}_{\setminus\{0\}}$
-2. $\phi = \varnothing$ (as there is no *functions* in our formula **Def. 6.35**)
-3. $\psi = \{P^\mathcal{A}(x, y)=1$ **iff** $y$ is *greater* than $x$ $(y>x)\}$
-4. $\xi=\varnothing$ (as there is no *free* variable in our formula **Def. 6.35**)
-___
-Now evaluating our *suitable interpretation* of the first part of the formula:
-§
 ___
 $$\begin{align}
 
