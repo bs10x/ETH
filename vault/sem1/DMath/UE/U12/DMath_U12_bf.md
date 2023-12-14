@@ -61,7 +61,7 @@ ___
 
 **b)** $\bigcirc x F \models \exists x F$
 
-We proof this by showing that any interpretation that's suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$.
+We proof this by showing that any interpretation that's suitable for both sides of the formula and is a model for $\bigcirc x F$ is also a model for $\exists x F$.
 
 Since any $U^\mathcal A$ (where $\mathcal A$ is a model for the LHS) is equinumerous to the set $\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}$ and no $U^\mathcal A$ can be empty (as per Definition 6.34.), that same $\mathcal A$ is also a model for $\exists x F$, by definition 6.36. $\mathcal A(\exists xF)$
 
@@ -81,7 +81,7 @@ ___
 
 **c)** $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F \models \bigcirc y \forall x F$
 
-We will disprove this statement with a counterexample.
+We will disprove this statement with a counterexample. Let's assume for the sake of argument, that the statement holds.
 
 Let $F$ be the formula $P(x,y)$
 
@@ -96,40 +96,24 @@ $$
 &\mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y F)\models\mathcal{A}(\bigcirc y\forall x F)\\
 \overset\cdot\implies & \mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y P(x,y))\models\mathcal{A}(\bigcirc y\forall x P(x,y)) & \text{(Definition of $F$)}\\
 \overset\cdot\implies & \mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \mathcal{A}(\bigcirc y\forall x P(x,y)) & (\text{Definition 6.36. $\forall x F$})\\
-
-
 \overset\cdot\implies &\mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[x\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{Semantics of $\bigcirc x F$})\\
-\overset\cdot\implies & &\text{ab}\\
-\overset\cdot\implies & &\text{ab}\\
+\overset\cdot\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to u]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{Semantics of $\bigcirc x F$})\\
+\overset\cdot\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to u]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\mathcal{A}_{[x\to u]} (P(x,y))=1 \text{ for all $u\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} & (\text{Definition 6.36. $\forall x F$})\\
 \overset\cdot\implies & &\text{ab}\\
 \overset\cdot\implies & &\text{ab}\\
 \overset\cdot\implies & &\text{ab}\\
 \end{align}
 $$
+At which point we arrive at a contradiction 
+
+
+
+We have shown that no interpretation $\mathcal A$ that is suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$.
+
 
 i.e.
 LHS: für alle zahlen $x$, gibt es unendlich viele (equinumerous to $\mathbb N$) zahlen $y$ die grösser sind
 RHS: für unendlich viele zahlen $y$, sind alle zahlen $x$ grösser
-
-
-___
-$$\begin{align}
-
-&\mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y P(x,y))\models\mathcal{A}(\bigcirc y\forall x P(x,y))\\
-
-\implies & \mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \mathcal{A}(\bigcirc y\forall x P(x,y)) & (\text{Definition 6.36 ($\forall x F$)})\\
-
-\implies & \mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[x\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{semantics of ($\bigcirc x F$)})\\
-
-\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to u]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{semantics of ($\bigcirc x F$)})\\
-
-\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to u]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\mathcal{A}_{[x\to u]} (P(x,y))=1 \text{ for all $u\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} & (\text{Definition 6.36 ($\forall x F$)})\\
-
-\end{align}$$
-
-
-[^1] *$\sim$ is an equivalence relation* **Lemma 3.15 (i)**, *equivalence relations are transitive* **Def. 3.19** and *definition of transitivity* **Def. 3.17**.
-
 
 
 
