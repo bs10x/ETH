@@ -45,15 +45,16 @@ ___
 
 **b)** $\bigcirc x F \models \exists x F$
 
-We proof this as follows:
+We proof this by showing that any interpretation that suitable to both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$. 
+
+
 
 **Definition 6.34.**
-An interpretation or structure is a tuple $\mathcal A = (U, \phi, \psi, \Zeta)$ where
-U^s can't be empty
+An interpretation or structure is a tuple $\mathcal A = (U, \phi, \psi, \xi)$ where
+- $U$ is a non empty *universe*
+- ...
 
-
-proof
-
+$\square$
 ___
 
 
@@ -66,6 +67,8 @@ forall, equinumerous not equal equinumerous many (infinite) forall
 
 F = x > y
 
+
+$F \over
 
 
 
