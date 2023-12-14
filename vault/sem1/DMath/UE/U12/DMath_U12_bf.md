@@ -31,11 +31,9 @@ Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formu
 $$\begin{align}
 & \mathcal{A}((\bigcirc x F\land (\bigcirc x \lnot F)\\
 
-\overset\cdot\implies&\mathcal{A}((\bigcirc x P(x))\land (\bigcirc x \lnot P(x))) & (\text{Definition of F})\\
+\overset\cdot\implies&\mathcal{A}((\bigcirc x P(x))\land (\bigcirc x \lnot P(x))) & (\text{Definition of $F$})\\
 
 \overset\cdot\implies &\mathcal{A}((\bigcirc x P(x))) \enspace and\enspace \mathcal{A}((\bigcirc x \lnot P(x))) & (\text{Definition 6.24; Semantics of $\land$ })\\
-
-\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and \enspace\bigcirc x\lnot P(x) & (\text{Semantics of $\bigcirc x_i$})\\
 
 \overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(\lnot P(x)) = 1\}\sim\mathbb{N} & (\text{Semantics of $\bigcirc x_i$})\\
 
@@ -95,9 +93,10 @@ Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formu
 
 $$
 \begin{align}
-&\mathcal{A}(\forall x\bigcirc y F)\models\mathcal{A}(\bigcirc y\forall x F)& \text{(Definition of $F$)}\\
-\overset\cdot\implies & &\text{ab}\\
-\overset\cdot\implies & &\text{ab}\\
+&\mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y F)\models\mathcal{A}(\bigcirc y\forall x F)& \text{(Definition of $F$)}\\
+\overset\cdot\implies & \mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y P(x,y))\models\mathcal{A}(\bigcirc y\forall x P(x,y)) &\text{ab}\\
+\implies & \mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[x\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{semantics of ($\bigcirc x F$)})\\
+\overset\cdot\implies &  &\text{ab}\\
 \overset\cdot\implies & &\text{ab}\\
 
 \end{align}
@@ -111,7 +110,7 @@ RHS: für unendlich viele zahlen $y$, sind alle zahlen $x$ grösser
 ___
 $$\begin{align}
 
-&\mathcal{A}(\forall x\bigcirc y P(x,y))\models\mathcal{A}(\bigcirc y\forall x P(x,y))\\
+&\mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y P(x,y))\models\mathcal{A}(\bigcirc y\forall x P(x,y))\\
 
 \implies & \mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \mathcal{A}(\bigcirc y\forall x P(x,y)) & (\text{Definition 6.36 ($\forall x F$)})\\
 
