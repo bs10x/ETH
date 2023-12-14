@@ -99,7 +99,10 @@ $$
 \overset\cdot\implies &\mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[x\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{Semantics of $\bigcirc x F$})\\
 \overset\cdot\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to u]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{Semantics of $\bigcirc x F$})\\
 \overset\cdot\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to u]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\mathcal{A}_{[x\to u]} (P(x,y))=1 \text{ for all $u\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} & (\text{Definition 6.36. $\forall x F$})\\
-\overset\cdot\implies & &\text{ab}\\
+\overset\cdot\implies & \mathcal A(\{u \in U^\mathcal A \mid \mathcal A_{[y\to v]} (P(u,x)=1\}\sim U^\mathcal A) =1 \text{ for all $u\in U^\mathcal A$} &\text{ab}\\
+
+
+
 \overset\cdot\implies & &\text{ab}\\
 \overset\cdot\implies & &\text{ab}\\
 \end{align}
