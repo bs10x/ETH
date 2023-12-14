@@ -47,6 +47,10 @@ ___
 
 We proof this by showing that any interpretation that's suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$.
 
+
+
+
+
 Since any $U^\mathcal A$ that is a model for the LHS is equinumerous to the set $\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}$ and no $U^\mathcal A$ can be empty (as per Definition 6.34.), that same $\mathcal A$ is also a model for $\exists x F$, since 
 
 **Definition 6.34.**
@@ -62,22 +66,18 @@ ___
 
 
 
-$F \overset{def.}{=} x>y$ 
+$F \overset{def.}{=} x<y$ 
+
+i.e.
+LHS: für alle zahlen $x$, gibt es unendlich viele (equinumerous to $\mathbb N$) zahlen $y$ die grösser sind
+RHS: für unendlich viele zahlen $y$, sind alle zahlen $x$ grösser
 
 
 
 
 
 
-
-
-forall, equinumerous not equal equinumerous many (infinite) forall
-
-
-
-
-
-it's important to note that the bijection doesn't mean the two sets are the same size, example $\mathbb N \sim \mathbb Q$ but they aren't the same size.
+it's important to note that the bijection doesn't mean the two sets are the same size, example $\mathbb N \sim \mathbb Q$ but they aren't the same "size".
 
 geschriebenes "und" verwenden, bei applikation von semantik regeln.
 
