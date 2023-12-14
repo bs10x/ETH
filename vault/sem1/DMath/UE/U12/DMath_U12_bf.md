@@ -81,7 +81,7 @@ ___
 
 **c)** $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F \models \bigcirc y \forall x F$
 
-We will disprove this statement with a counterexample. Let's assume for the sake of argument, that the statement holds.
+We will disprove this statement with a counterexample.
 
 Let $F$ be the formula $P(x,y)$
 
@@ -104,18 +104,11 @@ $$
 \overset\cdot\implies & &\text{ab}\\
 \end{align}
 $$
-At which point we arrive at a contradiction 
+What this is saying in words is,
 
 
 
-We have shown that no interpretation $\mathcal A$ that is suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$.
-
-
-i.e.
-LHS: für alle zahlen $x$, gibt es unendlich viele (equinumerous to $\mathbb N$) zahlen $y$ die grösser sind
-RHS: für unendlich viele zahlen $y$, sind alle zahlen $x$ grösser
-
-
+We have shown there exists some interpretation $\mathcal A$ that is suitable for both sides of the formula and is a model for $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F$ but not for $\bigcirc y \forall x F$.
 
 
 
