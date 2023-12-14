@@ -57,15 +57,9 @@ $$
 
 All that remains is to show is that ${\{u\in \mathbb{N} \mid \text{u is even})\}\sim\mathbb{N}}$ and ${\{u\in \mathbb{N} \mid \text{u is not even}\}\sim\mathbb{N}}$.
 
-We define two sets $S =\{u\in\mathbb{N}\mid u \text{ is even}\}$ and $T=\{u\in\mathbb{N}\mid u \text{ is not even}\}$ and construct a bijection between them and $\mathbb N$ 
-#### Proof of (1)
-$S = \{x\in\mathbb{N}\mid x \text{ is even}\}\sim \mathbb{N} = U^\mathcal{A}$
-
-This holds true, as there exists a bijection $f:\mathbb{N}\to S$
-
-We define $f(x)$ for an arbitrary $x$ in $\mathbb{N}$ as twice the value of $x$.
-$(f(x) = 2\cdot x)$
-We can see that $x\in\mathbb{N}, f(x)\in S$ as $2\cdot x$ will always be *even*. 
+We define two sets $S =\{u\in\mathbb{N}\mid u \text{ is even}\}$ and $T=\{u\in\mathbb{N}\mid u \text{ is not even}\}$ and construct a bijection between them and $\mathbb N^*$ 
+Let $f : \mathbb N \rightarrow S$ be defined as $f(x)= 2\cdot x$. It's easy to see that, for every $x \in \mathbb N, f(x) \in S$.
+Let $g : \mathbb N \rightarrow T$ be defined as $g(x) = 2\cdot x + 1$. 
 
 ___
 #### Proof of (2) → Example 3.57
