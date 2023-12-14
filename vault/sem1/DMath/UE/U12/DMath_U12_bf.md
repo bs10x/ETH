@@ -27,7 +27,7 @@ Let $F$ be the formula $P(x)$
 
 
 Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formula.
-- Let $U^\mathcal A= \mathbb N $
+- Let $U^\mathcal A= \mathbb N^*$
 - Let $\phi = \varnothing$
 - Let $\psi = \{P^\mathcal A(x) = 1 \iff x\equiv_2 0\}$
 - Let $\xi = \varnothing$
@@ -210,6 +210,51 @@ $$\begin{align}
 
 
 [^1] *$\sim$ is an equivalence relation* **Lemma 3.15 (i)**, *equivalence relations are transitive* **Def. 3.19** and *definition of transitivity* **Def. 3.17**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
