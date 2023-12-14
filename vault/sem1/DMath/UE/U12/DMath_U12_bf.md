@@ -20,11 +20,9 @@ ___
 
 a) The formula $(\bigcirc x F)\wedge (\bigcirc x \lnot F)$ is unsatisfiable.
 
-Disproven by counterexample. We want to show that there exists an interpretation $\mathcal A$ such that $(\bigcirc x_1^{\mathcal A} F^{\mathcal A}) \land (\bigcirc x_2^{\mathcal A} \lnot F^{\mathcal A})=1$, making the formula satisfiable.
+Disproven by counterexample. We want to show that there exists an interpretation $\mathcal A$ such that $(\bigcirc x F\land (\bigcirc x \lnot F) =1$, making the formula satisfiable.
 
 Let $F$ be the formula $P(x)$
-
-
 
 Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formula.
 - Let $U^\mathcal A= \mathbb N^*$
@@ -47,7 +45,7 @@ $$\begin{align}
 
 \overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(\lnot P(u) = 1)\}\sim\mathbb{N} & ([x\to u])\\
 
-\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 0)\}\sim\mathbb{N} & (\text{semantics of $\lnot$})\\\\
+\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 0)\}\sim\mathbb{N} & (\text{Definition 6.24; semantics of $\lnot$})\\
 
 \overset\cdot\implies&\{u\in U^\mathcal{A} \mid \text{$u$ is even})\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \text{$u$ is not even}\}\sim\mathbb{N} & (\text{interpretation of $P^\mathcal{A}(x)$})\\
 
