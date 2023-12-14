@@ -49,14 +49,13 @@ $$\begin{align}
 
 \overset\cdot\implies&\{u\in U^\mathcal{A} \mid \text{$u$ is even})\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \text{$u$ is not even}\}\sim\mathbb{N} & (\text{interpretation of $P^\mathcal{A}(x)$})\\
 
-\overset\cdot\implies&{\{u\in \mathbb{N} \mid \text{$u$ is even})\}\sim\mathbb{N}}_1 \enspace and\enspace{\{u\in \mathbb{N} \mid \text{$u$ is not even}\}\sim\mathbb{N}}_2 & (\text{interpretation of $U^\mathcal{A}$})\\
+\overset\cdot\implies&{\{u\in \mathbb{N} \mid \text{$u$ is even})\}\sim\mathbb{N}} \enspace and\enspace{\{u\in \mathbb{N} \mid \text{$u$ is not even}\}\sim\mathbb{N}} & (\text{interpretation of $U^\mathcal{A}$})\\
 
 \end{align}
 $$
 
 
-
-
+All that remains is to show is that ${\{u\in \mathbb{N} \mid \text{u is even})\}\sim\mathbb{N}}$ and \enspace and\enspace{\{u\in \mathbb{N} \mid \text{$u$ is not even}\}\sim\mathbb{N}}$
 
 
 
