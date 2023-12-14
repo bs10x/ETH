@@ -22,7 +22,7 @@ a) The formula $(\bigcirc x F)\wedge (\bigcirc x \lnot F)$ is unsatisfiable.
 
 Disproven by counterexample. We want to show that there exists an interpretation $\mathcal A$ such that $(\bigcirc x_1^{\mathcal A} F^{\mathcal A}) \land (\bigcirc x_2^{\mathcal A} \lnot F^{\mathcal A})=1$, making the formula satisfiable.
 
-
+Let $\mathcal A=(U, \)$ 
 
 Let $U^{\mathcal A} = \mathbb N$, thus $|U^{\mathcal A}| = \infty$. Let $F^{\mathcal A}$ be a formula defined to apply the "evenness" predicate on $x$, i.e. $F^{\mathcal A}(x_1^{\mathcal A}) \equiv \exists x_2^{\mathcal A} (x_1^{\mathcal A} = 2 \cdot  x_2^{\mathcal A})$. 
 
