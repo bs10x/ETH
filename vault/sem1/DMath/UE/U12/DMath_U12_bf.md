@@ -35,17 +35,17 @@ $$\begin{align}
 
 \overset\cdot\implies &\mathcal{A}((\bigcirc x P(x))) \enspace and\enspace \mathcal{A}((\bigcirc x \lnot P(x))) & (\text{Definition 6.24; Semantics of $\land$ })\\
 
-\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and \enspace\bigcirc x\lnot P(x) & (\text{semantics of $\bigcirc x_i$})\\
+\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and \enspace\bigcirc x\lnot P(x) & (\text{Semantics of $\bigcirc x_i$})\\
 
-\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(\lnot P(x)) = 1\}\sim\mathbb{N} & (\text{semantics of $\bigcirc x_i$})\\
+\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(P(x)) = 1\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}_{[x\to u]}(\lnot P(x)) = 1\}\sim\mathbb{N} & (\text{Semantics of $\bigcirc x_i$})\\
 
 \overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(\lnot P(u) = 1)\}\sim\mathbb{N} & ([x\to u])\\
 
-\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 0)\}\sim\mathbb{N} & (\text{Definition 6.24; semantics of $\lnot$})\\
+\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 1)\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \mathcal{A}(P(u) = 0)\}\sim\mathbb{N} & (\text{Definition 6.24; Semantics of $\lnot$})\\
 
-\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \text{$u$ is even})\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \text{$u$ is not even}\}\sim\mathbb{N} & (\text{interpretation of $P^\mathcal{A}(x)$})\\
+\overset\cdot\implies&\{u\in U^\mathcal{A} \mid \text{$u$ is even})\}\sim\mathbb{N} \enspace and\enspace\{u\in U^\mathcal{A} \mid \text{$u$ is not even}\}\sim\mathbb{N} & (\text{Interpretation of $P^\mathcal{A}(x)$})\\
 
-\overset\cdot\implies&{\{u\in \mathbb{N} \mid \text{$u$ is even})\}\sim\mathbb{N}} \enspace and\enspace{\{u\in \mathbb{N} \mid \text{$u$ is not even}\}\sim\mathbb{N}} & (\text{interpretation of $U^\mathcal{A}$})\\
+\overset\cdot\implies&{\{u\in \mathbb{N} \mid \text{$u$ is even})\}\sim\mathbb{N}} \enspace and\enspace{\{u\in \mathbb{N} \mid \text{$u$ is not even}\}\sim\mathbb{N}} & (\text{Interpretation of $U^\mathcal{A}$})\\
 
 \end{align}
 $$
@@ -68,17 +68,19 @@ ___
 
 We proof this by showing that any interpretation that's suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$.
 
+Since any $U^\mathcal A$ (where $\mathcal A$ is a model for the LHS) is equinumerous to the set $\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}$ and no $U^\mathcal A$ can be empty (as per Definition 6.34.), that same $\mathcal A$ is also a model for $\exists x F$, by definition 6.36. $\mathcal A(\exists xF)$
+
 
 $$
 \begin{align}
 &\mathcal A(\bigcirc x_i F)=1 \\
-\overset\cdot\implies &\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^\mathcal A &\text{Semantics of $\bigcirc x_i$}\\
+\overset\cdot\implies &\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^\mathcal A \ \text{and} \ U^\mathcal A \neq \varnothing &\text{(Semantics of $\bigcirc x_i$)}\\
 \end{align}
 $$
 
 
 
-Since any $U^\mathcal A$ that is a model for the LHS is equinumerous to the set $\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}$ and no $U^\mathcal A$ can be empty (as per Definition 6.34.), that same $\mathcal A$ is also a model for $\exists x F$, since 
+
 
 **Definition 6.34.**
 An interpretation or structure is a tuple $\mathcal A = (U, \phi, \psi, \xi)$ where
