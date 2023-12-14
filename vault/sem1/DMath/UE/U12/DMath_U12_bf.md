@@ -63,59 +63,23 @@ ___
 
 **b)** $\bigcirc x F \models \exists x F$
 
-
-
-
 We proof this by showing that any interpretation that's suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$.
 
 Since any $U^\mathcal A$ (where $\mathcal A$ is a model for the LHS) is equinumerous to the set $\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}$ and no $U^\mathcal A$ can be empty (as per Definition 6.34.), that same $\mathcal A$ is also a model for $\exists x F$, by definition 6.36. $\mathcal A(\exists xF)$
 
-
 $$
 \begin{align}
 &\mathcal A(\bigcirc x_i F)=1 \\
-\overset\cdot\implies &\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^\mathcal A \ \text{and} \ U^\mathcal A \neq \varnothing &\text{(Semantics of $\bigcirc x_i$)}\\
+\overset\cdot\implies &\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^\mathcal A \ \text{and} \ U^\mathcal A \neq \varnothing &\text{(Semantics of $\bigcirc x_i$, Definition 6.34. $U\neq\varnothing$)}\\
+\overset\cdot\implies & \mathcal A_{[x\rightarrow u]} (F) =1 \ \text{for some $u \in U$} &\text{Definition 6.36. $\mathcal A(\exists xF)$}\\
+\overset\cdot\implies &\mathcal A(\exists x F)= 1
 \end{align}
 $$
 
-
-
-
-
-**Definition 6.34.**
-An interpretation or structure is a tuple $\mathcal A = (U, \phi, \psi, \xi)$ where
-- $U$ is a non empty *universe*
-- ...
-
-
-
-
-
-It suffices to show, that $\mathcal{A}(\exists xF)=1$ if $\mathcal{A}(\bigcirc xF)=1$ for any *suitable* $\mathcal{A}$.
-
-Let's assume $\mathcal{A}(\bigcirc xF)=1$.
-
-$$
-\begin{align}
-&\mathcal{A}(\bigcirc xF)=1\\
-\implies&\{u\in U^\mathcal{A}\mid\mathcal{A}_{[x\to u]}(F)=1\}\sim U^\mathcal{A} & (\text{Semantics of $\bigcirc x_i$})(1)\\
-&U^\mathcal{A}\text{ has has more than 0 elements} &(\text{Definition 6.34 $U\neq\varnothing$})(2)\\
-(1)(2)\implies & \{u\in U^\mathcal{A}\mid\mathcal{A}_{[x\to u]}(F)=1\}\text{ has more than 0 elements}\\
-\implies & \mathcal{A}_{[x\to u]}(F)=1\text{ for atleast 1 element} & (\text{trivial})\\
-\implies & \mathcal{A}(\exists xF)=1 & (\text{Definition 6.36 $\mathcal{A}(\exists x F)$})\\
-\end{align}
-$$
-This shows that $\bigcirc_xF\models\exists x F$ for any *suitable interpretation*.
-$$
-\:\:\qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \qquad \square
-$$
-
-
-
-
+As was to be shown.
 $\square$
-___
 
+___
 
 **c)** $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F \models \bigcirc y \forall x F$
 
@@ -133,11 +97,6 @@ RHS: für unendlich viele zahlen $y$, sind alle zahlen $x$ grösser
 
 
 ___
-
-
-
-
-
 
 
 
