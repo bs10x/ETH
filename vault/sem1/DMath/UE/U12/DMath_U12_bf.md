@@ -111,11 +111,10 @@ $$
 \overset\cdot\implies & &\text{ab}\\
 \end{align}
 $$
-What this is saying in words is, that for our chosen interpretation $\mathcal A$, 
-
+What this is saying in words is, that our chosen interpretation $\mathcal A$ is a model for the LHS (since, for all natural numbers $x \in \mathbb N^*$, there is a set of numbers $y_i \in \mathbb N^*$ equinumerous to the set of natural nubers ($\{y_i \in \mathbb N^*\} \sim \mathbb N^*$) that is larger than than $x$) but not a model for the RHS (since, not for every number $x_i \in \mathbb N$ all numbers $y_i \in \mathbb N$ are larger than that number). 
 
 We have shown there exists some interpretation $\mathcal A$ that is suitable for both sides of the formula and is a model for $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F$ but not for $\bigcirc y \forall x F$.
-
+$\square$
 
 
 
