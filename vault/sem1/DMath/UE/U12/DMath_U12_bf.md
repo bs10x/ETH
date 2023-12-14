@@ -22,8 +22,16 @@ a) The formula $(\bigcirc x F)\wedge (\bigcirc x \lnot F)$ is unsatisfiable.
 
 Disproven by counterexample. We want to show that there exists an interpretation $\mathcal A$ such that $(\bigcirc x_1^{\mathcal A} F^{\mathcal A}) \land (\bigcirc x_2^{\mathcal A} \lnot F^{\mathcal A})=1$, making the formula satisfiable.
 
-Let $\mathcal A=(U, \phi, \epsilon, \xi)$ be a suitable interpretation for the formula.
+
+
+Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formula.
 - Let $U^\mathcal A= \mathbb N$
+- Let $\phi = \varnothing$
+- Let $\psi = \{P^\mathcal A(x) = 1 \iff x\equiv_2 0\}$
+- Let $\xi = \varnothing$
+ 
+
+
 
 1. {i} $U^\mathcal{A}=\mathbb{N}_{\setminus\{0\}}$
 2. $\phi = \varnothing$ (as there is no *functions* in our formula **Def. 6.35**)
