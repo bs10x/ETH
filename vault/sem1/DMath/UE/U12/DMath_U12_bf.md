@@ -33,14 +33,11 @@ Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formu
 - Let $\xi = \varnothing$
  
 
-$\mathcal{A}((\bigcirc x P(x))\land (\bigcirc x \lnot P(x)))$
-
-
-
-
 
 $$\begin{align}
-&\mathcal{A}((\bigcirc x P(x))\land (\bigcirc x \lnot P(x)))\\
+& \mathcal{A}((\bigcirc x F\land (\bigcirc x \lnot F)  & (\text{Definition of F})\\
+
+\overset\cdot\implies&\mathcal{A}((\bigcirc x P(x))\land (\bigcirc x \lnot P(x)))\\
 
 \overset\cdot\implies &\mathcal{A}((\bigcirc x P(x))) \enspace and\enspace \mathcal{A}((\bigcirc x \lnot P(x))) & (\text{Definition 6.24; Semantics of $\land$ })\\
 
