@@ -69,6 +69,12 @@ ___
 We proof this by showing that any interpretation that's suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$.
 
 
+$$
+\begin{align}
+&\mathcal A(\bigcirc x_i F)=1 \\
+\overset\cdot\implies &\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}\sim U^\mathcal A &\text{Semantics of $\bigcirc x_i$}\\
+\end{align}
+$$
 
 
 
@@ -83,15 +89,6 @@ An interpretation or structure is a tuple $\mathcal A = (U, \phi, \psi, \xi)$ wh
 
 
 
-
-
-
-
-
-
-### (b)
-We will prove, that this statement holds *true*.
-$$\bigcirc_xF\models\exists x F$$
 It suffices to show, that $\mathcal{A}(\exists xF)=1$ if $\mathcal{A}(\bigcirc xF)=1$ for any *suitable* $\mathcal{A}$.
 
 Let's assume $\mathcal{A}(\bigcirc xF)=1$.
