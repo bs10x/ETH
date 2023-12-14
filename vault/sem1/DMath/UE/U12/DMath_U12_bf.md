@@ -79,13 +79,13 @@ RHS: für unendlich viele zahlen $y$, sind alle zahlen $x$ grösser
 
 it's important to note that the bijection doesn't mean the two sets are the same size, example $\mathbb N \sim \mathbb Q$ but they aren't the same "size".
 
-geschriebenes "und" verwenden, bei applikation von semantik regeln.
-
 
 rough idea:
 a) false -> equinumerous on infinite set
 b) true -> U^s can't be empty
 c) false -> forall, equinumerous not equal equinumerous many (infinite) forall
+
+
 
 widerspruch, interpretation erfinden die aussage wahr macht und zur kontradiktion führt
 
