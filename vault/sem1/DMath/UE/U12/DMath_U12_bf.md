@@ -55,9 +55,9 @@ $$\begin{align}
 $$
 
 
-All that remains is to show is that ${\{u\in \mathbb{N} \mid \text{u is even})\}\sim\mathbb{N}}$ and \enspace and\enspace{\{u\in \mathbb{N} \mid \text{$u$ is not even}\}\sim\mathbb{N}}$
+All that remains is to show is that ${\{u\in \mathbb{N} \mid \text{u is even})\}\sim\mathbb{N}}$ and ${\{u\in \mathbb{N} \mid \text{u is not even}\}\sim\mathbb{N}}$.
 
-
+We define two sets $S =\{u\in\mathbb{N}\mid u \text{ is even}\}$ and $T=\{u\in\mathbb{N}\mid u \text{ is not even}\}$
 
 #### Proof of (1)
 $S = \{x\in\mathbb{N}\mid x \text{ is even}\}\sim \mathbb{N} = U^\mathcal{A}$
