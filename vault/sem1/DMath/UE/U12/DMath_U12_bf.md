@@ -94,7 +94,8 @@ Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formu
 $$
 \begin{align}
 &\mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y F)\models\mathcal{A}(\bigcirc y\forall x F)\\
-\overset\cdot\implies & \mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y P(x,y))\models\mathcal{A}(\bigcirc y\forall x P(x,y)) & \text{(Definition of $F$)}\\
+\overset\cdot\implies & \mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y P(x,y))\models\mathcal{A}(\bigcirc y\forall x P(x,y)) & \text{(1)}\\
+
 \overset\cdot\implies & \mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \mathcal{A}(\bigcirc y\forall x P(x,y)) & (\text{Definition 6.36. $\forall x F$})\\
 \overset\cdot\implies &\mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[x\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{Semantics of $\bigcirc x F$})\\
 
@@ -106,11 +107,9 @@ $$
 \overset\cdot\implies & \mathcal A(\{u \in U^\mathcal A \mid \mathcal A_{[y\to v]} (P(y,u)=1\}\sim U^\mathcal A) =1 \text{ for all $v\in U^\mathcal A$}\models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\mathcal{A} (P(u,y))=1 \text{ for all $v\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} &\text{[$x\to u$]}\\
 
 \overset\cdot\implies & \mathcal A(\{u \in U^\mathcal A \mid \mathcal A (P(v,u)=1\}\sim U^\mathcal A) =1 \text{ for all $v\in U^\mathcal A$}\models \{u\in U^\mathcal{A}\mid\{\mathcal{A}(\mathcal{A} (P(u,v))=1 \text{ for all $v\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} &\text{[$y\to v$]}\\
-
-\overset\cdot\implies & &\text{ab}\\
-\overset\cdot\implies & &\text{ab}\\
 \end{align}
 $$
+
 What this is saying in words is, that our chosen interpretation $\mathcal A$ is a model for the LHS (since, for all natural numbers $x \in \mathbb N^*$, there is a set of numbers $y_i \in \mathbb N^*$ equinumerous to the set of natural nubers ($\{y_i \in \mathbb N^*\} \sim \mathbb N^*$) that is larger than than $x$) but not a model for the RHS (since, not for every number $x_i \in \mathbb N$ all numbers $y_i \in \mathbb N$ are larger than that number). 
 
 We have shown there exists some interpretation $\mathcal A$ that is suitable for both sides of the formula and is a model for $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F$ but not for $\bigcirc y \forall x F$.
@@ -123,52 +122,17 @@ $\square$
 
 
 
+$$
+\begin{align}
+&(1) & \text{(Definition of $F$)}\\
+&(2) & (\text{Definition 6.36. $\forall x F$})\\
+&(3) & (\text{Semantics of $\bigcirc x F$})\\
+&(4) &(\text{Semantics of $\bigcirc x F$})\\
+&(5) &(\text{Definition 6.36. $\forall x F$})\\
+&(6) &\text{[$x\to u$]}\\
+&(7) &\text{[$y\to v$]}\\
+\end{align}
+$$
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-it's important to note that the bijection doesn't mean the two sets are the same size, example $\mathbb N \sim \mathbb Q$ but they aren't the same "size".
-
-
-rough idea:
-a) false -> equinumerous on infinite set
-b) true -> U^s can't be empty
-c) false -> forall, equinumerous not equal equinumerous many (infinite) forall
-
-
-
-widerspruch, interpretation erfinden die aussage wahr macht und zur kontradiktion führt
-
-models beweisen: eine interpretation die für beide seiten passend ist und ein model ist für linke seite und zeigen, dass diese interpretation auch ein model ist für die rechte seite
