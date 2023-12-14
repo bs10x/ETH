@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/DMath/VRL/V10_posets.md",
+                "file": "sem1/DMath/VRL/V01_mathematical propositions.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "sem1/DMath/VRL/V01_mathematical propositions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "sem1/DMath/VRL/V01_mathematical propositions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "test.md"
+            "file": "sem1/DMath/VRL/V01_mathematical propositions.md"
           }
         }
       },
@@ -148,24 +149,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4802a04bb15b374a",
+  "active": "6e18d41a158686c3",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V10_posets.md",
+    "sem1/DMath/UE/U10/DMath_U10_bf.md",
+    "sem1/DMath/UE/U10/DMath_U10_e.pdf",
+    "sem1/DMath/UE/U10",
+    "sem1/DMath/UE/U11/DMath_U11_leon.pdf",
+    "sem1/DMath/UE/U11/DMath_U11_bf.md",
+    "sem1/DMath/UE/U11",
+    "sem1/DMath/UE/U12/DMath_U12_bf.md",
+    "sem1/DMath/UE/U12/DMath_U12_e.pdf",
+    "sem1/DMath/UE/U12",
+    "sem1/AuD/UE/U11/AuD_U11_bf.md",
+    "sem1/AuD/UE/U11/AuD_U11_e.pdf",
+    "sem1/AuD/UE/U11",
+    "sem1/AuD/UE/U9/AuD_U9_bf.md",
+    "sem1/test1.txt",
+    "tmp(kenji-AuD_11).md",
     "test2",
     "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
-    "sem1/AuD/lib/AuD_script.pdf",
-    "sem1/AuD/lib/AuD_s04_search-&sorting-algorithms.pdf",
     "sex.md",
-    "sem1/LinAlg/UE/U4/LinAlg_U4_s.pdf",
-    "sem1/LinAlg/lib",
     "var/sem1_schedule.jpg",
-    "sem1/LinAlg/UE/U7",
-    "sem1/AuD/lib/AuD_s01_algorithmen.pdf",
-    "sem1/EProg/lib/EProg_s06_hoare-trippel.pdf",
-    "sem1/EProg/lib/EProg_s04_methoden.pdf",
     "sem1/EProg/lib/EProg_lib.md",
     "sem1/EProg/lib/EProg.md",
-    "sem1/EProg/lib/EProg_s01_ebnf.pdf",
-    "sem1/EProg/lib/EProg_vk_ex.1.x-5.x.pdf",
     "var/computer science is a lie!!!.md",
     "sem1/DMath/lib/DMath_lib.md",
     "sem1/DMath/lib/DMath.md",
@@ -181,12 +188,6 @@
     "sem1/LinAlg/lib/LinAlg.md",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
     "var/configure fzf for fish.md",
-    "sem1/LinAlg/lib/LinAlg_lib.md",
-    "var/prüfungsvorbereitung.md",
-    "test.md",
-    "sem1/AuD/lib/AuD_lib.md",
-    "sem1/AuD/lib/AuD.md",
-    "sem1/DMath/VRL/V10_posets.md",
     "var/sem1/sem1_schedule.jpg",
     "var/Pasted image 20231015075427.jpg",
     "Untitled.canvas"
