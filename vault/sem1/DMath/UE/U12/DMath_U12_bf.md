@@ -45,7 +45,9 @@ ___
 
 **b)** $\bigcirc x F \models \exists x F$
 
-We proof this by showing that any interpretation that's suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$. Since any $U^\mathcal A$ that is a model for the LHS is equinumerous cannot be empty, 
+We proof this by showing that any interpretation that's suitable for both sides of the equation and is a model for $\bigcirc x F$ is also a model for $\exists x F$.
+
+Since any $U^\mathcal A$ that is a model for the LHS is equinumerous to the set $\{u \in U^{\mathcal A}\ | \ \mathcal A_{[x_i\rightarrow u]} (F)=1\}$ and no $U^\mathcal A$ can be empty (as per Definition 6.34.), that same $\mathcal A$ is also a model for $\exists x F$, since 
 
 **Definition 6.34.**
 An interpretation or structure is a tuple $\mathcal A = (U, \phi, \psi, \xi)$ where
