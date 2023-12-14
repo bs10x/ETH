@@ -93,7 +93,15 @@ Let $\mathcal A=(U, \phi, \psi, \xi)$ be a suitable interpretation for the formu
 - Let $\psi = \{P^\mathcal A(x) = 1 \iff y>x, \ \text{i.e.} \ P^\mathcal A (x) = 1 \ \text{if and only if y is greater than x}\}$
 - Let $\xi = \varnothing$ (there are no free variables in our formula)
 
+$$
+\begin{align}
+&\mathcal{A}(\forall x\bigcirc y F)\models\mathcal{A}(\bigcirc y\forall x F)& \text{(Definition of $F$)}\\
+\overset\cdot\implies & &\text{ab}\\
+\overset\cdot\implies & &\text{ab}\\
+\overset\cdot\implies & &\text{ab}\\
 
+\end{align}
+$$
 
 i.e.
 LHS: für alle zahlen $x$, gibt es unendlich viele (equinumerous to $\mathbb N$) zahlen $y$ die grösser sind
