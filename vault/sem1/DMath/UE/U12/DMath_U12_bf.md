@@ -96,31 +96,20 @@ $$
 &\mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y F)\models\mathcal{A}(\bigcirc y\forall x F)\\
 \overset\cdot\implies & \mathcal{A}(\forall x\hspace{-0.2em}\bigcirc\hspace{-0.2em} y P(x,y))\models\mathcal{A}(\bigcirc y\forall x P(x,y)) & \text{(1)}\\
 
-\overset\cdot\implies & \mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \mathcal{A}(\bigcirc y\forall x P(x,y)) & (\text{Definition 6.36. $\forall x F$})\\
-\overset\cdot\implies &\mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[x\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{Semantics of $\bigcirc x F$})\\
+\overset\cdot\implies & \mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \mathcal{A}(\bigcirc y\forall x P(x,y)) & \text{(2})\\
+
+\overset\cdot\implies &\mathcal{A}_{[x\to u]} (\bigcirc y P(x,y)) = 1 \text{ for all $u\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[x\to u]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & \text{(3})\\
 
 
-\overset\cdot\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to v]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $v\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to v]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{Semantics of $\bigcirc x F$})\\
+\overset\cdot\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to v]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $v\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to v]}(\forall x P(x,y))=1\}\sim U^\mathcal{A} & (\text{4})\\
 
-\overset\cdot\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to v]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $v\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to v]}(\mathcal{A}_{[x\to u]} (P(x,y))=1 \text{ for all $v\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} & (\text{Definition 6.36. $\forall x F$})\\
+\overset\cdot\implies & \mathcal{A}_{[x\to u]} (\{u\in U^\mathcal{A} \mid\mathcal{A}_{[y\to v]} (P(x,y)= 1\}\sim U^\mathcal{A}) = 1 \text{ for all $v\in U^\mathcal{A}$} \models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to v]}(\mathcal{A}_{[x\to u]} (P(x,y))=1 \text{ for all $v\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} & (\text{5})\\
 
-\overset\cdot\implies & \mathcal A(\{u \in U^\mathcal A \mid \mathcal A_{[y\to v]} (P(y,u)=1\}\sim U^\mathcal A) =1 \text{ for all $v\in U^\mathcal A$}\models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\mathcal{A} (P(u,y))=1 \text{ for all $v\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} &\text{[$x\to u$]}\\
+\overset\cdot\implies & \mathcal A(\{u \in U^\mathcal A \mid \mathcal A_{[y\to v]} (P(y,u)=1\}\sim U^\mathcal A) =1 \text{ for all $v\in U^\mathcal A$}\models \{u\in U^\mathcal{A}\mid\{\mathcal{A}_{[y\to u]}(\mathcal{A} (P(u,y))=1 \text{ for all $v\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} &\text{(6)}\\
 
-\overset\cdot\implies & \mathcal A(\{u \in U^\mathcal A \mid \mathcal A (P(v,u)=1\}\sim U^\mathcal A) =1 \text{ for all $v\in U^\mathcal A$}\models \{u\in U^\mathcal{A}\mid\{\mathcal{A}(\mathcal{A} (P(u,v))=1 \text{ for all $v\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} &\text{[$y\to v$]}\\
+\overset\cdot\implies & \mathcal A(\{u \in U^\mathcal A \mid \mathcal A (P(v,u)=1\}\sim U^\mathcal A) =1 \text{ for all $v\in U^\mathcal A$}\models \{u\in U^\mathcal{A}\mid\{\mathcal{A}(\mathcal{A} (P(u,v))=1 \text{ for all $v\in U^\mathcal{A}$})=1\}\sim U^\mathcal{A} &\text{(7)}\\
 \end{align}
 $$
-
-What this is saying in words is, that our chosen interpretation $\mathcal A$ is a model for the LHS (since, for all natural numbers $x \in \mathbb N^*$, there is a set of numbers $y_i \in \mathbb N^*$ equinumerous to the set of natural nubers ($\{y_i \in \mathbb N^*\} \sim \mathbb N^*$) that is larger than than $x$) but not a model for the RHS (since, not for every number $x_i \in \mathbb N$ all numbers $y_i \in \mathbb N$ are larger than that number). 
-
-We have shown there exists some interpretation $\mathcal A$ that is suitable for both sides of the formula and is a model for $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F$ but not for $\bigcirc y \forall x F$.
-$\square$
-
-
-
-
-
-
-
 
 $$
 \begin{align}
@@ -134,5 +123,9 @@ $$
 \end{align}
 $$
 
+What this is saying in words is, that our chosen interpretation $\mathcal A$ is a model for the LHS (since, for all natural numbers $x \in \mathbb N^*$, there is a set of numbers $y_i \in \mathbb N^*$ equinumerous to the set of natural nubers ($\{y_i \in \mathbb N^*\} \sim \mathbb N^*$) that is larger than than $x$) but not a model for the RHS (since, not for every number $x_i \in \mathbb N$ all numbers $y_i \in \mathbb N$ are larger than that number). 
+
+We have shown there exists some interpretation $\mathcal A$ that is suitable for both sides of the formula and is a model for $\forall x \hspace{-0.2em}\bigcirc \hspace{-0.2em} y F$ but not for $\bigcirc y \forall x F$.
+$\square$
 
 
