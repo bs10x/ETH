@@ -11,12 +11,8 @@
             "id": "6e18d41a158686c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/VRL/V01_mathematical propositions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -93,7 +89,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sem1/DMath/VRL/V01_mathematical propositions.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "sem1/DMath/VRL/V01_mathematical propositions.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,9 +115,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "sem1/DMath/VRL/V01_mathematical propositions.md"
-          }
+          "state": {}
         }
       },
       {
@@ -151,6 +143,7 @@
   },
   "active": "6e18d41a158686c3",
   "lastOpenFiles": [
+    "sem1/DMath/VRL/V01_mathematical propositions.md",
     "sem1/DMath/VRL/V10_posets.md",
     "sem1/DMath/UE/U10/DMath_U10_bf.md",
     "sem1/DMath/UE/U10/DMath_U10_e.pdf",
@@ -187,7 +180,6 @@
     "var/ersti tag.md",
     "sem1/LinAlg/lib/LinAlg.md",
     "sem1/DMath/UE/U8/DMath_U8_bf.md",
-    "var/configure fzf for fish.md",
     "var/sem1/sem1_schedule.jpg",
     "var/Pasted image 20231015075427.jpg",
     "Untitled.canvas"
