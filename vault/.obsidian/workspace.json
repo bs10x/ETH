@@ -24,18 +24,6 @@
                 "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
-          },
-          {
-            "id": "bc5e2280bf671324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/DMath/VRL/V23_.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -222,7 +210,6 @@
     "var/computer science is a lie!!!.md",
     "sem1/LinAlg/lib/LinAlg_lib.md",
     "sem1/LinAlg/lib/LinAlg.md",
-    "sem1/LinAlg/VRL/V29_.md",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
   ]
