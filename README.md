@@ -71,3 +71,6 @@ You are required to solve the bonusquizzes on your own!
 
 
 
+
+## use this to delete .DS_Store files
+find . -name ".DS_Store" -delete
