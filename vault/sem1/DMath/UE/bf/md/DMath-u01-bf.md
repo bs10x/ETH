@@ -82,7 +82,10 @@ $$
 F &= ((\lnot A \lor \lnot B )\land \lnot A) \land ((\lnot B \land \lnot A) \lor C) \\
 &\equiv \lnot A \land ((\lnot B \land \lnot A) \lor C) &\text{(absorption)} \\
 &\equiv \lnot A \land (\lnot(A \lor B) \lor C) &\text{(2nd de Morgan's rule)} \\
-&\equiv \lnot A \land (\lnot(A \lor B) \lor C) &\text{(2nd de Morgan's rule)}  \\
+&\equiv (\lnot A \land \lnot(A \lor B))
+
+
+\lnot A \land (\lnot(A \lor B) \lor C) &\text{(1st distributive law)}  \\
 &\equiv \\
 &\equiv \\
 &\equiv \\&\equiv \\&\equiv \\
