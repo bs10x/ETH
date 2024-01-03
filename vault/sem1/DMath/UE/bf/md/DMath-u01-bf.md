@@ -1,3 +1,16 @@
+
+
+#### 1.3
+$A \overset{def}{=} \text{Mario forgot to pay his rent.}, \ B \overset{def}{=} \text{Mario is getting evicted.}$
+
+**a)**
+i) $F_1 = \lnot B \rightarrow \lnot A$
+ii) $F_2 = (A \land B)\lor (\lnot A \land \lnot B)$
+
+i) mario is not getting evicted 
+
+
+
 #### 1.5
 #### a.
 |  A 	|  B 	|   C	| A  B  	|  (A  B)  C 	|
@@ -75,7 +88,7 @@ q.e.d.
 
 
 
-
+#### 1.6
 $$
 
 \begin{align}
