@@ -50,16 +50,6 @@
             }
           },
           {
-            "id": "617d5311c9428c3a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/UE/e/DMath-u01-e.pdf"
-              }
-            }
-          },
-          {
             "id": "2b5d8c99c81a1f69",
             "type": "leaf",
             "state": {
@@ -70,9 +60,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "969b94c42959e71f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/lib/DMath_script.pdf"
+              }
+            }
+          },
+          {
+            "id": "617d5311c9428c3a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/UE/e/DMath-u01-e.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "a4599ae53847f7a8",
@@ -238,8 +248,9 @@
   },
   "active": "17df6220f186bd51",
   "lastOpenFiles": [
-    "sem1/DMath/UE/e/DMath-u01-e.pdf",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
+    "sem1/DMath/UE/e/DMath-u01-e.pdf",
     "LinAlg-topics.md",
     "sem1/LinAlg/UE/s/LinAlg-u11-s.pdf",
     "sem1/LinAlg/UE/s/LinAlg-u12-s.pdf",
@@ -249,7 +260,6 @@
     "sem1/LinAlg/UE/s/LinAlg-u02-s.pdf",
     "sem1/LinAlg/UE/s/LinAlg-u01-s.pdf",
     "sem1/LinAlg/UE/s/LinAlg-u00-s.pdf",
-    "sem1/LinAlg/UE/s/LinAlg-u10-s.pdf",
     "sem1/EProg/UE/bf/EProg_U2_bf.md",
     "sem1/EProg/UE/bf/EProg_U2_bf.pdf.md",
     "sem1/EProg/UE/bf/EProg_U1_bf.md",

@@ -80,7 +80,11 @@ $$
 
 \begin{align}
 F &= ((\lnot A \lor \lnot B )\land \lnot A) \land ((\lnot B \land \lnot A) \lor C) \\
-&\equiv A \\
-&\equiv 
+&\equiv \lnot A \land ((\lnot B \land \lnot A) \lor C) \\
+&\equiv \\
+&\equiv \\
+&\equiv \\
+&\equiv \\
+&\equiv \\&\equiv \\&\equiv \\
 \end{align}
 $$
