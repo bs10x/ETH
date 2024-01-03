@@ -7,7 +7,8 @@ $A \overset{def}{=} \text{Mario forgot to pay his rent.}, \ B \overset{def}{=} \
 i) $F_1 = \lnot B \rightarrow \lnot A$
 ii) $F_2 = (A \land B)\lor (\lnot A \land \lnot B)$
 
-i) mario is not getting evicted 
+i) if mario is not getting evicted then he did not forget to pay his rent.
+ii) either Mario forgot his rent and is getting evicted or he did not forget to pay his rent and is not getting evicted.
 
 
 
