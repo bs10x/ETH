@@ -73,3 +73,14 @@ q.e.d.
 ***
 
 
+
+
+
+$$
+
+\begin{align}
+F &= ((\lnot A \lor \lnot B )\land \lnot A) \land ((\lnot B \land \lnot A) \lor C) \\
+&\equiv A \\
+&\equiv 
+\end{align}
+$$

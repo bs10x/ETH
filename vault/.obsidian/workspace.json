@@ -48,9 +48,49 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "617d5311c9428c3a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/UE/e/DMath-u01-e.pdf"
+              }
+            }
+          },
+          {
+            "id": "2b5d8c99c81a1f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
+      },
+      {
+        "id": "a4599ae53847f7a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17df6220f186bd51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -116,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinAlg-topics.md",
+                "file": "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinAlg-topics.md",
+                "file": "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinAlg-topics.md"
+                "file": "sem1/DMath/UE/bf/md/DMath-u01-bf.md"
               }
             }
           },
@@ -195,8 +236,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "80c474435184ce7d",
+  "active": "17df6220f186bd51",
   "lastOpenFiles": [
+    "sem1/DMath/UE/e/DMath-u01-e.pdf",
+    "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
+    "LinAlg-topics.md",
     "sem1/LinAlg/UE/s/LinAlg-u11-s.pdf",
     "sem1/LinAlg/UE/s/LinAlg-u12-s.pdf",
     "sem1/LinAlg/UE/s/LinAlg-u13-s.pdf",
@@ -206,8 +250,6 @@
     "sem1/LinAlg/UE/s/LinAlg-u01-s.pdf",
     "sem1/LinAlg/UE/s/LinAlg-u00-s.pdf",
     "sem1/LinAlg/UE/s/LinAlg-u10-s.pdf",
-    "sem1/LinAlg/UE/s/LinAlg-u09-s.pdf",
-    "sem1/LinAlg/UE/s/LinAlg-u08-s.pdf",
     "sem1/EProg/UE/bf/EProg_U2_bf.md",
     "sem1/EProg/UE/bf/EProg_U2_bf.pdf.md",
     "sem1/EProg/UE/bf/EProg_U1_bf.md",
@@ -231,8 +273,6 @@
     "sem1/DMath/UE/bf/corrections/DMath-u10-bf.md",
     "sem1/DMath/UE/bf/corrections/DMath-u09-bf.md",
     "sem1/DMath/UE/bf/corrections/DMath-u08-bf.md",
-    "sem1/DMath/UE/bf/corrections/DMath-u07-bf.md",
-    "sem1/DMath/UE/bf/corrections/DMath-u06-bf.md",
     "var/sem1_schedule.jpg",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
