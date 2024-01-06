@@ -61,7 +61,12 @@ $$
 $$
 
 
-To find the order of the group
+To find the order of the group we simply calculate $\varphi(36)$:
+$$
+\varphi(m) = \product
+$$
+
+$36 \cdot (1-\frac 1 2) \cdot (1- \frac 1 3) = 36 \cdot \frac 1 3 = 12$
 
 
 
