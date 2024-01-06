@@ -13,7 +13,11 @@ Let's find the elements. The prime factors of 36 are $2^2, 3^2$, so we need all 
 
 $\mathbb Z^\ast_{36} = \{1, 5, 7, 11, 13, 17, 19, 23, 25, 29, 31, 35\}$ 
 
-Now let's find the order of each element.
+Now let's find the order of each element. The order is defined as follows: $a^n = e$, where $e$ is the neutral element in the group, $a$ is an element in the group, $n$ is the smallest positive integer such that the equation holds.
+
+$1^1 = 1$
+$5^n =
+
 
 
 
