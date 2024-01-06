@@ -3,6 +3,11 @@
 #### a) 
 Determine the order and the elements of the group $\langle \mathbb Z^\ast_{36} ; \odot \rangle$
 
+___
+
+$\mathbb Z^\ast_{36}$: This denotes the set of all positive integers (because of $^\ast$) less than 36 that are coprime (relatively prime) to 36 (because of $_{36}$). These are the numbers that do not share any common factors with 36 other than 1.
+
+$\odot$: This denotes the operation on the group, in our case multiplication mod 36
 
 
 
