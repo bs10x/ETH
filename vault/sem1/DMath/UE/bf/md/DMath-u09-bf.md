@@ -18,8 +18,16 @@ Now let's find the order of each element. The order is defined as follows: $a^n 
 $36, 72, 108, 144, 180, 216, 252, 288, 324, 360$
 360 + 252 = 712
 360 + 144 = 504
-961 = 712 +252
+928 + 33
+961
 
+
+
+961
+928
+33
+47 mod 36
+11
 
 $$
 \begin{align}
@@ -57,7 +65,7 @@ $$
 &\equiv_{36} 5^6 \\
 &\equiv_{36} 1 \\\\
 
-31^2 &\equiv_{36} 31*31=3*310+31=961 \\
+31^2 &\equiv_{36} 11 \\
 &\equiv_{36} 1 \\\\
 
 \end{align}
