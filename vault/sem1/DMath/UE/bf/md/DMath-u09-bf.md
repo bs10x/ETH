@@ -1,4 +1,16 @@
 
+## 9.2
+#### a) 
+Determine the order and the elements of the group $\langle \mathbb Z^\ast_{36} ; \odot \rangle$
+
+
+
+
+
+
+
+
+
 ## 9.4
 In this exercise, you prove the remark in Chapter 5, Footnote 20 of the lecture notes. Consider an algebra $\langle R; +, -, 0, \cdot, 1\rangle$ such that:
 

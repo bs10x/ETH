@@ -34,14 +34,6 @@
             }
           },
           {
-            "id": "80c474435184ce7d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "2b5d8c99c81a1f69",
             "type": "leaf",
             "state": {
@@ -67,12 +59,16 @@
             "id": "bbe96c2c33a59418",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/UE/bf/md/DMath-u09-bf.md"
+              }
             }
           },
           {
@@ -216,6 +216,8 @@
   },
   "active": "bbe96c2c33a59418",
   "lastOpenFiles": [
+    "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
+    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/ueli.txt",
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w12-lbehric.pdf",
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w11-lbehric.pdf",
@@ -225,10 +227,7 @@
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w07-lbehric.pdf",
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w06-lbehric.pdf",
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w05-lbehric.pdf",
-    "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w04-lbehric.pdf",
-    "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w03-lbehric.pdf",
     "LinAlg-topics.md",
-    "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
     "sem1/EProg/UE/bf/EProg_U2_bf.md",
     "sem1/EProg/UE/bf/EProg_U2_bf.pdf.md",
     "sem1/EProg/UE/bf/EProg_U1_bf.md",
