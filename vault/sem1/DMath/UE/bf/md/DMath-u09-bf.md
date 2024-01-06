@@ -18,13 +18,22 @@ Now let's find the order of each element. The order is defined as follows: $a^n 
 $36, 72, 108, 144, 180$
 
 $1^1 \equiv_{36} 1$
-$5^n \equiv_{36} 1$
+$5^6 \equiv_{36} 1$
 
 
 5^6 = 625
 
 
-$7^{12} \equiv_{36} 7^4 \odot_{36} $ 
+$$
+\begin{align}
+7^{12} &\equiv_{36} 7^4 \odot_{36} 7^8 \\
+&\equiv_{36} 7^2 \odot_{36} 7^2 \odot_{36} 7^8 \\
+&\equiv_{36}13 \odot_{36} 13 \odot_{36} 7^8 \\
+&\equiv_{36} 25 \odot_{36} 25 \odot_{36} 25 \\
+&\equiv_{36} 5^2 \odot_{36} 26 \odot_{36} 
+
+\end{align}
+$$  
 
 
 ## 9.4
