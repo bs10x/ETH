@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/lib/DMath-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/lib/DMath-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/lib/DMath-script.pdf"
+              }
             }
           },
           {
@@ -191,11 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0ad72165fae362d5",
+  "active": "472b5f51b50aebb7",
   "lastOpenFiles": [
+    "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
     "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/lib/DMath-script.pdf",
-    "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
     "sem1/DMath/ueli.txt",
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w12-lbehric.pdf",
@@ -205,7 +210,6 @@
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w08-lbehric.pdf",
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w07-lbehric.pdf",
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w06-lbehric.pdf",
-    "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w05-lbehric.pdf",
     "LinAlg-topics.md",
     "sem1/EProg/UE/bf/EProg_U2_bf.md",
     "sem1/EProg/UE/bf/EProg_U2_bf.pdf.md",
