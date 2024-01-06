@@ -20,20 +20,28 @@ $36, 72, 108, 144, 180$
 $1^1 \equiv_{36} 1$
 $5^6 \equiv_{36} 1$
 
-
-5^6 = 625
-
-
 $$
 \begin{align}
 7^{12} &\equiv_{36} 7^4 \odot_{36} 7^8 \\
 &\equiv_{36} 7^2 \odot_{36} 7^2 \odot_{36} 7^8 \\
 &\equiv_{36}13 \odot_{36} 13 \odot_{36} 7^8 \\
 &\equiv_{36} 25 \odot_{36} 25 \odot_{36} 25 \\
-&\equiv_{36} 5^2 \odot_{36} 26 \odot_{36} 
-
+&\equiv_{36} 5^2 \odot_{36} 5^2 \odot_{36} 5^2 \\
+&\equiv_{36} 5^6 \\
+&\equiv_{36} 1
 \end{align}
-$$  
+$$
+$11^n \equiv_{36} 1$
+
+
+$$
+\begin{align}
+11^6 &\equiv_{36} 11^2 \odot_{36} 11^4 \\
+&\equiv_{36} 11^2 \odot_{36} 11^2 \odot_{36} 11 \\
+&\equiv_{36} \\
+&\equiv_{36} \\
+\end{align}
+$$
 
 
 ## 9.4
