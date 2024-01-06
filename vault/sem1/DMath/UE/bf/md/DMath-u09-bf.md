@@ -65,7 +65,9 @@ To find the order of the group we simply calculate $\varphi(36)$ using Lemma 5.1
 $$
 \varphi(m) = m \cdot  \prod_{p\ \text{(prime)}\ | \ m} \left( 1-\frac 1 p\right)
 $$
-$36 \cdot (1-\frac 1 2) \cdot (1- \frac 1 3) = 36 \cdot \frac 1 3 = 12$. Thus we have shown that the order of the group is $12$ and the elements 
+$36 \cdot (1-\frac 1 2) \cdot (1- \frac 1 3) = 36 \cdot \frac 1 3 = 12$.
+
+Thus we have shown that the order of the group is $\varphi(36)=12$ and the elements are $\{1, 5, 7, 11, 13, 17, 19, 23, 25, 29, 31, 35\}$.
 $\square$
 
 
