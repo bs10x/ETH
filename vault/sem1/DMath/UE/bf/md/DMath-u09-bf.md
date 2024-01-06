@@ -61,12 +61,13 @@ $$
 $$
 
 
-To find the order of the group we simply calculate $\varphi(36)$:
+To find the order of the group we simply calculate $\varphi(36)$ using Lemma 5.12.:
 $$
-\varphi(m) = \product
+\varphi(m) = m \cdot  \prod_{p\ \text{(prime)}\ | \ m} \left( 1-\frac 1 p\right)
 $$
+$36 \cdot (1-\frac 1 2) \cdot (1- \frac 1 3) = 36 \cdot \frac 1 3 = 12$. Thus we have shown that the order of the group is $12$ and the elements 
+$\square$
 
-$36 \cdot (1-\frac 1 2) \cdot (1- \frac 1 3) = 36 \cdot \frac 1 3 = 12$
 
 
 
