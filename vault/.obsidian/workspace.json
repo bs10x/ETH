@@ -16,24 +16,6 @@
             }
           },
           {
-            "id": "9b5623b2f0e6a8c4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
-              }
-            }
-          },
-          {
-            "id": "4224368f066c0a71",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "2b5d8c99c81a1f69",
             "type": "leaf",
             "state": {
@@ -42,16 +24,6 @@
                 "file": "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "969b94c42959e71f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
               }
             }
           },
@@ -66,9 +38,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "472b5f51b50aebb7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/lib/DMath-script.pdf"
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/DMath/lib/DMath_script.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -214,11 +191,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "969b94c42959e71f",
+  "active": "0ad72165fae362d5",
   "lastOpenFiles": [
+    "sem1/DMath/lib/DMath_script.pdf",
+    "sem1/DMath/lib/DMath-script.pdf",
     "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
-    "sem1/DMath/lib/DMath_script.pdf",
     "sem1/DMath/ueli.txt",
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w12-lbehric.pdf",
     "sem1/AuD/lib/examprep/summaries/lbehric/AuD-w11-lbehric.pdf",
@@ -251,7 +229,6 @@
     "sem1/DMath/UE/bf/corrections/DMath-u11-bf.md",
     "sem1/DMath/UE/bf/corrections/DMath-u10-bf.md",
     "sem1/DMath/UE/bf/corrections/DMath-u09-bf.md",
-    "sem1/DMath/UE/bf/corrections/DMath-u08-bf.md",
     "var/sem1_schedule.jpg",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
