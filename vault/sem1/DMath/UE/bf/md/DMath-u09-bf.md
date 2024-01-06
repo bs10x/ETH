@@ -7,11 +7,13 @@ ___
 
 $\mathbb Z^\ast_{36}$: This denotes the set of all positive integers (because of $^\ast$) less than 36 that are coprime (relatively prime) to 36 (because of $_{36}$). These are the numbers that do not share any common factors with 36 other than 1.
 
-$\odot$: This denotes the operation on the group, in our case multiplication mod 36
+$\odot$: This denotes the operation on the group, in this case multiplication mod 36.
 
+Let's find the elements. The prime factors of 36 are $2^2, 3^2$, so we need all numbers less than 36 that don't share these factors.
 
+$\mathbb Z^\ast_{36} = \{1, 5, 7, 11, 13, 17, 19, 23, 25, 29, 31, 35\}$ 
 
-
+Now let's find the order of each element.
 
 
 
