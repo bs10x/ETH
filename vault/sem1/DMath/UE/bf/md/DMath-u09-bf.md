@@ -15,7 +15,7 @@ $\mathbb Z^\ast_{36} = \{1, 5, 7, 11, 13, 17, 19, 23, 25, 29, 31, 35\}$
 
 Now let's find the order of each element. The order is defined as follows: $a^n = e$, where $e$ is the neutral element in the group, $a$ is an element in the group, $n$ is the smallest positive integer such that the equation holds. In our case we write this as follows: $a^n \equiv_{36} 1$.
 
-$36, 72, 108, 144, 180$
+$36, 72, 108, 144, 180, 216, 252, 288, 324$
 
 $1^1 \equiv_{36} 1$
 $5^6 \equiv_{36} 1$
@@ -37,11 +37,15 @@ $11^n \equiv_{36} 1$
 $$
 \begin{align}
 11^6 &\equiv_{36} 11^2 \odot_{36} 11^4 \\
-&\equiv_{36} 11^2 \odot_{36} 11^2 \odot_{36} 11 \\
-&\equiv_{36} \\
-&\equiv_{36} \\
+&\equiv_{36} 11^2 \odot_{36} 11^2 \odot_{36} 11^2 \\
+&\equiv_{36} 13 \odot_{36} 13 \odot_{36} 13 \\
+&\equiv_{36} 25 \odot_{36} 13 \\
+&\equiv_{36} 1 \\ 
 \end{align}
 $$
+
+25\*13 = 325
+
 
 
 ## 9.4
