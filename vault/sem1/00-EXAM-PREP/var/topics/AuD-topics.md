@@ -1,4 +1,4 @@
-
+ 
 |DATE|COVERED TOPIC|NOTES|
 |---|---|---|
 |21.09.2023|_Introduction_<br><br>- Introduction<br>- Grade School Multiplication and Karatsuba Algorithm<br>- Induction<br>- O-notation|[Lecture 1](https://cadmo.ethz.ch/education/lectures/HS23/DA/lectures/ad21-01.pdf)|
