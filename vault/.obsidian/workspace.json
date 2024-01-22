@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "4d0e1a96fb461f65",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/DMath/lib/DMath-script.pdf"
+              }
+            }
+          },
+          {
             "id": "f2980c96023f9d73",
             "type": "leaf",
             "state": {
@@ -35,7 +45,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,10 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81ab7374d7e99908",
+  "active": "4d0e1a96fb461f65",
   "lastOpenFiles": [
-    "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
     "sem1/DMath/lib/DMath-script.pdf",
+    "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
     "sem1/00-EXAM-PREP/var/topics/AuD-topics.md",
     "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
