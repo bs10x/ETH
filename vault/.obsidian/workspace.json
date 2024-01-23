@@ -45,8 +45,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/DMath/lib/DMath-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/DMath/lib/DMath-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/DMath/lib/DMath-script.pdf"
+              }
             }
           },
           {
@@ -188,8 +191,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2980c96023f9d73",
+  "active": "81ab7374d7e99908",
   "lastOpenFiles": [
+    "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-cheatsheet-made-better-by-svea.pdf",
+    "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-cheatsheet-bf-made better by svea.pdf",
     "sem1/DMath/lib/DMath-script.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-mult-group-seb.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-mult-group-girl.pdf",
@@ -209,8 +214,6 @@
     "sem1/00-EXAM-PREP/LinAlg-exam-prep/LinAlg-cheatsheet-bfunk.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/DMath-summary-def-jannis.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/DMath-mult-group-seb.pdf",
-    "sem1/00-EXAM-PREP/DMath-exam-prep/DMath-mult-group-girl.pdf",
-    "sem1/00-EXAM-PREP/DMath-exam-prep/DMath-cheatsheet-idk.pdf",
     "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
     "sem1/00-EXAM-PREP/var/topics/AuD-topics.md",
