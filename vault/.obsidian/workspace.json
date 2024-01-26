@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf"
+              }
             }
           },
           {
@@ -186,10 +190,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98c7d6e0f768a736",
+  "active": "2fce864ea5aa2dca",
   "lastOpenFiles": [
-    "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
+    "sem1/00-EXAM-PREP/LinAlg-exam-prep/summaries/LinAlg_bb-notes_2.pdf",
+    "sem1/00-EXAM-PREP/LinAlg-exam-prep/summaries/LinAlg_bb-notes_1.pdf",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
+    "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
     "sem1/LinAlg/lib/LinAlg_script.pdf",
     "sem1/DMath/lib/DMath-script.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-cheatsheet-made-better-by-svea.pdf",
@@ -197,7 +203,6 @@
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-mult-group-seb.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-mult-group-girl.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-cheatsheet-idk.pdf",
-    "sem1/00-EXAM-PREP/DMath-exam-prep/summaries/DMath-summary-def-jannis.pdf",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
@@ -208,7 +213,6 @@
     "sem1/00-EXAM-PREP/var/graphics/log-properties-2.png",
     "sem1/00-EXAM-PREP/var/graphics/limit-rules.png",
     "sem1/00-EXAM-PREP/var/graphics/lendau.jpeg",
-    "sem1/00-EXAM-PREP/var/graphics",
     "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
     "sem1/00-EXAM-PREP/var/topics/AuD-topics.md",
