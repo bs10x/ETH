@@ -8,44 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81ab7374d7e99908",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/lib/DMath-script.pdf"
-              }
-            }
-          },
-          {
-            "id": "3dae5af8b44c41ff",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/lib/DMath-script.pdf"
-              }
-            }
-          },
-          {
-            "id": "4d0e1a96fb461f65",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/DMath/lib/DMath-script.pdf"
-              }
-            }
-          },
-          {
             "id": "f2980c96023f9d73",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "2fce864ea5aa2dca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf"
+              }
+            }
+          },
+          {
+            "id": "493a22aae8a7f258",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
+              }
+            }
+          },
+          {
+            "id": "98c7d6e0f768a736",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/DMath/lib/DMath-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/DMath/lib/DMath-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/DMath/lib/DMath-script.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -191,11 +186,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81ab7374d7e99908",
+  "active": "98c7d6e0f768a736",
   "lastOpenFiles": [
+    "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
+    "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
+    "sem1/LinAlg/lib/LinAlg_script.pdf",
+    "sem1/DMath/lib/DMath-script.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-cheatsheet-made-better-by-svea.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-cheatsheet-bf-made better by svea.pdf",
-    "sem1/DMath/lib/DMath-script.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-mult-group-seb.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-mult-group-girl.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-cheatsheet-idk.pdf",
@@ -211,9 +209,6 @@
     "sem1/00-EXAM-PREP/var/graphics/limit-rules.png",
     "sem1/00-EXAM-PREP/var/graphics/lendau.jpeg",
     "sem1/00-EXAM-PREP/var/graphics",
-    "sem1/00-EXAM-PREP/LinAlg-exam-prep/LinAlg-cheatsheet-bfunk.pdf",
-    "sem1/00-EXAM-PREP/DMath-exam-prep/DMath-summary-def-jannis.pdf",
-    "sem1/00-EXAM-PREP/DMath-exam-prep/DMath-mult-group-seb.pdf",
     "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
     "sem1/00-EXAM-PREP/var/topics/AuD-topics.md",
