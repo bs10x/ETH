@@ -48,5 +48,27 @@ public void dijkstra(int s) {
   }
 }
 
+public int prim(int s) {
+  int[] distance = new int[n]; // distance to all other v in MST
+  Arrays.fill(distance, Integer.MAX_VALUE); // fill with "infinity"
+  PriorityQueue<Integer> PQ = new PriorityQueue<>(); // for selecting minimum edge
+  PQ.add(s);
+  distance[s] = 0;
+  while (!PQ.isEmpty()) {
+    int u = PQ.poll();
+    for (int i = 0; i < Av.get(u).size(); i++) {
+      int v = Av.get(u).get(i);
+      int w = Aw.get(u).get(i);
+      if (w < distance[v]) {
+        distance[v] = w;
+        pq.add(new Node(v, w));
+      }
+    }
+  }
+  int sum = 0;
+  for (int dist : distance) sum += dist;
+  return sum;
+}
+
 public void kruskal()
 ```
