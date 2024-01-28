@@ -40,11 +40,13 @@ public void dijkstra(int s) {
       int v = Av.get(u).get(i); // child v
       int w = Aw.get(u).get(i); // weight of (u, v)
       // update distance if shorter path found
-      if (distance[u] + w < dp[v]) {
-        distance[v] = dp[u] + w;
-          Q.add(v);
-        }
+      if (distance[u] + w < distance[v]) {
+        distance[v] = distance[u] + w;
+        Q.add(v);
       }
-	}
+    }
+  }
 }
+
+public void kruskal()
 ```
