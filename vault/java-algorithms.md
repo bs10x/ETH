@@ -70,6 +70,18 @@ public int prim(int s) {
   return sum;
 }
 
+public static int getMaximumScore(int n, int[] A) { // left-right game
+  int[][] DP = new int[n][n];
+  for (int s = 2; s <= n; s++) {
+    for (int i = 0; i < n - s + 1; i++) {
+      int j = i + s - 1;
+      if (s == 2) DP[i][j] = Math.abs(A[i] - A[j]);
+      else DP[i][j] = Math.max(Math.max(DP[i+1][j], DP[i][j-1]),
+						       Math.abs(A[i] - A[j]) + DP[i+1][j-1]);
+	}
+  }
+  return DP[0][n-1];
+}
 
-asdijw
+					   
 ```
