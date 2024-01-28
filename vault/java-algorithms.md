@@ -83,5 +83,24 @@ public static int getMaximumScore(int n, int[] A) { // left-right game
   return DP[0][n-1];
 }
 
+public static int ShortestUncommonSubsequence(int n, int m, char[] A, char B[]) {
+  int[][] DP = new int[n + 1][m + 1];
+  for (int i = 0; i <= n; i++) DP[i][0] = 1;
+  for (int j = 0; j <= m; j++) DP[0][j] = Integer.MAX_VALUE - 1;
+  for (int i = 1; i <= n; i++) {
+    for (int j = 1; j <= m; j++) {
+      char common = A[i - 1];
+      int search;
+      for (search = j - 1; search >= 0; search--) if (B[search] == common) break;
+      if (search == -1) DP[i][j] = 1; 
+      else {
+        if (DP[i - 1][j] <= DP[i - 1][search] + 1) DP[i][j] = DP[i - 1][j];
+          else DP[i][j] = DP[i - 1][search] + 1;
+        }
+      }
+    }
+    if (DP[n][m] < Integer.MAX_VALUE) return DP[n][m];
+    else return -1;
+  }
 					   
 ```
