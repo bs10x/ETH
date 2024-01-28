@@ -8,11 +8,11 @@ public void BFS(int s) { // only runs on G with weights of 1
   distance[s] = 0; // distance from s -> s = 0
   visited[s] = true;
   while (!Q.isEmpty()) { // iterate until queue empty
-    int x = Q.poll(); // next v is polled
-    for (int i = 0; i < degree[x]; i++) { // for all neighbors to x
-      if (distance[edges[x][i]] == -1) { // if not visited
-        distance[edges[x][i]] = distance[x] + 1; // update distances
-        Q.add(edges[x][i]); // add neighbor to queue
+    int u = Q.poll(); // next vertex is polled
+    for (int v = 0; v < degree[u]; v++) { // for all neighbors to u
+      if (distance[edges[u][v]] == -1) { // if not visited
+        distance[edges[u][v]] = distance[] + 1; // update distances
+        Q.add(edges[u][v]); // add neighbor to queue
       }
     }
   }
@@ -38,10 +38,10 @@ public void dijkstra(int s) {
     int u = Q.poll(); // u is top node in Q
     for (int i = 0; i < Av.get(u).size(); i++) { // check each child of u
       int v = Av.get(u).get(i); // child v
-      int w = Aw.get(u).get(i); // weight of (u, v)
+      int c = Aw.get(u).get(i); // weight of (u, v)
       // update distance if shorter path found
       if (distance[u] + w < distance[v]) {
-        distance[v] = distance[u] + w;
+        distance[v] = distance[u] + c;
         Q.add(v);
       }
     }
@@ -58,10 +58,10 @@ public int prim(int s) {
     int u = PQ.poll();
     for (int i = 0; i < Av.get(u).size(); i++) {
       int v = Av.get(u).get(i);
-      int w = Aw.get(u).get(i);
+      int c = Aw.get(u).get(i);
       if (w < distance[v]) {
-        distance[v] = w;
-        pq.add(new Node(v, w));
+        distance[v] = c;
+        PQ.add(v);
       }
     }
   }
