@@ -1,11 +1,15 @@
 
 ```java
 
-public int[] BFS() {
+
+
+public int[] BFS(int s) {
+distance = new int[n];
+    for (int i = 0; i < n; i++) distance[i] = -1;
 	Queue<Integer> Q = new LinkedList<Integer>();
-	Q.add(0);
-    distance[0] = 0;
-    visited[0] = true;
+	Q.add(s);
+    distance[s] = 0;
+    visited[s] = true;
     while (!Q.isEmpty()) {
       int x = Q.poll();
       for (int i = 0; i < degree[x]; i++) {
@@ -25,11 +29,10 @@ public int[] BFS() {
 
 ```java
 public void DFS(int s) {
-	boolean[] visited = new boolean[n];
     visited[s] = true;
     for (int i = 0; i < degree[s]; i++) {
       if (!visited[edges[s][i]]) {
-        set[edges[s][i]] = set[s]; // to co
+        //set[edges[s][i]] = set[s]; // for computing sets in graph
         DFS(edges[s][i]);
       }
     }
