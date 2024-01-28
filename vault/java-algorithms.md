@@ -9,10 +9,10 @@ public void BFS(int s) { // only runs on G with weights of 1
   visited[s] = true;
   while (!Q.isEmpty()) { // iterate until queue empty
     int u = Q.poll(); // next vertex is polled
-    for (int v = 0; v < degree[u]; v++) { // for all neighbors to u
-      if (distance[edges[u][v]] == -1) { // if not visited
-        distance[edges[u][v]] = distance[] + 1; // update distances
-        Q.add(edges[u][v]); // add neighbor to queue
+    for (int i = 0; i < degree[u]; i++) { // for all neighbors to u
+      if (distance[edges[u][i]] == -1) { // if not visited
+        distance[edges[u][i]] = distance[] + 1; // update distances
+        Q.add(edges[u][i); // add i-th neighbor to queue
       }
     }
   }
@@ -23,7 +23,7 @@ public void DFS(int s) {
   for (int i = 0; i < degree[s]; i++) { // for each neighbor
     if (!visited[edges[s][i]]) { // if not visited
     //set[edges[s][i]] = set[s]; // for computing sets in graph
-    DFS(edges[s][i]); // recursive call
+    DFS(edges[s][i]); // recursive call to i-th child
     }
   }
 }
@@ -70,5 +70,6 @@ public int prim(int s) {
   return sum;
 }
 
-public void kruskal()
+
+asdijw
 ```
