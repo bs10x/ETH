@@ -36,19 +36,19 @@
             }
           },
           {
-            "id": "98c7d6e0f768a736",
+            "id": "ede9dd22836be9b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-algorithms.md",
+                "file": "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
+                "file": "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
+                "file": "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
+                "file": "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md"
               }
             }
           },
@@ -194,13 +194,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "493a22aae8a7f258",
+  "active": "ede9dd22836be9b0",
   "lastOpenFiles": [
     "java-algorithms.md",
+    "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
     "sem1/00-EXAM-PREP/LinAlg-exam-prep/summaries/LinAlg_bb-notes_2.pdf",
     "sem1/00-EXAM-PREP/LinAlg-exam-prep/summaries/LinAlg_bb-notes_1.pdf",
-    "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/LinAlg/lib/LinAlg_script.pdf",
     "sem1/DMath/lib/DMath-script.pdf",
     "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-cheatsheet-made-better-by-svea.pdf",
@@ -241,7 +241,6 @@
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
     "sem1/LinAlg/UE/bf/U01/LinAlg_U1_bf.md",
     "sem1/DMath/UE/bf/corrections/DMath-u12-bf.md",
-    "sem1/DMath/UE/bf/corrections/DMath-u11-bf.md",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
   ]
