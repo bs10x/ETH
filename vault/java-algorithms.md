@@ -70,6 +70,8 @@ public int prim(int s) {
   return sum;
 }
 
+
+
 public static int getMaximumScore(int n, int[] A) { // left-right game
   int[][] DP = new int[n][n];
   for (int s = 2; s <= n; s++) {
@@ -95,12 +97,19 @@ public static int ShortestUncommonSubsequence(int n, int m, char[] A, char B[]) 
       if (search == -1) DP[i][j] = 1; 
       else {
         if (DP[i - 1][j] <= DP[i - 1][search] + 1) DP[i][j] = DP[i - 1][j];
-          else DP[i][j] = DP[i - 1][search] + 1;
-        }
+        else DP[i][j] = DP[i - 1][search] + 1;
       }
     }
-    if (DP[n][m] < Integer.MAX_VALUE) return DP[n][m];
-    else return -1;
   }
-					   
+  if (DP[n][m] < Integer.MAX_VALUE) return DP[n][m];
+  else return -1;
+}
+
+
+
+
+
+
+
+
 ```

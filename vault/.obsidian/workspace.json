@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-algorithms.md",
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-algorithms.md",
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-algorithms.md"
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
               }
             }
           },
@@ -194,7 +194,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98c7d6e0f768a736",
+  "active": "493a22aae8a7f258",
   "lastOpenFiles": [
     "java-algorithms.md",
     "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
