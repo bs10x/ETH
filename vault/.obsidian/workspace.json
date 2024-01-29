@@ -48,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md"
+                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
               }
             }
           },
@@ -194,8 +194,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ede9dd22836be9b0",
+  "active": "493a22aae8a7f258",
   "lastOpenFiles": [
+    "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
     "java-algorithms.md",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
     "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
@@ -220,7 +221,6 @@
     "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
     "sem1/00-EXAM-PREP/var/topics/AuD-topics.md",
-    "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
     "LinAlg-topics.md",
     "sem1/EProg/UE/bf/EProg_U2_bf.md",
     "sem1/EProg/UE/bf/EProg_U2_bf.pdf.md",
