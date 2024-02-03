@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -114,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -193,17 +189,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "493a22aae8a7f258",
+  "active": "f2980c96023f9d73",
   "lastOpenFiles": [
-    "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
+    "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u06-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u08-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u07-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u10-bf.md",
+    "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
+    "sem1/EProg/VRL/V19_.md",
+    "sem1/LinAlg/lib/LinAlg.md",
     "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
+    "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
     "sem1/00-EXAM-PREP/AuD-exam-prep/summaries/java-algorithms.md",
     "sem1/00-EXAM-PREP/AuD-exam-prep/java-algorithms.md",
     "sem1/00-EXAM-PREP/java-algorithms.md",
     "sem1/00-EXAM-PREP/LinAlg-exam-prep/cheatsheets/LinAlg-cheatsheet-nico.pdf",
     "sem1/00-EXAM-PREP/LinAlg-exam-prep/cheatsheets/LinAlg-cheatsheet-jannis.pdf",
     "sem1/00-EXAM-PREP/LinAlg-exam-prep/cheatsheets/LINALG_einseitig.pdf",
-    "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
     "java-algorithms.md",
     "sem1/00-EXAM-PREP/LinAlg-exam-prep/summaries/LinAlg_bb-notes_2.pdf",
     "sem1/00-EXAM-PREP/LinAlg-exam-prep/summaries/LinAlg_bb-notes_1.pdf",
@@ -220,8 +224,6 @@
     "sem1/00-EXAM-PREP/var/graphics/log-properties-2.png",
     "sem1/00-EXAM-PREP/var/graphics/limit-rules.png",
     "sem1/00-EXAM-PREP/var/graphics/lendau.jpeg",
-    "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
-    "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
     "sem1/00-EXAM-PREP/var/topics/AuD-topics.md",
     "LinAlg-topics.md",
     "sem1/EProg/UE/bf/EProg_U2_bf.md",
@@ -235,11 +237,6 @@
     "sem1/AuD/UE/bf/AuD-u00-bf.md",
     "sem1/AuD/UE/bf/AuD-u07-bf.md",
     "sem1/AuD/UE/bf/AuD-u08-bf.md",
-    "sem1/AuD/UE/bf/AuD-u09-bf.md",
-    "sem1/AuD/UE/bf/AuD-u11-bf.md",
-    "sem1/AuD/UE/bf/AuD_U7_bf.md",
-    "sem1/LinAlg/UE/bf/pdf/LinAlg_U1_bf.md",
-    "sem1/LinAlg/UE/bf/md 2/LinAlg_U1_bf.md",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
   ]
