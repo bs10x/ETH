@@ -16,32 +16,12 @@
             }
           },
           {
-            "id": "2fce864ea5aa2dca",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf"
-              }
-            }
-          },
-          {
-            "id": "493a22aae8a7f258",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf"
-              }
-            }
-          },
-          {
-            "id": "ede9dd22836be9b0",
+            "id": "f072d25087a005ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
+                "file": "sem2/Analysis I.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,17 +171,21 @@
   },
   "active": "f2980c96023f9d73",
   "lastOpenFiles": [
+    "sem2/Analysis I.md",
+    "sem1/AuD/VRL/V10_.md",
+    "var/var.md",
+    "sem2",
+    "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
+    "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
+    "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
+    "sem1/LinAlg/lib/LinAlg.md",
     "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u06-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u08-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u07-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u10-bf.md",
-    "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
     "sem1/EProg/VRL/V19_.md",
-    "sem1/LinAlg/lib/LinAlg.md",
-    "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
-    "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
     "sem1/00-EXAM-PREP/AuD-exam-prep/summaries/java-algorithms.md",
     "sem1/00-EXAM-PREP/AuD-exam-prep/java-algorithms.md",
     "sem1/00-EXAM-PREP/java-algorithms.md",
@@ -213,7 +197,6 @@
     "sem1/00-EXAM-PREP/LinAlg-exam-prep/summaries/LinAlg_bb-notes_1.pdf",
     "sem1/LinAlg/lib/LinAlg_script.pdf",
     "sem1/DMath/lib/DMath-script.pdf",
-    "sem1/00-EXAM-PREP/DMath-exam-prep/cheatsheets/DMath-cheatsheet-made-better-by-svea.pdf",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
@@ -234,9 +217,6 @@
     "sem1/AuD/UE/bf/md/AuD-u08-bf.md",
     "sem1/AuD/UE/bf/md/AuD-u07-bf.md",
     "sem1/AuD/UE/bf/md/AuD-u00-bf.md",
-    "sem1/AuD/UE/bf/AuD-u00-bf.md",
-    "sem1/AuD/UE/bf/AuD-u07-bf.md",
-    "sem1/AuD/UE/bf/AuD-u08-bf.md",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
   ]
