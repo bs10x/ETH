@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:sem1/AuD  ",
@@ -36,10 +36,17 @@
       }
     },
     {
-      "query": "path:",
+      "query": "path:sem2/Analysis",
       "color": {
         "a": 1,
         "rgb": 13107455
+      }
+    },
+    {
+      "query": "path:sem1/00-EXAM-PREP  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 17.0735677083333,
   "linkStrength": 1,
   "linkDistance": 307,
-  "scale": 0.10391589706095038,
-  "close": false
+  "scale": 0.1213902037420095,
+  "close": true
 }
