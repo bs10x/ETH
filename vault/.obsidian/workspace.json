@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f072d25087a005ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem2/Analysis1/Analysis1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem1/AuD/VRL/V07_.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem1/AuD/VRL/V07_.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "sem1/AuD/VRL/V07_.md"
               }
             }
           },
@@ -175,38 +164,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "f2980c96023f9d73",
   "lastOpenFiles": [
-    "sem2/Analysis1/UE",
-    "sem2/Analysis1/lib",
+    "sem2/Digitec/VRL/notes/AuW.md",
+    "sem2/Digitec/VRL/notes",
+    "sem2/Digitec/VRL/slides",
+    "sem2/Digitec/VRL",
+    "sem2/AuW/VRL/notes/AuW.md",
+    "sem2/AuW/VRL/slides",
+    "sem2/AuW/VRL/notes",
+    "sem2/AuW/VRL",
+    "sem2/AuW/VRL/notes/Analysis1.md",
+    "sem2/Analysis1/VRL/notes/Analysis1.md",
+    "sem2/Analysis1/VRL/slides",
+    "sem2/Analysis1/VRL/notes 2",
+    "sem2/Analysis1/VRL/notes",
+    "sem2/Analysis1/VRL/untitled folder",
     "sem2/Analysis1/Analysis1.md",
+    "sem2/Analysis1/VRL/Analysis1.md",
+    "sem2/Digitec/Digitec.md",
+    "sem2/AuW/AuW.md",
+    "sem2/AuW/PProg.md",
+    "sem2/Digitec 2/PProg.md",
+    "sem2/Digitec/PProg.md",
+    "sem2/PProg 2/PProg.md",
+    "sem2/PProg/PProg.md",
+    "sem2/PProg/Analysis1.md",
+    "sem2/Analysis1 2/Analysis1.md",
     "Untitled.md",
-    "sem2/Analysis1",
     "sem1/AuD/VRL/V07_.md",
     "sem1/AuD/lib/AuD.md",
     "sem1/AuD/VRL/V10_.md",
     "var/var.md",
-    "sem2",
     "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
-    "sem1/LinAlg/lib/LinAlg_bb-notes_2.pdf",
-    "sem1/LinAlg/lib/LinAlg_bb-notes_1.pdf",
     "sem1/LinAlg/lib/LinAlg.md",
     "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u06-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u08-bf.md",
-    "sem1/DMath/UE/bf/md/DMath-u07-bf.md",
-    "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
-    "sem1/DMath/UE/bf/md/DMath-u10-bf.md",
-    "sem1/EProg/VRL/V19_.md",
-    "sem1/00-EXAM-PREP/AuD-exam-prep/summaries/java-algorithms.md",
-    "sem1/00-EXAM-PREP/AuD-exam-prep/java-algorithms.md",
-    "sem1/00-EXAM-PREP/java-algorithms.md",
-    "sem1/00-EXAM-PREP/LinAlg-exam-prep/cheatsheets/LinAlg-cheatsheet-nico.pdf",
-    "sem1/00-EXAM-PREP/LinAlg-exam-prep/cheatsheets/LinAlg-cheatsheet-jannis.pdf",
-    "sem1/00-EXAM-PREP/LinAlg-exam-prep/cheatsheets/LINALG_einseitig.pdf",
-    "java-algorithms.md",
-    "sem1/00-EXAM-PREP/LinAlg-exam-prep/summaries/LinAlg_bb-notes_2.pdf",
-    "sem1/00-EXAM-PREP/LinAlg-exam-prep/summaries/LinAlg_bb-notes_1.pdf",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
@@ -217,12 +211,6 @@
     "sem1/00-EXAM-PREP/var/graphics/log-properties-2.png",
     "sem1/00-EXAM-PREP/var/graphics/limit-rules.png",
     "sem1/00-EXAM-PREP/var/graphics/lendau.jpeg",
-    "sem1/00-EXAM-PREP/var/topics/AuD-topics.md",
-    "LinAlg-topics.md",
-    "sem1/EProg/UE/bf/EProg_U2_bf.md",
-    "sem1/EProg/UE/bf/EProg_U2_bf.pdf.md",
-    "sem1/EProg/UE/bf/EProg_U1_bf.md",
-    "sem1/AuD/UE/bf/md/AuD-u11-bf.md",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
   ]
