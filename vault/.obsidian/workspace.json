@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c79f64440a4e933",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/Analysis1/VRL/extra/Analysis1-script.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis1/VRL/notes/Analysis1.md",
+                "file": "sem2/Analysis1/VRL/extra/Analysis1-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis1/VRL/notes/Analysis1.md",
+                "file": "sem2/Analysis1/VRL/extra/Analysis1-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis1/VRL/notes/Analysis1.md"
+                "file": "sem2/Analysis1/VRL/extra/Analysis1-script.pdf"
               }
             }
           },
@@ -164,8 +176,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9864aa2240fc55c0",
+  "active": "6c79f64440a4e933",
   "lastOpenFiles": [
+    "sem2/Analysis1/VRL/notes/Analysis1.md",
+    "sem2/Analysis1/VRL/extra/Analysis1-script.pdf",
     "sem2/PProg/VRL/extra",
     "sem2/PProg/extra",
     "sem2/Digitec/VRL/extra",
@@ -180,12 +194,9 @@
     "sem2/Digitec/VRL/Digitec.md",
     "sem2/PProg/VRL/notes/AuW.md",
     "sem2/PProg/VRL/notes",
-    "sem2/PProg/VRL/slides",
-    "sem2/PProg/VRL",
     "sem2/Digitec/VRL/notes/AuW.md",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/VRL/notes/Analysis1.md",
-    "sem2/Analysis1/VRL/notes/Analysis1.md",
     "sem2/Analysis1/Analysis1.md",
     "sem2/Analysis1/VRL/Analysis1.md",
     "sem2/Digitec/Digitec.md",
