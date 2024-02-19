@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0aaa77a60f37b1ae",
+        "id": "bd629556f41fb359",
         "type": "tabs",
         "children": [
           {
-            "id": "f2980c96023f9d73",
+            "id": "9864aa2240fc55c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem1/AuD/VRL/V07_.md",
+                "file": "sem2/Analysis1/VRL/notes/Analysis1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/AuD/VRL/V07_.md",
+                "file": "sem2/Analysis1/VRL/notes/Analysis1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/AuD/VRL/V07_.md",
+                "file": "sem2/Analysis1/VRL/notes/Analysis1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/AuD/VRL/V07_.md"
+                "file": "sem2/Analysis1/VRL/notes/Analysis1.md"
               }
             }
           },
@@ -164,22 +164,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2980c96023f9d73",
+  "active": "9864aa2240fc55c0",
   "lastOpenFiles": [
+    "sem2/PProg/VRL/extra",
+    "sem2/PProg/extra",
+    "sem2/Digitec/VRL/extra",
+    "sem2/Digitec/extra",
+    "sem2/AuW/VRL/extra",
+    "sem2/AuW/extra",
+    "sem2/Analysis1/VRL/extra",
+    "sem2/Analysis1/extra",
+    "sem1/AuD/VRL/V07_.md",
+    "sem2/PProg/VRL/notes/PProg.md",
+    "sem2/Digitec/VRL/notes/Digitec.md",
+    "sem2/Digitec/VRL/Digitec.md",
+    "sem2/PProg/VRL/notes/AuW.md",
+    "sem2/PProg/VRL/notes",
+    "sem2/PProg/VRL/slides",
+    "sem2/PProg/VRL",
     "sem2/Digitec/VRL/notes/AuW.md",
-    "sem2/Digitec/VRL/notes",
-    "sem2/Digitec/VRL/slides",
-    "sem2/Digitec/VRL",
     "sem2/AuW/VRL/notes/AuW.md",
-    "sem2/AuW/VRL/slides",
-    "sem2/AuW/VRL/notes",
-    "sem2/AuW/VRL",
     "sem2/AuW/VRL/notes/Analysis1.md",
     "sem2/Analysis1/VRL/notes/Analysis1.md",
-    "sem2/Analysis1/VRL/slides",
-    "sem2/Analysis1/VRL/notes 2",
-    "sem2/Analysis1/VRL/notes",
-    "sem2/Analysis1/VRL/untitled folder",
     "sem2/Analysis1/Analysis1.md",
     "sem2/Analysis1/VRL/Analysis1.md",
     "sem2/Digitec/Digitec.md",
@@ -192,15 +198,10 @@
     "sem2/PProg/Analysis1.md",
     "sem2/Analysis1 2/Analysis1.md",
     "Untitled.md",
-    "sem1/AuD/VRL/V07_.md",
     "sem1/AuD/lib/AuD.md",
     "sem1/AuD/VRL/V10_.md",
     "var/var.md",
     "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
-    "sem1/LinAlg/lib/LinAlg.md",
-    "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
-    "sem1/DMath/UE/bf/md/DMath-u06-bf.md",
-    "sem1/DMath/UE/bf/md/DMath-u08-bf.md",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
