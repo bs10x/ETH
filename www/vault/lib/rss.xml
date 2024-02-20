@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://n.ethz.ch/~bfeitknecht/</link><image><url>https://n.ethz.ch/~bfeitknecht/lib/media/favicon.png</url><title>vault</title><link>https://n.ethz.ch/~bfeitknecht/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 20 Feb 2024 14:42:28 GMT</lastBuildDate><atom:link href="https://n.ethz.ch/~bfeitknecht/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 20 Feb 2024 14:42:13 GMT</pubDate><copyright><![CDATA[Basil Feitknecht]]></copyright><ttl>60</ttl><dc:creator>Basil Feitknecht</dc:creator><item><title><![CDATA[java-algorithms]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://n.ethz.ch/~bfeitknecht/</link><image><url>https://n.ethz.ch/~bfeitknecht/lib/media/favicon.png</url><title>vault</title><link>https://n.ethz.ch/~bfeitknecht/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 20 Feb 2024 14:45:43 GMT</lastBuildDate><atom:link href="https://n.ethz.ch/~bfeitknecht/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 20 Feb 2024 14:45:30 GMT</pubDate><copyright><![CDATA[Basil Feitknecht]]></copyright><ttl>60</ttl><dc:creator>Basil Feitknecht</dc:creator><item><title><![CDATA[java-algorithms]]></title><description><![CDATA[ 
  <br>public void BFS(int s) { // only runs on G with weights of 1
   int[] distance = new int[n]; // distances from s
   for (int i = 0; i &lt; n; i++) distance[i] = -1; // populate distances
@@ -1053,49 +1053,4 @@ Copy]]></description><link>https://n.ethz.ch/~bfeitknecht/sem1/EProg/VRL/V06_.ht
 <br>
 ]]></description><link>https://n.ethz.ch/~bfeitknecht/sem1/LinAlg/VRL/V12_.html</link><guid isPermaLink="false">sem1/LinAlg/VRL/V12_.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:22 GMT</pubDate></item><item><title><![CDATA[V14_Orthonormale Basis]]></title><description><![CDATA[<a class="tag" href="https://n.ethz.ch/~bfeitknecht/?query=tag:Orthonormal-Basis" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Orthonormal-Basis</a> <a class="tag" href="https://n.ethz.ch/~bfeitknecht/?query=tag:Gram-Schmidt-Algorithm" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Gram-Schmidt-Algorithm</a> <a class="tag" href="https://n.ethz.ch/~bfeitknecht/?query=tag:Normal-Gleichungen" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Normal-Gleichungen</a> 
  <br><br><br><br>
-<br><br><br>]]></description><link>https://n.ethz.ch/~bfeitknecht/sem1/LinAlg/VRL/V14_Orthonormale Basis.html</link><guid isPermaLink="false">sem1/LinAlg/VRL/V14_Orthonormale Basis.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:22 GMT</pubDate></item><item><title><![CDATA[Analysis-1]]></title><description><![CDATA[ 
- <br>Analysis ist die Lehre von kontinuierlichem Shit.<br>
-<br>slope of a curve, area under a curve...
-<br>sometimes hard continual problems can be approximatively solved using simple discrete problem
-<br>i.E. linear programming vs integer programming, numeric method to solve differential equations
-]]></description><link>https://n.ethz.ch/~bfeitknecht/sem2/Analysis-1/VRL/notes/Analysis-1.html</link><guid isPermaLink="false">sem2/Analysis-1/VRL/notes/Analysis-1.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:22 GMT</pubDate></item><item><title><![CDATA[AuW]]></title><description><![CDATA[ 
- <br>Why probability? RANDOMNESS!!
-Makes a lot of stuff faster, more secure (polynomial prime test, simultaneous connection problem, O(1) hash tables).
-<br>-zusammenhängend
-Sei  ein Graph. G ist -zusammenhängend, wenn gilt:<br>
-- <br>
-- : jeder u-v-Seperator  hat Grösse 
-<br>Satz von Menger
-Sei  ein Graph. Dann gilt:
-G ist -zusammenhängend   gibt es  intern-knotendisjunkte u-v Pfade.
-]]></description><link>https://n.ethz.ch/~bfeitknecht/sem2/AuW/VRL/notes/AuW.html</link><guid isPermaLink="false">sem2/AuW/VRL/notes/AuW.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Tue, 20 Feb 2024 14:22:25 GMT</pubDate></item><item><title><![CDATA[Digitec]]></title><description><![CDATA[ 
- ]]></description><link>https://n.ethz.ch/~bfeitknecht/sem2/DDCA/VRL/notes/Digitec.html</link><guid isPermaLink="false">sem2/DDCA/VRL/notes/Digitec.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:22 GMT</pubDate></item><item><title><![CDATA[PProg]]></title><description><![CDATA[ 
- ]]></description><link>https://n.ethz.ch/~bfeitknecht/sem2/PProg/VRL/notes/PProg.html</link><guid isPermaLink="false">sem2/PProg/VRL/notes/PProg.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:22 GMT</pubDate></item><item><title><![CDATA[AuD-topics]]></title><description><![CDATA[ 
- <br>]]></description><link>https://n.ethz.ch/~bfeitknecht/var/sem1-exam-prep/AuD-topics.html</link><guid isPermaLink="false">var/sem1-exam-prep/AuD-topics.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:21 GMT</pubDate></item><item><title><![CDATA[LinAlg-topics]]></title><description><![CDATA[ 
- <br>]]></description><link>https://n.ethz.ch/~bfeitknecht/var/sem1-exam-prep/LinAlg-topics.html</link><guid isPermaLink="false">var/sem1-exam-prep/LinAlg-topics.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:21 GMT</pubDate></item><item><title><![CDATA[literature2buy?]]></title><description><![CDATA[ 
- <br>AuD<br>
-<br>Ronald L. Graham, Donald E. Knuth, and Oren Patashnik. 1994. Concrete Mathematics: A Foundation for Computer Science (2nd ed.). Addison-Wesley Longman Publishing Co.
-<br>Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. 2009. Introduction to Algorithms (3rd ed.). MIT Press.
-<br>EProg<br>
-<br>S. Reges und M. Stepp, "Building Java Programs",&nbsp; Pearson.&nbsp; 5. Auflage (2019) aber die 4. Auflage (2016) geht genauso gut. Einige Beispiele aus der Vorlesung finden Sie auch in diesem Buch. Die Informatik Bibilothek hat Exemplare.
-<br>R. Sedgewick und K. Wayne, "Einführung in die Programmierung mit Java", 2011, Pearson Higher Education, ISBN 978-3-86894-0476-3. Deutsche Übersetzung, auch auf Englisch (neuere Ausgabe!) erhältlich. &nbsp;Enthält viele interessante Beispiele von Programmen die Anwendungsprobleme lösen. Auch in der Informatik Bibliothek vorhanden.
-<br>var<br>
-<br>the art of computer programming, knuth
-<br>SICP
-<br>the c programming language
-<br>design patterns in oop
-<br>the dragon book
-<br>the wizard book
-<br>the mythical man moth
-<br>the design of everyday things
-]]></description><link>https://n.ethz.ch/~bfeitknecht/var/sem1-exam-prep/literature2buy/literature2buy.html</link><guid isPermaLink="false">var/sem1-exam-prep/literature2buy?.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:22 GMT</pubDate></item><item><title><![CDATA[prüfungsvorbereitung]]></title><description><![CDATA[ 
- <br><a data-href="var" href="https://n.ethz.ch/~bfeitknecht/var/var.html" class="internal-link" target="_self" rel="noopener">var</a><br>LinAlg:<br>
-eng/ger<br>
-6 A4-Seiten Notizen oder 3 doppelseitige A4 Notizen (mit LaTeX oder Ähnlichem erfasste und gedruckte Notizen sind erlaubt; sie sollten ohne Lupe lesbar sein); ein Wörterbuch (Deutsch-Englisch oder andere Fremdsprache); kein Taschenrechner.<br>DMath:<br>
-ger<br>
-Selbstverfasste, handgeschriebene Notizen auf 6 A4-Seiten (respektive 3 Blätter doppelseitig).<br>AuD:<br>
-ger<br>
-keine<br>EProg:<br>
-ger<br>
-keine]]></description><link>https://n.ethz.ch/~bfeitknecht/var/sem1-exam-prep/prüfungsvorbereitung.html</link><guid isPermaLink="false">var/sem1-exam-prep/prüfungsvorbereitung.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:22 GMT</pubDate></item><item><title><![CDATA[var]]></title><description><![CDATA[ 
- <br><a data-href="sem1" href="https://n.ethz.ch/~bfeitknecht/sem1" class="internal-link" target="_self" rel="noopener">sem1</a><br>notes from the first day: <a data-href="ersti tag" href="https://n.ethz.ch/~bfeitknecht/ersti tag" class="internal-link" target="_self" rel="noopener">ersti tag</a> <br>schedule: <a data-href="sem1_schedule.jpg" href="https://n.ethz.ch/~bfeitknecht/sem1_schedule.jpg" class="internal-link" target="_self" rel="noopener">sem1_schedule.jpg</a><br>consider buying the following books:<a data-href="literature2buy?" href="https://n.ethz.ch/~bfeitknecht/var/sem1-exam-prep/literature2buy?.md" class="internal-link" target="_self" rel="noopener">literature2buy?</a>]]></description><link>https://n.ethz.ch/~bfeitknecht/var/var.html</link><guid isPermaLink="false">var/var.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:22 GMT</pubDate></item></channel></rss>
+<br><br><br>]]></description><link>https://n.ethz.ch/~bfeitknecht/sem1/LinAlg/VRL/V14_Orthonormale Basis.html</link><guid isPermaLink="false">sem1/LinAlg/VRL/V14_Orthonormale Basis.md</guid><dc:creator><![CDATA[Basil Feitknecht]]></dc:creator><pubDate>Mon, 19 Feb 2024 18:43:22 GMT</pubDate></item></channel></rss>
