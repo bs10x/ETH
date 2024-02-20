@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9864aa2240fc55c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem2/Analysis1/VRL/notes/Analysis1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c79f64440a4e933",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/Analysis1/VRL/extra/Analysis1-script.pdf"
-              }
-            }
-          },
-          {
             "id": "e15786c86d4b08ef",
             "type": "leaf",
             "state": {
@@ -37,8 +15,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,17 +157,19 @@
   },
   "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
-    "sem2/PProg/UE/e/PProg-a01-introduction.pdf",
-    "sem2/PProg/UE/PProg-a01-introduction.pdf",
-    "sem2/Analysis1/UE/s",
-    "sem2/Analysis1/UE/e",
-    "sem2/Analysis1/UE/bf",
-    "sem2/AuW/UE/s",
-    "sem2/AuW/UE/e",
-    "sem2/AuW/UE/bf",
-    "sem2/Digitec/UE/s",
-    "sem2/Digitec/UE/e",
-    "sem2/Digitec/UE/bf",
+    "sem2/Analysis-1/VRL/notes/Analysis-1.md",
+    "sem2/Analysis-1/VRL/notes/Analysis1.md",
+    "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
+    "sem2/Analysis-1/VRL/slides",
+    "sem2/Analysis-1/VRL/notes",
+    "sem2/Analysis-1/VRL/extra",
+    "sem2/Analysis-1/UE/bf",
+    "sem2/Analysis-1/UE/s",
+    "sem2/Analysis-1/UE/e",
+    "sem2/Analysis-1/VRL",
+    "sem2/Analysis-1/UE",
+    "sem2/Analysis-1",
+    "sem2/DDCA/VRL/notes/Digitec.md",
     "sem2/Analysis1/VRL/notes/Analysis1.md",
     "sem1/AuD/VRL/V07_.md",
     "sem2/PProg/VRL/notes/PProg.md",
@@ -214,8 +193,6 @@
     "Untitled.md",
     "sem1/AuD/lib/AuD.md",
     "sem1/AuD/VRL/V10_.md",
-    "var/var.md",
-    "sem1/00-EXAM-PREP/var/topics/LinAlg-topics.md",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
