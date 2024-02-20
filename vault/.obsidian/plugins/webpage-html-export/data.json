@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "",
+  "exportPath": "/Users/bf/HOME/ETH/www/vault",
   "filesToExport": [
     []
   ]

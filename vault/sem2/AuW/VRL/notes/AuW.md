@@ -4,9 +4,15 @@
 
 
 
->[definition] $k$-zusammenhängend
+>[!definition] $k$-zusammenhängend
 >Sei $G=(V, E)$ ein Graph. G ist $k$-zusammenhängend, wenn gilt:
->	- 
+>	- $|V| \geq k + 1$
+>	- $\forall u,v \in V$: jeder u-v-Seperator $X$ hat Grösse $|X| \geq k$
+
+
+
+
+
 
 
 
