@@ -28,9 +28,17 @@
                 "file": "sem2/Analysis1/VRL/extra/Analysis1-script.pdf"
               }
             }
+          },
+          {
+            "id": "e15786c86d4b08ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -97,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis1/VRL/extra/Analysis1-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis1/VRL/extra/Analysis1-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem2/Analysis1/VRL/extra/Analysis1-script.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -162,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,24 +178,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c79f64440a4e933",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
-    "sem2/Analysis1/VRL/notes/Analysis1.md",
-    "sem2/Analysis1/VRL/extra/Analysis1-script.pdf",
-    "sem2/PProg/VRL/extra",
-    "sem2/PProg/extra",
-    "sem2/Digitec/VRL/extra",
-    "sem2/Digitec/extra",
+    "sem2/Analysis1/VRL/slides",
+    "sem2/AuW/VRL/slides",
     "sem2/AuW/VRL/extra",
-    "sem2/AuW/extra",
-    "sem2/Analysis1/VRL/extra",
+    "sem2/Digitec/VRL/slides",
+    "sem2/Digitec/VRL/extra",
+    "sem2/Analysis1/slides",
     "sem2/Analysis1/extra",
+    "sem2/AuW/slides",
+    "sem2/AuW/extra",
+    "sem2/Digitec/slides",
+    "sem2/Digitec/extra",
+    "sem2/Analysis1/VRL/notes/Analysis1.md",
     "sem1/AuD/VRL/V07_.md",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/Digitec/VRL/notes/Digitec.md",
     "sem2/Digitec/VRL/Digitec.md",
     "sem2/PProg/VRL/notes/AuW.md",
-    "sem2/PProg/VRL/notes",
     "sem2/Digitec/VRL/notes/AuW.md",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/VRL/notes/Analysis1.md",
