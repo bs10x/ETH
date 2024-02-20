@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1585efcea73a52cc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
+              }
+            }
+          },
+          {
+            "id": "e68e5a2f97b57fac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md"
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
               }
             }
           },
@@ -166,13 +188,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b7115a08faafdac",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
     "sem2/AuW/VRL/slides/AuW-L01-introduction.pdf",
-    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
-    "sem2/AuW/VRL/notes/AuW.md",
-    "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
+    "sem2/AuW/VRL/notes/AuW.md",
+    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
+    "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem2/PProg/UE/src/assignment1/bin/assignment1/HelloWorld.class",
     "sem2/PProg/UE/src/assignment1/src/assignment1/HelloWorld.java",
     "sem2/PProg/UE/src/assignment1/bin/assignment1",
