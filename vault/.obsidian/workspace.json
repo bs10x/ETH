@@ -11,8 +11,10 @@
             "id": "e15786c86d4b08ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf"
+              }
             }
           },
           {
@@ -142,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +162,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "e15786c86d4b08ef",
   "lastOpenFiles": [
     "sem2/PProg/UE/src/assignment1/bin/assignment1/HelloWorld.class",
     "sem2/PProg/UE/src/assignment1/src/assignment1/HelloWorld.java",
