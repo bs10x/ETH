@@ -86,5 +86,10 @@ $$
 inductive step:
 $k \leftarrow k+1$
 $$
+\begin{align}
+1 + (n + 1) \cdot h \leq (1+h)^{n+1} \\
 
+1 + nh + h \leq \prod_{1}^{n+1}(1+h)
+
+\end{align}
 $$
