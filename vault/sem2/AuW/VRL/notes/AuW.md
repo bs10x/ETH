@@ -32,18 +32,11 @@
 >
 >G ist $k$-zusammenhängend $\iff$ $\forall u,v \in V, u \neq v$ gibt es $k$ intern-knotendisjunkte u-v Pfade.
 
-
+%% TODO: extend %%
 
 
 
 ___
-
-
-
-
-
-
-
 
 
 >[!quote] Cut vertex, cut edge :
@@ -59,20 +52,22 @@ ___
 
 ___
 #### Cut vertex with DFS
->[!quote] finding cut vertices and cut edges:
+>[!quote] Finding cut vertices and cut edges:
 >$v$ is cut vertex $\iff$
 >1. $v \neq$ root, and $v$ has child $u$ in DFS-tree with $low[u] \geq dfs[v]$
 >2. $v =$ root and v has at least two children in DFS-tree
 >
 >DFS-tree edge $e = (v, w)$, $v$ parent vertex, $w$ child vertex is cut edge $\iff$
->
-
-
-
-
-
+>1. $low[w] > dfs[v]$
+>2. leftover edges (edges not in the DFS-tree) are never cut edges
 
 #### Shortest path with cut vertex
 
 Satz:
 Die um die Berechnung von $low[]$ ergänzte **Tiefensuche** berechnet in einem zusammenhängenden Graphen alle Artikulationsknoten und Brücken in Zeit **O(m + n)**.
+
+___
+# Cycles
+
+
+Satz: Ein zusammenhängender Graph G = (V, E) enthält eine Eulertour $\iff$ der Grad jedes Knotens gerade ist. … und eine solche kann man in O(|E|) Zeit finden
