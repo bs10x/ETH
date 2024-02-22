@@ -74,7 +74,17 @@ let $h \in \mathbb R$ be arbitrary.
 
 base case:
 $k \leftarrow 1$
+$$
+1 + 1\cdot h = (1 + h)^1
+$$
 
+inductive hypothesis:
+$$
+1 + n\cdot h \leq (1+h)^n
+$$
+
+inductive step:
+$k \leftarrow k+1$
 $$
 
 $$
