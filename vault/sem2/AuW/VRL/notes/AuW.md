@@ -3,9 +3,18 @@
 >Makes a lot of stuff faster, more secure (polynomial prime test, simultaneous connection problem, O(1) hash tables).
 
 
->[!quote] Definition:
->$G = (V, E)$, $G$ connected, $u, v \in V$ and $X \subseteq V \setminus\{u, v\}$.
->X is *cut vertex* $\iff$ $u$ and $v$ are in different conne
+>[!quote] Definition :
+>$G = (V, E)$, $G$ connected, $u, v \in V$ and $X \subseteq V \setminus\{u, v\}$:
+>- $X$ is *u-v-seperator* $\iff$ $u$ and $v$ are in different connected components of $G[V \setminus X]$.
+>- $G$ is *k-connected* $\iff$
+>	- $|V| \geq k + 1$
+>	- $\forall u, v \in V$: all *u-v-seperator* $X$ has size $|X| \geq l$
+
+
+
+
+
+
 
 
 
