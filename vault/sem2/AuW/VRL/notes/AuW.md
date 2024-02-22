@@ -24,21 +24,16 @@
 >- $G$ is *k-edge-connected* $\iff$
 >	- $\forall u,v \in V$: every *u-v-edge-seperator* $X$ has size $|X| \geq k$
 
-
->[!quote] Cut vertex :
+>[!quote] Cut vertex, cut edge :
 >$G = (V, E)$, $G$ connected:
->- $u \in V$ is c
+>- $v \in V$ is *cut vertex (Artikulationsknoten)* $\iff$ $G[V\setminus\{v\}]$ not connected.
+>- $e\in E$ is *cut edge (Brücke)* $\iff$ $G - e$ not connected.
 
 
-
-
-
->[!definition] $k$-zusammenhängend
->Sei $G=(V, E)$ ein Graph. G ist $k$-zusammenhängend, wenn gilt:
->	- $|V| \geq k + 1$
->	- $\forall u,v \in V$: jeder u-v-Seperator $X$ hat Grösse $|X| \geq k$
-
-
+>[!quote] lox[v]
+>$$
+>low[v] = min(dfs[v], \begin(cases) \end{cases})
+>$$
 
 >[!definition] Satz von Menger
 >Sei $G=(V, E)$ ein Graph. Dann gilt:
