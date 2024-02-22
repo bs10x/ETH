@@ -35,3 +35,8 @@ All the files in this repository are for personal use only. If you want to use t
 
 ### use this to delete .DS_Store files
 find . -name ".DS_Store" -delete
+
+
+### scripts for sem2
+pprog:  summary: Sasha Kehrli
+ddca:   first 5 weeks labs easy, then weird. summary: azurio, Franz Schwinn (VIS)
