@@ -123,5 +123,5 @@ $a \implies b \implies c \implies d \implies a$
 
 // how to show:
 - circular implication
-- $|E| = |V| - 1 \Longleftrightarrow$ $G$ kreisfrei (a => b, b=<)
-- $\forall x,y, \in V: \exists! \ \ \text{x-y-path} \in G \Longleftrightarrow$ $G$ Baum 
+- $|E| = |V| - 1 \Longleftrightarrow$ $G$ kreisfrei (a => b, b => c)
+- $\forall x,y, \in V: \exists! \ \ \text{x-y-path} \in G \Longleftrightarrow$ $G$ Baum (c => d, d => a)
