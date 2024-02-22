@@ -53,7 +53,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L00-introduction.pdf"
               }
             }
           },
@@ -117,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
+                "file": "sem2/AuW/VRL/notes/AuW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
+                "file": "sem2/AuW/VRL/notes/AuW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
+                "file": "sem2/AuW/VRL/notes/AuW.md"
               }
             }
           },
@@ -215,8 +214,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1e50bfa4bfa6276a",
+  "active": "8b7115a08faafdac",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L00-introduction.pdf",
+    "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
+    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
     "var/var.md",
@@ -243,8 +245,6 @@
     "sem1/LinAlg/VRL/V12_.md",
     "sem1/LinAlg/VRL/V11_.md",
     "sem1/LinAlg/VRL/V10_.md",
-    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
-    "sem2/AuW/VRL/slides/AuW-L01-introduction.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem2/PProg/UE/src/assignment1/bin/assignment1/HelloWorld.class",
@@ -252,7 +252,6 @@
     "sem2/PProg/UE/src/assignment1/bin/assignment1",
     "sem2/PProg/UE/src/assignment1/src/assignment1",
     "sem2/PProg/UE/src/assignment1/src",
-    "sem2/PProg/UE/src/assignment1/bin",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
