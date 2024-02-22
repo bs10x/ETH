@@ -104,7 +104,10 @@ ___
 
 ## 4.
 
-abc
+Zeigen Sie, dass jeder Graph $G$ mit $n \geq 2$ Knoten zwei Knoten $v \neq w$ enthält, sodass $deg(v) = deg(w)$.
+
+Hinweis: Für ein gegebenes $n$, was ist der grösstmögliche Grad den ein Knoten haben kann?
+-> $n-1$
 
 ___
 
