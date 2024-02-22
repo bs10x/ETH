@@ -1,47 +1,47 @@
-name: UPDATED deploy diff in bs10x/eth/www to /nas/bfeitknecht/homepage/vault (ETH server)
+# name: UPDATED deploy diff in bs10x/eth/www to /nas/bfeitknecht/homepage/vault (ETH server)
 
 
-on:
-  push:
-    branches:
-      - master
-    paths:
-      - 'www/**'   # only trigger the workflow if changes are made inside the 'homepage' directory
+# on:
+#   push:
+#     branches:
+#       - master
+#     paths:
+#       - 'www/**'   # only trigger the workflow if changes are made inside the 'homepage' directory
 
 
 
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
+# jobs:
+#   deploy:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: Check SSH key authentication
-        run: |
-          ssh -o BatchMode=yes -o ConnectTimeout=5 bfeitknecht@slab1.ethz.ch echo "SSH key authentication successful"
-        continue-on-error: true
+#     steps:
+#       - name: Check SSH key authentication
+#         run: |
+#           ssh -o BatchMode=yes -o ConnectTimeout=5 bfeitknecht@slab1.ethz.ch echo "SSH key authentication successful"
+#         continue-on-error: true
 
-      - name: SSH key setup
-        if: ${{ failure() }}
-        run: |
-          mkdir -p ~/.ssh
-          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
-          ssh-keyscan -H slab1.ethz.ch >> ~/.ssh/known_hosts
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+#       - name: SSH key setup
+#         if: ${{ failure() }}
+#         run: |
+#           mkdir -p ~/.ssh
+#           echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+#           chmod 600 ~/.ssh/id_rsa
+#           ssh-keyscan -H slab1.ethz.ch >> ~/.ssh/known_hosts
+#         env:
+#           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
 
-      - name: Password setup
-        if: ${{ failure() }}
-        run: |
-          echo "$SSH_PASSWORD" > ~/.ssh/password
-        env:
-          SSH_PASSWORD: ${{ secrets.SSH_PASSWORD }}
+#       - name: Password setup
+#         if: ${{ failure() }}
+#         run: |
+#           echo "$SSH_PASSWORD" > ~/.ssh/password
+#         env:
+#           SSH_PASSWORD: ${{ secrets.SSH_PASSWORD }}
 
-      - name: Copy files in bs10x/ETH/www to ETH server (hosted)
-        run: |
-          if [ -f ~/.ssh/password ]; then
-            sshpass -f ~/.ssh/password scp -r www/* bfeitknecht@slab1.ethz.ch:homepage
-          else
-            scp -r www/* bfeitknecht@slab1.ethz.ch:homepage
-          fi
-        env:
+#       - name: Copy files in bs10x/ETH/www to ETH server (hosted)
+#         run: |
+#           if [ -f ~/.ssh/password ]; then
+#             sshpass -f ~/.ssh/password scp -r www/* bfeitknecht@slab1.ethz.ch:homepage
+#           else
+#             scp -r www/* bfeitknecht@slab1.ethz.ch:homepage
+#           fi
+#         env:
