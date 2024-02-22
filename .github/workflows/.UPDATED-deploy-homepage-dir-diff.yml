@@ -1,3 +1,15 @@
+name: UPDATED deploy diff in bs10x/eth/www to /nas/bfeitknecht/homepage/vault (ETH server)
+
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'www/**'   # only trigger the workflow if changes are made inside the 'homepage' directory
+
+
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
