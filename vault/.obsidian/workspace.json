@@ -74,9 +74,21 @@
                 "file": "sem2/AuW/UE/e/AuW-u01-e.pdf"
               }
             }
+          },
+          {
+            "id": "96951eee4306fa22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem2/AuW/UE/bf/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/e/AuW-u01-e.pdf",
+                "file": "sem2/AuW/UE/bf/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/e/AuW-u01-e.pdf",
+                "file": "sem2/AuW/UE/bf/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/e/AuW-u01-e.pdf"
+                "file": "sem2/AuW/UE/bf/Untitled.md"
               }
             }
           },
@@ -223,8 +235,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6adae804a6282311",
+  "active": "96951eee4306fa22",
   "lastOpenFiles": [
+    "sem2/AuW/UE/bf/Untitled.md",
     "sem2/AuW/UE/e/AuW-u01-e.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
@@ -240,7 +253,6 @@
     "sem2/AuW/VRL/src/DFS-visit-iterative.lua",
     "sem2/AuW/VRL/src/BFS-visit-iterative.lua",
     "sem2/AuW/VRL/src",
-    "sem2/AuW/VRL/extra/src",
     "var/var.md",
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
     "var/sem1-exam-prep/literature2buy?.md",
