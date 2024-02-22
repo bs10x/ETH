@@ -37,14 +37,14 @@ ___
 ## 3.
 
 #### a)
-$\forall n \in \mathbb N$: $\frac{1}{1\cdot2}+\frac{1}{2\cdot3}+\frac{1}{3\cdot4}+\dots+\frac{1}{n\cdot(n+1)} = \frac{n}{n+1}$
+$\forall n \in \mathbb N$:
+$\frac{1}{1\cdot2}+\frac{1}{2\cdot3}+\frac{1}{3\cdot4}+\dots+\frac{1}{n\cdot(n+1)} = \frac{n}{n+1}$
 
 base case:
 $k \leftarrow 1$
 $$
 \frac{1}{1\cdot 2} = \frac{1}{2}
 $$
-
 
 inductive hypothesis:
 $$
@@ -65,5 +65,16 @@ $$
 \end{align}
 $$
 
+
 #### b)
-$\forall n \in \mathbb N, \ n\geq 1$ and $h \in \mathbb R, h \geq -1$
+$\forall n \in \mathbb N, \ n\geq 1$ and $\forall h \in \mathbb R, \ h \geq -1$:
+$1 + nh \leq (1+h)^n$
+
+let $h \in \mathbb R$ be arbitrary.
+
+base case:
+$k \leftarrow 1$
+
+$$
+
+$$
