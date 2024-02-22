@@ -100,4 +100,21 @@ $$
 \end{align}
 $$
 
+___
 
+## 4.
+
+abc
+
+___
+
+## 5.
+
+abc
+
+___
+
+## 6.
+
+$G = (V, E), |V| \g$
+$a \implies b \implies c \implies d \implies a$
