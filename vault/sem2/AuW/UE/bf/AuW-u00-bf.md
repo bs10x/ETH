@@ -44,10 +44,19 @@ $n \leftarrow 1$
 $\frac{1}{1\cdot 2} = \frac{1}{2}$
 
 inductive hypothesis:
-$\sum_{i = 1}^{n}\frac{1}{n\cdot (n+1)} = \frac{n}{n+1}$
+$$
+\sum_{i = 1}^{n}\frac{1}{n\cdot (n+1)} = \frac{n}{n+1}
+$$
 
 inductive step:
 $n \leftarrow n+1$
-$\sum_{i = 1}^{n+1}\frac{1}{n+1\cdot (n+2)} = \frac{n+1}{n+2}$
+$$
+\begin{align}
+\sum_{i = 1}^{n+1}\frac{1}{n+1\cdot (n+2)} &= \frac{n+1}{n+2} \\
+&\overset{i.H}{=} \frac{n}{n+1} + \frac{1}{n+1 \cdot (n+2)} \\
+&= \frac{n \cdot (n+2)}{n+1 \cdot (n+2)} + \frac{1}{n+1 \cdot (n+2)}
+
+\end{align}
+$$
 
 #### b)
