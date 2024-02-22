@@ -36,6 +36,7 @@
 
 
 
+___
 
 
 
@@ -56,15 +57,15 @@
 >$$
 
 
-
-#### Cut vertex with DFS:
-$v$ is cut vertex if:
-1. $v$ ≠ root, and $v$ has child $u$ in DFS-tree with $low[u] \geq dfs[v]$
-2. $v$ = root and v has at least two children in DFS-tree
->[]
-
-
-
+___
+#### Cut vertex with DFS
+>[!quote] finding cut vertices and cut edges:
+>$v$ is cut vertex $\iff$
+>1. $v \neq$ root, and $v$ has child $u$ in DFS-tree with $low[u] \geq dfs[v]$
+>2. $v =$ root and v has at least two children in DFS-tree
+>
+>DFS-tree edge $e = (v, w)$, $v$ parent vertex, $w$ child vertex is cut edge $\iff$
+>
 
 
 
@@ -73,4 +74,5 @@ $v$ is cut vertex if:
 
 #### Shortest path with cut vertex
 
-
+Satz:
+Die um die Berechnung von $low[]$ ergänzte **Tiefensuche** berechnet in einem zusammenhängenden Graphen alle Artikulationsknoten und Brücken in Zeit **O(m + n)**.
