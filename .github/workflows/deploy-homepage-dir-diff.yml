@@ -1,11 +1,11 @@
-name: deploy diff in bs10x/eth/www to /nas/bfeitknecht/homepage (ETH server)
+name: deploy diff in bs10x/eth/www/homepage/ to /nas/bfeitknecht/homepage/ (ETH server)
 
 on:
   push:
     branches:
       - master
     paths:
-      - 'www/**'   # only trigger the workflow if changes are made inside the 'homepage' directory
+      - 'www/homepage/**'   # only trigger the workflow if changes are made inside the 'homepage/' directory
 
 
 jobs:
@@ -27,6 +27,6 @@ jobs:
 
       - name: copy files in bs10x/ETH/www to ETH server (hosted)
         run: |
-          scp -r www/* bfeitknecht@slab1.ethz.ch:homepage
+          scp -r www/homepage/** bfeitknecht@slab1.ethz.ch:homepage
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
