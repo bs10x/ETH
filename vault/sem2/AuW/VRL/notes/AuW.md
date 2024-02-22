@@ -2,19 +2,32 @@
 >[!quote] Why probability? RANDOMNESS!!
 >Makes a lot of stuff faster, more secure (polynomial prime test, simultaneous connection problem, O(1) hash tables).
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
->[!quote] Definition :
+
+
+
+
+
+
+>[!quote] Vertex connectivity:
 >$G = (V, E)$, $G$ connected, $u, v \in V$ and $X \subseteq V \setminus\{u, v\}$:
 >- $X$ is *u-v-seperator* $\iff$ $u$ and $v$ are in different connected components of $G[V \setminus X]$.
 >- $G$ is *k-connected* $\iff$
 >	- $|V| \geq k + 1$
->	- $\forall u, v \in V$: all *u-v-seperator* $X$ has size $|X| \geq l$
+>	- $\forall u, v \in V$: every *u-v-seperator* $X$ has size $|X| \geq k$
+
+>[!quote] Edge connectivity :
+>$G = (V, E)$, $G$ connected, $u, v \in V$ and $X \subseteq E$:
+>- $X$ is *u-v-edge-seperator* $\iff$ $u$ and $v$ are in different connected components of $G' = (V, E \setminus X)$.
+>- $G$ is *k-edge-connected* $\iff$
+>	- $\forall u,v \in V$: every *u-v-edge-seperator* $X$ has size $|X| \geq k$
 
 
-
-
-
-
+>[!quote] Cut vertex :
+>$G = (V, E)$, $G$ connected:
+>- $u \in V$ is c
 
 
 
