@@ -71,3 +71,8 @@ ___
 
 
 Satz: Ein zusammenhängender Graph G = (V, E) enthält eine Eulertour $\iff$ der Grad jedes Knotens gerade ist. … und eine solche kann man in O(|E|) Zeit finden
+
+
+gray codes, hypercubes, blah blah
+
+

@@ -6,7 +6,6 @@
       {
         "id": "bd629556f41fb359",
         "type": "tabs",
-        "dimension": 38.283378746594,
         "children": [
           {
             "id": "8b7115a08faafdac",
@@ -21,54 +20,43 @@
             }
           },
           {
-            "id": "1585efcea73a52cc",
+            "id": "0b494a9f72a09b41",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
+                "file": "sem2/Analysis-1/VRL/notes/Analysis-1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "e68e5a2f97b57fac",
+            "id": "a3eaac95b76648a4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9f07bba867d7b193",
-        "type": "tabs",
-        "dimension": 61.71662125340599,
-        "children": [
-          {
-            "id": "1e50bfa4bfa6276a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
+                "file": "sem2/DDCA/VRL/notes/DDCA.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "432e037e0e980e14",
+            "id": "5b0022373982dabe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf"
+                "file": "sem2/PProg/VRL/notes/PProg.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/PProg/VRL/notes/PProg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/PProg/VRL/notes/PProg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md"
+                "file": "sem2/PProg/VRL/notes/PProg.md"
               }
             }
           },
@@ -216,13 +204,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b7115a08faafdac",
+  "active": "5b0022373982dabe",
   "lastOpenFiles": [
-    "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
+    "sem2/AuW/VRL/extra/AuW-script.pdf",
+    "sem2/DDCA/VRL/notes/DDCA.md",
+    "sem2/PProg/VRL/notes/PProg.md",
+    "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/VRL/notes/AuW.md",
+    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
+    "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
-    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/AuW/VRL/src/DFS-visit-iterative.lua",
     "sem2/AuW/VRL/src/BFS-visit-iterative.lua",
     "sem2/AuW/VRL/src",
@@ -232,9 +224,6 @@
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
     "var/sem1-exam-prep/literature2buy?.md",
     "var/sem1-exam-prep/AuD-topics.md",
-    "sem2/PProg/VRL/notes/PProg.md",
-    "sem2/DDCA/VRL/notes/Digitec.md",
-    "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
     "sem1/LinAlg/VRL/V27_.md",
@@ -251,7 +240,6 @@
     "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
     "sem1/LinAlg/VRL/V12_.md",
     "sem1/LinAlg/VRL/V11_.md",
-    "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",

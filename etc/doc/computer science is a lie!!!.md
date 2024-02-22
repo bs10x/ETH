@@ -9,8 +9,9 @@
 
 
 
+
 OC:
-niemand hat je storm gesehen!
+niemand hat je strom gesehen!
 
 elektrizität haben DIE DA OBEN erfunden um ZAUBEREI zu verbergen
 
