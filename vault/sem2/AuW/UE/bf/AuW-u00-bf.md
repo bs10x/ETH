@@ -37,7 +37,17 @@ ___
 ## 3.
 
 #### a)
-$\forall n \in \mathbb N$:
-$\frac{1}{1\cdot2}+\frac{1}{2\cdot3}+\frac{1}{3\cdot4}+\dots+\frac{1}{n\cdot(n+1)} = \frac{n}{n+1}$
+$\forall n \in \mathbb N$: $\frac{1}{1\cdot2}+\frac{1}{2\cdot3}+\frac{1}{3\cdot4}+\dots+\frac{1}{n\cdot(n+1)} = \frac{n}{n+1}$
+
+base case:
+$n \leftarrow 1$
+$\frac{1}{1\cdot 2} = \frac{1}{2}$
+
+inductive hypothesis:
+$\sum_{i = 1}^{n}\frac{1}{n\cdot (n+1)} = \frac{n}{n+1}$
+
+inductive step:
+$n \leftarrow n+1$
+$\sum_{i = 1}^{n+1}\frac{1}{n+1\cdot (n+2)} = \frac{n+1}{n+2}$
 
 #### b)
