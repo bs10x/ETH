@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
               }
             }
           },
@@ -216,8 +215,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a304f78c0910bb88",
+  "active": "1e50bfa4bfa6276a",
   "lastOpenFiles": [
+    "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
     "var/var.md",
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
@@ -243,7 +243,6 @@
     "sem1/LinAlg/VRL/V12_.md",
     "sem1/LinAlg/VRL/V11_.md",
     "sem1/LinAlg/VRL/V10_.md",
-    "sem1/LinAlg/VRL/V09_.md",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/AuW/VRL/slides/AuW-L01-introduction.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
