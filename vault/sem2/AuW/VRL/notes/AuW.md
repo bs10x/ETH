@@ -24,16 +24,8 @@
 >- $G$ is *k-edge-connected* $\iff$
 >	- $\forall u,v \in V$: every *u-v-edge-seperator* $X$ has size $|X| \geq k$
 
->[!quote] Cut vertex, cut edge :
->$G = (V, E)$, $G$ connected:
->- $v \in V$ is *cut vertex (Artikulationsknoten)* $\iff$ $G[V\setminus\{v\}]$ not connected.
->- $e\in E$ is *cut edge (Brücke)* $\iff$ $G - e$ not connected.
 
 
->[!quote] lox[v]
->$$
->low[v] = min(\ dfs[v], \underset{(v, w) \in E}{min} \begin{cases} dfs[w], \text{ falls (v, w) Restkante}\\ low[w], \text{ falls (v, w) Baumkante } \end{cases} \ )
->$$
 
 >[!definition] Satz von Menger
 >Sei $G=(V, E)$ ein Graph. Dann gilt:
@@ -41,6 +33,44 @@
 >G ist $k$-zusammenhängend $\iff$ $\forall u,v \in V, u \neq v$ gibt es $k$ intern-knotendisjunkte u-v Pfade.
 
 
-#### shortest path with cut vertex
+
+
+
+
+
+
+
+
+
+
+
+
+>[!quote] Cut vertex, cut edge :
+>$G = (V, E)$, $G$ connected:
+>- $v \in V$ is *cut vertex (Artikulationsknoten)* $\iff$ $G[V\setminus\{v\}]$ not connected.
+>- $e\in E$ is *cut edge (Brücke)* $\iff$ $G - e$ not connected.
+
+>[!quote] $low[v]$
+>$$
+>low[v] = min \left( dfs[v], \underset{(v, w) \in E}{min} \begin{cases} dfs[w], \text{ falls (v, w) Restkante}\\ low[w], \text{ falls (v, w) Baumkante } \end{cases} \right)
+>$$
+
+
+
+#### Cut vertex with DFS:
+$v$ is cut vertex if:
+1. $v$ ≠ root, and $v$ has child $u$ in DFS-tree with $low[u] \geq dfs[v]$
+2. $v$ = root and v has at least two children in DFS-tree
+>[]
+
+
+
+
+
+
+
+
+
+#### Shortest path with cut vertex
 
 
