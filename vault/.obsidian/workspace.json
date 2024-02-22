@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
+                "file": "sem2/AuW/VRL/notes/AuW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
+                "file": "sem2/AuW/VRL/notes/AuW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf"
+                "file": "sem2/AuW/VRL/notes/AuW.md"
               }
             }
           },
@@ -216,8 +216,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "432e037e0e980e14",
+  "active": "8b7115a08faafdac",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
@@ -226,7 +227,6 @@
     "sem2/AuW/VRL/src",
     "sem2/AuW/VRL/extra/src",
     "sem2/AuW/VRL/slides/AuW-L00-introduction.pdf",
-    "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
     "var/var.md",
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
     "var/sem1-exam-prep/literature2buy?.md",

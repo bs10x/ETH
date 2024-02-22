@@ -11,17 +11,12 @@
 
 
 
-
-
-
-
-
 >[!definition] Satz von Menger
 >Sei $G=(V, E)$ ein Graph. Dann gilt:
 >
 >G ist $k$-zusammenhängend $\iff$ $\forall u,v \in V, u \neq v$ gibt es $k$ intern-knotendisjunkte u-v Pfade.
 
 
-
+#### shortest path with cut vertex
 
 
