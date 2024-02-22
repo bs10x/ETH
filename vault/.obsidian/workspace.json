@@ -69,8 +69,10 @@
             "id": "6adae804a6282311",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/UE/e/AuW-e01.pdf"
+              }
             }
           }
         ],
@@ -140,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/AuW/UE/e/AuW-e01.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/AuW/UE/e/AuW-e01.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/AuW/UE/e/AuW-e01.pdf"
+              }
             }
           },
           {
@@ -219,6 +225,7 @@
   },
   "active": "6adae804a6282311",
   "lastOpenFiles": [
+    "sem2/AuW/UE/e/AuW-e01.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
@@ -234,7 +241,6 @@
     "sem2/AuW/VRL/src/BFS-visit-iterative.lua",
     "sem2/AuW/VRL/src",
     "sem2/AuW/VRL/extra/src",
-    "sem2/AuW/VRL/slides/AuW-L00-introduction.pdf",
     "var/var.md",
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
     "var/sem1-exam-prep/literature2buy?.md",
