@@ -64,9 +64,17 @@
                 "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf"
               }
             }
+          },
+          {
+            "id": "6adae804a6282311",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -213,10 +217,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b4e6b8a80b4456d8",
+  "active": "6adae804a6282311",
   "lastOpenFiles": [
-    "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
+    "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/DDCA/VRL/notes/DDCA.md",
