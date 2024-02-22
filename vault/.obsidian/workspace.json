@@ -66,25 +66,19 @@
             }
           },
           {
-            "id": "6adae804a6282311",
+            "id": "2e66fc2b447e8bbf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem2/AuW/UE/e/AuW-u00-e.pdf"
+                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
+                "mode": "source",
+                "source": false
               }
-            }
-          },
-          {
-            "id": "4d8a895294e63eb9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "ac08b41d40b20ef6",
@@ -177,6 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +210,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md"
+              }
             }
           },
           {
@@ -254,10 +252,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4d8a895294e63eb9",
+  "active": "2e66fc2b447e8bbf",
   "lastOpenFiles": [
-    "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
+    "sem2/AuW/VRL/notes/AuW.md",
+    "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
@@ -265,7 +264,6 @@
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
-    "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
