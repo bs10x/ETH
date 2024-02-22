@@ -54,8 +54,19 @@
                 "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
               }
             }
+          },
+          {
+            "id": "a304f78c0910bb88",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md"
+                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf"
               }
             }
           },
@@ -203,15 +214,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b7115a08faafdac",
+  "active": "a304f78c0910bb88",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/notes/AuW.md",
     "var/var.md",
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
     "var/sem1-exam-prep/literature2buy?.md",
     "var/sem1-exam-prep/AuD-topics.md",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/DDCA/VRL/notes/Digitec.md",
-    "sem2/AuW/VRL/notes/AuW.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
