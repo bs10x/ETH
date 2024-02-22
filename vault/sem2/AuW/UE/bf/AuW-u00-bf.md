@@ -1,8 +1,10 @@
-
-
 ## 1.
-####1
+1. a
+2. b
+3. c
+4. d
 
+___
 ## 2.
 #### a)
 
@@ -18,12 +20,11 @@ log(n) = O(log(n)) \\
 
 \end{align}
 $$
-
 #### b)
 $$
 \begin{align}
 n! = O(n!) \\
-log(n^2) = 2* log(n) = O(log(n)) \\
+log(n^2) = 2 \cdot log(n) = O(log(n)) \\
 ln(n) = O(ln(n)) \\
 n^{1/4} = O(n^{1/4}) \\
 \frac{n}{log(n)} = O(??) \\
@@ -31,4 +32,12 @@ e^{\sqrt{log(n)}} = O(??) \\
 
 \end{align}
 $$
+___
 
+## 3.
+
+#### a)
+$\forall n \in \mathbb N$:
+$\frac{1}{1\cdot2}+\frac{1}{2\cdot3}+\frac{1}{3\cdot4}+\dots+\frac{1}{n\cdot(n+1)} = \frac{n}{n+1}$
+
+#### b)
