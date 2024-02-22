@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b4e6b8a80b4456d8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -123,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/PProg/VRL/notes/PProg.md",
+                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/PProg/VRL/notes/PProg.md",
+                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/PProg/VRL/notes/PProg.md"
+                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf"
               }
             }
           },
@@ -204,11 +213,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b0022373982dabe",
+  "active": "b4e6b8a80b4456d8",
   "lastOpenFiles": [
+    "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
+    "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
+    "sem2/PProg/VRL/notes/PProg.md",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/DDCA/VRL/notes/DDCA.md",
-    "sem2/PProg/VRL/notes/PProg.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
@@ -240,7 +251,6 @@
     "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
     "sem1/LinAlg/VRL/V12_.md",
     "sem1/LinAlg/VRL/V11_.md",
-    "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
