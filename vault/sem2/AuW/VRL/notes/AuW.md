@@ -32,7 +32,7 @@
 
 >[!quote] lox[v]
 >$$
->low[v] = min(dfs[v], \begin(cases) \end{cases})
+>low[v] = min(\ dfs[v], \underset{(v, w) \in E}{min} \begin{cases} dfs[w], \text{ falls (v, w) Restkante}\\ low[w], \text{ falls (v, w) Baumkante } \end{cases} \ )
 >$$
 
 >[!definition] Satz von Menger
