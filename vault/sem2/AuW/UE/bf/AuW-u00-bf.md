@@ -85,6 +85,12 @@ $$
 
 inductive step:
 $k \leftarrow k+1$
+
+case distinction:
+$k < 0$
+$k = 0$
+$k  > 0$
+
 $$
 \begin{align}
 1 + (n + 1) \cdot h \leq (1+h)^{n+1} \\
@@ -93,3 +99,5 @@ $$
 
 \end{align}
 $$
+
+
