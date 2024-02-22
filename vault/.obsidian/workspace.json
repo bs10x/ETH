@@ -53,7 +53,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L00-introduction.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
               }
             }
           },
@@ -117,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md"
+                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
               }
             }
           },
@@ -214,13 +215,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b7115a08faafdac",
+  "active": "1e50bfa4bfa6276a",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/notes/AuW.md",
+    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/AuW/VRL/slides/AuW-L00-introduction.pdf",
     "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
-    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
-    "sem2/AuW/VRL/notes/AuW.md",
     "var/var.md",
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
     "var/sem1-exam-prep/literature2buy?.md",
@@ -251,7 +252,6 @@
     "sem2/PProg/UE/src/assignment1/src/assignment1/HelloWorld.java",
     "sem2/PProg/UE/src/assignment1/bin/assignment1",
     "sem2/PProg/UE/src/assignment1/src/assignment1",
-    "sem2/PProg/UE/src/assignment1/src",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
