@@ -43,4 +43,14 @@ local graph = {
     F = {}
 }
 
+--[[
+
+ A
+ | \
+ B  C 
+ | \  \ 
+ D  E – F
+
+--]]
+
 iterativeDFS(graph, "A")

@@ -58,16 +58,17 @@
             }
           },
           {
-            "id": "a304f78c0910bb88",
+            "id": "432e037e0e980e14",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf"
               }
             }
           },
@@ -215,17 +216,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1e50bfa4bfa6276a",
+  "active": "432e037e0e980e14",
   "lastOpenFiles": [
+    "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
+    "sem2/AuW/VRL/notes/AuW.md",
+    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/AuW/VRL/src/DFS-visit-iterative.lua",
     "sem2/AuW/VRL/src/BFS-visit-iterative.lua",
     "sem2/AuW/VRL/src",
     "sem2/AuW/VRL/extra/src",
-    "sem2/AuW/VRL/notes/AuW.md",
-    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/AuW/VRL/slides/AuW-L00-introduction.pdf",
     "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
-    "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "var/var.md",
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
     "var/sem1-exam-prep/literature2buy?.md",
@@ -252,7 +253,6 @@
     "sem1/LinAlg/VRL/V10_.md",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
-    "sem2/PProg/UE/src/assignment1/bin/assignment1/HelloWorld.class",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
