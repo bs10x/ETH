@@ -66,6 +66,18 @@
             }
           },
           {
+            "id": "96951eee4306fa22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6adae804a6282311",
             "type": "leaf",
             "state": {
@@ -74,21 +86,25 @@
                 "file": "sem2/AuW/UE/e/AuW-u01-e.pdf"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "ac08b41d40b20ef6",
+        "type": "tabs",
+        "children": [
           {
-            "id": "96951eee4306fa22",
+            "id": "986036e939e66207",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sem2/AuW/UE/bf/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "sem2/AuW/UE/e/AuW-u01-e.pdf"
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -154,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/bf/Untitled.md",
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/bf/Untitled.md",
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/bf/Untitled.md"
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md"
               }
             }
           },
@@ -237,8 +254,8 @@
   },
   "active": "96951eee4306fa22",
   "lastOpenFiles": [
-    "sem2/AuW/UE/bf/Untitled.md",
     "sem2/AuW/UE/e/AuW-u01-e.pdf",
+    "sem2/AuW/UE/bf/AuW-u01-bf.md",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
@@ -272,7 +289,6 @@
     "sem1/LinAlg/VRL/V17_.md",
     "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
     "sem1/LinAlg/VRL/V12_.md",
-    "sem1/LinAlg/VRL/V11_.md",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
