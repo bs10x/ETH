@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "ac08b41d40b20ef6",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
+                "file": "sem2/DDCA/VRL/notes/DDCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
+                "file": "sem2/DDCA/VRL/notes/DDCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md"
+                "file": "sem2/DDCA/VRL/notes/DDCA.md"
               }
             }
           },
@@ -252,10 +252,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2e66fc2b447e8bbf",
+  "active": "a3eaac95b76648a4",
   "lastOpenFiles": [
-    "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
+    "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
