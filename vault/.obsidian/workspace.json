@@ -103,8 +103,19 @@
                 "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
               }
             }
+          },
+          {
+            "id": "69bf9b84202d5be9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/notes/DDCA.md",
+                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/notes/DDCA.md",
+                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/notes/DDCA.md"
+                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf"
               }
             }
           },
@@ -252,8 +263,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3eaac95b76648a4",
+  "active": "69bf9b84202d5be9",
   "lastOpenFiles": [
+    "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
     "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
@@ -262,7 +274,6 @@
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
-    "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
