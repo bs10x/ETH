@@ -45,6 +45,12 @@ ___
 >[!quote] nMOS, pMOS, CMOS
 >nMOS:
 >- made with n-type semiconductor (negative surcharge)
->- turn 
->- pMOS made with p-type semiconductor (positive surcharge)
+>- input = on -> output off, vice versa 
 >
+>pMOS:
+>- made with p-type semiconductor (positive surcharge)
+>- input = output
+>
+>CMOS:
+>
+
