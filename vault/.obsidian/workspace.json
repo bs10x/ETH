@@ -113,9 +113,19 @@
                 "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf"
               }
             }
+          },
+          {
+            "id": "0ddd881bbff1a566",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-abstractions.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -265,8 +275,10 @@
   },
   "active": "a3eaac95b76648a4",
   "lastOpenFiles": [
-    "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
+    "sem2/DDCA/VRL/slides/DDCA-L02b-abstractions.pdf",
     "sem2/DDCA/VRL/notes/DDCA.md",
+    "sem2/DDCA/VRL/slides/DDCA-L02a-binary-numbers.pdf",
+    "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
     "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
@@ -279,8 +291,6 @@
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/AuW/VRL/src/DFS-visit-iterative.lua",
-    "sem2/AuW/VRL/src/BFS-visit-iterative.lua",
-    "sem2/AuW/VRL/src",
     "var/var.md",
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
     "var/sem1-exam-prep/literature2buy?.md",
