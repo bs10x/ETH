@@ -45,12 +45,16 @@ ___
 >[!quote] nMOS, pMOS, CMOS
 >nMOS:
 >- made with n-type semiconductor (negative surcharge)
->- input = on -> output off, vice versa 
+>- input = 1 -> output = 1, input = 0 -> output = 0 
 >
 >pMOS:
 >- made with p-type semiconductor (positive surcharge)
->- input = output
+>- input = 0 -> output = 1, input = 1 -> output = 0
 >
 >CMOS:
+>- no input current
+>- no current when output is at logic levels
+>- electrical properties determined directly by geometry
+>- very simple to manufacture
 >
 
