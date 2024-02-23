@@ -105,16 +105,6 @@
             }
           },
           {
-            "id": "69bf9b84202d5be9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf"
-              }
-            }
-          },
-          {
             "id": "0ddd881bbff1a566",
             "type": "leaf",
             "state": {
@@ -125,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -275,15 +265,15 @@
   },
   "active": "a3eaac95b76648a4",
   "lastOpenFiles": [
-    "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
+    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
+    "sem2/AuW/UE/e/AuW-u00-e.pdf",
+    "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
     "sem2/DDCA/VRL/notes/DDCA.md",
+    "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02a-binary-numbers.pdf",
-    "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
-    "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
-    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",

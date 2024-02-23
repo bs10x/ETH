@@ -62,6 +62,6 @@ ___
 >[!idea] CMOS gate structure
 >- pMOS pull-u**p** network
 >- nMOS pull dow**n** network
->- network is in parallel (one transistor on <- network on)
->- or in series (all transistors on -> network on), complementary to each other
+>- network is either in parallel: one transistor on -> network on
+>- or in series: all transistors on -> network on, complementary to each other
 
