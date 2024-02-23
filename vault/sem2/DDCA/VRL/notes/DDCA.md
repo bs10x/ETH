@@ -56,5 +56,12 @@ ___
 >- no current when output is at logic levels
 >- electrical properties determined directly by geometry
 >- very simple to manufacture
->
+>- can be used to make complex logic gates
+
+
+>[!idea] CMOS gate structure
+>- pMOS pull-u**p** network
+>- nMOS pull dow**n** network
+>- network is in parallel (one transistor on <- network on)
+>- or in series (all transistors on -> network on), complementary to each other
 
