@@ -115,7 +115,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/notes/DDCA.md",
+                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/notes/DDCA.md",
+                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/notes/DDCA.md"
+                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf"
               }
             }
           },
@@ -263,12 +263,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a3eaac95b76648a4",
+  "active": "0ddd881bbff1a566",
   "lastOpenFiles": [
+    "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
-    "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02a-binary-numbers.pdf",
