@@ -59,7 +59,7 @@ ___
 >- can be used to make complex logic gates
 
 
->[!idea] CMOS gate structure
+>[!idea] CMOS ***inverting*** gate structure
 >- pMOS pull-u**p** network
 >- nMOS pull dow**n** network
 >- network is either in parallel: one transistor on -> network on
