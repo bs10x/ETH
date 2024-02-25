@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
+                "file": "sem2/AuW/UE/s/AuW-u00-s.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
+                "file": "sem2/AuW/UE/s/AuW-u00-s.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md"
+                "file": "sem2/AuW/UE/s/AuW-u00-s.pdf"
               }
             }
           },
@@ -261,10 +261,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2e66fc2b447e8bbf",
+  "active": "4a55b14028504275",
   "lastOpenFiles": [
-    "sem2/AuW/UE/s/AuW-u00-s.pdf",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
+    "sem2/AuW/UE/s/AuW-u00-s.pdf",
     "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/PProg/VRL/notes/PProg.md",

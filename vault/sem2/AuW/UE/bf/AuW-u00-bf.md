@@ -10,19 +10,8 @@ ___
 $2^{32} \ll \log n \ll n \equiv n + \sqrt n \ll 0.01n^2 \ll e^n \equiv 2^n$
 
 #### b)
+$2^{32} \ll \ln n \equiv \log n \equiv \log n^2 \ll e^{\sqrt {\log n}} \ll n^{1/4} \ll \frac{n}{\log n} \ll n \equiv n + \sqrt n \ll 0.01n^2 \ll e^n \equiv 2^n \ll n!$
 
-$2^{32} \ll \log n^2 \equiv \ln n \equiv \log n \ll\ll n \equiv n + \sqrt n \ll 0.01n^2 \ll e^n \equiv 2^n \ll n!$
-$$
-\begin{align}
-n! = O(n!) \\
-log(n^2) = 2 \cdot log(n) = O(log(n)) \\
-ln(n) = O(ln(n)) \\
-n^{1/4} = O(n^{1/4}) \\
-\frac{n}{log(n)} = O(??) \\
-e^{\sqrt{log(n)}} = O(??) \\
-
-\end{align}
-$$
 ___
 
 ## 3.
