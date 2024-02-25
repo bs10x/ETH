@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -260,8 +259,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2e66fc2b447e8bbf",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem2/AuW/UE/s/AuW-u00-s.pdf",
     "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
     "sem2/PProg/VRL/notes/PProg.md",
