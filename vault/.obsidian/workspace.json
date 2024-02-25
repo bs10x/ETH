@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/s/AuW-u00-s.pdf",
+                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/s/AuW-u00-s.pdf",
+                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/s/AuW-u00-s.pdf"
+                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md"
               }
             }
           },
@@ -261,11 +261,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4a55b14028504275",
+  "active": "2e66fc2b447e8bbf",
   "lastOpenFiles": [
+    "sem2/AuW/UE/s/AuW-u00-s.pdf",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
     "sem2/AuW/UE/e/AuW-u00-e.pdf",
-    "sem2/AuW/UE/s/AuW-u00-s.pdf",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",

@@ -7,22 +7,11 @@
 ___
 ## 2.
 #### a)
+$2^{32} \ll \log n \ll n \equiv n + \sqrt n \ll 0.01n^2 \ll e^n \equiv 2^n$
 
-$2^{32} \ll \log n \ll n \equiv n + \sqrt n$
-
-$$
-\begin{align}
-e^n = O(c^n) \\
-2^n = O(c^n) \\
-0.01n^2 = O(n^2) \\
-n + \sqrt{n} = O(n +\sqrt{n}) \\
-n = O(n) \\
-log(n) = O(log(n)) \\
-2^{32} = O(1) \\
-
-\end{align}
-$$
 #### b)
+
+$2^{32} \ll \log n^2 \equiv \ln n \equiv \log n \ll\ll n \equiv n + \sqrt n \ll 0.01n^2 \ll e^n \equiv 2^n \ll n!$
 $$
 \begin{align}
 n! = O(n!) \\
