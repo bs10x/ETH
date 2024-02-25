@@ -98,7 +98,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L01-connection.pdf"
+                "file": "sem2/AuW/UE/s/AuW-u00-s.pdf"
               }
             }
           },
@@ -112,7 +112,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -178,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
+                "file": "sem2/AuW/UE/s/AuW-u00-s.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
+                "file": "sem2/AuW/UE/s/AuW-u00-s.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md"
+                "file": "sem2/AuW/UE/s/AuW-u00-s.pdf"
               }
             }
           },
@@ -259,25 +261,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "4a55b14028504275",
   "lastOpenFiles": [
-    "sem2/AuW/UE/s/AuW-u00-s.pdf",
-    "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
+    "sem2/AuW/UE/e/AuW-u00-e.pdf",
+    "sem2/AuW/UE/s/AuW-u00-s.pdf",
+    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/DDCA/VRL/notes/DDCA.md",
-    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02a-binary-numbers.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/AuW/VRL/slides/AuW-L02-algorithms-cycles.pdf",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
-    "sem2/AuW/VRL/src/DFS-visit-iterative.lua",
     "var/var.md",
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
     "var/sem1-exam-prep/literature2buy?.md",
