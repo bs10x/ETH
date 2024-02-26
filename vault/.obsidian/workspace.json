@@ -76,11 +76,15 @@
             }
           },
           {
-            "id": "dbe2d3de0c1488e9",
+            "id": "5d40f0daea983f59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -111,11 +115,13 @@
             }
           },
           {
-            "id": "5d40f0daea983f59",
+            "id": "e7d3ee1911031a68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf"
+              }
             }
           }
         ],
@@ -185,6 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,6 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +230,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md"
+              }
             }
           },
           {
@@ -264,13 +274,14 @@
   },
   "active": "5d40f0daea983f59",
   "lastOpenFiles": [
+    "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
+    "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem2/PProg/UE/e/PProg-u01-e-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
-    "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
     "sem2/AuW/UE/s/AuW-u00-s.pdf",
     "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
@@ -298,7 +309,6 @@
     "sem1/LinAlg/VRL/V18_.md",
     "sem1/LinAlg/VRL/V17_.md",
     "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
-    "sem1/LinAlg/VRL/V12_.md",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
