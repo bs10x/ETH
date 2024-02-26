@@ -1,4 +1,7 @@
 {
   "minimal-advanced@@styled-scrollbars": false,
-  "minimal-advanced@@cursor": "default"
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@pdf-invert-dark": false,
+  "minimal-style@@pdf-dark-opacity": 1,
+  "minimal-style@@pdf-blend-light": true
 }

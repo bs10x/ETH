@@ -101,14 +101,6 @@
                 "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf"
               }
             }
-          },
-          {
-            "id": "8f9a402c4f5d04f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -177,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf"
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md"
               }
             }
           },
@@ -257,12 +249,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e7d3ee1911031a68",
+  "active": "2e66fc2b447e8bbf",
   "lastOpenFiles": [
+    "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
-    "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
     "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",

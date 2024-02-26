@@ -6,8 +6,15 @@ c) für jedes $\varepsilon$ > 0 ...
 ___
 ## 1.2 \*
 i)
-$\forall x,y,u,v \in \mathbb R \text{ with } 0<x<y \text{ and } 0<u<v \implies x \cdot u < y \cdot v$
 
+$$
+\begin{align}
+\forall x,y,u,v \in \mathbb R \text{ with } 0<x<y \text{ and } 0<u<v
+&\implies x \cdot u < y \cdot v \\
+
+&\overset{\cdot}{\implies} 
+\end{align}
+$$
 
 
 ii)
