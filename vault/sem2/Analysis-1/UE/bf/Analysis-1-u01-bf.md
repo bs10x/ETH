@@ -25,9 +25,9 @@ $$
 \begin{align}
 \text{K1, $a<0$} &\overset{}{\implies} a \cdot s < 0 &\text{(1)} \\
 \text{K1, $a<0$} &\overset{}{\implies} a \cdot t < 0 &\text{(2)} \\
-\text{O4, $a \cdot s > a \cdot t$} &\overset{}{\implies} a \cdot t < a \cdot s &\text{(2)} \\
+% \text{O4, $a \cdot s > a \cdot t$} &\overset{}{\implies} a \cdot t < a \cdot s &\text{(3)} \\
 \\
-\text{$\dots$} &\overset{\cdot}{\implies} abc &\text{(3)} \\
+\text{$s < t$} &\overset{\cdot}{\implies} abc &\text{(3)} \\
 (2), \ (3) &\overset{\cdot}{\implies} α \cdot s > α \cdot t \\
 \\ &&\square
 \end{align}
