@@ -11,7 +11,7 @@ $\forall x,y,u,v \in \mathbb R \text{ with } 0<x<y \text{ and } 0<u<v \implies x
 
 
 ii)
-$\forall s,t,a \in \mathbb R, \text{ with } s<t \text{ and } a<0 \implies $
+$\forall s,t,a \in \mathbb R, \text{ with } s<t \text{ and } a<0 \implies a \cdot s > a \cdot t$
 
 ___
 ## 1.3
