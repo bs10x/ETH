@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md"
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf"
               }
             }
           },
@@ -251,8 +251,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,10 +271,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5d40f0daea983f59",
+  "active": "e7d3ee1911031a68",
   "lastOpenFiles": [
-    "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
+    "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
+    "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
     "sem1/LinAlg/VRL/V27_.md",
@@ -299,10 +300,7 @@
     "sem1/LinAlg/VRL/V06_.md",
     "sem1/LinAlg/VRL/V05_.md",
     "sem1/LinAlg/VRL/V04_.md",
-    "sem1/LinAlg/VRL/V03_matrix multiplication.md",
     "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
-    "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
-    "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem2/PProg/UE/e/PProg-u01-e-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/AuW/UE/s/AuW-u00-s.pdf",
