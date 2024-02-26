@@ -11,8 +11,8 @@ $$
 \begin{align}
 0<x<y &\overset{}{\implies} x<y &\text{(1)} \\
 0<u<v &\overset{}{\implies} u<v &\text{(2)} \\
-(1) &\overset{\cdot}{\implies} x \cdot u < y \cdot u &\text{(3)} \\
-(2), \ (3) &\overset{\cdot}{\implies} x \cdot u < y \cdot v \\
+(1) &\overset{\cdot}{\implies} x \cdot u < y \cdot u &\text{K1 (3)} \\
+(2), \ (3) &\overset{\cdot}{\implies} x \cdot u < y \cdot v  &\text{O3} \\
 \\ &&\square
 \end{align}
 $$
@@ -22,7 +22,12 @@ ii)
 Für alle $s, t, α \in \mathbb R$ mit $s < t$ und $α < 0$ gilt $α \cdot s > α \cdot t$.
 $$
 \begin{align}
+a<0 &\overset{}{\implies} a \cdot s < 0 &\text{(1)} \\
+a<0 &\overset{}{\implies} a \cdot t < 0 &\text{(1)} \\
 
+(1) &\overset{\cdot}{\implies} x \cdot u < y \cdot u &\text{(3)} \\
+(2), \ (3) &\overset{\cdot}{\implies} x \cdot u < y \cdot v \\
+\\ &&\square
 \end{align}
 $$
 ___
