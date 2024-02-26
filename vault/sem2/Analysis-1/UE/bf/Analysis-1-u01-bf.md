@@ -56,8 +56,11 @@ DO NOT GRADE
 
 $$
 \begin{align}
-&z = a + b \cdot i \\
-re
+& z = a + b \cdot i \\
+& \text{Re(z), } \Re(z) = a \\
+& \Im(z), \ \text{Im(z)} = b \cdot i \\
+
+
 
 &r = \sqrt{a^2 + b^2} = |z| \\
 
