@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u00-bf.md",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "ac08b41d40b20ef6",
@@ -272,10 +272,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5d40f0daea983f59",
+  "active": "2e66fc2b447e8bbf",
   "lastOpenFiles": [
-    "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
+    "sem2/AuW/UE/bf/AuW-u00-bf.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
+    "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
@@ -284,7 +285,6 @@
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/AuW/UE/s/AuW-u00-s.pdf",
     "sem2/AuW/UE/e/AuW-u00-e.pdf",
-    "sem2/AuW/UE/bf/AuW-u00-bf.md",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
