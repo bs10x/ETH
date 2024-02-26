@@ -6,24 +6,25 @@ c) für jedes $\varepsilon$ > 0 ...
 ___
 ## 1.2 \*
 i)
-
+Für alle $x, y, u, v \in \mathbb R$ mit $0 < x < y$ und $0 < u < v$ gilt $x \cdot u < y \cdot v$.
 $$
 \begin{align}
-\forall x,y,u,v \in \mathbb R \text{ with } 0<x<y \text{ and } 0<u<v
-&\overset{}{\implies} x \cdot u < y \cdot v &\text{(0)} \\
 0<x<y &\overset{}{\implies} x<y &\text{(1)} \\
 0<u<v &\overset{}{\implies} u<v &\text{(2)} \\
-\\
-
-(1) &\overset{\cdot}{\implies} x \cdot u < y \cdot u
-
+(1) &\overset{\cdot}{\implies} x \cdot u < y \cdot u &\text{(3)} \\
+(2), \ (3) &\overset{\cdot}{\implies} x \cdot u < y \cdot v \\
+\\ &&\square
 \end{align}
 $$
 
 
 ii)
-$\forall s,t,a \in \mathbb R, \text{ with } s<t \text{ and } a<0 \implies a \cdot s > a \cdot t$
+Für alle $s, t, α \in \mathbb R$ mit $s < t$ und $α < 0$ gilt $α \cdot s > α \cdot t$.
+$$
+\begin{align}
 
+\end{align}
+$$
 ___
 ## 1.3
 i)
