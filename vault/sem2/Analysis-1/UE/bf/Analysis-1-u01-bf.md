@@ -1,5 +1,5 @@
 ## 1.1
-a) richtig
+a) true
 b) $\max(A) = 1, \ \inf(A) = 0$ 
 c) für jedes $\varepsilon$ > 0 ...
 
@@ -29,8 +29,25 @@ b)
 
 ___
 ## 1.7
-a) richtig
+a) true
 b) 
 c)
 d)
+
+___
+## 1.8
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+
+
+
+
+
+
+
 

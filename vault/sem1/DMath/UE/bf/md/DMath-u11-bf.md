@@ -48,7 +48,7 @@ ___
 
 If we consider $\mathcal S$ and $\mathcal P$ to possibly be the empty set, the implication could be disproven by contradiction as follows:
 
->[!callout] Contradiction
+>[!definition] Definitions
 >Let $\Sigma = \{\mathcal S, \mathcal P, \tau, \phi\}$ where $\mathcal S = \{0 \}$, $\mathcal P = \varnothing$, $\tau(0)=0$ and $\phi : \mathcal S \times \mathcal P \rightarrow \{0,1\}$
 >(Definition of cartesian product between set and empty set implies $\mathcal S \times \varnothing = \varnothing$)
 >
