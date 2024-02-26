@@ -74,9 +74,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dbe2d3de0c1488e9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "ac08b41d40b20ef6",
@@ -101,9 +109,17 @@
                 "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf"
               }
             }
+          },
+          {
+            "id": "5d40f0daea983f59",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +185,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +201,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +222,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -250,17 +262,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ca08d6c681aa1804",
+  "active": "5d40f0daea983f59",
   "lastOpenFiles": [
+    "sem2/Analysis-1/VRL/notes/Analysis-1.md",
+    "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
-    "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem2/PProg/UE/e/PProg-u01-e-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
     "sem2/AuW/UE/s/AuW-u00-s.pdf",
     "sem2/AuW/UE/e/AuW-u00-e.pdf",
-    "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/UE/bf/AuW-u00-bf.md",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L01-FPGA.pdf",
