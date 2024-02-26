@@ -96,8 +96,10 @@
             "id": "ca08d6c681aa1804",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf"
+              }
             }
           }
         ],
@@ -167,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf"
+              }
             }
           },
           {
