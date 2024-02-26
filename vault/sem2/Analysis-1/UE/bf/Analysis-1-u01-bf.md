@@ -10,9 +10,11 @@ i)
 $$
 \begin{align}
 \forall x,y,u,v \in \mathbb R \text{ with } 0<x<y \text{ and } 0<u<v
-&\implies x \cdot u < y \cdot v \\
+&\overset{}{\implies} x \cdot u < y \cdot v &\text{} \\
 
-&\overset{\cdot}{\implies} 
+0<x<y&\overset{}{\implies} x<y &\text{(1)} \\
+0<u<v&\overset{}{\implies} u<v &\text{(2)} \\
+
 \end{align}
 $$
 
