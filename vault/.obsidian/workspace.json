@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "ac08b41d40b20ef6",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
+                "file": "sem2/PProg/VRL/notes/PProg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
+                "file": "sem2/PProg/VRL/notes/PProg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf"
+                "file": "sem2/PProg/VRL/notes/PProg.md"
               }
             }
           },
@@ -239,8 +239,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "5b0022373982dabe",
   "lastOpenFiles": [
+    "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem2/PProg/UE/e/PProg-u01-e-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
@@ -256,7 +257,6 @@
     "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/DDCA/VRL/slides/DDCA-L00-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02a-binary-numbers.pdf",
-    "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "var/var.md",
     "var/sem1-exam-prep/prüfungsvorbereitung.md",
