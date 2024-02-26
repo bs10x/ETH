@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:sem1/AuD  ",
@@ -41,13 +41,6 @@
         "a": 1,
         "rgb": 13107455
       }
-    },
-    {
-      "query": "path:sem1/00-EXAM-PREP  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +53,6 @@
   "repelStrength": 17.0735677083333,
   "linkStrength": 1,
   "linkDistance": 307,
-  "scale": 0.1213902037420095,
+  "scale": 0.25528048440578105,
   "close": true
 }
