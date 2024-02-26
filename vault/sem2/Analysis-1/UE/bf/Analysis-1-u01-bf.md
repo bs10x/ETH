@@ -10,10 +10,12 @@ i)
 $$
 \begin{align}
 \forall x,y,u,v \in \mathbb R \text{ with } 0<x<y \text{ and } 0<u<v
-&\overset{}{\implies} x \cdot u < y \cdot v &\text{} \\
+&\overset{}{\implies} x \cdot u < y \cdot v &\text{(0)} \\
+0<x<y &\overset{}{\implies} x<y &\text{(1)} \\
+0<u<v &\overset{}{\implies} u<v &\text{(2)} \\
+\\
 
-0<x<y&\overset{}{\implies} x<y &\text{(1)} \\
-0<u<v&\overset{}{\implies} u<v &\text{(2)} \\
+(1) &\overset{\cdot}{\implies} x \cdot u < y \cdot u
 
 \end{align}
 $$
