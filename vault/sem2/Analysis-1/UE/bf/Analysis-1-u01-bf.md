@@ -4,8 +4,12 @@ b) $\max(A) = 1, \ \inf(A) = 0$
 c) für jedes $\varepsilon$ > 0 ...
 
 ___
-## 1.2
+## 1.2 \*
 i)
+$\forall x,y,u,v \in \mathbb R \ 0<x<y, 0<u<v \implies x \cdot u < y \cdot v$
+
+
+
 ii)
 
 ___

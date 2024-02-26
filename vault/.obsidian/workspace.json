@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf"
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md"
               }
             }
           },
@@ -271,8 +271,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e7d3ee1911031a68",
+  "active": "5d40f0daea983f59",
   "lastOpenFiles": [
+    "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
@@ -300,7 +301,6 @@
     "sem1/LinAlg/VRL/V06_.md",
     "sem1/LinAlg/VRL/V05_.md",
     "sem1/LinAlg/VRL/V04_.md",
-    "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
     "sem2/PProg/UE/e/PProg-u01-e-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/AuW/UE/s/AuW-u00-s.pdf",
