@@ -23,11 +23,11 @@ ii)
 Für alle $s, t, α \in \mathbb R$ mit $s < t$ und $α < 0$ gilt $α \cdot s > α \cdot t$.
 $$
 \begin{align}
-a<0 &\overset{}{\implies} a \cdot s < 0 &\text{(1)} \\
-a<0 &\overset{}{\implies} a \cdot t < 0 &\text{(1)} \\
-
+\text{K1, $a<0$} &\overset{}{\implies} a \cdot s < 0 &\text{(1)} \\
+\text{K1, $a<0$} &\overset{}{\implies} a \cdot t < 0 &\text{(2)} \\
+\\
 (1) &\overset{\cdot}{\implies} x \cdot u < y \cdot u &\text{(3)} \\
-(2), \ (3) &\overset{\cdot}{\implies} x \cdot u < y \cdot v \\
+(2), \ (3) &\overset{\cdot}{\implies} α \cdot s > α \cdot t \\
 \\ &&\square
 \end{align}
 $$
