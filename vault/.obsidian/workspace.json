@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "ac08b41d40b20ef6",
@@ -103,14 +103,6 @@
             }
           },
           {
-            "id": "0943d872f0ff9474",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "8f9a402c4f5d04f1",
             "type": "leaf",
             "state": {
@@ -118,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,6 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +216,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf"
+              }
             }
           },
           {
@@ -262,11 +257,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8f9a402c4f5d04f1",
+  "active": "e7d3ee1911031a68",
   "lastOpenFiles": [
-    "sem2/Analysis-1/VRL/notes/Analysis-1.md",
-    "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
+    "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
+    "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
     "sem2/PProg/VRL/slides/PProg-L02-JVM.pdf",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
@@ -293,7 +288,6 @@
     "sem1/LinAlg/VRL/V07_.md",
     "sem1/LinAlg/VRL/V06_.md",
     "sem1/LinAlg/VRL/V05_.md",
-    "sem1/LinAlg/VRL/V04_.md",
     "sem2/PProg/UE/e/PProg-u01-e-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/AuW/UE/s/AuW-u00-s.pdf",
