@@ -6,11 +6,12 @@ c) für jedes $\varepsilon$ > 0 ...
 ___
 ## 1.2 \*
 i)
-$\forall x,y,u,v \in \mathbb R \text{ s.t. } 0<x<y \text{ and } 0<u<v \implies x \cdot u < y \cdot v$
+$\forall x,y,u,v \in \mathbb R \text{ with } 0<x<y \text{ and } 0<u<v \implies x \cdot u < y \cdot v$
 
 
 
 ii)
+$\forall s,t,a \in \mathbb R, \text{ with } s<t \text{ and } a<0 \implies $
 
 ___
 ## 1.3
@@ -50,19 +51,17 @@ ___
 
 
 
-
+___
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-DO NOT GRADE
+s
 
 $$
 \begin{align}
 & z = a + b \cdot i \\
 & \text{Re(z), } \Re(z) = a \\
-& \Im(z), \ \text{Im(z)} = b \cdot i \\
-
-
-
-&r = \sqrt{a^2 + b^2} = |z| \\
+& \text{Im(z), } \Im(z) = b \cdot i \\ \\
+& r = \sqrt{a^2 + b^2} = |z| \\
+& \phi = \cos^{-1}\left(\frac{\Re{(z)}}{r}\right) \\
 
 \end{align}
 $$
