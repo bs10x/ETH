@@ -64,31 +64,15 @@
             }
           },
           {
-            "id": "9f1106cd0e5de071",
+            "id": "5b4901bf06d6a920",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem2/PProg/UE/bf/PProg-u02-bf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f949b5a838c651a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202402271204.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -155,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202402271204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202402271204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "202402271204.md"
-              }
+              "state": {}
             }
           },
           {
@@ -235,14 +214,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9f949b5a838c651a",
+  "active": "5b4901bf06d6a920",
   "lastOpenFiles": [
-    "sem2/AuW/VRL/notes/AuW.md",
-    "202402271204.md",
+    "sem2/PProg/VRL/notes/PProg.md",
     "sem2/PProg/UE/bf/PProg-u02-bf.md",
+    "202402271204.md",
+    "sem2/AuW/VRL/notes/AuW.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
-    "sem2/PProg/VRL/notes/PProg.md",
     "var/sem1-schedule.jpg",
     "var/attachments/sem1_schedule.jpg.md",
     "var/var.md",
