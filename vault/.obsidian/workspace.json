@@ -62,9 +62,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "da40f7088ede3fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "var/var.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "2dbf6ed05f0b8cd0",
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/PProg/VRL/notes/PProg.md",
+                "file": "var/var.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/PProg/VRL/notes/PProg.md",
+                "file": "var/var.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/PProg/VRL/notes/PProg.md"
+                "file": "var/var.md"
               }
             }
           },
@@ -227,10 +239,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b0022373982dabe",
+  "active": "da40f7088ede3fb6",
   "lastOpenFiles": [
-    "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
+    "sem1_schedule.jpg.md",
+    "var/var.md",
     "sem2/PProg/VRL/notes/PProg.md",
+    "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "var/export/Analysis-1-u01-bf.pdf",
     "var/export",
@@ -259,7 +273,6 @@
     "sem1/LinAlg/VRL/V09_.md",
     "sem1/LinAlg/VRL/V08_.md",
     "sem1/LinAlg/VRL/V07_.md",
-    "sem1/LinAlg/VRL/V06_.md",
     "sem2/PProg/UE/e/PProg-u01-e-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/AuW/UE/s/AuW-u00-s.pdf",
