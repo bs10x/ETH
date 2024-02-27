@@ -52,7 +52,7 @@ a)
 $$
 \begin{align*}
 & A_1 = \left\{ t + \frac{1}{t} \ \Bigm\lvert \ t \in (0, \infty) \right\} \\ \\
-& \text{Inf($A_1$)} = 0 \\
+& \text{Inf($A_1$)} = \text{Min($A_1$)} = 0 \\
 & \text{Sup($A_1$)} = \infty \\
 \end{align*}
 $$
@@ -61,11 +61,10 @@ b)
 $$
 \begin{align*}
 & A_2 = \left\{ \frac{1}{2+k} + \frac{1}{3+m} \ \Bigm\lvert \ k,m \in \mathbb N \right\} \\ \\
-& \text{Inf($A_1$)} = 0 \\
-& \text{Sup($A_1$)} = \infty \\
+& \text{Inf($A_2$)} = \text{Min($A_2$)} = 0 \\
+& \text{Sup($A_2$)} = \text{Max($A_2$)}= \frac{5}{6} \\
 \end{align*}
 $$
-
 ___
 ## 1.7
 a) true
