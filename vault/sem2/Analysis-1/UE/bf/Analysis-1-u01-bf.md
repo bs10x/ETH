@@ -49,7 +49,7 @@ ii)
 ___
 ## 1.6
 a)
-$A_1=\left{ t+\right}$
+$$A_1 = \left\{ t + \frac{1}{t} \ \middle| \ t \in (0, \infty) \right\}$$
 
 b)
 
