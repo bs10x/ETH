@@ -18,44 +18,29 @@ public class Main {
 	//taskB(input4);
 	// Parallel version
 	//taskE(input1, 4);
-// taskE(input2, 4);
-
-// taskE(input3, 4);
-
-// taskE(input4, 4);
-
-// long threadOverhead = taskC();
-
-// System.out.format("Thread overhead on current system is: %d nano-seconds\n", threadOverhead);
-
-long endTime = System.nanoTime();
-
-System.out.println("elapsed time (ns): " + (endTime - startTime));
-
+	//taskE(input2, 4);
+	//taskE(input3, 4);
+	//taskE(input4, 4);
+	//long threadOverhead = taskC();
+	//System.out.format("Thread overhead on current system is:
+	//%d nano-seconds\n", threadOverhead);
+	
+	long endTime = System.nanoTime();
+	System.out.println("elapsed time (ns): " + (endTime - startTime));
 }
 
 private final static Random rnd = new Random(42);
 
-  
-
 public static int[] generateRandomInput() {
-
-return generateRandomInput(rnd.nextInt(10000) + 1);
-
+	return generateRandomInput(rnd.nextInt(10000) + 1);
 }
 
 public static int[] generateRandomInput(int length) {
-
-int[] values = new int[length];
-
-for (int i = 0; i < values.length; i++) {
-
-values[i] = rnd.nextInt(99999) + 1;
-
-}
-
+	int[] values = new int[length];
+	for (int i = 0; i < values.length; i++) {
+		values[i] = rnd.nextInt(99999) + 1;
+	}
 return values;
-
 }
 
 public static int[] computePrimeFactors(int[] values) {
