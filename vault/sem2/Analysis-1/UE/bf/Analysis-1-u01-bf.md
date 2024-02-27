@@ -4,7 +4,7 @@ b) $\max(A) = 1, \ \inf(A) = 0$
 c) für jedes $\varepsilon$ > 0 ...
 
 ___
-## 1.2 \*
+## 1.2 \* 
 i)
 Für alle $x, y, u, v \in \mathbb R$ mit $0 < x < y$ und $0 < u < v$ gilt $x \cdot u < y \cdot v$.
 $$
@@ -18,20 +18,19 @@ $$
 \end{align}
 $$
 
-
 ii)
 Für alle $s, t, α \in \mathbb R$ mit $s < t$ und $α < 0$ gilt $α \cdot s > α \cdot t$.
 $$
 \begin{align}
 \text{K1, $a<0$} &\overset{}{\implies} a \cdot s < 0 &\text{(1)} \\
 \text{K1, $a<0$} &\overset{}{\implies} a \cdot t < 0 &\text{(2)} \\
-% \text{O4, $a \cdot s > a \cdot t$} &\overset{}{\implies} a \cdot t < a \cdot s &\text{(3)} \\
-\\
+% \text{O4, $a \cdot s > a \cdot t$} &\overset{}{\implies} a \cdot t < a \cdot s &\text{(3)} \\ \\
 \text{(1), (2), $s < t$} &\overset{\cdot}{\implies} a \cdot t < a \cdot s &\text{(3)} \\
-(2), \ (3) &\overset{\cdot}{\implies} α \cdot s > α \cdot t \\
+\text{O4, (3)} &\overset{\cdot}{\implies} α \cdot s > α \cdot t \\
 \\ &&\square
 \end{align}
 $$
+
 ___
 ## 1.3
 i)
