@@ -64,12 +64,12 @@
             }
           },
           {
-            "id": "da40f7088ede3fb6",
+            "id": "9f1106cd0e5de071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/var.md",
+                "file": "sem2/PProg/UE/bf/PProg-u02-bf.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,11 +79,11 @@
         "currentTab": 4
       },
       {
-        "id": "2dbf6ed05f0b8cd0",
+        "id": "c8e6a4773e2e8181",
         "type": "tabs",
         "children": [
           {
-            "id": "106520ea999f9c53",
+            "id": "aa196491c68de93d",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "var/var.md",
+                "file": "sem2/PProg/UE/bf/PProg-u02-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "var/var.md",
+                "file": "sem2/PProg/UE/bf/PProg-u02-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "var/var.md"
+                "file": "sem2/PProg/UE/bf/PProg-u02-bf.md"
               }
             }
           },
@@ -239,12 +239,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "da40f7088ede3fb6",
+  "active": "9f1106cd0e5de071",
   "lastOpenFiles": [
-    "sem1_schedule.jpg.md",
-    "var/var.md",
-    "sem2/PProg/VRL/notes/PProg.md",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
+    "sem2/PProg/UE/bf/PProg-u02-bf.md",
+    "sem2/PProg/VRL/notes/PProg.md",
+    "var/sem1-schedule.jpg",
+    "var/attachments/sem1_schedule.jpg.md",
+    "var/var.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "var/export/Analysis-1-u01-bf.pdf",
     "var/export",
@@ -271,8 +273,6 @@
     "sem1/LinAlg/VRL/V11_.md",
     "sem1/LinAlg/VRL/V10_.md",
     "sem1/LinAlg/VRL/V09_.md",
-    "sem1/LinAlg/VRL/V08_.md",
-    "sem1/LinAlg/VRL/V07_.md",
     "sem2/PProg/UE/e/PProg-u01-e-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/AuW/UE/s/AuW-u00-s.pdf",
@@ -286,7 +286,6 @@
     "sem1/00-EXAM-PREP/var/graphics/log-properties-3.png",
     "sem1/00-EXAM-PREP/var/graphics/log-properties-2.png",
     "sem1/00-EXAM-PREP/var/graphics/limit-rules.png",
-    "sem1/00-EXAM-PREP/var/graphics/lendau.jpeg",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
   ]
