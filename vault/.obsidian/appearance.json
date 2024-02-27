@@ -1,8 +1,9 @@
 {
   "accentColor": "#ffffff",
-  "baseFontSize": 16,
+  "baseFontSize": 13,
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Helvetica Neue",
   "textFontFamily": "Helvetica Neue",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSizeAction": true
 }
