@@ -72,9 +72,19 @@
                 "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf"
               }
             }
+          },
+          {
+            "id": "017adb1beb4b5cec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -141,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/PProg/UE/e/PProg-u02-e-threads.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf"
               }
             }
           },
@@ -221,14 +230,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b4901bf06d6a920",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L03-TSP-PvsNP.pdf",
+    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
+    "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
+    "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/PProg/UE/bf/PProg-u02-bf.md",
     "202402271204.md",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
-    "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "var/sem1-schedule.jpg",
     "var/attachments/sem1_schedule.jpg.md",
     "var/var.md",
@@ -255,11 +267,8 @@
     "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
     "sem1/LinAlg/VRL/V12_.md",
     "sem1/LinAlg/VRL/V11_.md",
-    "sem1/LinAlg/VRL/V10_.md",
     "sem2/PProg/UE/e/PProg-u01-e-introduction.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
-    "sem2/AuW/UE/s/AuW-u00-s.pdf",
-    "sem2/AuW/UE/e/AuW-u00-e.pdf",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
