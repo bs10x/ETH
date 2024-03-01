@@ -1,3 +1,6 @@
+---
+"slides:": "[[Analysis-1-00-slides]]"
+---
 
 >[!quote] Analysis ist die Lehre von kontinuierlichem Shit.
 

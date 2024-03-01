@@ -1,3 +1,3 @@
 ---
-"slides:": "[[PProg]]"
+"slides:": "[[PProg-00-slides]]"
 ---
