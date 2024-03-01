@@ -5,41 +5,34 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:sem1/AuD  ",
+      "query": "path:sem2/AuW",
       "color": {
         "a": 1,
         "rgb": 14627892
       }
     },
     {
-      "query": "path:sem1/LinAlg ",
+      "query": "path:sem2/DDCA",
       "color": {
         "a": 1,
         "rgb": 16755200
       }
     },
     {
-      "query": "path:sem1/EProg  ",
+      "query": "path:sem2/PProg",
       "color": {
         "a": 1,
         "rgb": 11206400
       }
     },
     {
-      "query": "path:sem1/DMath  ",
+      "query": "path:sem2/Analysis-1",
       "color": {
         "a": 1,
         "rgb": 4076268
-      }
-    },
-    {
-      "query": "path:sem2/Analysis",
-      "color": {
-        "a": 1,
-        "rgb": 13107455
       }
     }
   ],
@@ -53,6 +46,6 @@
   "repelStrength": 17.0735677083333,
   "linkStrength": 1,
   "linkDistance": 307,
-  "scale": 0.25528048440578105,
+  "scale": 0.3669128153893005,
   "close": true
 }

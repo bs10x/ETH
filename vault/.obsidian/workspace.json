@@ -64,19 +64,7 @@
             }
           },
           {
-            "id": "06e752eb4609ee18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-00-slides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f170cdd9b3f6808",
+            "id": "cc2f1a3cd91abdf6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -150,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-00-slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-00-slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-00-slides.md"
-              }
+              "state": {}
             }
           },
           {
@@ -230,14 +214,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "06e752eb4609ee18",
+  "active": "cc2f1a3cd91abdf6",
   "lastOpenFiles": [
     "sem2/PProg/VRL/notes/PProg.md",
+    "sem2/PProg/VRL/slides/PProg-00-slides.md",
+    "sem2/PProg/VRL/slides/PProg-L03-L05-JAVATHREADS.pdf",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/AuW/VRL/slides/AuW-00-slides.md",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
-    "sem2/PProg/VRL/slides/PProg-00-slides.md",
     "sem2/Analysis-1/VRL/slides/Analysis-1-00-slides.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/VRL/notes/AuW.md",
@@ -252,7 +237,6 @@
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L03-combinational-circuits-theory.pdf",
     "Untitled.md",
-    "sem2/DDCA/VRL/slides/DDCA-L02a-binary-numbers.pdf",
     "sem2/PProg/UE/bf/PProg-u02-bf.md",
     "var/sem1-schedule.jpg",
     "var/attachments/sem1_schedule.jpg.md",
