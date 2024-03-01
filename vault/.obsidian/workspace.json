@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/AuW/VRL/slides/AuW-00-slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
+                "file": "sem2/PProg/VRL/notes/PProg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
+                "file": "sem2/PProg/VRL/notes/PProg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-00-slides.md"
+                "file": "sem2/PProg/VRL/notes/PProg.md"
               }
             }
           },
@@ -252,12 +252,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "acc4e8949ffdf379",
+  "active": "5b0022373982dabe",
   "lastOpenFiles": [
     "sem2/DDCA/VRL/notes/DDCA.md",
+    "sem2/AuW/VRL/slides/AuW-00-slides.md",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
+    "sem2/AuW/VRL/slides/AuW-L03-TSP-PvsNP.pdf",
+    "var/202402271204.md",
     "sem2/AuW/VRL/notes/AuW.md",
-    "sem2/AuW/VRL/slides/AuW-slides.md",
     "sem2/AuW/slides",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
@@ -269,10 +271,8 @@
     "sem2/DDCA/VRL/slides/DDCA-L03-combinational-circuits-theory.pdf",
     "Untitled.md",
     "sem2/DDCA/VRL/slides/DDCA-L02a-binary-numbers.pdf",
-    "sem2/AuW/VRL/slides/AuW-L03-TSP-PvsNP.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/PProg/UE/bf/PProg-u02-bf.md",
-    "202402271204.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "var/sem1-schedule.jpg",
     "var/attachments/sem1_schedule.jpg.md",
@@ -290,7 +290,6 @@
     "sem1/LinAlg/VRL/V20_.md",
     "sem1/LinAlg/VRL/V19_.md",
     "sem1/LinAlg/VRL/V18_.md",
-    "sem1/LinAlg/VRL/V17_.md",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
