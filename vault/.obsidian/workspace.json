@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "2c7bad37172a962a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5b0022373982dabe",
             "type": "leaf",
             "pinned": true,
@@ -76,12 +64,12 @@
             }
           },
           {
-            "id": "8079011a636fa48c",
+            "id": "06e752eb4609ee18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-00-slides.md",
+                "file": "sem2/PProg/VRL/slides/PProg-00-slides.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
+                "file": "sem2/PProg/VRL/slides/PProg-00-slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
+                "file": "sem2/PProg/VRL/slides/PProg-00-slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-00-slides.md"
+                "file": "sem2/PProg/VRL/slides/PProg-00-slides.md"
               }
             }
           },
@@ -242,13 +230,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2c7bad37172a962a",
+  "active": "06e752eb4609ee18",
   "lastOpenFiles": [
+    "sem2/PProg/VRL/notes/PProg.md",
+    "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/AuW/VRL/slides/AuW-00-slides.md",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
-    "sem2/PProg/VRL/notes/PProg.md",
-    "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/PProg/VRL/slides/PProg-00-slides.md",
     "sem2/Analysis-1/VRL/slides/Analysis-1-00-slides.md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
