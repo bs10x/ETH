@@ -104,9 +104,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8efb379d9bb5a51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -172,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
+                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
+                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md"
+                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf"
               }
             }
           },
@@ -252,8 +262,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "033bcc478a490d85",
+  "active": "d8efb379d9bb5a51",
   "lastOpenFiles": [
+    "sem2/DDCA/VRL/slides/DDCA-L02a-binary-numbers.pdf",
+    "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
+    "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
     "Untitled.md",
     "sem2/AuW/VRL/notes/AuW.md",
@@ -267,7 +280,6 @@
     "var/sem1-schedule.jpg",
     "var/attachments/sem1_schedule.jpg.md",
     "var/var.md",
-    "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "var/export/Analysis-1-u01-bf.pdf",
     "var/export",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
@@ -288,8 +300,6 @@
     "sem1/LinAlg/VRL/V18_.md",
     "sem1/LinAlg/VRL/V17_.md",
     "sem1/LinAlg/VRL/V14_Orthonormale Basis.md",
-    "sem1/LinAlg/VRL/V12_.md",
-    "sem2/PProg/UE/e/PProg-u01-e-introduction.pdf",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
