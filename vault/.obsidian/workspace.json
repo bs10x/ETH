@@ -111,12 +111,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf"
+                "file": "sem2/DDCA/VRL/slides/DDCA-L04a-combinational-circuits-design.pdf"
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf"
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md"
               }
             }
           },
@@ -262,10 +262,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d8efb379d9bb5a51",
+  "active": "033bcc478a490d85",
   "lastOpenFiles": [
-    "Untitled.md",
+    "sem2/DDCA/VRL/slides/DDCA-L04a-combinational-circuits-design.pdf",
+    "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
+    "sem2/DDCA/VRL/slides/DDCA-L04b-verilog.pdf",
     "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
+    "sem2/DDCA/VRL/slides/DDCA-L03-combinational-circuits-theory.pdf",
+    "Untitled.md",
     "sem2/DDCA/VRL/slides/DDCA-L02a-binary-numbers.pdf",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "sem2/DDCA/VRL/notes/DDCA.md",
@@ -282,9 +286,6 @@
     "var/attachments/sem1_schedule.jpg.md",
     "var/var.md",
     "var/export/Analysis-1-u01-bf.pdf",
-    "var/export",
-    "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
-    "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
