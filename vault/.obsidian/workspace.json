@@ -67,12 +67,24 @@
             "id": "e3aa6ff07492ded3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "var/var.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0d8933b5c3e5289",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -214,8 +226,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e3aa6ff07492ded3",
+  "active": "a0d8933b5c3e5289",
   "lastOpenFiles": [
+    "var/var.md",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/PProg/VRL/slides/PProg-00-slides.md",
@@ -240,7 +253,6 @@
     "sem2/PProg/UE/bf/PProg-u02-bf.md",
     "var/sem1-schedule.jpg",
     "var/attachments/sem1_schedule.jpg.md",
-    "var/var.md",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
