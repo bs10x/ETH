@@ -64,10 +64,10 @@
             }
           },
           {
-            "id": "cc2f1a3cd91abdf6",
+            "id": "e3aa6ff07492ded3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -214,12 +214,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cc2f1a3cd91abdf6",
+  "active": "e3aa6ff07492ded3",
   "lastOpenFiles": [
     "sem2/PProg/VRL/notes/PProg.md",
+    "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/PProg/VRL/slides/PProg-00-slides.md",
     "sem2/PProg/VRL/slides/PProg-L03-L05-JAVATHREADS.pdf",
-    "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/AuW/VRL/slides/AuW-00-slides.md",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
