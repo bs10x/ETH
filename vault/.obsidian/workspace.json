@@ -64,22 +64,22 @@
             }
           },
           {
-            "id": "e3aa6ff07492ded3",
+            "id": "a0d8933b5c3e5289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/var.md",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0d8933b5c3e5289",
+            "id": "a40f52957c199699",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -226,8 +226,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a0d8933b5c3e5289",
+  "active": "a40f52957c199699",
   "lastOpenFiles": [
+    "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
+    "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
+    "sem2/AuW/UE/e/AuW-u01-e.pdf",
+    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "var/var.md",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
@@ -243,12 +247,8 @@
     "var/202402271204.md",
     "sem2/AuW/slides",
     "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
-    "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "sem2/DDCA/VRL/slides/DDCA-L04a-combinational-circuits-design.pdf",
     "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
-    "sem2/DDCA/VRL/slides/DDCA-L04b-verilog.pdf",
-    "sem2/DDCA/VRL/slides/DDCA-L02b-electrical-engineering.pdf",
-    "sem2/DDCA/VRL/slides/DDCA-L03-combinational-circuits-theory.pdf",
     "Untitled.md",
     "sem2/PProg/UE/bf/PProg-u02-bf.md",
     "var/sem1-schedule.jpg",
