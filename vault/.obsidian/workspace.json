@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -245,8 +244,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c598e805ca94f376",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/extra/nwehrli/AuW-w02-nwehrli.pdf",
+    "sem2/AuW/VRL/extra/nwehrli/AuW-w01-nwehrli.pdf",
+    "sem2/AuW/VRL/extra/nwehrli",
     "sem2/AuW/UE/bf/AuW-u01-bf.md",
     "sem2/AuW/UE/e/AuW-u01-e.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
@@ -267,8 +269,6 @@
     "var/202402271204.md",
     "sem2/AuW/slides",
     "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
-    "sem2/DDCA/VRL/slides/DDCA-L04a-combinational-circuits-design.pdf",
-    "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
     "Untitled.md",
     "sem2/PProg/UE/bf/PProg-u02-bf.md",
     "var/sem1-schedule.jpg",
