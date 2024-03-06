@@ -22,6 +22,16 @@ $$
 & b_n = \sqrt{n^2 + 3n} -n
 \end{align}
 $$
+```desmos-graph
+left = -1;
+right = 100;
+top = 2;
+bottom = -1;
+---
+y = \sqrt{n^2 + 3 n} - n |n>0|
+```
+
+
 
 e) \*
 $$
