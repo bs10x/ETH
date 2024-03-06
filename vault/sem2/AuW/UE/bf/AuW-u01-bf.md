@@ -30,7 +30,7 @@ $$
 ii)
 $G$ ist 2-zusammenhängend $\implies$ $G$ hat Hamiltonkreis
 
-No, consider the $3 \times 3$ grid.
+No, consider the $3 \times 3$ grid, which is 2-connected but does not contain a hamiltonian cycle.
 
 ___
 
