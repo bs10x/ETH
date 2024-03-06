@@ -131,8 +131,19 @@
                 "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf"
               }
             }
+          },
+          {
+            "id": "bb1a52901af4b579",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w02-nwehrli.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/e/AuW-u01-e.pdf",
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/e/AuW-u01-e.pdf",
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/e/AuW-u01-e.pdf"
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md"
               }
             }
           },
@@ -279,16 +290,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "966f53492c659942",
+  "active": "6e232110e1dfcb26",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/extra/nwehrli/AuW-w02-nwehrli.pdf",
     "sem2/AuW/UE/bf/AuW-u01-bf.md",
+    "sem2/AuW/UE/e/AuW-u01-e.pdf",
     "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
-    "sem2/AuW/UE/e/AuW-u01-e.pdf",
     "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
-    "sem2/AuW/VRL/extra/nwehrli/AuW-w02-nwehrli.pdf",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w01-nwehrli.pdf",
     "sem2/AuW/VRL/extra/nwehrli",
     "sem2/PProg/VRL/notes/PProg.md",

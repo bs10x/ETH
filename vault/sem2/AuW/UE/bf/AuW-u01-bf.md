@@ -32,10 +32,12 @@ ii)
 $G$ ist 2-zusammenhängend $\implies$ $G$ hat Hamiltonkreis
 
 No, consider the $3 \times 3$ grid, which is 2-connected but does not contain a hamiltonian cycle.
+$\square$
 
 ___
 
 #### c.
 Let $G$ be 2-connected. Let $(u, v, w)$ be a path of length 2 in $G$. Show that we can extend this path to a cycle, i.e. that $G$ contains a cycle in which $u$, $v$, and $w$ are adjacent vertices.
-Intuition:
+
+
 
