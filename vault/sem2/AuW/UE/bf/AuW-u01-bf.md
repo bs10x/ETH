@@ -23,7 +23,7 @@ $G$ hat Hamiltonkreis $\implies$ $G$ ist 2-zusammenhängend
 Yes,
 $$
 \begin{align}
-& G \text\\
+& G \text{ zsh. } \overset{\cdot}{\implies}\forall v \in V, \deg(v) \equiv_2 0 \\
 \end{align}
 $$
 
