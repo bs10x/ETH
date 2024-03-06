@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis-1/VRL/notes/Analysis-1.md",
+                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis-1/VRL/notes/Analysis-1.md",
+                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis-1/VRL/notes/Analysis-1.md"
+                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf"
               }
             }
           },
@@ -260,8 +260,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0b494a9f72a09b41",
+  "active": "20229885bb3aa20a",
   "lastOpenFiles": [
+    "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/AuW/UE/bf/AuW-u01-bf.md",
@@ -281,9 +282,7 @@
     "sem2/AuW/VRL/slides/AuW-00-slides.md",
     "sem2/PProg/UE/e/PProg-u02-e-threads.pdf",
     "sem2/Analysis-1/VRL/slides/Analysis-1-00-slides.md",
-    "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/VRL/notes/AuW.md",
-    "sem2/AuW/VRL/slides/AuW-L03-TSP-PvsNP.pdf",
     "var/202402271204.md",
     "Untitled.md",
     "sem2/PProg/UE/bf/PProg-u02-bf.md",
