@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
+                "file": "sem2/AuW/UE/bf/md/AuW-u01-bf.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
+                "file": "sem2/AuW/UE/bf/md/AuW-u01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
+                "file": "sem2/AuW/UE/bf/md/AuW-u01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md"
+                "file": "sem2/AuW/UE/bf/md/AuW-u01-bf.md"
               }
             }
           },
@@ -292,20 +292,22 @@
   },
   "active": "6e232110e1dfcb26",
   "lastOpenFiles": [
+    "var/export/AuW-u01-bf.pdf",
+    "sem2/AuW/UE/bf/md/AuW-u00-bf.md",
+    "sem2/AuW/UE/bf/md/AuW-u01-bf.md",
+    "sem2/AuW/UE/bf/md",
+    "sem2/AuW/UE/bf/pdf",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
-    "sem2/AuW/UE/bf/AuW-u01-bf.md",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/AuW/UE/e/AuW-u01-e.pdf",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w02-nwehrli.pdf",
     "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w01-nwehrli.pdf",
-    "sem2/AuW/VRL/extra/nwehrli",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
-    "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
     "var/var.md",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/PProg/VRL/slides/PProg-00-slides.md",
@@ -327,7 +329,6 @@
     "sem1/LinAlg/VRL/V24_.md",
     "sem1/LinAlg/VRL/V23_.md",
     "sem1/LinAlg/VRL/V22_.md",
-    "sem1/LinAlg/VRL/V21_.md",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",

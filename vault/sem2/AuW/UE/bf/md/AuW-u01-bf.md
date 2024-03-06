@@ -4,7 +4,7 @@ $G = (V, E)$, zusammenhängender Graph mit $|V| \geq 3$
 
 #### a.
 i)
-$\forall v \in V,\, \deg(v) \equiv_2 0 \implies G$ ist 2-Kanten-zusammenhängend
+$\forall v \in V,\, \deg(v) \equiv_2 0 \implies G$ ist 2-Kanten-zusammenhängend
 
 No, consider as counter example the complete graph on five vertices, $K_5$. Since $\forall v \in V \deg(v) = 5-1 \equiv_2 0$, but removing any two edges still leaves the graph connected.
 $\square$
