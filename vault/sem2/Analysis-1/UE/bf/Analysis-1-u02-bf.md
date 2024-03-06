@@ -40,9 +40,10 @@ i) Nehmen Sie an, dass $(x_n)_{n\geq 1}$ gegen $g \in \mathbb R$ konvergiert. Be
 
 $$
 \begin{align}
-& \lim_{n \rightarrow \infty} x_{n+1} = 1 + \frac{1}{\lim _{n \rightarrow \infty} x_n}, & n\geq 1 
+& \lim_{n \rightarrow \infty} x_{n+1} = 1 + \frac{1}{\lim _{n \rightarrow \infty} x_n}
 \end{align}
 $$
+
 
 
 
