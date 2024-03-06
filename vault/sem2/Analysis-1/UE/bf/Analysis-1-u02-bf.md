@@ -13,6 +13,14 @@ $$
 & a_n = \frac{3n^5 + 2n^3 + 5n}{10 + 2n^5}
 \end{align}
 $$
+```desmos-graph
+left = -1;
+bottom = -1
+right = 25;
+---
+y = (3n^5 + 2n^3 + 5n) / (10 + 2n^5) |n>0|
+```
+
 beschränkt: nein ?
 konvergent: ja, $\lim_{n\rightarrow \infty} a_n =\frac{3}{2}$ 
 
@@ -24,7 +32,7 @@ $$
 $$
 ```desmos-graph
 left = -1;
-right = 100;
+right = 50;
 top = 2;
 bottom = -1;
 ---
@@ -39,6 +47,9 @@ $$
 & e_n = \sqrt[n]{5^n + 11^n + 17^n}
 \end{align}
 $$
+```desmos-graph
+y = 1
+```
 
 ___
 ## 2.4 \*
