@@ -45,27 +45,15 @@ $$
 & g = \frac{g + 1}{g} \\
 & g^2 = g +1 \\
 & g^2 -g - 1 = 0 \\
-\implies &g = 
+\implies &g = \frac{1±\sqrt{5}}{2} \\
+x_1 = 1 \implies & g = \frac{1+\sqrt 5}{2}
 \end{align}
 $$
 
-```desmos-graph
-left = -5;
-right = 23;
-top = 3;
-bottom = -1;
----
-y = 1 + 1/(1/y-1) |x > 0|
-y = 1  |x > 0|RED|DASHED|
-(1, 1)|label: (x1, 1)
-(2, 2)|label: (x2, 2)
-(3, 1.5)|label: (x3, 1.5)
-```
-
-
-
 
 ii)
+
+Zeigen Sie, dass $|x_{n + 1} - g| \leq g ^{-1} |x_{n} - g|$ $\forall n \geq 1$ 
 
 ___
 ## 1.4
