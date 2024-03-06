@@ -61,6 +61,20 @@ We prove this by induction:
 base case:
 $n \leftarrow 1$
 
+$$
+\begin{align}
+& |x_2 - g | \leq \frac{|x_1 - g|}{g} \\
+
+& \Bigg|2 - \frac{1 + \sqrt 5}{2} \Bigg| \leq \frac{\bigg|1 - \frac{1 + \sqrt 5}{2}\bigg|}{\frac{1 + \sqrt 5}{2}} \\
+& g = 1 + \frac{1}{g} \\
+& g = \frac{g + 1}{g} \\
+& g^2 = g +1 \\
+& g^2 -g - 1 = 0 \\
+\implies &g = \frac{1±\sqrt{5}}{2} \\
+x_1 = 1 \implies & g = \frac{1+\sqrt 5}{2} \\
+&& \square
+\end{align}
+$$
 
 ___
 ## 1.4
