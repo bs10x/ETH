@@ -8,7 +8,7 @@ i) $\forall v \in V,\, \deg(v) \equiv_2 0 \implies G$ ist 2-Kanten-zusammenhän
 
 ii) $G$ ist 2-Kanten-zusammenhängend $\implies \forall v \in V,\, \deg(v) \equiv_2 0$
 	Intuition:
-yes, but not quite.
+yes, but not quite?
 if there exists a vertex with deg(v) = 0, the graph is not connected, which we assumed.
 if there exists a vertex with deg(v) = 1, the graph is not 2-kanten-connected, which we assumed.
 

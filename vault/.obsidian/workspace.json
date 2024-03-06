@@ -91,17 +91,8 @@
                 "file": "sem2/AuW/UE/e/AuW-u01-e.pdf"
               }
             }
-          },
-          {
-            "id": "c598e805ca94f376",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -167,6 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md"
+              }
             }
           },
           {
@@ -244,13 +240,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "6e232110e1dfcb26",
   "lastOpenFiles": [
+    "sem2/AuW/UE/e/AuW-u01-e.pdf",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w02-nwehrli.pdf",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w01-nwehrli.pdf",
     "sem2/AuW/VRL/extra/nwehrli",
     "sem2/AuW/UE/bf/AuW-u01-bf.md",
-    "sem2/AuW/UE/e/AuW-u01-e.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
