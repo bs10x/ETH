@@ -83,7 +83,8 @@ $$
 \begin{align}
 & |x_{n + 2} - g | \leq \frac{|x_{n + 1} - g|}{g} \\
 & \Bigg|\frac{x_{n+1} + 1 - g \cdot x_{n+1}}{x_{n + 1}} \Bigg| \leq \frac{|x_{n + 1} - g|}{g} \\
-& \Bigg|\frac{x_{n+1} \cdot (1 + \frac{1}{x_{n+1} - g})}{x_{n + 1}} \Bigg| \leq \frac{|x_{n + 1} - g|}{g} \\
+& \Bigg|\frac{x_{n+1} \cdot (1 + \frac{1}{x_{n+1}} - g)}{x_{n + 1}} \Bigg| \leq \frac{|x_{n + 1} - g|}{g} \\
+& \bigg| 1 + \frac{1}{x_{n+1}} - g \bigg| \leq \frac{|1 + \frac{1}{x_n} - g|}{g} \\
 \\\\
 & \Bigg|2 - \frac{1 + \sqrt 5}{2} \Bigg| \leq \frac{\bigg|1 - \frac{1 + \sqrt 5}{2}\bigg|}{\frac{1 + \sqrt 5}{2}} \\
 & \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{\bigg|\frac{1 - \sqrt 5}{2}\bigg| \cdot \frac{1 + \sqrt 5}{2}}{2} \\
