@@ -1,19 +1,17 @@
 ## 2.1
-a) 1.
-b) 
-c) für jedes $\varepsilon$ > 0 ...
+a) 1. ?
+b) 4. ?
+c) 2.?
+d) 4. ?
+e) 
 
 ___
-## 1.2 \* 
-i)
+## 2.3 
+a) \*
 Für alle $x, y, u, v \in \mathbb R$ mit $0 < x < y$ und $0 < u < v$ gilt $x \cdot u < y \cdot v$.
 $$
 \begin{align}
-0<x<y &\overset{}{\implies} x<y &\text{(1)} \\
-0<u<v &\overset{}{\implies} u<v &\text{(2)} \\
-\text{K1, (1)} &\overset{\cdot}{\implies} x \cdot u < y \cdot u &\text{(3)} \\
-\text{K1, (2)} &\overset{\cdot}{\implies} y \cdot u < y \cdot v &\text{(4)} \\
-\text{O2, (3), (4)} &\overset{\cdot}{\implies} x \cdot u < y \cdot v \\
+
 \\ &&\square
 \end{align}
 $$
