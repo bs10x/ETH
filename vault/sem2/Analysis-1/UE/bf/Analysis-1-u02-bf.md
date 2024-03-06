@@ -46,14 +46,21 @@ $$
 & g^2 = g +1 \\
 & g^2 -g - 1 = 0 \\
 \implies &g = \frac{1±\sqrt{5}}{2} \\
-x_1 = 1 \implies & g = \frac{1+\sqrt 5}{2}
+x_1 = 1 \implies & g = \frac{1+\sqrt 5}{2} \\
+&& \square
 \end{align}
 $$
 
 
 ii)
 
-Zeigen Sie, dass $|x_{n + 1} - g| \leq g ^{-1} |x_{n} - g|$ $\forall n \geq 1$ 
+Zeigen Sie, dass $|x_{n + 1} - g| \leq \frac{|x_{n} - g|}{g}$ $\forall n \geq 1$. Folgern Sie, dass $(x_n)_{n\geq 1}$ gegen $g$ konvertiert.
+
+We prove this by induction:
+
+base case:
+$n \leftarrow 1$
+
 
 ___
 ## 1.4
