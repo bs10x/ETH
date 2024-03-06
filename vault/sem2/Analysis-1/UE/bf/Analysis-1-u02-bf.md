@@ -50,8 +50,11 @@ right = 23;
 top = 3;
 bottom = -1;
 ---
-y = 1 + 1/x |x > 0|
+y = 1 + 1/(1/y-1) |x > 0|
 y = 1  |x > 0|RED|DASHED|
+(1, 1)|label: (x1, 1)
+(2, 2)|label: (x2, 2)
+(3, 1.5)|label: (x3, 1.5)
 ```
 
 
