@@ -44,7 +44,8 @@ $$
 & g = 1 + \frac{1}{g} \\
 & g = \frac{g + 1}{g} \\
 & g^2 = g +1 \\
-& 
+& g^2 -g - 1 = 0 \\
+\implies &g = 
 \end{align}
 $$
 
