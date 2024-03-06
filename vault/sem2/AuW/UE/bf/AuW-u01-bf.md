@@ -20,7 +20,7 @@ ___
 i)
 $G$ hat Hamiltonkreis $\implies$ $G$ ist 2-zusammenhängend
 
-Yes,
+Yes, since all vertices $v \in V$ must be in the same equivalence class of the equivalence relation $\sim$ on $E$. Thus they are in the same "block" and there cannot exist another block, since otherwise some vertex wou
 ...
 $$
 \begin{align}
@@ -39,6 +39,6 @@ ___
 #### c.
 Let $G$ be 2-connected. Let $(u, v, w)$ be a path of length 2 in $G$. Show that we can extend this path to a cycle, i.e. that $G$ contains a cycle in which $u$, $v$, and $w$ are adjacent vertices.
 
-By Satz von Menger we know that there exist k internal-vertex-disjunct u-v-paths. We have as one such path the given u-(v)-w-path, since there must exist one other such u-w-path that is internally vertex disjunct to the first one. Connecting these two yields the desired cycle, in which $u$, $v$ and $w$ are adjacent.
-
+By Satz von Menger we know that there exist $k$ internal-vertex-disjunct $u$-$v$-paths. We have as one such path the given $u$-($v$)-$w$-path. There must hence exist one other such $u$-$w$-path that is internally vertex disjunct to the first one. Connecting these two yields the desired cycle, in which $u$, $v$ and $w$ are adjacent.
+$\square$
 
