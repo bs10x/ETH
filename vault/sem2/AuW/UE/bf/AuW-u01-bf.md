@@ -1,20 +1,16 @@
 ## 1.
 $G = (V, E)$, zusammenhängender Graph mit $|V| \geq 3$
 #### a.
-i) $\forall v \in V,\, \deg(v) \equiv_2 0 \implies G$ ist 2-Kanten-zusammenhängend
-	Intuition:
-	No, counter example?
-	
-Incorrect, consider as counter example the 
+i)
+$\forall v \in V,\, \deg(v) \equiv_2 0 \implies G$ ist 2-Kanten-zusammenhängend
+
+Incorrect, consider as counter example the complete graph on five vertices, $K_5$. Since $\forall v \in V \deg(v) = 5-1 \equiv_2 0$, but removing any two edges still leaves the graph connected.
 
 
 
 ii) $G$ ist 2-Kanten-zusammenhängend $\implies \forall v \in V,\, \deg(v) \equiv_2 0$
-	Intuition:
-yes, but not quite?
-if there exists a vertex with deg(v) = 0, the graph is not connected, which we assumed.
-if there exists a vertex with deg(v) = 1, the graph is not 2-kanten-connected, which we assumed.
 
+Incorrect, consider the graph
 $$
 \begin{align}
 & G = (V, E) \\
