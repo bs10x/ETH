@@ -40,7 +40,11 @@ i) Nehmen Sie an, dass $(x_n)_{n\geq 1}$ gegen $g \in \mathbb R$ konvergiert. Be
 
 $$
 \begin{align}
-& \lim_{n \rightarrow \infty} x_{n} = 1 + \frac{1}{\lim _{n \rightarrow \infty} x_n-1}
+& \lim_{n \rightarrow \infty} x_{n + 1} = 1 + \frac{1}{\lim _{n \rightarrow \infty} x_{n}} \\
+& g = 1 + \frac{1}{g} \\
+& g = \frac{g + 1}{g} \\
+& g^2 = g +1 \\
+& 
 \end{align}
 $$
 
