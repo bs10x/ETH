@@ -45,9 +45,12 @@ $$
 $$
 
 ```desmos-graph
-left = 0;right = 100
-
-y = 1 + 1/x
+left = -5;
+right = 23;
+top = 3;
+bottom = -1;
+---
+y = 1 + 1/x |x > 0|
 ```
 
 left=0; right=100;
