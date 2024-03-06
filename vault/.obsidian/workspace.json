@@ -93,12 +93,12 @@
             }
           },
           {
-            "id": "30b4b299cbce5107",
+            "id": "787690bdefec372a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/UE/e/AuW-u01-e.pdf"
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md"
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf"
               }
             }
           },
@@ -271,16 +271,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1d964b7bfb866867",
+  "active": "710df726bc7379b2",
   "lastOpenFiles": [
-    "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
+    "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
+    "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
+    "sem2/AuW/UE/e/AuW-u01-e.pdf",
+    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
+    "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
-    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w02-nwehrli.pdf",
     "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
-    "sem2/AuW/UE/e/AuW-u01-e.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/Analysis-1/UE/s/Analysis-1-u01-s.pdf",
     "sem2/PProg/VRL/notes/PProg.md",
@@ -288,7 +290,6 @@
     "sem2/AuW/UE/bf/md/AuW-u01-bf.md",
     "sem2/AuW/UE/bf/md/AuW-u00-bf.md",
     "sem2/AuW/UE/bf/md",
-    "sem2/AuW/UE/bf/pdf",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "var/var.md",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
