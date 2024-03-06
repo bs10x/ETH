@@ -3,6 +3,9 @@ $G = (V, E)$, zusammenhängender Graph mit $|V| \geq 3$
 #### a.
 i) $\forall v \in V,\, \deg(v) \equiv_2 0 \implies G$ ist 2-Kanten-zusammenhängend
 	Intuition:
+	No, counter example?
+	
+Incorrect, consider as counter example the 
 
 
 
