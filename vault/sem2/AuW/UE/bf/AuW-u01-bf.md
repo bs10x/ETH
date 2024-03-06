@@ -30,6 +30,8 @@ $$
 ii)
 $G$ ist 2-zusammenhängend $\implies$ $G$ hat Hamiltonkreis
 
+No, consider the Petersen Graph
+
 ___
 
 #### c.
