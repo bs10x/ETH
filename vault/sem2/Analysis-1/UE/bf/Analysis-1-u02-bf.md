@@ -40,11 +40,19 @@ i) Nehmen Sie an, dass $(x_n)_{n\geq 1}$ gegen $g \in \mathbb R$ konvergiert. Be
 
 $$
 \begin{align}
-& \lim_{n \rightarrow \infty} x_{n+1} = 1 + \frac{1}{\lim _{n \rightarrow \infty} x_n}
+& \lim_{n \rightarrow \infty} x_{n} = 1 + \frac{1}{\lim _{n \rightarrow \infty} x_n-1}
 \end{align}
 $$
 
+```desmos-graph
+left = 0;right = 100
 
+y = 1 + 1/x
+```
+
+left=0; right=100;
+    top=10; bottom=-10;
+    ---
 
 
 
