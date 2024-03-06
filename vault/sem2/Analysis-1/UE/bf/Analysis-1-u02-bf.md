@@ -13,6 +13,8 @@ $$
 & a_n = \frac{3n^5 + 2n^3 + 5n}{10 + 2n^5}
 \end{align}
 $$
+beschränkt: nein ?
+konvergent: ja, $\lim_{n\rightarrow \infty} a_n =\frac{3}{2}$ 
 
 b) \*
 $$
