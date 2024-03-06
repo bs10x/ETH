@@ -36,7 +36,7 @@ $$
 & x_{n+1} := 1 + \frac{1}{x_n}, & n\geq 1 
 \end{align}
 $$
-i) Nehmen Sie an, dass $(x_n)_{n\geq 1}$ gegen $g \in \mathbb R$ konvergiert. Bestimmen Sie g.
+i) Nehmen Sie an, dass $(x_n)_{n\geq 1}$ gegen $g \in \mathbb R$ konvergiert. Bestimmen Sie $g$.
 
 $$
 \begin{align}
@@ -51,11 +51,9 @@ top = 3;
 bottom = -1;
 ---
 y = 1 + 1/x |x > 0|
+y = 1  |x > 0|RED|DASHED|
 ```
 
-left=0; right=100;
-    top=10; bottom=-10;
-    ---
 
 
 
