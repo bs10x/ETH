@@ -1,12 +1,13 @@
 ## 1.
 $G = (V, E)$, zusammenhängender Graph mit $|V| \geq 3$
+
+
 #### a.
 i)
 $\forall v \in V,\, \deg(v) \equiv_2 0 \implies G$ ist 2-Kanten-zusammenhängend
 
 No, consider as counter example the complete graph on five vertices, $K_5$. Since $\forall v \in V \deg(v) = 5-1 \equiv_2 0$, but removing any two edges still leaves the graph connected.
 $\square$
-
 
 ii)
 $G$ ist 2-Kanten-zusammenhängend $\implies \forall v \in V,\, \deg(v) \equiv_2 0$
@@ -20,13 +21,8 @@ ___
 i)
 $G$ hat Hamiltonkreis $\implies$ $G$ ist 2-zusammenhängend
 
-Yes, since all vertices $v \in V$ must be in the same equivalence class of the equivalence relation $\sim$ on $E$. Thus they are in the same "block" and there cannot exist another block, since otherwise some vertex wou
-...
-$$
-\begin{align}
-& G \text{ zsh. } \overset{\cdot}{\implies}\forall v \in V, \deg(v) \equiv_2 0 \\
-\end{align}
-$$
+Yes, since all vertices $v \in V$ must be in the same equivalence class of the equivalence relation $\sim$ on $E$. Thus they are in the same "block" and there cannot exist another block, since otherwise some vertex (namely the cut vertices) would have to be visited twice.
+$\square$
 
 ii)
 $G$ ist 2-zusammenhängend $\implies$ $G$ hat Hamiltonkreis
