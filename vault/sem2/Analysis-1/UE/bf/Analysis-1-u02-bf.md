@@ -60,23 +60,38 @@ We prove this by induction:
 
 base case:
 $n \leftarrow 1$
-
 $$
 \begin{align}
 & |x_2 - g | \leq \frac{|x_1 - g|}{g} \\
 & \Bigg|2 - \frac{1 + \sqrt 5}{2} \Bigg| \leq \frac{\bigg|1 - \frac{1 + \sqrt 5}{2}\bigg|}{\frac{1 + \sqrt 5}{2}} \\
-
 & \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{\bigg|\frac{1 - \sqrt 5}{2}\bigg| \cdot \frac{1 + \sqrt 5}{2}}{2} \\
-
 & |3 - \sqrt 5| \leq \Bigg|\frac{1 - \sqrt 5}{2}\Bigg| \cdot \frac{1 + \sqrt 5}{2} \\
-
-
-\\\\
-\implies &g = \frac{1±\sqrt{5}}{2} \\
-x_1 = 1 \implies & g = \frac{1+\sqrt 5}{2} \\
-&& \square
+& |3 - \sqrt 5| \leq 1 \\
 \end{align}
 $$
+As such the base case holds.
+
+
+inductive hypothesis:
+$|x_{n + 1} - g| \leq \frac{|x_{n} - g|}{g}$ $\forall n \geq 1$
+
+
+inductive step:
+$n \leftarrow n + 1$
+
+$$
+\begin{align}
+& |x_{n + 2} - g | \leq \frac{|x_{n + 1} - g|}{g} \\
+& |x_{n + 2} - g | \leq \frac{|x_{n + 1} - g|}{g} \\
+
+& \Bigg|2 - \frac{1 + \sqrt 5}{2} \Bigg| \leq \frac{\bigg|1 - \frac{1 + \sqrt 5}{2}\bigg|}{\frac{1 + \sqrt 5}{2}} \\
+& \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{\bigg|\frac{1 - \sqrt 5}{2}\bigg| \cdot \frac{1 + \sqrt 5}{2}}{2} \\
+& |3 - \sqrt 5| \leq \Bigg|\frac{1 - \sqrt 5}{2}\Bigg| \cdot \frac{1 + \sqrt 5}{2} \\
+& |3 - \sqrt 5| \leq 1 \\
+\end{align}
+$$
+
+
 
 ___
 ## 1.4
