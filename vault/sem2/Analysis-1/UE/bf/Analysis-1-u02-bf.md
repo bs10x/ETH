@@ -87,7 +87,9 @@ $$
 
 & \bigg| 1 + \frac{1}{1 + \frac{1}{x_{n}}} - g \bigg| \leq \frac{|1 + \frac{1}{x_n} - g|}{g} \\
 
-& \bigg| 1 + \frac{x_n}{1 + x_n} - g \bigg| \leq \frac{|1 + \frac{1}{x_n} - g|}{g} \\
+& \bigg| \frac{x_n + x_n + 1}{x_n + 1} - g \bigg| \leq \frac{|1 + \frac{1}{x_n} - g|}{g} \\
+
+& \bigg| \frac{x_n \cdot (2 + \frac{1}{x_n}-g)}{x_n + 1} \bigg| \leq \frac{|1 + \frac{1}{x_n} - g|}{g} \\
 
 
 
@@ -95,11 +97,11 @@ $$
 
 %& \Bigg|\frac{x_{n+1} \cdot (1 + \frac{1}{x_{n+1}} - g)}{x_{n + 1}} \Bigg| \leq \frac{|x_{n + 1} - g|}{g} \\
 
-\\\\
-& \Bigg|2 - \frac{1 + \sqrt 5}{2} \Bigg| \leq \frac{\bigg|1 - \frac{1 + \sqrt 5}{2}\bigg|}{\frac{1 + \sqrt 5}{2}} \\
-& \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{\bigg|\frac{1 - \sqrt 5}{2}\bigg| \cdot \frac{1 + \sqrt 5}{2}}{2} \\
-& |3 - \sqrt 5| \leq \Bigg|\frac{1 - \sqrt 5}{2}\Bigg| \cdot \frac{1 + \sqrt 5}{2} \\
-& |3 - \sqrt 5| \leq 1 \\
+
+%& \Bigg|2 - \frac{1 + \sqrt 5}{2} \Bigg| \leq \frac{\bigg|1 - \frac{1 + \sqrt 5}{2}\bigg|}{\frac{1 + \sqrt 5}{2}} \\
+%& \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{\bigg|\frac{1 - \sqrt 5}{2}\bigg| \cdot \frac{1 + \sqrt 5}{2}}{2} \\
+%& |3 - \sqrt 5| \leq \Bigg|\frac{1 - \sqrt 5}{2}\Bigg| \cdot \frac{1 + \sqrt 5}{2} \\
+%& |3 - \sqrt 5| \leq 1 \\
 \end{align}
 $$
 
