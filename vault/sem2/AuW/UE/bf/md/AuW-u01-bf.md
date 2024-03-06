@@ -1,8 +1,8 @@
-## 1.
+# 1.
 $G = (V, E)$, zusammenhängender Graph mit $|V| \geq 3$
 
 
-#### a.
+## **a.**
 i)
 $\forall v \in V,\, \deg(v) \equiv_2 0 \implies G$ ist 2-Kanten-zusammenhängend
 
@@ -17,7 +17,7 @@ $\square$
 
 ___
 
-#### b.
+## **b.**
 i)
 $G$ hat Hamiltonkreis $\implies$ $G$ ist 2-zusammenhängend
 
@@ -32,7 +32,7 @@ $\square$
 
 ___
 
-#### c.
+## **c.**
 Let $G$ be 2-connected. Let $(u, v, w)$ be a path of length 2 in $G$. Show that we can extend this path to a cycle, i.e. that $G$ contains a cycle in which $u$, $v$, and $w$ are adjacent vertices.
 
 By Satz von Menger we know that there exist $k$ internal-vertex-disjunct $u$-$v$-paths. We have as one such path the given $u$-($v$)-$w$-path. There must hence exist one other such $u$-$w$-path that is internally vertex disjunct to the first one. Connecting these two yields the desired cycle, in which $u$, $v$ and $w$ are adjacent.
