@@ -64,8 +64,9 @@ $$
 \begin{align}
 & |x_2 - g | \leq \frac{|x_1 - g|}{g} \\
 & \Bigg|2 - \frac{1 + \sqrt 5}{2} \Bigg| \leq \frac{\bigg|1 - \frac{1 + \sqrt 5}{2}\bigg|}{\frac{1 + \sqrt 5}{2}} \\
-& \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{\bigg|\frac{1 - \sqrt 5}{2}\bigg| \cdot \frac{1 + \sqrt 5}{2}}{2} \\
-& |3 - \sqrt 5| \leq \Bigg|\frac{1 - \sqrt 5}{2}\Bigg| \cdot \frac{1 + \sqrt 5}{2} \\
+& \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{\bigg|\frac{1 - \sqrt 5}{2}\bigg| \cdot 2}{1 + \sqrt 5} \\
+& \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{|1 - \sqrt 5}{1 + \sqrt 5} \\
+
 & |3 - \sqrt 5| \leq 1 \\
 \end{align}
 $$
