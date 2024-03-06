@@ -82,7 +82,7 @@ $n \leftarrow n + 1$
 $$
 \begin{align}
 & |x_{n + 2} - g | \leq \frac{|x_{n + 1} - g|}{g} \\
-& |x_{n + 2} - g | \leq \frac{|x_{n + 1} - g|}{g} \\
+& \Bigg|1 + \frac{1}{x_{n + 1}} - g \Bigg| \leq \frac{|x_{n + 1} - g|}{g} \\
 \\\\
 & \Bigg|2 - \frac{1 + \sqrt 5}{2} \Bigg| \leq \frac{\bigg|1 - \frac{1 + \sqrt 5}{2}\bigg|}{\frac{1 + \sqrt 5}{2}} \\
 & \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{\bigg|\frac{1 - \sqrt 5}{2}\bigg| \cdot \frac{1 + \sqrt 5}{2}}{2} \\
