@@ -4,29 +4,31 @@ $G = (V, E)$, zusammenhängender Graph mit $|V| \geq 3$
 i)
 $\forall v \in V,\, \deg(v) \equiv_2 0 \implies G$ ist 2-Kanten-zusammenhängend
 
-Incorrect, consider as counter example the complete graph on five vertices, $K_5$. Since $\forall v \in V \deg(v) = 5-1 \equiv_2 0$, but removing any two edges still leaves the graph connected.
-$\square£
+No, consider as counter example the complete graph on five vertices, $K_5$. Since $\forall v \in V \deg(v) = 5-1 \equiv_2 0$, but removing any two edges still leaves the graph connected.
+$\square$
 
 
+ii)
+$G$ ist 2-Kanten-zusammenhängend $\implies \forall v \in V,\, \deg(v) \equiv_2 0$
 
-ii) $G$ ist 2-Kanten-zusammenhängend $\implies \forall v \in V,\, \deg(v) \equiv_2 0$
-
-Incorrect, consider the graph on $V = \{a, b, c, d\}$ with $E=\{ \{a, b\}, \{b, c\}, \{c, d\}, \{d, a\}, \{a, c\} \}$. The graph is 2-edge-connected but there exist some vertices $v \in V$ s.t. $\deg(v) \not\equiv_2 0$, namely (for the counter example provided here) $a$ and $c$.
-
-$$
-\begin{align}
-& G = (V, E) \\
-& V = (v_0, v_1, \dots, v_n) \\
-& E = ( \{\}, \{\} )
-\end{align}
-$$ 
-
+No, consider the graph on $V = \{a, b, c, d\}$ with $E=\{ \{a, b\}, \{b, c\}, \{c, d\}, \{d, a\}, \{a, c\} \}$. The graph is 2-edge-connected but there exist some vertices $v \in V$ s.t. $\deg(v) \not\equiv_2 0$, namely (for the counter example provided here) $a$ and $c$.
+$\square$
 
 ___
 
 #### b.
-i) $G$ hat Hamiltonkreis $\implies$ $G$ ist 2-zusammenhängend
-ii) $G$ ist 2-zusammenhängend $\implies$ $G$ hat Hamiltonkreis
+i)
+$G$ hat Hamiltonkreis $\implies$ $G$ ist 2-zusammenhängend
+
+Yes,
+$$
+\begin{align}
+& G \text\\
+\end{align}
+$$
+
+ii)
+$G$ ist 2-zusammenhängend $\implies$ $G$ hat Hamiltonkreis
 
 ___
 
