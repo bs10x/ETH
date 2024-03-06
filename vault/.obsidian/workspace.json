@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b7115a08faafdac",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "0b494a9f72a09b41",
             "type": "leaf",
             "pinned": true,
@@ -29,6 +15,20 @@
               "type": "markdown",
               "state": {
                 "file": "sem2/Analysis-1/VRL/notes/Analysis-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8b7115a08faafdac",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem2/AuW/VRL/notes/AuW.md",
                 "mode": "source",
                 "source": false
               },
@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "8d63f2888e2ec67c",
@@ -91,8 +90,29 @@
                 "file": "sem2/AuW/UE/e/AuW-u01-e.pdf"
               }
             }
+          },
+          {
+            "id": "20229885bb3aa20a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf"
+              }
+            }
+          },
+          {
+            "id": "919bca411ee63932",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
+                "file": "sem2/Analysis-1/VRL/notes/Analysis-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
+                "file": "sem2/Analysis-1/VRL/notes/Analysis-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md"
+                "file": "sem2/Analysis-1/VRL/notes/Analysis-1.md"
               }
             }
           },
@@ -240,13 +260,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6e232110e1dfcb26",
+  "active": "0b494a9f72a09b41",
   "lastOpenFiles": [
+    "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
+    "sem2/AuW/VRL/extra/AuW-script.pdf",
+    "sem2/AuW/UE/bf/AuW-u01-bf.md",
     "sem2/AuW/UE/e/AuW-u01-e.pdf",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w02-nwehrli.pdf",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w01-nwehrli.pdf",
     "sem2/AuW/VRL/extra/nwehrli",
-    "sem2/AuW/UE/bf/AuW-u01-bf.md",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
@@ -263,8 +285,6 @@
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/VRL/slides/AuW-L03-TSP-PvsNP.pdf",
     "var/202402271204.md",
-    "sem2/AuW/slides",
-    "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
     "Untitled.md",
     "sem2/PProg/UE/bf/PProg-u02-bf.md",
     "var/sem1-schedule.jpg",
