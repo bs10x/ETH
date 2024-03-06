@@ -39,5 +39,6 @@ ___
 #### c.
 Let $G$ be 2-connected. Let $(u, v, w)$ be a path of length 2 in $G$. Show that we can extend this path to a cycle, i.e. that $G$ contains a cycle in which $u$, $v$, and $w$ are adjacent vertices.
 
+By Satz von Menger we know that there exist k internal-vertex-disjunct u-v-paths
 
 
