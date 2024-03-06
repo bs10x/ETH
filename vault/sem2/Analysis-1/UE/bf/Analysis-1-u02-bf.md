@@ -30,10 +30,24 @@ $$
 
 ___
 ## 2.4 \*
-	Es sei 
-i)
+Es sei $(x_n)_{n\geq 1}$ rekursiv gegeben durch $x_1 := 1$ und
+$$
+\begin{align}
+& x_{n+1} := 1 + \frac{1}{x_n}, & n\geq 1 
+\end{align}
+$$
+i) Nehmen Sie an, dass $(x_n)_{n\geq 1}$ gegen $g \in \mathbb R$ konvergiert. Bestimmen Sie g.
+
+$$
+\begin{align}
+& \lim_{n \rightarrow \infty} x_{n+1} := 1 + \frac{1}{x_n}, & n\geq 1 
+\end{align}
+$$
+
+
+
+
 ii)
-iii)
 
 ___
 ## 1.4
