@@ -68,7 +68,7 @@ $$
 
 & \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{\bigg|\frac{1 - \sqrt 5}{2}\bigg| \cdot \frac{1 + \sqrt 5}{2}}{2} \\
 
-& \Bigg|\frac{3 - \sqrt 5}{2} \Bigg| \leq \frac{\bigg|\frac{1 - \sqrt 5}{2}\bigg| \cdot \frac{1 + \sqrt 5}{2}}{2} \\
+& |3 - \sqrt 5| \leq \Bigg|\frac{1 - \sqrt 5}{2}\Bigg| \cdot \frac{1 + \sqrt 5}{2} \\
 
 
 \\\\
