@@ -30,7 +30,7 @@ $$
 ii)
 $G$ ist 2-zusammenhängend $\implies$ $G$ hat Hamiltonkreis
 
-No, consider the Petersen Graph
+No, consider the $3 \times 3$ grid.
 
 ___
 

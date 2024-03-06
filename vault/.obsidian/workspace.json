@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf"
+                "file": "sem2/AuW/UE/bf/AuW-u01-bf.md"
               }
             }
           },
@@ -280,8 +280,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "07870643540e55aa",
+  "active": "6e232110e1dfcb26",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
     "sem2/AuW/UE/bf/AuW-u01-bf.md",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/AuW/UE/e/AuW-u01-e.pdf",
