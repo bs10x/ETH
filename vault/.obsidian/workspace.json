@@ -121,9 +121,19 @@
                 "file": "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf"
               }
             }
+          },
+          {
+            "id": "9c2679cf9389b9d2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -190,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf"
               }
             }
           },
@@ -271,8 +280,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "710df726bc7379b2",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
@@ -289,7 +299,6 @@
     "var/export/AuW-u01-bf.pdf",
     "sem2/AuW/UE/bf/md/AuW-u01-bf.md",
     "sem2/AuW/UE/bf/md/AuW-u00-bf.md",
-    "sem2/AuW/UE/bf/md",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "var/var.md",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
