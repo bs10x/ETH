@@ -50,7 +50,7 @@ $$
 ```desmos-graph
 y = 1
 ```
-
+		
 ___
 ## 2.4 \*
 Es sei $(x_n)_{n\geq 1}$ rekursiv gegeben durch $x_1 := 1$ und
