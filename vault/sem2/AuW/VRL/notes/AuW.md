@@ -102,4 +102,7 @@ MST ist lowerbound von optimaler TSP tour
 
 
 
-jeder k - 1 partite graoh u
+jeder k - 1 partite graph ist k-partit
+
+
+k-zsh. ≤ k-edge.
