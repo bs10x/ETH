@@ -105,4 +105,4 @@ MST ist lowerbound von optimaler TSP tour
 jeder k - 1 partite graph ist k-partit
 
 
-k-zsh. ≤ k-edge.
+k-zsh. ≤ k-edge.zsh. ≤ $\delta(G)$
