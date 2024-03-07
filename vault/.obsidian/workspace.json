@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
+                "file": "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
+                "file": "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md"
+                "file": "sem2/DDCA/UE/e/DDCA-u01-e.pdf"
               }
             }
           },
@@ -265,8 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,14 +280,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1d964b7bfb866867",
+  "active": "bfb7ce8313bfc66d",
   "lastOpenFiles": [
+    "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
     "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
     "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
     "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
-    "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
