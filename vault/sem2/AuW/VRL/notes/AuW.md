@@ -99,3 +99,7 @@ MST ist lowerbound von optimaler TSP tour
 
 
 [TSP video](https://youtu.be/GiDsjIBOVoA?si=GTyS4TDwsS9jECNy) 
+
+
+
+jeder k - 1 partite graoh u
