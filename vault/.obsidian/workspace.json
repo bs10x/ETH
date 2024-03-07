@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "8d63f2888e2ec67c",
@@ -123,17 +123,17 @@
             }
           },
           {
-            "id": "9c2679cf9389b9d2",
+            "id": "48245f0dd8064d9a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf"
+                "file": "sem2/DDCA/VRL/slides/DDCA-L04b-verilog.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
+                "file": "sem2/DDCA/VRL/notes/DDCA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
+                "file": "sem2/DDCA/VRL/notes/DDCA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/DDCA-u01-e.pdf"
+                "file": "sem2/DDCA/VRL/notes/DDCA.md"
               }
             }
           },
@@ -265,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,16 +280,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bfb7ce8313bfc66d",
+  "active": "a3eaac95b76648a4",
   "lastOpenFiles": [
+    "sem2/DDCA/VRL/slides/DDCA-L04b-verilog.pdf",
+    "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
+    "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
+    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
     "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
-    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
-    "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
     "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
-    "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/AuW/UE/e/AuW-u01-e.pdf",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
@@ -318,7 +319,6 @@
     "sem1/LinAlg/VRL/V26_.md",
     "sem1/LinAlg/VRL/V25_.md",
     "sem1/LinAlg/VRL/V24_.md",
-    "sem1/LinAlg/VRL/V23_.md",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
