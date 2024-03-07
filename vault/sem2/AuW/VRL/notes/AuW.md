@@ -84,3 +84,18 @@ gray codes, hypercubes, blah blah
 
 Augmented path #explain  
 
+proof of lemma or something, we show that the algorithm is correct because we have huge balls.
+
+
+
+**Christofides algorithm:**
+
+Graph muss erfüllen:
+- dreiecksungleichung (a, c) ≤ (a, b), (b, c)
+- symetrisch |(a, b)| = |(b, a)|
+
+MST ist lowerbound von optimaler TSP tour
+
+
+
+[TSP video](https://youtu.be/GiDsjIBOVoA?si=GTyS4TDwsS9jECNy) 

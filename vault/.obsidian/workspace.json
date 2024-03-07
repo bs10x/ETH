@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "8d63f2888e2ec67c",
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -199,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf"
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md"
               }
             }
           },
@@ -280,8 +281,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9c2679cf9389b9d2",
+  "active": "1d964b7bfb866867",
   "lastOpenFiles": [
+    "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
+    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
     "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
@@ -290,7 +293,6 @@
     "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/AuW/UE/e/AuW-u01-e.pdf",
-    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "sem2/Analysis-1/UE/e/Analysis-1-u01-e.pdf",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w02-nwehrli.pdf",
