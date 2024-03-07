@@ -79,3 +79,8 @@ Satz: Ein zusammenhängender Graph G = (V, E) enthält eine Eulertour $\iff$ der
 gray codes, hypercubes, blah blah
 
 
+
+# Matchings
+
+Augmented path #explain  
+
