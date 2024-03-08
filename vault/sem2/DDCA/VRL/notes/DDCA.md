@@ -69,3 +69,11 @@ ___
 >- network is either in parallel: one transistor on -> network on
 >- or in series: all transistors on -> network on, complementary to each other
 
+
+
+
+
+LAB-01
+
+Task 2
+use nand games to make <, >, and equality, push < and > together, use de morgans to reduce nand gates
