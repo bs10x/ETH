@@ -113,26 +113,6 @@
             }
           },
           {
-            "id": "710df726bc7379b2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf"
-              }
-            }
-          },
-          {
-            "id": "48245f0dd8064d9a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L04b-verilog.pdf"
-              }
-            }
-          },
-          {
             "id": "5f23632cbe50c731",
             "type": "leaf",
             "state": {
@@ -143,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L04b-verilog.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L04b-verilog.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/DDCA-L04b-verilog.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf"
               }
             }
           },
@@ -291,17 +271,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "48245f0dd8064d9a",
+  "active": "5f23632cbe50c731",
   "lastOpenFiles": [
+    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
+    "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
+    "sem2/DDCA/VRL/slides/DDCA-L04b-verilog.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
     "sem2/DDCA/UE/e/DDCA-u01-lab-report.pdf",
     "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/DDCA/VRL/notes/DDCA.md",
-    "sem2/DDCA/VRL/slides/DDCA-L04b-verilog.pdf",
-    "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
-    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
     "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
     "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
