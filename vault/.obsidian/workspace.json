@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "88ab344f89579f71",
+        "id": "f0fa0b6b3cf38cb2",
         "type": "tabs",
         "children": [
           {
-            "id": "78e024d8e26b91dc",
+            "id": "12e65f7c673139fa",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -158,8 +158,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "78e024d8e26b91dc",
+  "active": "12e65f7c673139fa",
   "lastOpenFiles": [
+    "var/Untitled",
+    "var/Untitled/graphics/mm-1.png",
+    "var/var.md",
+    "var/Untitled/sem1-schedule.jpg",
+    "var/202402271204.md",
     "sem2/PProg/UE/e/PProg-e01.pdf",
     "sem2/AuW/UE/pg/e/AuW-pg01.pdf",
     "sem2/DDCA/UE/e/DDCA-e01.pdf",
@@ -175,7 +180,6 @@
     "sem2/AuW/UE/u/bf/md/AuW-e00-bf.md",
     "sem2/AuW/UE/u/e/AuW-e01.pdf",
     "sem2/AuW/UE/u/e/AuW-e00.pdf",
-    "sem2/AuW/UE/pg/bf",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/DDCA/VRL/notes/DDCA.md",
@@ -183,14 +187,11 @@
     "sem2/Analysis-1/UE/bf/Analysis-1-e02-bf.md",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
-    "var/var.md",
     "sem2/PProg/VRL/slides/PProg-00-slides.md",
     "sem2/AuW/VRL/slides/AuW-00-slides.md",
     "sem2/Analysis-1/VRL/slides/Analysis-1-00-slides.md",
-    "var/202402271204.md",
     "Untitled.md",
     "sem2/PProg/UE/bf/PProg-u02-bf.md",
-    "var/sem1-schedule.jpg",
     "var/attachments/sem1_schedule.jpg.md",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "sem1/LinAlg/VRL/V29_.md",
@@ -205,7 +206,6 @@
     "sem1/00-EXAM-PREP/var/graphics/mm-1.png",
     "sem1/00-EXAM-PREP/var/graphics/log-properties-3.png",
     "sem1/00-EXAM-PREP/var/graphics/log-properties-2.png",
-    "sem1/00-EXAM-PREP/var/graphics/limit-rules.png",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
   ]
