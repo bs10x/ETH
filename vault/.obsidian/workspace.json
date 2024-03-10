@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "5f23632cbe50c731",
+            "id": "625ad4198e22536b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf"
+                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf"
               }
             }
           }
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -189,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
+                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
+                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf"
+                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf"
               }
             }
           },
@@ -270,8 +271,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f23632cbe50c731",
+  "active": "625ad4198e22536b",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
     "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L00-introduction.pdf",
     "sem2/DDCA/VRL/slides/labs",
@@ -280,7 +282,6 @@
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog.pdf",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB01.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L06-arithmetic-circuits.pdf",
-    "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
     "sem2/DDCA/UE/e/DDCA-u01-report.pdf",
     "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
