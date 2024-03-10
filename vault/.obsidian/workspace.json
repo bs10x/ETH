@@ -116,9 +116,11 @@
             "id": "625ad4198e22536b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf"
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -173,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -190,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf",
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf"
+                "file": "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md"
               }
             }
           },
@@ -271,8 +272,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "625ad4198e22536b",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem2/AuW/AuW-u01-pg.pdf",
+    "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf",
+    "sem2/Analysis-1/UE/s/Analysis-1-u02-s.pdf",
+    "sem2/DDCA/UE/e/DDCA-u01-report.pdf",
     "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
     "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L00-introduction.pdf",
@@ -282,9 +287,6 @@
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog.pdf",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB01.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L06-arithmetic-circuits.pdf",
-    "sem2/DDCA/UE/e/DDCA-u01-report.pdf",
-    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
-    "sem2/Analysis-1/UE/e/Analysis-1-u02-e.pdf",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
     "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
