@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "33d9babf73d1e8aa",
+        "id": "88ab344f89579f71",
         "type": "tabs",
         "children": [
           {
-            "id": "38ec35e0b7328908",
+            "id": "78e024d8e26b91dc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/AuW/UE/pg/e/AuW-pg01.pdf"
-              }
-            }
-          },
-          {
-            "id": "8ad8869bc1385536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,11 +158,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8ad8869bc1385536",
+  "active": "78e024d8e26b91dc",
   "lastOpenFiles": [
-    "var/export/AuW-pg01-bf.pdf",
+    "sem2/PProg/UE/e/PProg-e01.pdf",
     "sem2/AuW/UE/pg/e/AuW-pg01.pdf",
+    "sem2/DDCA/UE/e/DDCA-e01.pdf",
+    "sem2/Analysis-1/UE/bf/Analysis-1-e01-bf.md",
     "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
+    "sem2/AuW/UE/u/s/AuW-e01-s.pdf",
+    "var/export/AuW-pg01-bf.pdf",
     "sem2/AuW/UE/e/Untitled.md",
     "sem2/AuW/UE/u",
     "sem2/AuW/UE/pg/e",
@@ -191,17 +176,13 @@
     "sem2/AuW/UE/u/e/AuW-e01.pdf",
     "sem2/AuW/UE/u/e/AuW-e00.pdf",
     "sem2/AuW/UE/pg/bf",
-    "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
-    "sem2/AuW/VRL/extra/AuW-script.pdf",
-    "sem2/Analysis-1/VRL/extra/Analysis1-script.pdf",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/PProg/VRL/notes/PProg.md",
-    "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
+    "sem2/Analysis-1/UE/bf/Analysis-1-e02-bf.md",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
-    "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "var/var.md",
     "sem2/PProg/VRL/slides/PProg-00-slides.md",
     "sem2/AuW/VRL/slides/AuW-00-slides.md",
