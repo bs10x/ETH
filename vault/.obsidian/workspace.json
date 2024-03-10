@@ -11,8 +11,10 @@
             "id": "12e65f7c673139fa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/DDCA/UE/e/DDCA-u01-report.pdf"
+              }
             }
           },
           {
@@ -160,31 +166,31 @@
   },
   "active": "12e65f7c673139fa",
   "lastOpenFiles": [
+    "sem2/DDCA/UE/e/DDCA-u01-lab.pdf",
+    "sem2/AuW/UE/u/s/AuW-u00-s.pdf",
+    "sem2/AuW/UE/u/e/AuW-u00-e.pdf",
+    "sem2/AuW/UE/u/bf/AuW-u01-bf.md",
+    "sem2/AuW/UE/u/bf/AuW-u00-bf.md",
+    "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
+    "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
     "var/Untitled",
     "var/Untitled/graphics/mm-1.png",
     "var/var.md",
     "var/Untitled/sem1-schedule.jpg",
     "var/202402271204.md",
     "sem2/PProg/UE/e/PProg-e01.pdf",
-    "sem2/AuW/UE/pg/e/AuW-pg01.pdf",
-    "sem2/DDCA/UE/e/DDCA-e01.pdf",
-    "sem2/Analysis-1/UE/bf/Analysis-1-e01-bf.md",
-    "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
-    "sem2/AuW/UE/u/s/AuW-e01-s.pdf",
+    "sem2/AuW/UE/pg/e/AuW-u01-pg.pdf",
+    "sem2/AuW/UE/u/s/AuW-u01-s.pdf",
     "var/export/AuW-pg01-bf.pdf",
     "sem2/AuW/UE/e/Untitled.md",
     "sem2/AuW/UE/u",
     "sem2/AuW/UE/pg/e",
-    "sem2/AuW/UE/u/s/AuW-e00-s.pdf",
-    "sem2/AuW/UE/u/bf/md/AuW-e01-bf.md",
-    "sem2/AuW/UE/u/bf/md/AuW-e00-bf.md",
-    "sem2/AuW/UE/u/e/AuW-e01.pdf",
-    "sem2/AuW/UE/u/e/AuW-e00.pdf",
+    "sem2/AuW/UE/u/e/AuW-u01-e.pdf",
     "sem2/Analysis-1/VRL/notes/Analysis-1.md",
     "sem2/AuW/VRL/notes/AuW.md",
     "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/PProg/VRL/notes/PProg.md",
-    "sem2/Analysis-1/UE/bf/Analysis-1-e02-bf.md",
+    "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
     "sem2/PProg/VRL/slides/PProg-00-slides.md",
