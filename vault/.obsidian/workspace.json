@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "bd629556f41fb359",
+        "id": "33d9babf73d1e8aa",
         "type": "tabs",
         "children": [
           {
-            "id": "54fc879a9d6aa3e6",
+            "id": "38ec35e0b7328908",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/UE/pg/e/AuW-pg01.pdf"
+              }
+            }
+          },
+          {
+            "id": "8ad8869bc1385536",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem2/AuW/UE/bf/md/AuW-e01-bf.md",
+                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/bf/md/AuW-e01-bf.md",
+                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/bf/md/AuW-e01-bf.md",
+                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/bf/md/AuW-e01-bf.md"
+                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md"
               }
             }
           },
@@ -166,13 +177,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "8ad8869bc1385536",
   "lastOpenFiles": [
-    "sem2/AuW/UE/bf/md/AuW-e00-bf.md",
-    "sem2/AuW/UE/e/AuW-e01.pdf",
-    "sem2/AuW/UE/e/AuW-e00.pdf",
+    "sem2/AuW/UE/pg/e/AuW-pg01.pdf",
     "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
-    "sem2/AuW/UE/pg/AuW-pg01.pdf",
+    "sem2/AuW/UE/e/Untitled.md",
+    "sem2/AuW/UE/u",
+    "sem2/AuW/UE/pg/e",
+    "sem2/AuW/UE/u/s/AuW-e00-s.pdf",
+    "sem2/AuW/UE/u/bf/md/AuW-e01-bf.md",
+    "sem2/AuW/UE/u/bf/md/AuW-e00-bf.md",
+    "sem2/AuW/UE/u/e/AuW-e01.pdf",
+    "sem2/AuW/UE/u/e/AuW-e00.pdf",
     "sem2/AuW/UE/pg/bf",
     "sem2/DDCA/UE/e/DDCA-u01-e.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
@@ -182,13 +198,9 @@
     "sem2/DDCA/VRL/notes/DDCA.md",
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
-    "sem2/AuW/UE/pg",
-    "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf",
-    "sem2/Analysis-1/UE/s/Analysis-1-u02-s.pdf",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
     "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
-    "sem2/AuW/UE/bf/md/AuW-e01-bf.md",
     "var/var.md",
     "sem2/PProg/VRL/slides/PProg-00-slides.md",
     "sem2/AuW/VRL/slides/AuW-00-slides.md",
@@ -203,7 +215,6 @@
     "sem1/LinAlg/VRL/V28_.md",
     "sem1/LinAlg/VRL/V27_.md",
     "sem1/LinAlg/VRL/V26_.md",
-    "sem1/LinAlg/VRL/V25_.md",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
     "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
