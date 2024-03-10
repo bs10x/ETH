@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/pg/e/AuW-pg01.pdf",
+                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/pg/e/AuW-pg01.pdf",
+                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/pg/e/AuW-pg01.pdf"
+                "file": "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md"
               }
             }
           },
@@ -176,10 +177,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "38ec35e0b7328908",
+  "active": "8ad8869bc1385536",
   "lastOpenFiles": [
-    "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
     "sem2/AuW/UE/pg/e/AuW-pg01.pdf",
+    "sem2/AuW/UE/pg/bf/AuW-pg01-bf.md",
     "sem2/AuW/UE/e/Untitled.md",
     "sem2/AuW/UE/u",
     "sem2/AuW/UE/pg/e",

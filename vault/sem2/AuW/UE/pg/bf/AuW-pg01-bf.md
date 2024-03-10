@@ -15,3 +15,8 @@ $E_{T} = \{ \{A, D\}, \{A, B\}, \{B, C\}, \{C, G\}, \{G, F\}, \{F, E\} \}$
 
 
 b)
+We construct $Z$ as follows:
+
+$E_Z = \{ \{A, D\}, \{D, E\}, \{E, F\}, \{F, G\}, \{G, C\}, \{C, B\}, \{B, A\} \}, \ C_Z = 21$.
+
+In particular, we add one edge, $e_Z = \{D, E\}, w(e_Z) = 5$. Since the rest of the edges are only the ones already in the MST $T$, and $w(e_Z) < C_Z$, the 
