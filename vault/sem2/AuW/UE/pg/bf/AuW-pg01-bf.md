@@ -1,5 +1,6 @@
 ## 1.
-a)
+
+#### a)
 We use Prim's algorithm to find the MST of $G$. Starting it on the node $A$ results in the nodes being visited in the following order, with the associated weights.
 
 1. $D, w = 2$
@@ -13,10 +14,18 @@ Thus $T$ contains the following edges:
 
 $E_{T} = \{ \{A, D\}, \{A, B\}, \{B, C\}, \{C, G\}, \{G, F\}, \{F, E\} \}$
 
+___
 
-b)
+#### b)
 We construct $Z$ as follows:
 
 $E_Z = \{ \{A, D\}, \{D, E\}, \{E, F\}, \{F, G\}, \{G, C\}, \{C, B\}, \{B, A\} \}, \ C_Z = 21$.
 
-In particular, we add one edge, $e_Z = \{D, E\}, w(e_Z) = 5$. Since the rest of the edges are only the ones already in the MST $T$, and $w(e_Z) < C_Z$, the 
+In particular, we add one edge, $e_Z = \{D, E\}, w(e_Z) = 5$. Since the rest of the edges are the ones already in the MST $T$, and $w(e_Z) < C_Z$, thus follows:
+
+$C_Z + w(e_Z) < 2C_Z$
+
+___
+
+#### c)
+Since the MST $T$ contains the any closed walk $Z$ in $G$ that must 
