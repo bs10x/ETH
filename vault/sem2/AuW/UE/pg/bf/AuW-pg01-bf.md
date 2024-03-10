@@ -19,7 +19,7 @@ ___
 #### b)
 We construct $Z$ as follows:
 
-$E_Z = \{ \{A, D\}, \{D, E\}, \{E, F\}, \{F, G\}, \{G, C\}, \{C, B\}, \{B, A\} \}, \ C_Z = 21$.
+$E_Z = \{ \{A, D\}, \{D, E\}, \{E, F\}, \{F, G\}, \{G, C\}, \{C, B\}, \{B, A\} \}, \ C_Z = 21$.
 
 In particular, we add one edge, $e_Z = \{D, E\}, w(e_Z) = 5$. Since the rest of the edges are the ones already in the MST $T$, and $w(e_Z) < C_Z$, thus follows:
 
@@ -28,4 +28,5 @@ $C_Z + w(e_Z) < 2C_Z$
 ___
 
 #### c)
-The MST $T$ is, per definition, the walk of minimum length to visit every node. In order for any closed walk $Z$ on $G$ that visits all nodes to be closed, we must add an edge $e_x$ to $T$ to "close" the walk. Since $w(e_x) \geq \min(w(e_T) \ \forall e_T \in E_T$,  
+The MST $T$ is, per definition, the walk of minimum length to visit every node. In order for any closed walk $Z$ on $G$ that visits all nodes to be closed, we must add an edge $e_Z$ to $T$ to "close" the walk. Since $w(e_Z) \geq \min(w(e_T) \ \forall e_T \in E_T$, $\sum_{e \in E_Z} w(e) > C_T$. 
+$\square$
