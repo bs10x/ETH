@@ -11,8 +11,10 @@
             "id": "91e65a9c9c75bb51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf"
+              }
             }
           },
           {
