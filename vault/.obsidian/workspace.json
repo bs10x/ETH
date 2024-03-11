@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w01-cycles.pdf"
+                "file": "sem2/AuW/UE/pg/e/AuW-u01-pg.pdf"
               }
             }
           },
@@ -21,9 +21,11 @@
             "id": "7ad533b57c5039a2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem2/PProg/UE/e/PProg-u02-e.pdf"
+                "file": "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/PProg/UE/e/PProg-u02-e.pdf",
+                "file": "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/PProg/UE/e/PProg-u02-e.pdf",
+                "file": "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/PProg/UE/e/PProg-u02-e.pdf"
+                "file": "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md"
               }
             }
           },
@@ -177,18 +179,18 @@
   },
   "active": "7ad533b57c5039a2",
   "lastOpenFiles": [
-    "sem2/PProg/UE/e/PProg-u01-e.pdf",
+    "sem2/AuW/UE/pg/e/AuW-u01-pg.pdf",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
+    "sem2/AuW/VRL/extra/nwehrli/AuW-w01-cycles.pdf",
+    "sem2/PProg/UE/e/PProg-u01-e.pdf",
+    "sem2/PProg/UE/e/PProg-u02-e.pdf",
     "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf",
     "sem2/AuW/UE/u/bf/corrections/AuW-u01-bf-c.pdf",
     "sem2/AuW/UE/u/bf/corrections",
     "sem2/AuW/VRL/extra/AuW-summary-fschwinn.pdf",
-    "sem2/AuW/VRL/extra/nwehrli/AuW-w01-cycles.pdf",
     "var/var.md",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w03-hall.pdf",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w02-tsp.pdf",
-    "sem2/DDCA/UE/e/DDCA-u01-report.pdf",
-    "sem2/DDCA/UE/e/DDCA-u01-lab.pdf",
     "sem2/AuW/UE/u/bf/AuW-u01-bf.md",
     "sem2/AuW/UE/u/bf/AuW-u00-bf.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
