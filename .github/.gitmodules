@@ -6,3 +6,7 @@
 # [submodule "src/EProg/bfeitknecht"]
 # 	path = src/EProg/bfeitknecht
 # 	url = https://gitlab.inf.ethz.ch/course-eprog2023/students/bfeitknecht.git
+
+ [submodule "src/sem2/PProg/pprog-bfeitknecht"]
+ 	path = /src/sem2/pprog/pprog-bfeitknecht
+ 	url = https://gitlab.inf.ethz.ch/COURSE-PPROG24/pprog-bfeitknecht.git
