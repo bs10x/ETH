@@ -18,27 +18,19 @@
             }
           },
           {
-            "id": "a843fd5add254311",
+            "id": "7ad533b57c5039a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "var/var.md",
+                "file": "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7ad533b57c5039a2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w01-cycles.pdf",
+                "file": "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w01-cycles.pdf",
+                "file": "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w01-cycles.pdf"
+                "file": "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md"
               }
             }
           },
@@ -185,7 +177,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "7ad533b57c5039a2",
   "lastOpenFiles": [
     "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf",
     "sem2/AuW/UE/u/bf/corrections/AuW-u01-bf-c.pdf",

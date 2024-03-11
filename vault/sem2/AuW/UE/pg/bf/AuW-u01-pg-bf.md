@@ -28,5 +28,5 @@ $C_Z + w(e_Z) < 2C_Z$
 ___
 
 #### c)
-The MST $T$ is, per definition, the walk of minimum length to visit every node. In order for any closed walk $Z$ on $G$ that visits all nodes to be closed, we must add an edge $e_Z$ to $T$ to "close" the walk. Since $w(e_Z) \geq \min(w(e_T) \ \forall e_T \in E_T$, $\sum_{e \in E_Z} w(e) > C_T$. 
+The MST $T$ is, per definition, the walk of minimum length to visit every node. In order for any closed walk $Z$ on $G$ that visits all nodes to be closed, we must add an edge $e_Z$ to $T$ to "close" the walk. Since $w(e_Z) \geq \min(w(e_T) \ \forall e_T \in E_T$, $\sum_{e \in E_Z} w(e) > C_T$. Informally, there does not exist an edge not already in the MST that we can add to it without the resul
 $\square$
