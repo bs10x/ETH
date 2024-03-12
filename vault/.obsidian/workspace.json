@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf"
+                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf",
+                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf",
+                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf"
+                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf"
               }
             }
           },
@@ -164,8 +165,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4238e7171cc57599",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem2/PProg/VRL/slides/PProg-L07-concepts.pdf",
+    "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
+    "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf",
     "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf",
     "sem2/AuW/UE/pg/e/AuW-u01-pg.pdf",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
@@ -173,12 +177,9 @@
     "sem2/AuW/VRL/extra/nwehrli/AuW-w01-cycles.pdf",
     "sem2/PProg/UE/e/PProg-u01-e.pdf",
     "sem2/PProg/UE/e/PProg-u02-e.pdf",
-    "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf",
     "sem2/AuW/UE/u/bf/corrections/AuW-u01-bf-c.pdf",
     "sem2/AuW/UE/u/bf/corrections",
-    "sem2/AuW/VRL/extra/AuW-summary-fschwinn.pdf",
     "var/var.md",
-    "sem2/AuW/VRL/extra/nwehrli/AuW-w03-hall.pdf",
     "sem2/AuW/UE/u/bf/AuW-u01-bf.md",
     "sem2/AuW/UE/u/bf/AuW-u00-bf.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
