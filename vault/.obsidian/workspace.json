@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ce60a62dea71a7af",
+        "id": "0c7aa0b6d78d5368",
         "type": "tabs",
         "children": [
           {
-            "id": "4238e7171cc57599",
+            "id": "08026aabf7d1ce81",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
