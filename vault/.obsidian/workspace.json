@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a901ec1f597872",
+        "id": "ce60a62dea71a7af",
         "type": "tabs",
         "children": [
           {
-            "id": "91e65a9c9c75bb51",
+            "id": "4238e7171cc57599",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf"
+                "file": "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf",
+                "file": "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf",
+                "file": "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf"
+                "file": "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf"
               }
             }
           },
@@ -164,8 +164,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "91e65a9c9c75bb51",
+  "active": "4238e7171cc57599",
   "lastOpenFiles": [
+    "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf",
     "sem2/AuW/UE/pg/e/AuW-u01-pg.pdf",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "var/export/AuW-u01-pg-bf.pdf",
