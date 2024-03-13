@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c7aa0b6d78d5368",
+        "id": "6a2c05934a82e4fa",
         "type": "tabs",
         "children": [
           {
-            "id": "08026aabf7d1ce81",
+            "id": "93d2fbb054751331",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -82,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -163,20 +158,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "93d2fbb054751331",
   "lastOpenFiles": [
+    "sem2/DDCA/UE/e/report/DDCA-u01-report.pdf",
+    "sem2/DDCA/UE/bf/DDCA-report01-bf-cs.pdf",
+    "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
+    "sem2/DDCA/UE/e/report",
+    "sem2/DDCA/UE/e/lab",
+    "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
+    "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
+    "sem2/Analysis-1/VRL/extra/maja/analysis-1-w01-maja.pdf",
+    "sem2/Analysis-1/VRL/extra/maja/analysis-1-w02-maja.pdf",
+    "sem2/Analysis-1/VRL/extra/maja/analysis-1-w03-maja.pdf",
+    "sem2/Analysis-1/VRL/extra/maja",
     "sem2/PProg/UE/e/PProg-u03-e.pdf",
-    "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
-    "sem2/PProg/UE/e/PProg-u04-e.pdf",
-    "sem2/PProg/VRL/slides/PProg-L07-concepts.pdf",
-    "sem2/PProg/VRL/slides/PProg-L06-architecture.pdf",
-    "sem2/Analysis-1/UE/e/Analysis-1-u03-e.pdf",
-    "sem2/AuW/UE/pg/e/AuW-u01-pg.pdf",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
-    "var/export/AuW-u01-pg-bf.pdf",
-    "sem2/AuW/VRL/extra/nwehrli/AuW-w01-cycles.pdf",
-    "sem2/PProg/UE/e/PProg-u01-e.pdf",
-    "sem2/PProg/UE/e/PProg-u02-e.pdf",
     "var/var.md",
     "sem2/AuW/UE/u/bf/AuW-u01-bf.md",
     "sem2/AuW/UE/u/bf/AuW-u00-bf.md",
@@ -191,7 +187,6 @@
     "sem2/PProg/VRL/notes/PProg.md",
     "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
     "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
-    "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
     "sem2/PProg/VRL/slides/PProg-00-slides.md",
     "sem2/AuW/VRL/slides/AuW-00-slides.md",
     "sem2/Analysis-1/VRL/slides/Analysis-1-00-slides.md",
