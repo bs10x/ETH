@@ -21,8 +21,10 @@
             "id": "63d25d107ca3f578",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/extra/AuW-summary-fschwinn.pdf"
+              }
             }
           }
         ],
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/AuW/VRL/extra/AuW-summary-fschwinn.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/AuW/VRL/extra/AuW-summary-fschwinn.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/AuW/VRL/extra/AuW-summary-fschwinn.pdf"
+              }
             }
           },
           {
@@ -171,52 +177,52 @@
   },
   "active": "63d25d107ca3f578",
   "lastOpenFiles": [
-    "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
-    "sem2/AuW/VRL/slides/AuW-L03-TSP-PvsNP.pdf",
-    "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
-    "sem2/AuW/VRL/slides/AuW-L05-satz-von-hall.pdf",
-    "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
-    "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
-    "sem2/DDCA/VRL/slides/lectures/DDCA-L04a-combinational-circuits.pdf",
-    "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
-    "sem2/DDCA/VRL/slides/lectures/DDCA-L07-sequential-logicpdf.pdf",
-    "sem2/DDCA/VRL/slides/lectures/DDCA-L06-arithmetic-circuits.pdf",
-    "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
-    "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
-    "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
-    "var/var.md",
-    "sem2/AuW/UE/u/bf/AuW-u01-bf.md",
-    "sem2/AuW/UE/u/bf/AuW-u00-bf.md",
-    "sem2/Analysis-1/UE/bf/Analysis-1-u01-bf.md",
-    "var/Untitled/graphics/mm-1.png",
-    "var/Untitled/sem1-schedule.jpg",
-    "var/202402271204.md",
-    "sem2/AuW/UE/e/Untitled.md",
-    "sem2/Analysis-1/VRL/notes/Analysis-1.md",
-    "sem2/AuW/VRL/notes/AuW.md",
-    "sem2/DDCA/VRL/notes/DDCA.md",
-    "sem2/PProg/VRL/notes/PProg.md",
-    "sem2/Analysis-1/UE/bf/Analysis-1-u02-bf.md",
-    "sem2/DDCA/VRL/slides/DDCA-00-slides.md",
-    "sem2/PProg/VRL/slides/PProg-00-slides.md",
-    "sem2/AuW/VRL/slides/AuW-00-slides.md",
-    "sem2/Analysis-1/VRL/slides/Analysis-1-00-slides.md",
-    "Untitled.md",
-    "sem2/PProg/UE/bf/PProg-u02-bf.md",
-    "var/attachments/sem1_schedule.jpg.md",
+    "sem2/AuW/VRL/extra/AuW-script.pdf",
+    "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-matrix.png",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-column-vector.png",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/l-mult-matrix-by-row-vector.png",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/l-mult-matrix-by-matrix.png",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/GRAPHIC-r-mult-matrix-by-matrix.png",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/GRAPHIC-r-mult-matrix-by-column-vector.png",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/GRAPH-l-mult-matrix-by-row-vector.png",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/GRAPH-l-mult-matrix-by-matrix.png",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/Linalg-w01-kai.pdf",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/Linalg-w00-kai.pdf",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w13-kai.pdf",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w12-kai.pdf",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w11-kai.pdf",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w10-kai.pdf",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w09-kai.pdf",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w08-kai.pdf",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w07-kai.pdf",
+    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w06-kai.pdf",
+    "sem1/DMath/UE/bf/md/DMath-u12-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u10-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u09-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u08-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u07-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u06-bf.md",
+    "sem1/DMath/UE/bf/md/DMath-u01-bf.md",
+    "sem1/AuD/UE/bf/md/AuD-u11-bf.md",
+    "sem1/AuD/UE/bf/md/AuD-u09-bf.md",
+    "sem1/AuD/UE/bf/md/AuD-u08-bf.md",
+    "sem1/AuD/UE/bf/md/AuD-u07-bf.md",
+    "sem1/AuD/UE/bf/md/AuD-u00-bf.md",
+    "sem1/EProg/UE/bf/EProg-u02-bf.md",
+    "sem1/EProg/UE/bf/EProg-u01-bf.md",
+    "sem1/DMath/00-EXAM-PREP/summaries/exponential-modular-arithmetic.jpg",
+    "sem1/AuD/00-EXAM-PREP/summaries/java-algorithms.md",
+    "sem1/LinAlg/lib/LinAlg_lib.md",
+    "sem1/LinAlg/lib/LinAlg.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
     "sem1/LinAlg/VRL/V27_.md",
     "sem1/LinAlg/VRL/V26_.md",
-    "sem1/00-EXAM-PREP/var/graphics/sigma-sums-2.jpeg",
-    "sem1/00-EXAM-PREP/var/graphics/sigma-sums-1.jpeg",
-    "sem1/00-EXAM-PREP/var/graphics/mm-4.png",
-    "sem1/00-EXAM-PREP/var/graphics/mm-3.png",
-    "sem1/00-EXAM-PREP/var/graphics/mm-2.png",
-    "sem1/00-EXAM-PREP/var/graphics/mm-1.png",
-    "sem1/00-EXAM-PREP/var/graphics/log-properties-3.png",
-    "sem1/00-EXAM-PREP/var/graphics/log-properties-2.png",
+    "sem1/LinAlg/VRL/V25_.md",
+    "sem1/LinAlg/VRL/V24_.md",
+    "sem1/LinAlg/00-EXAM-PREP/LinAlg-topics-demistified.png",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
   ]
