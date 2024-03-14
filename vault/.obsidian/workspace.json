@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a2c05934a82e4fa",
+        "id": "e37b4969ead5f468",
         "type": "tabs",
         "children": [
           {
-            "id": "93d2fbb054751331",
+            "id": "1b6fe651bdee6dfe",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf"
               }
             }
           },
@@ -164,20 +164,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "93d2fbb054751331",
+  "active": "1b6fe651bdee6dfe",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L03-TSP-PvsNP.pdf",
+    "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
+    "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
+    "sem2/DDCA/VRL/slides/lectures/DDCA-L04a-combinational-circuits.pdf",
+    "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
+    "sem2/DDCA/VRL/slides/lectures/DDCA-L07-sequential-logicpdf.pdf",
+    "sem2/DDCA/VRL/slides/lectures/DDCA-L06-arithmetic-circuits.pdf",
     "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u01-report.pdf",
     "sem2/DDCA/UE/bf/DDCA-report01-bf-cs.pdf",
     "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
-    "sem2/DDCA/UE/e/report",
-    "sem2/DDCA/UE/e/lab",
-    "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
-    "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
-    "sem2/Analysis-1/VRL/extra/maja/analysis-1-w01-maja.pdf",
-    "sem2/Analysis-1/VRL/extra/maja/analysis-1-w02-maja.pdf",
-    "sem2/Analysis-1/VRL/extra/maja/analysis-1-w03-maja.pdf",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "var/var.md",
     "sem2/AuW/UE/u/bf/AuW-u01-bf.md",
