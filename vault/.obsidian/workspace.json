@@ -23,7 +23,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "63d25d107ca3f578",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
     "sem2/AuW/VRL/extra/AuW-summary-fschwinn.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
@@ -196,7 +197,6 @@
     "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w10-kai.pdf",
     "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w09-kai.pdf",
     "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w08-kai.pdf",
-    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w07-kai.pdf",
     "sem1/DMath/UE/bf/md/DMath-u12-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u10-bf.md",
