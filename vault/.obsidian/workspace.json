@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L04-matching.pdf"
               }
             }
           },
@@ -166,17 +166,17 @@
   },
   "active": "1b6fe651bdee6dfe",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L05-matching-algorithms.pdf",
     "sem2/AuW/VRL/slides/AuW-L03-TSP-PvsNP.pdf",
+    "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
     "sem2/AuW/VRL/slides/AuW-L04-matching.pdf",
-    "sem2/AuW/VRL/slides/AuW-L05-matching++.pdf",
+    "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04a-combinational-circuits.pdf",
     "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L07-sequential-logicpdf.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L06-arithmetic-circuits.pdf",
-    "sem2/AuW/VRL/slides/AuW-L02-cycles.pdf",
     "sem2/AuW/VRL/slides/AuW-L01-connection.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u01-report.pdf",
-    "sem2/DDCA/UE/bf/DDCA-report01-bf-cs.pdf",
     "sem2/DDCA/UE/bf/DDCA-u01-bf-cs.md",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "var/var.md",
