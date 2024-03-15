@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e37b4969ead5f468",
+        "id": "e77bf075e012c10d",
         "type": "tabs",
         "children": [
           {
-            "id": "1b6fe651bdee6dfe",
+            "id": "9bf7d471a61554d4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf"
-              }
-            }
-          },
-          {
-            "id": "63d25d107ca3f578",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf"
-              }
-            }
-          },
-          {
-            "id": "83d9b88e7625d863",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf"
               }
             }
           },
@@ -185,9 +164,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "83d9b88e7625d863",
+  "active": "9bf7d471a61554d4",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
+    "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L07-sequential-logic-design.pdf.pdf",
@@ -196,8 +177,6 @@
     "sem2/DDCA/VRL/slides/lectures/DDCA-L03-combinational-circuits-theory.pdf",
     "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
-    "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
-    "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
     "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-matrix.png",
     "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-column-vector.png",
