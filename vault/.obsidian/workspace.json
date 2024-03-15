@@ -23,7 +23,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf"
+                "file": "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf"
               }
             }
           }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
+                "file": "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
+                "file": "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf"
+                "file": "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf"
               }
             }
           },
@@ -177,6 +178,8 @@
   },
   "active": "63d25d107ca3f578",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
+    "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
     "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
     "sem2/AuW/VRL/extra/AuW-summary-fschwinn.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
@@ -195,8 +198,6 @@
     "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w12-kai.pdf",
     "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w11-kai.pdf",
     "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w10-kai.pdf",
-    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w09-kai.pdf",
-    "sem1/LinAlg/00-EXAM-PREP/summaries/kai/LinAlg-w08-kai.pdf",
     "sem1/DMath/UE/bf/md/DMath-u12-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u11-bf.md",
     "sem1/DMath/UE/bf/md/DMath-u10-bf.md",
