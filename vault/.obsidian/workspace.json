@@ -38,7 +38,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf"
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
               }
             }
           },
@@ -186,10 +186,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "63d25d107ca3f578",
+  "active": "83d9b88e7625d863",
   "lastOpenFiles": [
-    "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
+    "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
     "sem2/AuW/VRL/extra/AuW-summary-fschwinn.pdf",
