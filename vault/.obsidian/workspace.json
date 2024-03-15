@@ -33,7 +33,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf"
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf",
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf",
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf"
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "83d9b88e7625d863",
   "lastOpenFiles": [
-    "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf",
+    "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf",
+    "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L07-sequential-logic-design.pdf.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L06-arithmetic-circuits.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04a-combinational-circuits-theory.pdf",
@@ -196,7 +197,6 @@
     "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
-    "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
     "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-matrix.png",
