@@ -11,8 +11,10 @@
             "id": "68cc0f386a576f2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w04-hopcroft-karp.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w04-hopcroft-karp.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w04-hopcroft-karp.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w04-hopcroft-karp.pdf"
+              }
             }
           },
           {
@@ -158,8 +164,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "68cc0f386a576f2a",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/extra/nwehrli/AuW-w04-hopcroft-karp.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
     "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
@@ -170,7 +177,6 @@
     "sem2/DDCA/VRL/slides/lectures/DDCA-L06-arithmetic-circuits.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04a-combinational-circuits-theory.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L03-combinational-circuits-theory.pdf",
-    "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
     "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-matrix.png",
     "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-column-vector.png",
