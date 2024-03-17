@@ -7,8 +7,11 @@ Let $G = (V, E)$ be the 4-regular Graph representing the playing cards. Thus,$$
 & V = \{\mathbb Z_9^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \} \\
 & E=\{(v_1, v_2) \in V \times V \ | \ v_1 \prec v2 \}
 \end{align}
-$$where the function $\nu := V \rightarrow \mathbb Z_9$, maps every card to its numerical value and the relation $\prec := \nu(v_1) + 1 \equiv_9 \nu(v_2)$ on $V$ defines, if a given card comes one before another. We a
+$$where the function $\nu := V \rightarrow \mathbb Z_9$, maps every card to its numerical value and the relation $\prec := \nu(v_1) + 1 \equiv_9 \nu(v_2)$ on $V$ defines, if a given card comes one before another. 
 
+The algorithm is thus:
 ```
-print("yes")
+if (true) print("yes")
 ```
+
+Let $G'=(V', E')$, where $V' = E' = \varnothing$ and let $S_1, S_2, \dots S_9$ as described. Furhermore, let $a$ denote, how often we have seen a numerical value  We construct the graph as follows: we pick a card $v$ from 
