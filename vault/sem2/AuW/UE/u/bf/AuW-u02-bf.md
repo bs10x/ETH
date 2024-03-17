@@ -6,7 +6,8 @@ Let $G = (V, E)$ be the 4-regular Graph representing the playing cards. Thus,
 
 $$
 \begin{align}
-& S = \{\} \\
+& \text{Suits} = \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+& \text{Values} = \mathbb Z_9^* \\
 & V = \{\text{the playing cards}\} \\
 & G=\{(v_1, v2) \in V \times V \ | \ v_1 \prec v2 \}
 \end{align}
