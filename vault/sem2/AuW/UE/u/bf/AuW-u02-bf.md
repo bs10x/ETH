@@ -18,7 +18,7 @@ Let $G'=(V', E')$, where $V' = E' = \varnothing$ and let $S_1, S_2, \dots S_9$ a
 $$
 \begin{align}
 % & S = \bigcup_{i = 1}^9  \\
-& V' = \bigcup_{i = 1}{v \in S_{i \in \mathbb Z^*_9 + 1} | \nu(v) \neq \nu(v') \forall v' \in V'} v_{S_i} \\ %f_{\max}(v)
+& V' = \bigcup_{i = 1}^{9} v \in S_i  \quad | \ f_{\max}(v), \forall v' \in V' \nu(v) \neq \nu(v')   \\ %
 & V' \implies E' 
 \end{align}
 $$
