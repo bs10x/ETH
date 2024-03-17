@@ -17,7 +17,8 @@ if (true) print("yes")
 Let $G'=(V', E')$, where $V' = E' = \varnothing$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f:= V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given value. We construct the graph as follows:
 $$
 \begin{align}
-& V' = \sum_{v \in S_{i \in \mathbb Z^*_9 + 1} | \nu(v) \neq \nu(v') \forall v' \in V'} f_{\max}(v) \\
+% & S = \bigcup_{i = 1}^9  \\
+& V' = \bigcup_{i = 1}{v \in S_{i \in \mathbb Z^*_9 + 1} | \nu(v) \neq \nu(v') \forall v' \in V'} v_{S_i} \\ %f_{\max}(v)
 & V' \implies E' 
 \end{align}
 $$
