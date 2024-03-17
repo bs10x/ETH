@@ -14,4 +14,9 @@ The algorithm is thus:
 if (true) print("yes")
 ```
 
-Let $G'=(V', E')$, where $V' = E' = \varnothing$ and let $S_1, S_2, \dots S_9$ as described. Furhermore, let $a$ denote, how often we have seen a numerical value  We construct the graph as follows: we pick a card $v$ from 
+Let $G'=(V', E')$, where $V' = E' = \varnothing$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f:= V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given value. We construct the graph as follows:
+$$
+\begin{align}
+& V\\
+\end{align}
+$$
