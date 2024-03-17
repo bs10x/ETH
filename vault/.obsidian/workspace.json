@@ -4,38 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "8e4bcbde5e0b40e5",
-        "type": "tabs",
-        "dimension": 33.71934604904632,
-        "children": [
-          {
-            "id": "46a484a0ebfe6635",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/AuW/UE/u/e/AuW-u02-e.pdf"
-              }
-            }
-          },
-          {
-            "id": "bb5468006856d444",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "05b52c68e7b8d617",
         "type": "tabs",
-        "dimension": 66.28065395095368,
         "children": [
           {
             "id": "d7e440b9f059dea2",

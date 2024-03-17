@@ -7,7 +7,7 @@ Let $G = (V, E)$ be the 4-regular Graph representing the playing cards. Thus,$$
 & V = \{\mathbb Z_9^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \} \\
 & E=\{(v_1, v_2) \in V \times V \ | \ v_1 \prec v2 \}
 \end{align}
-$$where the function $\nu := V \rightarrow \mathbb Z_9$, maps every card to its numerical value and the relation $\prec := \nu(v_1) + 1 \equiv_9 \nu(v_2)$ on $V$ defines, if a given card comes one before another. 
+$$where the function $\nu := V \rightarrow \mathbb Z_9$, maps every card to its numerical value and the relation $\prec := \nu(v_1) + 1 \equiv_9 \nu(v_2)$ on $V$ defines, if a given card comes one before another. Note, that we 
 
 The algorithm is thus:
 ```
@@ -22,7 +22,7 @@ $$
 & V' \implies E' 
 \end{align}
 $$
-By construction, the graph contains one card from every stack, the graph's cards together form a straight (Strasse).
-
+By construction, the graph contains one card from every stack, that together form a straight (Strasse).
+$\square$
 
 ## b)
