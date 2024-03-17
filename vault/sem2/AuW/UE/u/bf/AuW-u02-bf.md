@@ -17,6 +17,7 @@ if (true) print("yes")
 Let $G'=(V', E')$, where $V' = E' = \varnothing$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f:= V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given value. We construct the graph as follows:
 $$
 \begin{align}
-& V\\
+& V' = \sum_{v \in S_i} f_{\max}(v) \\
+& V' \implies E' 
 \end{align}
 $$
