@@ -14,11 +14,11 @@ The algorithm is thus:
 if (true) print("yes")
 ```
 
-Let $G'=(V', E')$, where $V' = E' = \varnothing$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f:= V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given value. We construct the graph as follows:
+Let $G'=(V', E')$, where $V' = E' = \varnothing$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f:= V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given card's numerical value. We construct the graph as follows:
 $$
 \begin{align}
 % & S = \bigcup_{i = 1}^9  \\
-& V' = \bigcup_{i = 1}^{9} v \in S_i  \quad | \ f_{\max}(v), \forall v' \in V' \nu(v) \neq \nu(v')   \\ %
+& V' = \bigcup_{i = 1}^{9} v \in S_i  : f_{\max}(v), \forall v' \in V' \nu(v) \neq \nu(v')   \\ %
 & V' \implies E' 
 \end{align}
 $$
