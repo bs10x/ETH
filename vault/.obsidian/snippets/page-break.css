@@ -4,23 +4,47 @@
     text-align: center;
     margin-top: 0.5rem;
   }
+/*   div[style^=page-break]:before { */
+/*     display: block; */
+/*     position: absolute; */
+/*     width: 100%; */
+/*     content: ''; */
+/*     border: 1px dashed var(--text-faint); */
+/*     height: 0px; */
+/*     top: 0.8rem; */
+/*     z-index: -1; */
+/*   } */
   div[style^=page-break]:before {
-    display: block;
-    position: absolute;
-    width: 100%;
-    content: '';
-    border: 1px dashed var(--text-faint);
-    height: 0px;
-    top: 0.8rem;
-    z-index: -1;
-
+      display: block;
+      position: absolute;
+      width: 100%;
+      content: '';
+      border: 1px dashed var(--text-faint);
+      height: 0px;
+      top: 50%;
+      transform: translateY(-50%); /* Center the dashed line vertically */
+      z-index: -1;
   }
+  /* div[style^=page-break]:after { */
+  /*   font-size: 0.8rem; */
+  /*   content: 'PAGE BREAK'; */
+  /*   display: inline-block; */
+  /*   background-color: var(--background-primary); */
+  /*   padding: 0px 10px; */
+  /*   color: var(--text-faint); */
+  /* } */
+
   div[style^=page-break]:after {
-    font-size: 0.8rem;
-    content: 'PAGE BREAK';
-    display: inline-block;
-    background-color: var(--background-primary);
-    padding: 0px 10px;
-    color: var(--text-faint);
+      font-size: 0.8rem;
+      content: 'PAGE BREAK';
+      display: inline-block;
+      background-color: var(--background-primary);
+      padding: 0px 10px;
+      color: var(--text-faint);
+      position: absolute;
+      top: 0.8rem; /* Adjust this value for vertical alignment */
+      left: 50%;
+      transform: translateX(-50%);
   }
 }
+
