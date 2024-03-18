@@ -22,7 +22,7 @@ Let $G'=(V', E')$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $
 $$
 f(v) =
 \begin{cases}
-1, \\
+1, v \in \text{"Ass"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \}  \\
 2, \\
 3, \\
 4, \\
