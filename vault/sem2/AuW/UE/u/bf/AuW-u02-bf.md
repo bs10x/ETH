@@ -89,26 +89,10 @@ end
 print(picked)
 ```
 
-A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the Hopcroft-Karp algorithm to find a perfect matching. We pick all cards in the resulting vertex set.
+A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the Hopcroft-Karp algorithm to find a perfect matching (which exists, since $G$ is regular and connected). We pick all cards in the perfect matchings vertex set.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-___
-DO NOT GRADE !!!
-
-A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the following algorithm:
+An even more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the following algorithm:
 
 ```
 // linear-pick-cards(G)
@@ -119,7 +103,8 @@ M1 = every-other(2F)   // perfect matching of G, colors = {a, b}
 M2 = every-other(2F)   // perfect matching of G, colors = {c, d}, M1 ≠ M2
 
 P = 2-color(M1) xor 2-color(M2)   // 4-colored set of edges
-return 1-color set in P
+picked = 1-color set in P
+print(picked)
 
 function euler-tour(G)
 	return euler tour of G
@@ -133,8 +118,5 @@ end
 function 2-color(G)
 	for edge in E alternate color
 end
-
 ```
 
-Because the [degree](https://en.wikipedia.org/wiki/Degree_(graph_theory) "Degree (graph theory)") of every vertex in a quartic graph is even, every [connected](https://en.wikipedia.org/wiki/Connected_graph "Connected graph") quartic graph has an [Euler tour](https://en.wikipedia.org/wiki/Euler_tour "Euler tour"). And as with regular bipartite graphs more generally, every [bipartite](https://en.wikipedia.org/wiki/Bipartite_graph "Bipartite graph") quartic graph has a [perfect matching](https://en.wikipedia.org/wiki/Perfect_matching "Perfect matching"). In this case, a much simpler and faster [algorithm](https://en.wikipedia.org/wiki/Algorithm "Algorithm") for finding such a matching is possible than for irregular graphs: by selecting every other edge of an Euler tour, one may find a [2-factor](https://en.wikipedia.org/wiki/Graph_factorization "Graph factorization"), which in this case must be a collection of cycles, each of even length, with each vertex of the graph appearing in exactly one cycle. By selecting every other edge again in these cycles, one obtains a perfect matching in [linear time](https://en.wikipedia.org/wiki/Linear_time "Linear time"). The same method can also be used to [color the edges of the graph](https://en.wikipedia.org/wiki/Edge_coloring "Edge coloring") with four colors in linear time.
-[[7]](https://en.wikipedia.org/wiki/Quartic_graph#cite_note-7)

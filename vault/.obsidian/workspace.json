@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -170,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,9 +189,9 @@
   },
   "active": "d7e440b9f059dea2",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
-    "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/AuW/UE/u/e/AuW-u02-e.pdf",
     "var/attachments/AuW-u02-e.pdf",
     "sem2/AuW/UE/u/e/AuW-u00-e.pdf",
