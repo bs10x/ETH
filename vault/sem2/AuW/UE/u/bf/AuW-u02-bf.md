@@ -43,8 +43,11 @@ for stack Si
 end
 
 function backtrack()
-	"go back to last decision point and make a different decision",
-	if !different_decision_possible do backtrack() end
+	if !different_decision_possible do backtrack()
+	else
+		go back to last choice
+		make different decision
+	end
 end
 ```
 
