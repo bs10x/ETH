@@ -43,11 +43,10 @@ for stack Si
 end
 
 function backtrack()
-	if !different_decision_possible do backtrack()
-	else
-		go back to last choice
-		make different decision
-	end
+	picked.pop()    // remove card last added
+	go back to last decision
+	if !pick-different possible do backtrack()
+	else pick-different end
 end
 ```
 
