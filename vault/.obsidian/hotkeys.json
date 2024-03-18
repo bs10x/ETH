@@ -24,5 +24,13 @@
       ],
       "key": "P"
     }
+  ],
+  "templater-obsidian:var/support/templates/page-break.template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }

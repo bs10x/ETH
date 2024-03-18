@@ -22,7 +22,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "var/support/templates/page-break"
+    "var/support/templates/page-break.template.md"
   ],
   "startup_templates": [
     ""
