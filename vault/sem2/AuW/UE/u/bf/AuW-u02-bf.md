@@ -2,7 +2,21 @@
 
 ## a)
 
-Let $G = (V, E)$ be the 4-regular Graph representing the playing cards. Thus,$$
+Let $G = (V, E)$ be the 4-regular Graph representing the playing cards.
+For the purpose of simplicity, let$$
+\begin{align}
+& 1 \sim \text{"6"} \\
+& 2 \text{"7"} \\
+& 3, \quad v \in \text{"8"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+& 4, \quad v \in \text{"9"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+& 5, \quad v \in \text{"10"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+6, \quad v \in \text{"Under"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+7, \quad v \in \text{"Ober"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+8, \quad v \in \text{"König"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+9, \quad v \in \text{"Ass"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+\end{align}
+$$be the mapping of 
+Thus,$$
 \begin{align}
 & V = \{\mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \} \\
 & E=\{(v_1, v_2) \in V \times V \ | \ v_1 \prec v2 \}
@@ -19,20 +33,6 @@ if (true) print("yes")
 ```
 
 Let $G'=(V', E')$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f: V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given card's numerical value.
-$$
-\nu(v) =
-\begin{cases}
-1, \quad v \in \text{"6"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-2, \quad v \in \text{"7"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-3, \quad v \in \text{"8"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-4, \quad v \in \text{"9"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-5, \quad v \in \text{"10"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-6, \quad v \in \text{"Under"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-7, \quad v \in \text{"Ober"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-8, \quad v \in \text{"König"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-9, \quad v \in \text{"Ass"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-\end{cases}
-$$
 We construct the graph as follows:
 $$
 \begin{align}
