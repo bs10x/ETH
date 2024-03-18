@@ -2,6 +2,7 @@
 
 <div style="page-break-after: always;"></div>
 
+
 # a)
 
 Let $G = (V, E)$ be the connected 4-regular Graph representing the playing cards.

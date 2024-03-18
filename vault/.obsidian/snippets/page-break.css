@@ -3,6 +3,7 @@
     position: relative;
     text-align: center;
     margin-top: 0.5rem;
+     margin-bottom: 0.5rem;
   }
   div[style^=page-break]:before {
     display: block;
@@ -14,29 +15,17 @@
     transform: translateY(-50%);
     z-index: -1;
   }
-  /* div[style^=page-break]:after { */
-  /*   font-size: 0.8rem; */
-  /*   content: 'PAGE BREAK'; */
-  /*   display: inline-block; */
-  /*   background-color: var(--background-primary); */
-  /*   padding: 0px 10px; */
-  /*   color: var(--text-faint); */
-  /*   position: absolute; */
-  /*   left: 50%; */
-  /*   transform: translateX(-50%); */
-  /*   bottom: -0.5rem; */
-  /* } */
   div[style^=page-break]:after {
-      font-size: 0.8rem;
+      font-size: 0.7rem;
       content: 'PAGE BREAK';
       display: inline-block;
       background-color: var(--background-primary);
-      padding: 0.7em 0.2rem; /* Adjust padding as needed */
+      padding: 1.4rem 0.2rem; /* adjust padding as needed */
       color: var(--text-faint);
       position: absolute;
       left: 50%;
       transform: translateX(-50%);
-      bottom: -1.1rem; /* Adjust this value for vertical alignment */
-      z-index: 1; /* Ensure text appears above the line */
+      bottom: -1.9rem; /* adjust this value for vertical alignment */
+      z-index: 1;
   }
 }
