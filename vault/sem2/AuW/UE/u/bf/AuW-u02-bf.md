@@ -36,24 +36,14 @@ for stack Si do
 	end
 end
 
-if cards.keys().size() != 4 print("No") end  // not four suits
+if cards.keys().size() != 4 print("No") end    // not four suits
 for suit in cards.keys() do
-	if suit.size() != 9 print("No") end // not 
+	if suit.size() != 9 print("No") end   // not 9 cards per suit
 end
 
-print("Yes")
+print("Yes")    // deck complete => straight possible
 ```
 
-Let $G'=(V', E')$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f: V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given card's numerical value.
-We construct the graph as follows:
-$$
-\begin{align}
-& V' = \bigcup_{i \in \mathbb Z^*_9} v \in S_i  : f_{\max}(v), \forall v' \in V' \ \nu(v) \neq \nu(v')   \\
-& V' \implies E' \\
-\end{align}
-$$
-By construction, the graph contains one card from every stack, that together form a straight (Strasse).
-$\square$
 
 
 ___
@@ -82,3 +72,15 @@ function backtrack()
 	else pick-different end
 end
 ```
+
+
+Let $G'=(V', E')$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f: V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given card's numerical value.
+We construct the graph as follows:
+$$
+\begin{align}
+& V' = \bigcup_{i \in \mathbb Z^*_9} v \in S_i  : f_{\max}(v), \forall v' \in V' \ \nu(v) \neq \nu(v')   \\
+& V' \implies E' \\
+\end{align}
+$$
+By construction, the graph contains one card from every stack, that together form a straight (Strasse).
+$\square$
