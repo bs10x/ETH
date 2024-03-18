@@ -89,7 +89,7 @@ end
 print(picked)
 ```
 
-A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the Hopcroft-Karp algorithm. To find a perfect matching. We pick all cards in the vertex set.
+A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the Hopcroft-Karp algorithm to find a perfect matching. We pick all cards in the resulting vertex set.
 
 
 
