@@ -2,7 +2,7 @@
 
 ## a)
 
-Let $G = (V, E)$ be the 4-regular Graph representing the playing cards.
+Let $G = (V, E)$ be the connected 4-regular Graph representing the playing cards.
 For the purpose of simplicity, let$$
 \begin{align}
 	& 1 \simeq \text{"6"} \\
@@ -15,11 +15,10 @@ For the purpose of simplicity, let$$
 & 8 \simeq \text{"König"} \\
 & 9 \simeq \text{"Ass"} \\
 \end{align}
-$$be the mapping of numerical values to card values. Note, that this mapping is arbitrarily chosen and does not 
-Thus,$$
+$$be the mapping of numerical values to card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. Thus,$$
 \begin{align}
 & V = \{\mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \} \\
-& E=\{(v_1, v_2) \in V \times V \ | \ v_1 \prec v2 \}
+& E=\{(v_1, v_2) \in V \times V \ | \ v_1 \prec v_2 \}
 \end{align}
 $$where the function $\nu : V \rightarrow \mathbb Z_9^*$, maps every card to its numerical value and the relation $\prec \overset{def}{=} \nu(v_1) + 1 \equiv_9 \nu(v_2)$ on $V$ defines, if a given card comes one before another. Note, that we assume the card values to loop back on themselves.
 ```mermaid
@@ -42,5 +41,8 @@ $$
 $$
 By construction, the graph contains one card from every stack, that together form a straight (Strasse).
 $\square$
+
+
+___
 
 ## b)
