@@ -27,7 +27,7 @@ graph LR;
 ```
 
 The algorithm is thus:
-```
+```straight-possible(stacks S1, S2)
 Map cards = {}
 
 for stack Si do
