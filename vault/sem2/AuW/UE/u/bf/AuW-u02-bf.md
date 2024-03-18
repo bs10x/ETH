@@ -28,26 +28,11 @@ graph LR;
 
 The algorithm is thus:
 ```
-picked = {}
-for stack Si
-	card ci_fmax = {}
-	for card cj in stack Si
-		if f(cj) > f(ci_fmax) do
-			if !picked.contains(val(cj)) do
-				picked.add(cj)
-			elseif !picked.contains(val(ci_fmax)) do
-				picked.add(ci_fmax)
-			else backtrack() end
-		end
-	end
-end
+Map cards = {}
 
-function backtrack()
-	picked.pop()    // remove card last added
-	go back to last decision
-	if !pick-different possible do backtrack()
-	else pick-different end
-end
+for stack Si do
+	for card cj in stack Si do
+		cards.put
 ```
 
 Let $G'=(V', E')$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f: V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given card's numerical value.
@@ -65,3 +50,26 @@ $\square$
 ___
 
 ## b)
+
+```
+picked = {}
+for stack Si do
+	card ci_fmax = {}
+	for card cj in stack Si
+		if f(cj) > f(ci_fmax) do
+			if !picked.contains(val(cj)) do
+				picked.add(cj)
+			elseif !picked.contains(val(ci_fmax)) do
+				picked.add(ci_fmax)
+			else backtrack() end
+		end
+	end
+end
+
+function backtrack()
+	picked.pop()    // remove card last added
+	go back to last decision
+	if !pick-different-possible do backtrack()
+	else pick-different end
+end
+```
