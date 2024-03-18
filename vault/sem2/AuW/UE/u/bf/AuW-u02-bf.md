@@ -20,17 +20,17 @@ if (true) print("yes")
 
 Let $G'=(V', E')$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f: V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given card's numerical value.
 $$
-f(v) =
+\nu(v) =
 \begin{cases}
-1, v \in \text{"Ass"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \}  \\
-2, \\
-3, \\
-4, \\
-5, \\
-6, \\
-7, \\
-8, \\
-9, \\
+1, \quad v \in \text{"6"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+2, \quad v \in \text{"7"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+3, \quad v \in \text{"8"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+4, \quad v \in \text{"9"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+5, \quad v \in \text{"10"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+6, \quad v \in \text{"Under"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+7, \quad v \in \text{"Ober"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+8, \quad v \in \text{"König"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+9, \quad v \in \text{"Ass"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
 \end{cases}
 $$
 We construct the graph as follows:
