@@ -11,7 +11,7 @@
     content: '';
     border: 1px dashed var(--text-faint);
     height: 0px;
-    top: 0.8rem;
+    top: 0.8em;
     z-index: -1;
 
   }
@@ -22,7 +22,12 @@
     background-color: var(--background-primary);
     padding: 0px 10px;
     color: var(--text-faint);
-    /* position: relative; */
-    /* top: 0.1rem; */
+    position: fixed
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%); /* Center horizontally */
+    bottom: 0; /* Stick to the bottom */
+    margin-bottom: 10px; /* Add some space from the bottom */;
+    
+    top: 0.1em;
   }
 }
