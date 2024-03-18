@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
+                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
+                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf"
+                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md"
               }
             }
           },
@@ -186,11 +185,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "660d9e667ccb502f",
+  "active": "d7e440b9f059dea2",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
-    "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
     "sem2/AuW/UE/u/e/AuW-u02-e.pdf",
     "var/attachments/AuW-u02-e.pdf",
     "sem2/AuW/UE/u/e/AuW-u00-e.pdf",
