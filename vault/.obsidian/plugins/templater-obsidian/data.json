@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "var/support/templates",
   "templates_pairs": [
     [
       "",
@@ -22,7 +22,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "var/support/templates/page-breaks.css"
   ],
   "startup_templates": [
     ""

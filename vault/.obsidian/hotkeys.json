@@ -15,5 +15,14 @@
       "key": "S"
     }
   ],
-  "editor:save-file": []
+  "editor:save-file": [],
+  "command-palette:open": [],
+  "templater-obsidian:var/support/templates/page-breaks.css": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ]
 }
