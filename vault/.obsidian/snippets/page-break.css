@@ -25,6 +25,7 @@
       transform: translateY(-50%); /* Center the dashed line vertically */
       z-index: -1;
   }
+  /* original  */
   /* div[style^=page-break]:after { */
   /*   font-size: 0.8rem; */
   /*   content: 'PAGE BREAK'; */
@@ -33,18 +34,43 @@
   /*   padding: 0px 10px; */
   /*   color: var(--text-faint); */
   /* } */
+  
+  /* v1  */
+  /* div[style^=page-break]:after { */
+  /*     font-size: 0.8rem; */
+  /*     content: 'PAGE BREAK'; */
+  /*     display: inline-block; */
+  /*     background-color: var(--background-primary); */
+  /*     padding: 0px 10px; */
+  /*     color: var(--text-faint); */
+  /*     position: absolute; */
+  /*     top: 3rem; /* Adjust this value for vertical alignment */ */
+  /*     left: 50%; */
+  /*     transform: translateX(-50%); */
+  /* } */
 
-  div[style^=page-break]:after {
+  /* div[style^=page-break]:after { */
+  /*     font-size: 0.8rem; */
+  /*     content: 'PAGE BREAK'; */
+  /*     display: block; /* Display as block to center the text */ */
+  /*     background-color: var(--background-primary); */
+  /*     padding: 0px 10px; */
+  /*     color: var(--text-faint); */
+  /*     position: relative; */
+  /*     top: -0.4rem; /* Adjust this value for vertical alignment */ */
+  /* } */
+ div[style^=page-break]:after {
       font-size: 0.8rem;
       content: 'PAGE BREAK';
-      display: inline-block;
+      display: block;
       background-color: var(--background-primary);
       padding: 0px 10px;
       color: var(--text-faint);
       position: absolute;
-      top: 0.8rem; /* Adjust this value for vertical alignment */
+      top: 50%;
       left: 50%;
-      transform: translateX(-50%);
+      transform: translate(-50%, -50%);
+      z-index: 1; /* Ensure text appears above the line */
   }
 }
 
