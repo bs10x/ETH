@@ -27,9 +27,10 @@ graph LR;
 ```
 
 The algorithm is thus:
-```straight-possible(stacks S1, S2)
-Map cards = {}
+```
+// straight-possible(stack S1, S2, ... S9)
 
+map cards = {}
 for stack Si do
 	for card cj in stack Si do
 		cards.put(cj.suit, cj.value)
@@ -51,6 +52,8 @@ ___
 ## b)
 
 ```
+// pick-cards(stack S1, S2, ... S9)
+
 picked = {}
 for stack Si do
 	card ci_fmax = {}
@@ -71,6 +74,8 @@ function backtrack()
 	if !pick-different-possible do backtrack()
 	else pick-different end
 end
+
+print(picked)
 ```
 
 

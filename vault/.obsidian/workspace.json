@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0baa579e67942d69",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf"
+              }
+            }
+          },
+          {
+            "id": "660d9e667ccb502f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md"
+                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf"
               }
             }
           },
@@ -166,10 +186,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d7e440b9f059dea2",
+  "active": "660d9e667ccb502f",
   "lastOpenFiles": [
-    "sem2/AuW/UE/u/e/AuW-u02-e.pdf",
+    "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+    "sem2/AuW/UE/u/e/AuW-u02-e.pdf",
     "var/attachments/AuW-u02-e.pdf",
     "sem2/AuW/UE/u/e/AuW-u00-e.pdf",
     "sem2/AuW/UE/u/e/AuW-u01-e.pdf",
@@ -179,7 +200,6 @@
     "sem2/AuW/UE/pg/s",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w04-hopcroft-karp.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
-    "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
     "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-matrix.png",
     "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-column-vector.png",
