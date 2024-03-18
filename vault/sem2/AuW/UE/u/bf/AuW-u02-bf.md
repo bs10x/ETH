@@ -28,7 +28,12 @@ graph LR;
 
 The algorithm is thus:
 ```
-if (true) print("yes")
+picked = {}
+for stack Si
+	card ci_fmax
+	for card cj in stack Si
+		if f(cj) > f(ci_fmax)
+		picked.add()
 ```
 
 Let $G'=(V', E')$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f: V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given card's numerical value.
