@@ -1,6 +1,7 @@
 ![[AuW-u02-e.pdf]]
 
-## a)
+
+# a)
 
 Let $G = (V, E)$ be the connected 4-regular Graph representing the playing cards.
 For the purpose of simplicity, let$$
@@ -45,12 +46,11 @@ end
 print("Yes")    // deck complete => straight possible
 ```
 
-
+$
 
 ___
 
-
-## b)
+# b)
 
 Let $G'=(V', E')$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f: V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given card's numerical value.
 We construct the graph as follows:
