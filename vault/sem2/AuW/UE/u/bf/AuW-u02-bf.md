@@ -89,7 +89,7 @@ end
 print(picked)
 ```
 
-A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the Hopcroft-Karp algorithm.
+A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the Hopcroft-Karp algorithm. To find a perfect matching. We pick all cards in the vertex set.
 
 
 
@@ -115,12 +115,11 @@ A more efficient approach is to use the fact, that $G$ is 4-regular and bipartit
 
 E = euler-tour(G)     // euler-tour of G
 2F = every-other(E)   // 2-factor of G
-PM1 = every-other(2F)   // perfect matching of G, colors = {a, b}
-PM2 = every-other(2F)   // perfect matching of G, colors = {c, d}
+M1 = every-other(2F)   // perfect matching of G, colors = {a, b}
+M2 = every-other(2F)   // perfect matching of G, colors = {c, d}, M1 ≠ M2
 
-P = 2-color(PM1) xor 2-color(PM2)   // 4-colored set of edges
-
-return on
+P = 2-color(M1) xor 2-color(M2)   // 4-colored set of edges
+return 1-color set in P
 
 function euler-tour(G)
 	return euler tour of G
