@@ -5,17 +5,17 @@
 Let $G = (V, E)$ be the 4-regular Graph representing the playing cards.
 For the purpose of simplicity, let$$
 \begin{align}
-& 1 \sim \text{"6"} \\
-& 2 \text{"7"} \\
-& 3, \quad v \in \text{"8"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-& 4, \quad v \in \text{"9"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-& 5, \quad v \in \text{"10"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-6, \quad v \in \text{"Under"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-7, \quad v \in \text{"Ober"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-8, \quad v \in \text{"König"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-9, \quad v \in \text{"Ass"}  \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+	& 1 \simeq \text{"6"} \\
+& 2 \simeq \text{"7"} \\
+& 3 \simeq \text{"8"} \\
+& 4 \simeq \text{"9"} \\
+& 5 \simeq \text{"10"} \\
+& 6 \simeq \text{"Under"} \\
+& 7 \simeq \text{"Ober"} \\
+& 8 \simeq \text{"König"} \\
+& 9 \simeq \text{"Ass"} \\
 \end{align}
-$$be the mapping of 
+$$be the mapping of numerical values to card values. Note, that this mapping is arbitrarily chosen and does not 
 Thus,$$
 \begin{align}
 & V = \{\mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \} \\
