@@ -5,5 +5,8 @@
   "interfaceFontFamily": "Helvetica Neue",
   "textFontFamily": "Helvetica Neue",
   "showViewHeader": true,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "page-breaks"
+  ]
 }
