@@ -89,15 +89,33 @@ end
 print(picked)
 ```
 
+A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the Hopcroft-Karp algorithm.
 
-A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can thus use the following algorithm:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+___
+DO NOT GRADE !!!
+
+A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the following algorithm:
 
 ```
 // linear-pick-cards(G)
 
 E = euler-tour(G)     // euler-tour of G
 2F = every-other(E)   // 2-factor of G
-P = every-other(2F)   // perfect matching of G, 
+P = every-other(2F)   // perfect matching of G
 
 function euler-tour(G)
 	return euler tour of G
