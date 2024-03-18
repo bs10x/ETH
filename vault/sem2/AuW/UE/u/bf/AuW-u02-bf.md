@@ -32,7 +32,16 @@ Map cards = {}
 
 for stack Si do
 	for card cj in stack Si do
-		cards.put
+		cards.put(cj.suit, cj.value)
+	end
+end
+
+if cards.keys().size() != 4 print("No") end  // not four suits
+for suit in cards.keys() do
+	if suit.size() != 9 print("No") end // not 
+end
+
+print("Yes")
 ```
 
 Let $G'=(V', E')$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f: V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given card's numerical value.
