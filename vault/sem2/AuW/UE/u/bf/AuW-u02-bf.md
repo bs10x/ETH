@@ -35,13 +35,16 @@ for stack Si
 		if f(cj) > f(ci_fmax) do
 			if !picked.contains(val(cj)) do
 				picked.add(cj)
+			elseif !picked.contains(val(ci_fmax)) do
+				picked.add(ci_fmax)
 			else backtrack() end
 		end
 	end
 end
+
 function backtrack()
-if alternative_decision_possible
-"go back to last decision point and make a different decision"
+	"go back to last decision point and make a different decision",
+	if !different_decision_possible do backtrack() end
 end
 ```
 
