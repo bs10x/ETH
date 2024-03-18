@@ -7,7 +7,7 @@ Let $G = (V, E)$ be the 4-regular Graph representing the playing cards. Thus,$$
 & V = \{\mathbb Z_{10}^+ \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \} \\
 & E=\{(v_1, v_2) \in V \times V \ | \ v_1 \prec v2 \}
 \end{align}
-$$where the function $\nu := V \rightarrow \mathbb Z_9$, maps every card to its numerical value and the relation $\prec := \nu(v_1) + 1 \equiv_9 \nu(v_2)$ on $V$ defines, if a given card comes one before another. Note, that we assume the card values to loop back on themselves.
+$$where the function $\nu : V \rightarrow \mathbb Z_9$, maps every card to its numerical value and the relation $\prec \overset{def}{=} \nu(v_1) + 1 \equiv_9 \nu(v_2)$ on $V$ defines, if a given card comes one before another. Note, that we assume the card values to loop back on themselves.
 ```mermaid
 graph LR;
 1-->2-->3-->4-->5-->6-->7-->8-->9-->1;
