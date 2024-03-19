@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L08-probability.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L08-probability.pdf"
               }
             }
           },
@@ -165,10 +165,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f4cf158045f14fe",
+  "active": "35c77f44c924baa6",
   "lastOpenFiles": [
-    "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
     "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf",
+    "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
