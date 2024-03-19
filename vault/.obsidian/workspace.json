@@ -16,8 +16,19 @@
                 "file": "sem2/AuW/VRL/slides/AuW-L08-probability.pdf"
               }
             }
+          },
+          {
+            "id": "432a6e449ada0d8e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L08-probability.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf"
               }
             }
           },
@@ -165,11 +177,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35c77f44c924baa6",
+  "active": "432a6e449ada0d8e",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
+    "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf",
     "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
-    "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "var/support/templates/page-break.template.md",
@@ -179,7 +192,6 @@
     "var/support",
     "var/export/AuW-u02-bf.pdf",
     "sem2/AuW/UE/u/e/AuW-u02-e.pdf",
-    "var/attachments/AuW-u02-e.pdf",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
     "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-matrix.png",
