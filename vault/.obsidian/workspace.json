@@ -4,38 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "05b52c68e7b8d617",
+        "id": "b20229720538123b",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e440b9f059dea2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0baa579e67942d69",
+            "id": "35c77f44c924baa6",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf"
-              }
-            }
-          },
-          {
-            "id": "660d9e667ccb502f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf"
+                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf"
               }
             }
           }
@@ -89,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -106,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md"
+                "file": "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf"
               }
             }
           },
@@ -188,20 +165,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d7e440b9f059dea2",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
+    "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf",
+    "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
+    "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
+    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "var/support/templates/page-break.template.md",
     "var/support/templates/page-break",
     "var/support/templates/page-breaks.css",
     "var/support/templates",
     "var/support",
     "var/export/AuW-u02-bf.pdf",
-    "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
-    "sem2/AuW/VRL/slides/AuW-L04-matchings.pdf",
-    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/AuW/UE/u/e/AuW-u02-e.pdf",
     "var/attachments/AuW-u02-e.pdf",
-    "sem2/AuW/UE/u/e/AuW-u00-e.pdf",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
     "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-matrix.png",
@@ -234,7 +212,6 @@
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
     "sem1/LinAlg/VRL/V27_.md",
-    "sem1/LinAlg/VRL/V26_.md",
     "sem1/LinAlg/00-EXAM-PREP/LinAlg-topics-demistified.png",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
