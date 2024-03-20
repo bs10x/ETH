@@ -21,6 +21,7 @@ For the purpose of simplicity, let$$
 $$
 \begin{align}
 \nu &: \mathcal K \rightarrow \mathbb Z_9^* \\
+\nu(k) &\overset {def} = \\
 \mathcal K &= \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
 \mathcal S_{a \in \mathbb Z_9^*} &= \{ k_{b \in \mathbb Z_4^*} \in \mathcal K \ | \ k_b\notin \mathcal S_{c \in \mathbb Z_9^* \setminus \{i\}} \} \\
 A &= \{ \mathcal S_a \ | \ a \in \mathbb Z_9^* \} \\
