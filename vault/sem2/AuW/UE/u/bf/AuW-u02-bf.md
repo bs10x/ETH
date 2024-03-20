@@ -20,7 +20,7 @@ For the purpose of simplicity, let$$
 
 $$
 \begin{align}
-\nu(k) &:= n, \quad\forall k = (n, s) \in \mathcal K \\ \\
+\nu(k) &:= w, \ k = (w, h) \in \mathcal K \\ \\
 %\nu &: \mathcal K \rightarrow \mathbb Z_9^* \\
 %\nu(k) &\overset {def} = w, k = (w, h), h = \{\} \\
 \mathcal I_k &= \{ 1, 2, ..,  4 \} \\
