@@ -48,8 +48,8 @@ return true
 
 Which is again, $\mathcal O(1)$.
 $\square$
+<div style="page-break-after: always;"></div>
 
-___
 
 # b)
 
