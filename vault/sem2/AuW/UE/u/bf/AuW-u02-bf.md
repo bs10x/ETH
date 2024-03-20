@@ -23,21 +23,21 @@ $$
 \nu(k) &:= w, \ k = (w, h) \in \mathcal K \\ \\
 %\nu &: \mathcal K \rightarrow \mathbb Z_9^* \\
 %\nu(k) &\overset {def} = w, k = (w, h), h = \{\} \\
-\mathcal I_k &= \{ 1, 2, ..,  4 \} \\
-\mathcal I_{\mathcal S} &= \{ 1, 2, .., 9 \} \\
-\mathcal W &= \mathcal I_{\mathcal S}\\ %\{ 6, 7, 8, 9, 10, \text{U} , \text O, \text K, \text A \} \\
+\mathcal I &= \{ 1, 2, .., 9 \} \\
+\mathcal J &= \{ 1, 2, .., 4 \} \\
+\mathcal W &= \mathcal J\\ %\{ 6, 7, 8, 9, 10, \text{U} , \text O, \text K, \text A \} \\
 \mathcal H &= \{ \diamondsuit, \clubsuit, \heartsuit, \spadesuit \} \\
 \mathcal K &= \mathcal W \times \mathcal H \\
 
-\mathcal S_{i \in \ \mathcal I_{\mathcal S}} &= \{ k_{j \in \mathcal I_k } \in \mathcal K \ | \ k_j\notin \mathcal S_{c \in \mathcal I_{\mathcal S} \setminus \{i\}} \} \\
+\mathcal S_{i \in \ \mathcal I} &= \{ k_{j \in \mathcal J } \in \mathcal K \ | \ k_j\notin \mathcal S_{i' \in \mathcal I \setminus \{i\}} \} \\
 \end{align}
 $$
 
 $$
 \begin{align}
 G &= (V, E) \\
-A &= \{ \mathcal S_a \ | \ a \in \mathbb Z_9^* \} \\
-B &= \mathbb Z_9^* \\
+A &= \{ \mathcal S_i \ | \ i \in \mathcal I \} \\
+B &= \mathbb  \\
 V &= A \uplus B \\
 E &= \{ (\mathcal S_a, w) \in  A \times B \ | \ \exists k \in \mathcal S_a  : \ \nu(k) = w \} \\
 
