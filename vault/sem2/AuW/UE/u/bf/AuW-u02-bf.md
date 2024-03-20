@@ -20,13 +20,13 @@ For the purpose of simplicity, let$$
 
 $$
 \begin{align}
-& G = (V, E) \\
-& V = A \uplus B \\
-& \mathcal C = \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-& S_i = \{ c_{j \in \mathbb Z_9^*} \in \mathcal C | c_j\notin S_{i'} \} \\
-& A = \{ S_i | i \in \mathbb Z_9^* \} \\
-& B = \mathbb Z_9^* \\
-& E = \{ (c, v) \in  \times | c \} \\
+G &= (V, E) \\
+V &= A \uplus B \\
+\mathcal C &= \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+S_{a \in \mathbb Z_9^*} &= \{ c_{b \in \mathbb Z_9^*} \in \mathcal C | c_b\notin S_{k \in \mathbb Z_9^* \setminus \{i\}} \} \\
+A &= \{ S_i | i \in \mathbb Z_9^* \} \\
+B &= \mathbb Z_9^* \\
+E &= \{ (c, v) \in  \times | c \} \\
 
 \end{align}
 $$
