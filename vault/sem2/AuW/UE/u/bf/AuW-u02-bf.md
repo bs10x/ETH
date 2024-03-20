@@ -20,7 +20,7 @@ $$be the mapping of numerical values corresponding to the card values. Note, tha
 
 $$
 \begin{align}
-\nu(k) &:= w, \ k = (w, h) \in \mathcal K \\ \\
+\nu(k) :&= w, \quad k = (w, h) \in \mathcal K \\ \\
 %\nu &: \mathcal K \rightarrow \mathbb Z_9^* \\
 %\nu(k) &\overset {def} = w, k = (w, h), h = \{\} \\
 \mathcal I &= \{ 1, 2, .., 4 \} \\
@@ -28,62 +28,25 @@ $$
 \mathcal W &= \mathcal J\\ %\{ 6, 7, 8, 9, 10, \text{U} , \text O, \text K, \text A \} \\
 \mathcal H &= \{ \diamondsuit, \clubsuit, \heartsuit, \spadesuit \} \\
 \mathcal K &= \mathcal W \times \mathcal H \\
-
 \mathcal S_{j \in \ \mathcal J} &= \{ k_{i \in \mathcal I} \in \mathcal K \ | \ k_i\notin \mathcal S_{j' \in \mathcal J \setminus \{j\}} \} \\
-\end{align}
-$$
-
-$$
-\begin{align}
+\\ \\
 G &= (V, E) \\
 A &= \{ \mathcal S_j \ | \ j \in \mathcal J \} \\
 B &= \mathcal J  \\
 V &= A \uplus B \\
 E &= \{ (\mathcal S_{j \in \mathcal J}, w) \in  A \times B \ | \ \exists k \in \mathcal S_j  : \ \nu(k) = w \} \\
-
 \end{align}
 $$
-Let G be the bipartite graph representing the exclusive union of the partition of stacks of cards and let an edge between a stack of cards and a value denote, that there exists a card of said 
+Let G be the bipartite graph representing the exclusive union of the partition of stacks of cards and let an edge between a stack of cards and a value denote, that there exists (at least) a card of said value in the aforementioned stack. 
+
+Construction of the graph takes $\mathcal O(36) = \mathcal O(1)$ time. The algorithm is
 
 ```
 return true
 ```
 
-
-
-
-Let $G = (V, E)$ be the connected bipartite Graph, with the vertecis representing the stacks of cards and their values.
-Thus,$$
-\begin{align}
-& V = \{ \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \} \\
-& E=\{(v_1, v_2) \in V \times V \ | \ v_1 \prec v_2 \}
-\end{align}
-$$where the function $\nu : V \rightarrow \mathbb Z_9^*$, maps every card to its numerical value and the relation $\prec \overset{def}{=} \nu(v_1) + 1 \equiv_9 \nu(v_2)$ on $V$ defines, if a given card comes one before another. Note, that we assume the card values to loop back on themselves.
-```mermaid
-graph LR;
-1-->2-->3-->4-->5-->6-->7-->8-->9-->1;
-```
-
-The algorithm is thus:
-```
-// straight-possible(stack S1, S2, ... S9)
-
-map cards = {}
-for stack Si do
-	for card cj in stack Si do
-		cards.put(cj.suit, cj.value)
-	end
-end
-
-if cards.keys().size() != 4 print("No") end    // not four suits
-for suit in cards.keys() do
-	if suit.size() != 9 print("No") end   // not 9 cards per suit
-end
-
-print("Yes")    // deck complete => straight possible
-```
-
-
+Which is again, $\mathcal O(1)$.
+$\square$
 
 ___
 
