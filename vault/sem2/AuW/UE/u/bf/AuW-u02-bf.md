@@ -20,13 +20,24 @@ For the purpose of simplicity, let$$
 
 $$
 \begin{align}
+\nu &: \mathcal K \rightarrow \mathbb Z_9^* \\
+\mathcal K &= \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+\mathcal S_{a \in \mathbb Z_9^*} &= \{ k_{b \in \mathbb Z_4^*} \in \mathcal K \ | \ k_b\notin \mathcal S_{c \in \mathbb Z_9^* \setminus \{i\}} \} \\
+A &= \{ \mathcal S_a \ | \ a \in \mathbb Z_9^* \} \\
+B &= \mathbb Z_9^* \\
+\end{align}
+$$
+
+$$
+\begin{align}
+& \nu : V \rightarrow \mathbb Z_9^* \\
 G &= (V, E) \\
 V &= A \uplus B \\
 \mathcal K &= \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
 \mathcal S_{a \in \mathbb Z_9^*} &= \{ k_{b \in \mathbb Z_4^*} \in \mathcal K \ | \ k_b\notin \mathcal S_{c \in \mathbb Z_9^* \setminus \{i\}} \} \\
-A &= \{ S_a \ | \ a \in \mathbb Z_9^* \} \\
+A &= \{ \mathcal S_a \ | \ a \in \mathbb Z_9^* \} \\
 B &= \mathbb Z_9^* \\
-E &= \{ \{\mathcal S_a, v\} \in  A \times B \ | \ \exists c \in \mathcal S_a  \mathbb Z_9^* \} \\
+E &= \{ \{\mathcal S_a, w\} \in  A \times B \ | \ \exists k \in \mathcal S_a  : \ \nu(k) = w \} \\
 
 \end{align}
 $$
