@@ -23,13 +23,13 @@ $$
 \nu(k) &:= n, \quad\forall k = (n, s) \in \mathcal K \\ \\
 %\nu &: \mathcal K \rightarrow \mathbb Z_9^* \\
 %\nu(k) &\overset {def} = w, k = (w, h), h = \{\} \\
-\mathcal I_k &= \{ 1, 2, 3, 4 \} \\
-\mathcal I_{\mathcal S} &= \{ 1, 2, 3, 4, 5, 6, 7, 8, 9 \} \\
+\mathcal I_k &= \{ 1, 2, ..,  4 \} \\
+\mathcal I_{\mathcal S} &= \{ 1, 2, .., 9 \} \\
 \mathcal W &= \{ 6, 7, 8, 9, 10, \text{U} , \text O, \text K, \text A \} \\
 \mathcal H &= \{ \diamondsuit, \clubsuit, \heartsuit, \spadesuit \} \\
 \mathcal K &= \mathcal W \times \mathcal H \\
 
-\mathcal S_{i \in \ \mathcal I} &= \{ k_{b \in \mathbb Z_4^*} \in \mathcal K \ | \ k_b\notin \mathcal S_{c \in \mathbb Z_9^* \setminus \{i\}} \} \\
+\mathcal S_{i \in \ \mathcal I_{\mathcal S}} &= \{ k_{j \in \mathcal I_k } \in \mathcal K \ | \ k_j\notin \mathcal S_{c \in \mathcal I_{\mathcal S} \setminus \{i\}} \} \\
 \end{align}
 $$
 
