@@ -48,9 +48,19 @@
                 "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
               }
             }
+          },
+          {
+            "id": "f78ac157e82338a9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
+                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
+                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
+                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf"
               }
             }
           },
@@ -199,8 +209,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a94b8f6dce811ea1",
+  "active": "f78ac157e82338a9",
   "lastOpenFiles": [
+    "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
     "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
