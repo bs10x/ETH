@@ -4,23 +4,23 @@
 
 # a)
 
-For the purpose of simplicity, let$$
-\begin{align}
-& 1 \simeq \text{"6"} \\
-& 2 \simeq \text{"7"} \\
-& 3 \simeq \text{"8"} \\
-& 4 \simeq \text{"9"} \\
-& 5 \simeq \text{"10"} \\
-& 6 \simeq \text{"Under"} \\
-& 7 \simeq \text{"Ober"} \\
-& 8 \simeq \text{"König"} \\
-& 9 \simeq \text{"Ass"} \\
-\end{align}
-$$be the mapping of numerical values corresponding to the card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. 
+For the purpose of simplicity, let $(1)$ be the mapping of numerical values corresponding to the card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. Let $(2)$ be a function returning every cards numerical value
 
 $$
 \begin{align}
-\nu(k) :&= w, \quad k = (w, h) \in \mathcal K \\ \\
+&(1)\\
+&1 \simeq \text{"6"} \\
+2 \simeq \text{"7"} \\
+3 \simeq \text{"8"} \\
+4 \simeq \text{"9"} \\
+5 \simeq \text{"10"} \\
+6 \simeq \text{"Under"} \\
+7 \simeq \text{"Ober"} \\
+8 &\simeq \text{"König"} \\
+9 &\simeq \text{"Ass"} \\
+\\ \\
+&(2) \\
+&\nu(k) := w, \quad k = (w, h) \in \mathcal K \\ \\
 %\nu &: \mathcal K \rightarrow \mathbb Z_9^* \\
 %\nu(k) &\overset {def} = w, k = (w, h), h = \{\} \\
 \mathcal I &= \{ 1, 2, .., 4 \} \\
