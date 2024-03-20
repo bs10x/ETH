@@ -2,7 +2,6 @@
 
 <div style="page-break-after: always;"></div>
 
-
 # a)
 
 Let $G = (V, E)$ be the connected 4-regular Graph representing the playing cards.
@@ -91,8 +90,14 @@ end
 print(picked)
 ```
 
-A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the Hopcroft-Karp algorithm to find a perfect matching (which exists, since $G$ is regular and connected). We pick all cards in the perfect matchings vertex set.
+A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards in stacks with odd index and the cards in stacks with even index, i.e. $A = S_1 \oplus S_3 \oplus S_$). We can use the Hopcroft-Karp algorithm to find a perfect matching (which exists, since $G$ is regular and connected). We pick all cards in the perfect matchings vertex set.
 
+
+
+
+
+___
+DO NOT GRADE !!!
 
 An even more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the following algorithm:
 
