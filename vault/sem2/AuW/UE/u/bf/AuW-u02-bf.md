@@ -4,16 +4,6 @@
 
 # a)
 
-Let $G = A \uplus B$ 
-
-```
-return true
-```
-
-
-
-
-Let $G = (V, E)$ be the connected bipartite Graph, with the vertecis representing the stacks of cards and their values.
 For the purpose of simplicity, let$$
 \begin{align}
 	& 1 \simeq \text{"6"} \\
@@ -26,7 +16,23 @@ For the purpose of simplicity, let$$
 & 8 \simeq \text{"König"} \\
 & 9 \simeq \text{"Ass"} \\
 \end{align}
-$$be the mapping of numerical values to card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. Thus,$$
+$$be the mapping of numerical values to card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. 
+
+$$
+\begin{align}
+\end{align}
+$$
+Let $G = (V, E), \ V= A \uplus B, \ A=\{S_i |i \in \mathbb Z^*_9\}, \ B = \mathbb Z_9^*$ be the bipartite graph representing the exclusive union of the partition of stacks of cards and 
+
+```
+return true
+```
+
+
+
+
+Let $G = (V, E)$ be the connected bipartite Graph, with the vertecis representing the stacks of cards and their values.
+Thus,$$
 \begin{align}
 & V = \{\mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \} \\
 & E=\{(v_1, v_2) \in V \times V \ | \ v_1 \prec v_2 \}
