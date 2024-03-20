@@ -21,10 +21,14 @@ For the purpose of simplicity, let$$
 $$
 \begin{align}
 \nu(k) &:= n, \quad\forall k = (n, s) \in \mathcal K \\ \\
-\nu &: \mathcal K \rightarrow \mathbb Z_9^* \\
-\nu(k) &\overset {def} = w, k = (w, h), h = \{\} \\
-\mathcal K &= \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-\mathcal S_{a \in \mathbb Z_9^*} &= \{ k_{b \in \mathbb Z_4^*} \in \mathcal K \ | \ k_b\notin \mathcal S_{c \in \mathbb Z_9^* \setminus \{i\}} \} \\
+%\nu &: \mathcal K \rightarrow \mathbb Z_9^* \\
+%\nu(k) &\overset {def} = w, k = (w, h), h = \{\} \\
+\mathcal I &= \{ 1, 2, 3, 4 \} \\
+\mathcal W &= \{ 1, 2, 3, 4, 5, 6, 7, 8, 9 \} \\
+\mathcal H &= \{ \diamondsuit, \clubsuit, \heartsuit, \spadesuit \} \\
+\mathcal K &= \mathcal W \times \mathcal H \\
+
+\mathcal S_{i \in \marhcal I} &= \{ k_{b \in \mathbb Z_4^*} \in \mathcal K \ | \ k_b\notin \mathcal S_{c \in \mathbb Z_9^* \setminus \{i\}} \} \\
 \end{align}
 $$
 
