@@ -23,27 +23,27 @@ $$
 \nu(k) &:= w, \ k = (w, h) \in \mathcal K \\ \\
 %\nu &: \mathcal K \rightarrow \mathbb Z_9^* \\
 %\nu(k) &\overset {def} = w, k = (w, h), h = \{\} \\
-\mathcal I &= \{ 1, 2, .., 9 \} \\
-\mathcal J &= \{ 1, 2, .., 4 \} \\
+\mathcal I &= \{ 1, 2, .., 4 \} \\
+\mathcal J &= \{ 1, 2, .., 9 \} \\
 \mathcal W &= \mathcal J\\ %\{ 6, 7, 8, 9, 10, \text{U} , \text O, \text K, \text A \} \\
 \mathcal H &= \{ \diamondsuit, \clubsuit, \heartsuit, \spadesuit \} \\
 \mathcal K &= \mathcal W \times \mathcal H \\
 
-\mathcal S_{i \in \ \mathcal I} &= \{ k_{j \in \mathcal J } \in \mathcal K \ | \ k_j\notin \mathcal S_{i' \in \mathcal I \setminus \{i\}} \} \\
+\mathcal S_{j \in \ \mathcal J} &= \{ k_{i \in \mathcal I} \in \mathcal K \ | \ k_i\notin \mathcal S_{j' \in \mathcal J \setminus \{j\}} \} \\
 \end{align}
 $$
 
 $$
 \begin{align}
 G &= (V, E) \\
-A &= \{ \mathcal S_i \ | \ i \in \mathcal I \} \\
-B &= \mathbb  \\
+A &= \{ \mathcal S_j \ | \ j \in \mathcal J \} \\
+B &= \mathcal J  \\
 V &= A \uplus B \\
-E &= \{ (\mathcal S_a, w) \in  A \times B \ | \ \exists k \in \mathcal S_a  : \ \nu(k) = w \} \\
+E &= \{ (\mathcal S_{j \in \mathcal J}, w) \in  A \times B \ | \ \exists k \in \mathcal S_j  : \ \nu(k) = w \} \\
 
 \end{align}
 $$
-Let G be the bipartite graph representing the exclusive union of the partition of stacks of cards and 
+Let G be the bipartite graph representing the exclusive union of the partition of stacks of cards and let an edge between a stack of cards and a value denote, that there exists a card of said 
 
 ```
 return true
