@@ -45,7 +45,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf"
               }
             }
           },
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md"
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf"
               }
             }
           },
@@ -209,7 +209,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc5f45582f94f270",
+  "active": "a94b8f6dce811ea1",
   "lastOpenFiles": [
     "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
