@@ -81,10 +81,14 @@ for stack Si do
 end
 
 function backtrack()
-	picked.pop()    // remove card last added
+	picked.remove(#picked)    // remove card last added
 	go back to last decision
 	if !pick-different-possible do backtrack()
 	else pick-different end
+end
+
+function pick different()
+	
 end
 
 print(picked)
