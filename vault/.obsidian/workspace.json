@@ -38,9 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a94b8f6dce811ea1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md"
+                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
               }
             }
           },
@@ -189,11 +199,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc5f45582f94f270",
+  "active": "a94b8f6dce811ea1",
   "lastOpenFiles": [
+    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+    "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
     "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
-    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
     "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
     "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf",
@@ -202,7 +213,6 @@
     "var/support/templates/page-break.template.md",
     "var/support/templates/page-break",
     "var/support/templates/page-breaks.css",
-    "var/support/templates",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
     "sem1/LinAlg/00-EXAM-PREP/summaries/matrix-multiplication/r-mult-matrix-by-matrix.png",
