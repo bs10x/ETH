@@ -4,6 +4,8 @@
 
 # a)
 
+Let $G = A \uplus B$ 
+
 ```
 return true
 ```
@@ -11,7 +13,7 @@ return true
 
 
 
-Let $G = (V, E)$ be the connected 4-regular Graph representing the playing cards.
+Let $G = (V, E)$ be the connected bipartite Graph, with the vertecis representing the stacks of cards and their values.
 For the purpose of simplicity, let$$
 \begin{align}
 	& 1 \simeq \text{"6"} \\
