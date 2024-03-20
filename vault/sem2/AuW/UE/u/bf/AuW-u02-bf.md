@@ -94,8 +94,10 @@ A more efficient approach is to use the fact, that $G$ is 4-regular and bipartit
 
 **Runtime analysis**
 Graph construction: $\mathcal O(36) = \mathcal O(1)$ 
-Hopcroft-Karp algorithm: $\mathcal O()
 
+Hopcroft-Karp algorithm: $\mathcal O(\sqrt{|V|} \cdot (|V| + |E|)) \leq \mathcal O(\sqrt{36} \cdot(36 + 36)) = \mathcal O(1)$
+
+Thus the algorithm has constant runtime.
 
 
 
