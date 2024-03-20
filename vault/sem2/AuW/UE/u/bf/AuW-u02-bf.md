@@ -34,7 +34,7 @@ G &= (V, E) \\
 V &= A \uplus B \\
 A &= \{ \mathcal S_a \ | \ a \in \mathbb Z_9^* \} \\
 B &= \mathbb Z_9^* \\
-E &= \{ \{\mathcal S_a, w\} \in  A \times B \ | \ \exists k \in \mathcal S_a  : \ \nu(k) = w \} \\
+E &= \{ (\mathcal S_a, w) \in  A \times B \ | \ \exists k \in \mathcal S_a  : \ \nu(k) = w \} \\
 
 \end{align}
 $$
