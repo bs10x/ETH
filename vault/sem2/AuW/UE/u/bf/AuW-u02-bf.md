@@ -92,6 +92,10 @@ print(picked)
 
 A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards in stacks with odd index and the cards in stacks with even index, i.e. $A = S_1 \cup S_3 \cup S_5 \cup S_7 \cup S_9$,  $B = S_2 \cup S_4 \cup S_6 \cup S_8$,  $G = A \oplus B$). We can use the Hopcroft-Karp algorithm to find a perfect matching (which exists, since $G$ is bipartite). We pick all cards in the perfect matchings vertex set.
 
+**Runtime analysis**
+Graph construction: $\mathcal O(36) = \mathcal O(1)$ 
+Hopcroft-Karp algorithm: $\mathcal O()
+
 
 
 

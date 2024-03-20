@@ -38,9 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "470aaa9d649704ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,7 +199,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dc5f45582f94f270",
+  "active": "470aaa9d649704ca",
   "lastOpenFiles": [
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
