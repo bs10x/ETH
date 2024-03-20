@@ -40,22 +40,12 @@
             }
           },
           {
-            "id": "a94b8f6dce811ea1",
+            "id": "b0daa582bc0239ba",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf"
-              }
-            }
-          },
-          {
-            "id": "f78ac157e82338a9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf"
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf"
               }
             }
           }
@@ -110,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -127,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf"
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf"
               }
             }
           },
@@ -209,19 +198,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a94b8f6dce811ea1",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
-    "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf",
+    "sem2/DDCA/UE/e/report/DDCA-u01-report.pdf",
+    "sem2/DDCA/UE/e/manual/DDCA-u01-manual.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
+    "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
-    "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
+    "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
     "sem2/AuW/VRL/slides/AuW-L08-probability.pdf",
     "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
     "sem2/PProg/VRL/slides/PProg-L08-L09-div&conq-cilk.pdf",
-    "sem2/PProg/VRL/slides/PProg-L08-L09-models.pdf",
     "var/support/templates/page-break.template.md",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
