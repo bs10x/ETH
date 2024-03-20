@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
+                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
+                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf"
+                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md"
               }
             }
           },
@@ -209,10 +209,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a94b8f6dce811ea1",
+  "active": "dc5f45582f94f270",
   "lastOpenFiles": [
-    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/DDCA/UE/e/lab/DDCA-u02-lab.pdf",
+    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB02.pdf",
