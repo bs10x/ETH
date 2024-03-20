@@ -22,8 +22,8 @@ $$
 \begin{align}
 G &= (V, E) \\
 V &= A \uplus B \\
-\mathcal C &= \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
-\mathcal S_{a \in \mathbb Z_9^*} &= \{ c_{b \in \mathbb Z_4^*} \in \mathcal C \ | \ c_b\notin \mathcal S_{k \in \mathbb Z_9^* \setminus \{i\}} \} \\
+\mathcal K &= \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+\mathcal S_{a \in \mathbb Z_9^*} &= \{ k_{b \in \mathbb Z_4^*} \in \mathcal K \ | \ k_b\notin \mathcal S_{c \in \mathbb Z_9^* \setminus \{i\}} \} \\
 A &= \{ S_a \ | \ a \in \mathbb Z_9^* \} \\
 B &= \mathbb Z_9^* \\
 E &= \{ \{\mathcal S_a, v\} \in  A \times B \ | \ \exists c \in \mathcal S_a  \mathbb Z_9^* \} \\
