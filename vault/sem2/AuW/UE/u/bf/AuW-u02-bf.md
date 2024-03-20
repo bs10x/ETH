@@ -6,7 +6,7 @@
 
 For the purpose of simplicity, let$$
 \begin{align}
-	& 1 \simeq \text{"6"} \\
+& 1 \simeq \text{"6"} \\
 & 2 \simeq \text{"7"} \\
 & 3 \simeq \text{"8"} \\
 & 4 \simeq \text{"9"} \\
@@ -16,7 +16,7 @@ For the purpose of simplicity, let$$
 & 8 \simeq \text{"König"} \\
 & 9 \simeq \text{"Ass"} \\
 \end{align}
-	$$be the mapping of numerical values corresponding to the card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. 
+$$be the mapping of numerical values corresponding to the card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. 
 
 $$
 \begin{align}
