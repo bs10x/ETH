@@ -4,6 +4,13 @@
 
 # a)
 
+```
+return true
+```
+
+
+
+
 Let $G = (V, E)$ be the connected 4-regular Graph representing the playing cards.
 For the purpose of simplicity, let$$
 \begin{align}
@@ -47,7 +54,7 @@ end
 print("Yes")    // deck complete => straight possible
 ```
 
-$
+
 
 ___
 
