@@ -20,9 +20,15 @@ $$be the mapping of numerical values to card values. Note, that this mapping is 
 
 $$
 \begin{align}
+& G = (V, E) \\
+& V = A \uplus B \\
+& A = \{ S_i | i \in \mathbb Z_9^* \} \\
+& B = \mathbb Z_9^* \\
+& E = \{(c, v) \in  \times | c \} \\
+
 \end{align}
 $$
-Let $G = (V, E), \ V= A \uplus B, \ A=\{S_i |i \in \mathbb Z^*_9\}, \ B = \mathbb Z_9^*$ be the bipartite graph representing the exclusive union of the partition of stacks of cards and 
+Let G be the bipartite graph representing the exclusive union of the partition of stacks of cards and 
 
 ```
 return true
