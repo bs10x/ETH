@@ -16,7 +16,7 @@ For the purpose of simplicity, let$$
 & 8 \simeq \text{"König"} \\
 & 9 \simeq \text{"Ass"} \\
 \end{align}
-$$be the mapping of numerical values corresponding to the card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. 
+	$$be the mapping of numerical values corresponding to the card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. 
 
 $$
 \begin{align}
