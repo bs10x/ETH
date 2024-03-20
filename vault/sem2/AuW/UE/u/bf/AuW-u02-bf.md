@@ -15,8 +15,6 @@ For the purpose of simplicity, let$$
 & 7 \simeq \text{"Ober"} \\
 & 8 \simeq \text{"König"} \\
 & 9 \simeq \text{"Ass"} \\
-\\
-
 \end{align}
 $$be the mapping of numerical values corresponding to the card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. 
 
@@ -27,7 +25,7 @@ $$
 %\nu(k) &\overset {def} = w, k = (w, h), h = \{\} \\
 \mathcal I_k &= \{ 1, 2, ..,  4 \} \\
 \mathcal I_{\mathcal S} &= \{ 1, 2, .., 9 \} \\
-\mathcal W &= \{ 6, 7, 8, 9, 10, \text{U} , \text O, \text K, \text A \} \\
+\mathcal W &= \mathcal I_{\mathcal S}\\ %\{ 6, 7, 8, 9, 10, \text{U} , \text O, \text K, \text A \} \\
 \mathcal H &= \{ \diamondsuit, \clubsuit, \heartsuit, \spadesuit \} \\
 \mathcal K &= \mathcal W \times \mathcal H \\
 
