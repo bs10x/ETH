@@ -16,15 +16,17 @@ For the purpose of simplicity, let$$
 & 8 \simeq \text{"König"} \\
 & 9 \simeq \text{"Ass"} \\
 \end{align}
-$$be the mapping of numerical values to card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. 
+$$be the mapping of numerical values corresponding to the card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. 
 
 $$
 \begin{align}
 & G = (V, E) \\
 & V = A \uplus B \\
+& \mathcal C = \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \\
+& S = \{ c_i \in \mathcal C | i \in \mathbb Z_4^* \} \\
 & A = \{ S_i | i \in \mathbb Z_9^* \} \\
 & B = \mathbb Z_9^* \\
-& E = \{(c, v) \in  \times | c \} \\
+& E = \{ (c, v) \in  \times | c \} \\
 
 \end{align}
 $$
@@ -40,7 +42,7 @@ return true
 Let $G = (V, E)$ be the connected bipartite Graph, with the vertecis representing the stacks of cards and their values.
 Thus,$$
 \begin{align}
-& V = \{\mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \} \\
+& V = \{ \mathbb Z_{9}^* \times \{\diamondsuit, \clubsuit, \heartsuit, \spadesuit\} \} \\
 & E=\{(v_1, v_2) \in V \times V \ | \ v_1 \prec v_2 \}
 \end{align}
 $$where the function $\nu : V \rightarrow \mathbb Z_9^*$, maps every card to its numerical value and the relation $\prec \overset{def}{=} \nu(v_1) + 1 \equiv_9 \nu(v_2)$ on $V$ defines, if a given card comes one before another. Note, that we assume the card values to loop back on themselves.
