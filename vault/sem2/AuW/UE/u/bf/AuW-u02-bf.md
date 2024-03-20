@@ -4,7 +4,7 @@
 
 # a)
 
-For the purpose of simplicity, let $(1)$ be the mapping of numerical values corresponding to the card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. Let $(2)$ be a function returning every cards numerical value. Let $(3)$ be some auxiliary definitons and $(4)$ the definition of the bipartite Graph $G$, representing the stacks of playing cards and the values they contain.
+For the purpose of simplicity, let $(1)$ be the mapping of numerical values corresponding to the card values. Note, that this mapping is arbitrarily chosen and does not influence the outcome. Let $(2)$ be a function returning every cards numerical value. Let $(3)$ be some auxiliary definitions and $(4)$ the definition of the bipartite Graph $G$, representing the stacks of playing cards and the values they contain.
 
 $$
 \begin{align}
@@ -38,7 +38,7 @@ V &= A \uplus B \\
 E &= \{ (\mathcal S_{j \in \mathcal J}, w) \in  A \times B \ | \ \exists k \in \mathcal S_j  : \ \nu(k) = w \} \\
 \end{align}
 $$
-Let G be the bipartite graph representing the exclusive union of the partition of stacks of cards and let an edge between a stack of cards and a value denote, that there exists (at least) a card of said value in the aforementioned stack. 
+Let $G$ be the bipartite graph representing the exclusive union of the partition of stacks of cards and let an edge between a stack of cards and a value denote, that there exists (at least) a card of said value in the aforementioned stack. 
 
 Construction of the graph takes $\mathcal O(36) = \mathcal O(1)$ time. The algorithm is
 
@@ -53,16 +53,7 @@ ___
 
 # b)
 
-Let $G'=(V', E')$ and let $S_1, S_2, \dots S_9$ as described. Furthermore, let $f: V \rightarrow \mathbb Z_4^*$ denote, how often we have seen a given card's numerical value.
-We construct the graph as follows:
-$$
-\begin{align}
-& V' = \bigcup_{i \in \mathbb Z^*_9} v \in S_i  : f_{\max}(v), \forall v' \in V' \ \nu(v) \neq \nu(v')   \\
-& V' \implies E' \\
-\end{align}
-$$
-By construction, the graph contains one card from every stack, that together form a straight (Strasse).
-
+A straightforward approach is to iterate over all possible combinations, which, given the constant number of cards, takes $\mathcal O(1)$:
 ```
 // pick-cards(stack S1, S2, ... S9)
 
@@ -88,52 +79,18 @@ function backtrack()
 end
 
 function pick different()
-	
+	pick a different card and continue
 end
 
 print(picked)
 ```
 
-A more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards in stacks with odd index and the cards in stacks with even index, i.e. $A = S_1 \cup S_3 \cup S_5 \cup S_7 \cup S_9$,  $B = S_2 \cup S_4 \cup S_6 \cup S_8$,  $G = A \oplus B$). We can use the Hopcroft-Karp algorithm to find a perfect matching (which exists, since $G$ is bipartite). We pick all cards in the perfect matchings vertex set.
+A more efficient approach is to use the fact, that $G$ is bipartite (let the two partitions be the stacks and card values). We can use the Hopcroft-Karp algorithm to find a perfect matching (which exists, since $G$ is bipartite). We pick all cards in the perfect matching's vertex set.
 
 **Runtime analysis**
 Graph construction: $\mathcal O(36) = \mathcal O(1)$ 
 
-Hopcroft-Karp algorithm: $\mathcal O(\sqrt{|V|} \cdot (|V| + |E|)) \leq \mathcal O(\sqrt{36} \cdot(36 + 36)) = \mathcal O(1)$
+Hopcroft-Karp algorithm: $\mathcal O(\sqrt{|V|} \cdot (|V| + |E|)) \leq \mathcal O(\sqrt{36} \cdot(36 + 18)) = \mathcal O(1)$
 
 Thus the algorithm has constant runtime.
-
-
-
-
-___
-DO NOT GRADE !!!
-
-An even more efficient approach is to use the fact, that $G$ is 4-regular and bipartite (let the two partitions be the cards with even numerical value and the cards with odd numerical value). We can use the following algorithm:
-
-```
-// linear-pick-cards(G)
-
-E = euler-tour(G)     // euler-tour of G
-2F = every-other(E)   // 2-factor of G
-M1 = every-other(2F)   // perfect matching of G, colors = {a, b}
-M2 = every-other(2F)   // perfect matching of G, colors = {c, d}, M1 ≠ M2
-
-P = 2-color(M1) xor 2-color(M2)   // 4-colored set of edges
-picked = 1-color set in P
-print(picked)
-
-function euler-tour(G)
-	return euler tour of G
-end
-
-function every-other(G)
-	E' = remove every other edge from E
-	return G = (V, E')
-end
-
-function 2-color(G)
-	for edge in E alternate color
-end
-```
-
+$\square$
