@@ -46,9 +46,19 @@
                 "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
               }
             }
+          },
+          {
+            "id": "6bcf35fc13a0fdeb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -115,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
+                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
+                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
+                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf"
               }
             }
           },
@@ -197,10 +207,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3c1d21d3cceca2ca",
+  "active": "6bcf35fc13a0fdeb",
   "lastOpenFiles": [
-    "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
+    "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
     "sem2/AuW/UE/u/s/AuW-u01-s.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
