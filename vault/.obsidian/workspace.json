@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf",
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf",
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf"
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf"
               }
             }
           },
@@ -208,8 +208,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3f41775f45b6ca52",
+  "active": "687ad6c1bccbfd36",
   "lastOpenFiles": [
+    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+    "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04a-combinational-circuits-theory.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
@@ -218,10 +220,7 @@
     "sem2/DDCA/VRL/slides/lectures/DDCA-L07-sequential-logic-design.pdf.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L06-arithmetic-circuits.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf",
-    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "var/export/AuW-u02-bf-v1.pdf",
-    "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
-    "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
     "var/support/templates/page-break.template.md",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
