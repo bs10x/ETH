@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf"
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf"
               }
             }
           },
@@ -176,8 +175,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd72d34cc79fc4d9",
+  "active": "687ad6c1bccbfd36",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
@@ -189,7 +189,6 @@
     "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L07-sequential-logic-design.pdf.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L06-arithmetic-circuits.pdf",
-    "sem2/DDCA/VRL/slides/lectures/DDCA-L04b-verilog-combinational.pdf",
     "var/support/templates/page-break.template.md",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
