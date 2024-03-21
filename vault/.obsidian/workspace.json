@@ -26,19 +26,9 @@
                 "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf"
               }
             }
-          },
-          {
-            "id": "726356cf63d1227b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/AuW/UE/u/s/AuW-u01-s.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -104,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/u/s/AuW-u01-s.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/u/s/AuW-u01-s.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/u/s/AuW-u01-s.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf"
               }
             }
           },
@@ -186,8 +177,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "726356cf63d1227b",
+  "active": "cd72d34cc79fc4d9",
   "lastOpenFiles": [
+    "sem2/AuW/UE/u/s/AuW-u01-s.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L09b-timing.pdf",
@@ -199,7 +191,6 @@
     "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04a-combinational-circuits-theory.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
-    "sem2/DDCA/VRL/slides/labs/DDCA-LAB03.pdf",
     "var/support/templates/page-break.template.md",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
