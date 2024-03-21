@@ -33,7 +33,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf"
+                "file": "sem2/AuW/UE/u/s/AuW-u01-s.pdf"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
+                "file": "sem2/AuW/UE/u/s/AuW-u01-s.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
+                "file": "sem2/AuW/UE/u/s/AuW-u01-s.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf"
+                "file": "sem2/AuW/UE/u/s/AuW-u01-s.pdf"
               }
             }
           },
@@ -188,11 +188,11 @@
   },
   "active": "726356cf63d1227b",
   "lastOpenFiles": [
+    "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L09b-timing.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L09a-open-source.pdf",
     "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
-    "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
