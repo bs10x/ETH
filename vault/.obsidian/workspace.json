@@ -26,9 +26,19 @@
                 "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf"
               }
             }
+          },
+          {
+            "id": "e3b8e9e0b371c4db",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -95,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf"
               }
             }
           },
@@ -177,20 +186,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd72d34cc79fc4d9",
+  "active": "e3b8e9e0b371c4db",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
+    "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/AuW/UE/u/s/AuW-u01-s.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L09b-timing.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L09a-open-source.pdf",
-    "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
     "sem2/AuW/VRL/slides/AuW-L06-augmenting-paths.pdf",
     "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L08-verilog-sequential.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L04a-combinational-circuits-theory.pdf",
-    "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
     "var/support/templates/page-break.template.md",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
