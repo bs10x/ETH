@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf"
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf"
               }
             }
           },
@@ -216,7 +216,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fcd82cb024c8d8f",
+  "active": "de6327b12e516008",
   "lastOpenFiles": [
     "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
