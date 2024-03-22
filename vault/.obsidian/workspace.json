@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
+                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
+                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf"
+                "file": "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf"
               }
             }
           },
@@ -215,11 +216,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "687ad6c1bccbfd36",
+  "active": "6bcf35fc13a0fdeb",
   "lastOpenFiles": [
+    "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
-    "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
