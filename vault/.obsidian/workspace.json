@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf"
+                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf"
               }
             }
           },
@@ -216,10 +215,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de6327b12e516008",
+  "active": "687ad6c1bccbfd36",
   "lastOpenFiles": [
-    "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
+    "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
