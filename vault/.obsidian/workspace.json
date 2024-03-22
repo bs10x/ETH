@@ -43,7 +43,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L10-b-verification.pdf"
+                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L10b-functional-verification.pdf"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L10-b-verification.pdf",
+                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L10b-functional-verification.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L10-b-verification.pdf",
+                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L10b-functional-verification.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L10-b-verification.pdf"
+                "file": "sem2/DDCA/VRL/slides/lectures/DDCA-L10b-functional-verification.pdf"
               }
             }
           },
@@ -196,11 +196,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fcd82cb024c8d8f",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
     "sem2/DDCA/VRL/slides/lectures/DDCA-L10a-number-systems.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L09b-timing.pdf",
-    "sem2/DDCA/VRL/slides/lectures/DDCA-L10-b-verification.pdf",
+    "sem2/DDCA/VRL/slides/lectures/DDCA-L10b-functional-verification.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
