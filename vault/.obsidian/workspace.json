@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "687ad6c1bccbfd36",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf"
-              }
-            }
-          },
-          {
             "id": "cd72d34cc79fc4d9",
             "type": "leaf",
             "state": {
@@ -48,16 +38,6 @@
             }
           },
           {
-            "id": "de6327b12e516008",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf"
-              }
-            }
-          },
-          {
             "id": "5fcd82cb024c8d8f",
             "type": "leaf",
             "state": {
@@ -67,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf"
+                "file": "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf"
               }
             }
           },
@@ -215,16 +196,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "687ad6c1bccbfd36",
+  "active": "5fcd82cb024c8d8f",
   "lastOpenFiles": [
-    "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
+    "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
+    "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
     "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
-    "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
     "sem2/AuW/UE/u/s/AuW-u01-s.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L09b-timing.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L09a-open-source.pdf",
