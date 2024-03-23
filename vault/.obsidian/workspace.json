@@ -43,7 +43,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
+                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf"
               }
             }
           }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
+                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
+                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
+                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf"
               }
             }
           },
@@ -196,13 +196,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4afba9422b72210e",
+  "active": "5f4cf158045f14fe",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/extra/AuW-script.pdf",
+    "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L10b-functional-verification.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
-    "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L10a-number-systems.pdf",
