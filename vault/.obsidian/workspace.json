@@ -46,9 +46,21 @@
                 "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf"
               }
             }
+          },
+          {
+            "id": "323b0ef76f749d57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "less config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf",
+                "file": "less config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf",
+                "file": "less config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf"
+                "file": "less config.md"
               }
             }
           },
@@ -196,8 +209,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4afba9422b72210e",
+  "active": "323b0ef76f749d57",
   "lastOpenFiles": [
+    "less config.md",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
@@ -209,7 +223,6 @@
     "sem2/DDCA/VRL/slides/lectures/DDCA-L10a-number-systems.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L09b-timing.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
-    "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
     "var/support/templates/page-break.template.md",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
