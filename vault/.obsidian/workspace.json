@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1cd288f1eab05ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "less config.md",
+                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "less config.md",
+                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "less config.md"
+                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md"
               }
             }
           },
@@ -209,7 +221,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "323b0ef76f749d57",
+  "active": "d1cd288f1eab05ff",
   "lastOpenFiles": [
     "less config.md",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf",
