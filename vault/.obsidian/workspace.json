@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "file": "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
+                "file": "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/UE/u/bf/AuW-u02-bf.md"
+                "file": "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf"
               }
             }
           },
@@ -231,21 +231,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1cd288f1eab05ff",
+  "active": "c9f40b697b0d1bdf",
   "lastOpenFiles": [
+    "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
+    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB03.pdf",
     "less config.md",
-    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L10b-functional-verification.pdf",
-    "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L10a-number-systems.pdf",
-    "sem2/DDCA/VRL/slides/lectures/DDCA-L09b-timing.pdf",
     "var/support/templates/page-break.template.md",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
