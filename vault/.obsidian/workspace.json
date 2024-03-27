@@ -70,6 +70,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9f40b697b0d1bdf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf"
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -223,18 +233,19 @@
   },
   "active": "d1cd288f1eab05ff",
   "lastOpenFiles": [
+    "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
+    "sem2/DDCA/VRL/slides/labs/DDCA-LAB03.pdf",
     "less config.md",
+    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L10b-functional-verification.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
-    "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L10a-number-systems.pdf",
     "sem2/DDCA/VRL/slides/lectures/DDCA-L09b-timing.pdf",
-    "sem2/DDCA/UE/e/report/DDCA-u02-report.pdf",
     "var/support/templates/page-break.template.md",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
@@ -267,7 +278,6 @@
     "sem1/LinAlg/lib/LinAlg.md",
     "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/VRL/V28_.md",
-    "sem1/LinAlg/VRL/V27_.md",
     "sem1/LinAlg/00-EXAM-PREP/LinAlg-topics-demistified.png",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
