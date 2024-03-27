@@ -28,9 +28,19 @@
                 "file": "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf"
               }
             }
+          },
+          {
+            "id": "32542e6c7dfc0543",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf"
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
               }
             }
           },
@@ -173,21 +183,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c9f40b697b0d1bdf",
+  "active": "32542e6c7dfc0543",
   "lastOpenFiles": [
+    "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
     "less config.md",
     "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
     "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
     "sem2/AuW/VRL/extra/nwehrli/AuW-w05-conditional.pdf",
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
-    "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB03.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
