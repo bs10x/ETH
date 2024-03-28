@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "323b0ef76f749d57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "less config.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9f40b697b0d1bdf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf"
-              }
-            }
-          },
-          {
             "id": "32542e6c7dfc0543",
             "type": "leaf",
             "state": {
@@ -38,31 +16,8 @@
                 "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
               }
             }
-          },
-          {
-            "id": "1b6584fd2610c13c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AuW-u02-pg-bf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d487b0e2ee37d1ec",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "sem2/AuW/UE/pg/e/AuW-u02-pg.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AuW-u02-pg-bf.md",
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AuW-u02-pg-bf.md",
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AuW-u02-pg-bf.md"
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
               }
             }
           },
@@ -208,14 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b6584fd2610c13c",
+  "active": "32542e6c7dfc0543",
   "lastOpenFiles": [
-    "var/export/AuW-u02-pg-bf.pdf",
-    "sem2/AuW/VRL/extra/AuW-script.pdf",
-    "AuW-u02-pg-bf.md",
     "sem2/AuW/UE/pg/e/AuW-u02-pg.pdf",
+    "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
     "less config.md",
+    "sem2/AuW/UE/pg/bf/AuW-u02-pg-bf.md",
+    "var/export/AuW-u02-pg-bf.pdf",
     "sem2/AuW/VRL/slides/AuW-L09-2goats-1car.pdf",
     "sem2/AuW/VRL/slides/AuW-L10-probability-space.pdf",
     "sem2/DDCA/VRL/extra/basys3-SCHEMATICS.pdf",
@@ -223,7 +178,6 @@
     "sem2/AuW/UE/u/bf/AuW-u02-bf.md",
     "sem2/DDCA/UE/e/manual/DDCA-u03-manual.pdf",
     "sem2/DDCA/VRL/slides/labs/DDCA-LAB03.pdf",
-    "sem2/DDCA/UE/e/manual/DDCA-u02-manual.pdf",
     "var/support/templates/page-break.template.md",
     "sem2/AuW/UE/pg/bf/AuW-u01-pg-bf.md",
     "sem1/LinAlg/UE/bf/md/LinAlg_U1_bf.md",
