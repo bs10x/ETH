@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/notes/AuW.md"
+                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
               }
             }
           },
@@ -176,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49f951a84b8b18fa",
+  "active": "32542e6c7dfc0543",
   "lastOpenFiles": [
+    "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
     "sem2/AuW/UE/pg/e/AuW-u02-pg.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
