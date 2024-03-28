@@ -16,8 +16,21 @@
                 "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
               }
             }
+          },
+          {
+            "id": "49f951a84b8b18fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem2/AuW/VRL/notes/AuW.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
+                "file": "sem2/AuW/VRL/notes/AuW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
+                "file": "sem2/AuW/VRL/notes/AuW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
+                "file": "sem2/AuW/VRL/notes/AuW.md"
               }
             }
           },
@@ -163,10 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32542e6c7dfc0543",
+  "active": "49f951a84b8b18fa",
   "lastOpenFiles": [
-    "sem2/AuW/UE/pg/e/AuW-u02-pg.pdf",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
+    "sem2/AuW/UE/pg/e/AuW-u02-pg.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
     "less config.md",
     "sem2/AuW/UE/pg/bf/AuW-u02-pg-bf.md",

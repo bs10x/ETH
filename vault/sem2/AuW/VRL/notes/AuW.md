@@ -106,3 +106,8 @@ jeder k - 1 partite graph ist k-partit
 
 
 k-zsh. ≤ k-edge.zsh. ≤ $\delta(G)$
+
+
+
+
+# Probability
