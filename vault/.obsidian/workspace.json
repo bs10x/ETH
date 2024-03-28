@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf"
               }
             }
           },
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4be59d580df31d93",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf",
+                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem2/AuW/VRL/extra/AuW-script.pdf"
+                "file": "sem2/AuW/VRL/slides/AuW-L07-coloring.pdf"
               }
             }
           },
@@ -177,8 +176,8 @@
   },
   "active": "32542e6c7dfc0543",
   "lastOpenFiles": [
-    "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/VRL/extra/AuW-script.pdf",
+    "sem2/AuW/VRL/notes/AuW.md",
     "sem2/AuW/UE/pg/e/AuW-u02-pg.pdf",
     "sem2/DDCA/UE/e/report/DDCA-u03-report.pdf",
     "less config.md",
@@ -221,7 +220,6 @@
     "sem1/AuD/00-EXAM-PREP/summaries/java-algorithms.md",
     "sem1/LinAlg/lib/LinAlg_lib.md",
     "sem1/LinAlg/lib/LinAlg.md",
-    "sem1/LinAlg/VRL/V29_.md",
     "sem1/LinAlg/00-EXAM-PREP/LinAlg-topics-demistified.png",
     "sem1/AuD/VRL/Untitled.canvas",
     "Untitled.canvas"
