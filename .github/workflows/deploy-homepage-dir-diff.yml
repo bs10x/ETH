@@ -1,11 +1,11 @@
-name: deploy diff in bs10x/eth/www/homepage/ to /nas/bfeitknecht/homepage/ (ETH server)
+name: deploy diff in eth/www/homepage/ to /nas/bfeitknecht/homepage/ (ETH server)
 
 on:
   push:
     branches:
       - master
     paths:
-      - 'www/homepage/**'   # only trigger the workflow if changes are made inside the 'homepage/' directory
+      - 'www/homepage/**'   # only trigger the workflow if changes are made inside the 'www/homepage/' directory
 
 
 jobs:
