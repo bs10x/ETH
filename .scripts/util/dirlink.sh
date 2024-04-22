@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+#
+# small script to link files in a directory in markdown
 
 if [ "$#" -ne 2 ]; then
     echo "Please enter the target directory:"
