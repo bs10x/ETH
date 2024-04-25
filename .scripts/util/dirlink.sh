@@ -46,15 +46,10 @@ case $action in
         cat tmp > $output_file
         ;;
     *)
-        echo "Unkown option, exiting..."
+        echo "Exiting..."
         rm tmp
         exit 0
         ;;
 esac
-
-# if [[ "$action" == [sS] ]] || [[ -z "$action" ]]; then
-#     touch $output_file
-#     cat tmp > $output_file
-# fi
 
 rm tmp
