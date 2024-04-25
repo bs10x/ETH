@@ -40,8 +40,9 @@ case $action in
         cat tmp > $output_file
         ;;
     [mM])
-        echo "Enter new output file name:"
-        read output_file && touch $output_file
+        echo "Enter new output file name:" && read new_name
+        output_file="!$new_name.md"
+        touch $output_file
         cat tmp > $output_file
         ;;
     *)
