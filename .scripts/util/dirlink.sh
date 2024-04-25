@@ -4,7 +4,7 @@
 
 target_directory=$PWD
 
-if [ "$#" -ne 2 ]; then
+if [ "$#" -ne 1 ]; then
     echo "Please enter the target directory:"
     read target_directory
 else
@@ -31,20 +31,21 @@ echo "---" >> tmp
 output_file="!$(basename $PWD).md"
 echo -e "\nResult:" && cat tmp
 echo -e "\nDo you want to \e[4mS\e[0mave the result to the output file ($output_file),
-\e[4mr\e[0mename the output file, or \e[4ma\e[0mbort? [S/r/a]"
+or \e[4mm\e[0modify the output file name? [Y/n/m]"
 
 read -r action
 case $action in
-    [sS] || "")
+    [yY])
         touch $output_file
         cat tmp > $output_file
         ;;
-    [rR])
+    [mM])
         echo "Enter new output file name:"
         read output_file && touch $output_file
         cat tmp > $output_file
         ;;
     *)
+        echo "Unkown option, exiting..."
         rm tmp
         exit 0
         ;;
