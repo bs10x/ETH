@@ -31,11 +31,11 @@ echo "---" >> tmp
 output_file="!$(basename $PWD).md"
 echo -e "\nResult:" && cat tmp
 echo -e "\nDo you want to \e[4mS\e[0mave the result to the output file ($output_file),
-or \e[4mm\e[0modify the output file name? [Y/n/m]"
+\e[4mm\e[0modify the filename or \e[4mq\e[0muit? [S/m/q]"
 
 read -r action
 case $action in
-    [yY])
+    [sS])
         touch $output_file
         cat tmp > $output_file
         ;;
