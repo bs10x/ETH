@@ -35,7 +35,7 @@ echo -e "\nDo you want to \e[4mS\e[0mave the result to the output file ($output_
 
 read -r action
 case $action in
-    [sS])
+    [sS]|'')
         touch $output_file
         cat tmp > $output_file
         ;;
