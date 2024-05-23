@@ -46,3 +46,4 @@ ddca:   first 5 weeks labs easy, then weird. summary: azurio, Franz Schwinn (VIS
 ## website of guy sitting next to me in AuW on 07.03.24
 - revealjs
 - 11ty
+\n
